@@ -2,7 +2,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**能系统共有五种工作模式，分别为：Sigen AI Mode、Fully Fed to Grid Mode、Self-Consumption Mode、Time-based Control Mode、Remote EMS Mode。**</mark>
+* <mark style="color:blue;">**储能系统共有五种工作模式，分别为：Sigen AI Mode、Fully Fed to Grid Mode、Self-Consumption Mode、Time-based Control Mode、Remote EMS Mode。**</mark>
 * <mark style="color:blue;">**部分国家可使用Sigen AI Mode，以App界面显式为准。**</mark>
 
 ### **Sigen AI Mode**

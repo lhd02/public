@@ -2,7 +2,8 @@
 
 * SigenStor适用于单相SigenStor Home储能系统。SigenStor Home储能系统由光伏板【注】、逆变器、电池包、总控制开关、Gateway、负载、电网等组成。
 * SigenStor Home储能系统主要功能是将光伏板产生的直流电存储到电池包中，也可以将光伏与电池包中的电转化成交流电提供给负载使用或并入电网。
-* 注：不可使用连接功能地线的光伏板。
+
+注：不可使用连接功能地线的光伏板。
 
 {% include "../.gitbook/includes/tips.md" %}
 
@@ -43,7 +44,7 @@
 {% include "../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">柴油发电机可作为长期离网场景的备份能源，与Gateway配合可实现光储柴无缝切换的用体验。</mark>
-* <mark style="color:blue;">业主家中的用电设备均可作为智能负载接入。为保证本产品对用户利益最大化，建议大功率设备作为智能负载接入（如热泵、泳池加热器、干衣机、热得快等），当储能电量不足时可切出。其他小功率设备作为家用负载接入（如灯、路由器等）。</mark>\ <mark style="color:blue;">热得快最大功率需≤17.6kW/80A。</mark>
+* <mark style="color:blue;">业主家中的用电设备均可作为智能负载接入。为保证本产品对用户利益最大化，建议大功率设备作为智能负载接入（如热泵、泳池加热器、干衣机、热得快等），当储能电量不足时可切出。其他小功率设备作为家用负载接入（如灯、路由器等）。热得快最大功率需≤17.6kW/80A。</mark>
 * <mark style="color:blue;">功率传感器具备并网点数据采集实现零功率并网功能。仅部分备电时，功率传感器可不配置；部分备电+零功率并网控制时，功率传感器需配置。</mark>
 * <mark style="color:blue;">通信方式推荐采用FE和WLAN。采用4G通信，需您购买Sigen CommMod。CommMod赠送4G流量用完后，需用户自行充值或更换SIM卡。</mark>
 
