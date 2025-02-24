@@ -1,6 +1,6 @@
 # RFID刷卡片绑定
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/rfids.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/rfids.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% include "../.gitbook/includes/tips.md" %}
 

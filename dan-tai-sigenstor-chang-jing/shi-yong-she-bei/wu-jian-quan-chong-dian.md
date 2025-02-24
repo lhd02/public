@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/shouquans.png" alt=""><figcaption></figcaption></figure>
 
-1. 将充电枪安装到位。
+2. 将充电枪安装到位。
 
 {% include "../../.gitbook/includes/tips.md" %}
 
