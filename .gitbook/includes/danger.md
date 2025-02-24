@@ -2,4 +2,4 @@
 title: danger
 ---
 
-<div align="left"><figure><img src="../assets/0 (6).png" alt="" width="101"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../assets/danger.png" alt="" width="101"><figcaption></figcaption></figure></div>
