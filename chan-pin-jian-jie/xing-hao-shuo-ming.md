@@ -1,6 +1,6 @@
 # 型号说明
 
-SigenStor EVDC包含型号为：
+### **SigenStor EVDC包含型号为：**
 
 * SigenStor EVDC 12 5S2
 * SigenStor EVDC 12 7.5S2
@@ -13,7 +13,7 @@ SigenStor EVDC包含型号为：
 * SigenStor EVDC 25 7.5GBT
 * SigenStor EVDC 25 10GBT
 
-图 型号说明（举例）
+### **图 型号说明（举例）**
 
 <figure><img src="../.gitbook/assets/型号说明.png" alt="" width="272"><figcaption></figcaption></figure>
 
