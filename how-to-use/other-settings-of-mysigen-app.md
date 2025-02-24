@@ -1,3 +1,3 @@
 # Other Settings of mySigen App
 
-For more information about the app settings, refer to _mySigen App User Manual_.
+For more information about the app settings, refer to _**mySigen App User Manual**_**.**
