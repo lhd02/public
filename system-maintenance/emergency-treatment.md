@@ -2,8 +2,6 @@
 
 ### **Emergency Measures for Fire**
 
-{% include "../.gitbook/includes/danger.md" %}
-
 * Please shut down the equipment or disconnect the main power switch when it is safe.
 * The high temperature may distort or damage the battery pack, resulting in electrolyte overflow or toxic gas leakage. Do not go near the battery pack and wear protective equipment.
 * If the fire is small, use carbon dioxide or ABC dry powder extinguisher to extinguish the fire.
@@ -13,15 +11,11 @@
 
 ### **Emergency Measures for Flood**
 
-{% include "../.gitbook/includes/danger.md" %}
-
 * Please shut down the equipment or disconnect the main power switch when it is safe.
 * If the battery pack is submerged, do not touch it to avoid the danger of electric shock.
 * After the flood waters recede, do not use the equipment. Please contact your sales agent.
 
 ### **Emergency Measures for Battery Pack Exceptions**
-
-{% include "../.gitbook/includes/danger.md" %}
 
 * When the battery pack has abnormal odor, electrolyte leakage, or heat, do not touch it, and contact professional personnel immediately. Professionals must wear protective equipment such as goggles, rubber gloves, gas masks, and protective clothing to protect themselves.
 * The electrolyte is corrosive and contact may cause skin irritation or chemical burns. In case of accidental contact with electrolyte, take the following measures immediately:

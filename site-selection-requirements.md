@@ -3,7 +3,7 @@
 {% include ".gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">The equipment can be installed indoors and outdoors. Install the equipment in strict accordance with installation instructions given in this section and local laws and regulations.</mark>
-* <mark style="color:blue;">The warranty applies when the equipment has been installed properly for its intended use and in accordance with the operating instructions.</mark>
+* <mark style="color:blue;">Before installing the equipment, please be sure to carefully read the following installation requirements. The company will not be liable for any functional abnormalities or damages arising from the operation of the equipment if the installation requirements are not followed, even in cases leading to personal safety incidents.</mark>
 * <mark style="color:blue;">During actual installation, the selection of installation location should comply with local firefighting, environmental protection regulations, and other relevant laws. The specific installation location planning should be subject to the installer or engineering, procurement, and construction (EPC) contracts.</mark>
 
 ### Installation Environment Requirements
@@ -28,7 +28,7 @@
 
 ### Mounting Surface Requirements
 
-* Do not install the equipment on a flammable carrier.
+* Do not install the equipment on a flammable base. If this cannot be avoided, add a fire barrier between the equipment and the flammable base.
 * The installation carrier must meet load-bearing requirements. Solid brick-concrete structure, concrete walls, and ground are recommended.
 * The surface of the installation carrier must be smooth and the installation area must meet the installation space requirements.
 * No water or electricity is routed inside the carrier to prevent drilling hazards during equipment installation.
