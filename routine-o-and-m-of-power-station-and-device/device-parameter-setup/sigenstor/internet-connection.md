@@ -1,0 +1,7 @@
+# 网络连接
+
+点击“Connectivity”区域，查看设备连接网络的通信方式。
+
+<figure><img src="../../../.gitbook/assets/netconnect.png" alt=""><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="87">序号</th><th width="146">参数名称</th><th>说明</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Ethernet</td><td><ul><li>显示FE连接状态。</li><li>FE网络连接参数默认DHCP自动获取。若您需要更改，请按以下步骤操作：</li></ul><ol><li>配置一个可以正常上网的WLAN，或插入Sigen CommMod。</li><li>待“WLAN”或“Cellular”显示已连接后，拔出设备用于连接网络的网线。</li><li>将“Obtain IP address automatically”设置为 <img src="../../../.gitbook/assets/1 (4).png" alt="" data-size="line"> ，修改参数。</li><li>重新将用于连接网络的网线插入设备。</li></ol></td></tr><tr><td><strong>2</strong></td><td>WLAN</td><td><p>显示WLAN连接状态。若此处显示未连接，但您想采用WLAN连接网络，请按以下说明操作：</p><ul><li>并机场景中，请在“System Settings” 中确认WLAN连接状态，若显示已连接，说明设备已采用WLAN通信，无需操作；若显示未连接，请按照 <a href="../../station-parameter-setup/parameters-on-the-system-settings-screen/internet-connection.md">网络连接</a>中描述进行配置WLAN。</li><li>非并机场景中，请按照 <a href="../../station-parameter-setup/parameters-on-the-system-settings-screen/internet-connection.md">网络连接</a>中描述进行配置WLAN。</li></ul></td></tr><tr><td><strong>3</strong></td><td>Cellular</td><td><p>显示4G连接状态。若此处显示未连接，但您想采用4G连接网络，请按以下说明操作:</p><ul><li>并机场景中，请在“System Settings” 中确认4G连接状态，若显示已连接，说明设备已采用4G通信，无需操作；若显示未连接，请确保Sigen CommMod已插入。</li><li>非并机场景中，请确保Sigen CommMod已插入。</li><li>当采用4G通信时，可查看当前每月使用的流量，同时可设置每月使用流量阈值。</li></ul></td></tr></tbody></table>
