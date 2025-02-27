@@ -1,6 +1,6 @@
 # Port Introduction
 
-### **SigenStor EC**
+### **SigenStor EC (5.0, 6.0)** SP
 
 <figure><img src="../../.gitbook/assets/ec_a.png" alt="" width="348"><figcaption></figcaption></figure>
 
@@ -16,6 +16,23 @@
 |  **8** | Sigen CommMod interface                | 4G                   |
 |  **9** | DC input interface                     | PV1+/PV2+/ PV1-/PV2- |
 | **10** | Switch button                          | ON/OFF               |
+
+### **SigenStor EC (5.0**–**30.0)** TP AU
+
+<figure><img src="../../.gitbook/assets/SHA1OV00003-C21澳洲.png" alt="" width="375"><figcaption></figcaption></figure>
+
+| S/N | Name                                   | Marking                                    |
+| --- | -------------------------------------- | ------------------------------------------ |
+| 1   | Decorative cover strip light connector | LED                                        |
+| 2   | Network interface                      | RJ45 1/ RJ45 2                             |
+| 3   | DC input interface                     | PV1+/PV2+/ PV3+/PV4+/ PV1-/PV2- /PV3-/PV4- |
+| 4   | AC output interface                    | AC                                         |
+| 5   | Communication interface                | COM                                        |
+| 6   | Ground screw                           | -                                          |
+| 7   | Switch button                          | ON/OFF                                     |
+| 8   | DC switch                              | DC SWITCH                                  |
+| 9   | Sigen CommMod interface                | 4G                                         |
+| 10  | Antenna interface                      | ANT                                        |
 
 ### **Modular Floating Stacked Connector**
 
