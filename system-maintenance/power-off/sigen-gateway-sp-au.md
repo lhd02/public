@@ -1,6 +1,6 @@
 # Sigen Gateway SP AU
 
-<figure><img src="../../.gitbook/assets/hspau-ao.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1IN00100-下电.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

@@ -8,7 +8,7 @@
 ### 操作步骤
 
 1. 确认电网侧有电。
-2. 参见设备下电 完成下电操作
+2. 参见[设备下电](power-off/) 完成下电操作
 3. 参考设备上的延时标签，等待对应的时间，取下旁路开关上的卡簧后，闭合旁路开关。
 
 <figure><img src="../.gitbook/assets/retaining-ring.png" alt="" width="217"><figcaption></figcaption></figure>

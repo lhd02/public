@@ -1,6 +1,6 @@
 # Sigen Gateway Home SP 12K
 
-<figure><img src="../../.gitbook/assets/hsp12k-ao.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1IN00077-下电.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

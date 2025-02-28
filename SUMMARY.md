@@ -21,7 +21,7 @@
   * [典型组网介绍](product-introduction/introduction-to-system-wiring.md)
 * [选址要求](site-selection-requirements.md)
 * [设备安装与接线](equipment-installation-and-wiring.md)
-* [思格云App查询](mysigen-app-query.md)
+* [思格云App查询与设置](mysigen-app-query.md)
 * [系统维护](system-maintenance/README.md)
   * [设备下电](system-maintenance/power-off/README.md)
     * [Sigen Gateway HomeMax SP](system-maintenance/power-off/sigen-gateway-homemax-sp.md)
