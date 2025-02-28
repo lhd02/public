@@ -21,7 +21,7 @@
   * [Introduction to system wiring](product-introduction/introduction-to-system-wiring.md)
 * [Site Selection Requirements](site-selection-requirements.md)
 * [Equipment Installation and Wiring](equipment-installation-and-wiring.md)
-* [mySigen App Query](mysigen-app-query.md)
+* [mySigen App Query and Setting](mysigen-app-query.md)
 * [System Maintenance](system-maintenance/README.md)
   * [Power Off](system-maintenance/power-off/README.md)
     * [Sigen Gateway HomeMax SP](system-maintenance/power-off/sigen-gateway-homemax-sp.md)

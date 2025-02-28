@@ -2,7 +2,6 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**The warranty applies when the equipment has been installed properly for its intended use and in accordance with the operating instructions.**</mark>
 * <mark style="color:blue;">**Before installing the equipment, please be sure to carefully read the following installation requirements. The company will not be liable for any functional abnormalities or damages arising from the operation of the equipment if the installation requirements are not followed, even in cases leading to personal safety incidents.**</mark>
 * <mark style="color:blue;">**During actual installation, the selection of the installation location should comply with local regulations, firefighting regulations, and other relevant laws. The specific installation location planning should be subject to the installer or engineering, procurement, and construction (EPC) contracts.**</mark>
 

@@ -6,9 +6,9 @@
 {% include "../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">Under backup power networking, the duration of off-grid operation of the backup power load is related to the power supply capacity of the PV storage system. If there is an abnormality in the power supply of the PV storage system during off-grid operation (including but not limited to abnormal PV power generation, insufficient battery power, and abnormal power supplies to the Generator), the backup power load will still be unable to operate.</mark>
-* <mark style="color:blue;">The networking diagram takes two inverters as an example. The number of inverters that can be connected depends on the Gateway specification. For more information, see Table 2-1.</mark>
+* <mark style="color:blue;">The networking diagram takes two inverters as an example. The number of inverters that can be connected depends on the Gateway specification. For more information, see Table 1.</mark>
 
-**Table 2-1**
+**Table 1**
 
 <table><thead><tr><th width="75">S/N</th><th>Model</th><th>Number of Inverters that can be connected</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Sigen Gateway HomeMax SP</td><td>3 units</td></tr><tr><td><strong>2</strong></td><td>Gateway Home SP</td><td>1 unit</td></tr><tr><td><strong>3</strong></td><td>Gateway Home SP 12K</td><td>2 units</td></tr><tr><td><strong>4</strong></td><td>Sigen Gateway SP AU</td><td>2 units</td></tr><tr><td><strong>5</strong></td><td>Sigen Gateway HomeMax TP</td><td>2 units</td></tr><tr><td><strong>6</strong></td><td>Sigen Gateway Home TP</td><td>1 unit</td></tr><tr><td><strong>7</strong></td><td>Sigen Gateway TP AU</td><td>2 units</td></tr><tr><td><strong>8</strong></td><td>Sigen Gateway HomeMax TP CN</td><td>2 units</td></tr><tr><td><strong>9</strong></td><td>Sigen Gateway Home TP 30K</td><td>1 unit</td></tr><tr><td><strong>10</strong></td><td>Sigen Gateway Home TP 30K CN</td><td>1 unit</td></tr></tbody></table>
 
@@ -30,13 +30,7 @@
 
 ![](../.gitbook/assets/4.png)
 
-| No.   | Description            | No.   | Description                             | No.   | Description            |
-| ----- | ---------------------- | ----- | --------------------------------------- | ----- | ---------------------- |
-| **A** | PV panel               | **B** | SigenStor EC/SigenStor AC /Sigen Hybrid | **C** | SigenStor BAT          |
-| **D** | Gateway                | **E** | Backup Distribution panel               | **F** | Backup Household loads |
-| **G** | Backup Household loads | **H** | Smart loads                             | **I** | Power grid             |
-| **J** | mySigen                | **K** | Router                                  | **L** | Antenna                |
-| **M** | CommMod                |       |                                         |       |                        |
+<table><thead><tr><th width="81">No.</th><th>Description</th><th width="78">No.</th><th>Description</th><th>No.</th><th>Description</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>PV panel</td><td><strong>B</strong></td><td>SigenStor EC/SigenStor AC /Sigen Hybrid</td><td><strong>C</strong></td><td>SigenStor BAT</td></tr><tr><td><strong>D</strong></td><td>Gateway</td><td><strong>E</strong></td><td>Backup Distribution panel</td><td><strong>F</strong></td><td>Backup Household loads</td></tr><tr><td><strong>G</strong></td><td>Backup Household loads</td><td><strong>H</strong></td><td>Smart loads</td><td><strong>I</strong></td><td>Power grid</td></tr><tr><td><strong>J</strong></td><td>mySigen</td><td><strong>K</strong></td><td>Router</td><td><strong>L</strong></td><td>Antenna</td></tr><tr><td><strong>M</strong></td><td>CommMod</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 {% include "../.gitbook/includes/tips.md" %}
 
