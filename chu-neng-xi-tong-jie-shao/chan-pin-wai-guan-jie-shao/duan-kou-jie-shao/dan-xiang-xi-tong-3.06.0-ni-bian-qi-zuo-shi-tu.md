@@ -1,0 +1,5 @@
+# Vista izquierda del inversor del sistema monofásico (3.0 - 6.0)
+
+![](../../../.gitbook/assets/SSA1OV00002.jpg)
+
+<table><thead><tr><th width="78" align="center">N.º</th><th>Denominación</th><th>Marcado</th></tr></thead><tbody><tr><td align="center">1</td><td>Interruptor de CC</td><td>DC SWITCH</td></tr><tr><td align="center">2</td><td>Interfaz de la banda luminosa de la cubierta decorativa</td><td>LED</td></tr><tr><td align="center">3</td><td>Interfaz de antena</td><td>ANT</td></tr><tr><td align="center">4</td><td>Interfaz de cable de red</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">5</td><td>Interfaz de salida de CA</td><td>CA</td></tr><tr><td align="center">6</td><td>Tornillo de puesta a tierra</td><td>-</td></tr><tr><td align="center">7</td><td>Interfaz de comunicación RS-485</td><td>COM</td></tr><tr><td align="center">8</td><td>Interfaz CommMod</td><td>4G</td></tr><tr><td align="center">9</td><td>Interfaz de entrada de CC</td><td>PV1+/PV2+/ PV1-/PV2-</td></tr><tr><td align="center">10</td><td>Botón de encendido</td><td>ON/OFF</td></tr></tbody></table>

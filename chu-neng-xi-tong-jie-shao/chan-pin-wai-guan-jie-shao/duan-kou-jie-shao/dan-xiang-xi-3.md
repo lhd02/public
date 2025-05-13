@@ -1,0 +1,7 @@
+# Vista izquierda del inversor del sistema monofásico (8.0 - 12.0)
+
+<figure><img src="https://github.com/lhd02/edit/blob/store-es/.gitbook/assets/SHA1OV00003-???.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/SHA1OV00003-C23 大单相.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="85" align="center">N.º</th><th>Denominación</th><th>Marcado</th></tr></thead><tbody><tr><td align="center">1</td><td>Interfaz de la banda luminosa de la cubierta decorativa</td><td>LED</td></tr><tr><td align="center">2</td><td>Interfaz de cable de red</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">3</td><td>Interfaz de entrada de CC</td><td>PV1+/PV2+/PV3+/PV4+/ PV1-/PV2-/PV3-/PV4-</td></tr><tr><td align="center">4</td><td>Interfaz de salida de CA</td><td>CA</td></tr><tr><td align="center">5</td><td>Interfaz de comunicación</td><td>COM</td></tr><tr><td align="center">6</td><td>Tornillo de puesta a tierra</td><td>-</td></tr><tr><td align="center">7</td><td>Botón de encendido</td><td>ON/OFF</td></tr><tr><td align="center">8</td><td>Interruptor de CC</td><td>DC SWITCH</td></tr><tr><td align="center">9</td><td>Interfaz Sigen CommMod</td><td>4G</td></tr><tr><td align="center">10</td><td>Interfaz Sigen CommMod</td><td>ANT</td></tr></tbody></table>
