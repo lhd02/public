@@ -1,6 +1,6 @@
 # Split-Phase-System, Ansicht des Wechselrichters von links
 
-<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SSA1OV00022-C26??.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SSA1OV00022-C26" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/SSA1OV00022-C26分相.png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -1,6 +1,6 @@
 # Einphasiges System (8.0-12.0), Ansicht des Wechselrichters von links
 
-<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SHA1OV00003-???.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SHA1OV00003-" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/SHA1OV00003-C23 大单相.png" alt="" width="563"><figcaption></figcaption></figure>
 

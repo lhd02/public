@@ -1,8 +1,6 @@
 # Drei-Phasen-Niederspannungssystem, Ansicht des Wechselrichters von links
 
-
-
-<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SHA1OV00003-????.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SHA1OV00003-" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/SHA1OV00003-低压三相.jpg" alt="" width="563"><figcaption></figcaption></figure>
 

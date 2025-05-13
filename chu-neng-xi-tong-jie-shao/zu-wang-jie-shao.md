@@ -26,7 +26,7 @@
 
 ### **Verdrahtungsplan für die partielle Notstromversorgung**
 
-<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SSA1OV00027-EN???+CT?.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SSA1OV00027-EN" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/SSA1OV00030-de.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@
 
 ### **Verdrahtungsplan für das System ohne Notstrom**
 
-<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SSA1OV00028-en???+CT?.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://github.com/lhd02/edit/blob/store-de/.gitbook/assets/SSA1OV00028-en" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/SSA1OV00031-DE.jpg" alt=""><figcaption></figcaption></figure>
 
