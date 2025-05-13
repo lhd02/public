@@ -9,15 +9,9 @@
 
 ### **组网图（全屋备电）**
 
-<figure><img src=".gitbook/assets/zuwang-a.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1OV00029-zh.jpg" alt=""><figcaption></figcaption></figure>
 
-| 序号    | 说明      | 序号    | 说明      | 序号    | 说明     |
-| ----- | ------- | ----- | ------- | ----- | ------ |
-| **A** | 光伏板     | **B** | 思格能源控制器 | **C** | 思格储能电池 |
-| **D** | 思格能源备电柜 | **E** | 备电配电单元  | **F** | 备电家用负载 |
-| **G** | 柴油发电机   | **H** | 智能负载    | **I** | 电网     |
-| **J** | 思格云     | **K** | 路由器     | **L** | 天线棒    |
-| **M** | 思格通信棒   |       |         |       |        |
+<table><thead><tr><th width="74">序号</th><th width="151.9090576171875">说明</th><th width="72.5455322265625">序号</th><th width="154.1817626953125">说明</th><th width="56.1817626953125">序号</th><th>说明</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>光伏板</td><td><strong>B</strong></td><td>思格能源控制器</td><td><strong>C</strong></td><td>思格储能电池</td></tr><tr><td><strong>D</strong></td><td>思格能源备电柜</td><td><strong>E</strong></td><td>备电配电单元</td><td><strong>F</strong></td><td>备电家用负载</td></tr><tr><td><strong>G</strong></td><td>柴油发电机</td><td><strong>H</strong></td><td>智能负载</td><td><strong>I</strong></td><td>电网</td></tr><tr><td><strong>J</strong></td><td>思格云</td><td><strong>K</strong></td><td>路由器</td><td><strong>L</strong></td><td>天线棒</td></tr><tr><td><strong>M</strong></td><td>思格通信棒</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 {% include ".gitbook/includes/tips.md" %}
 
@@ -27,16 +21,9 @@
 
 ### **组网图（部分备电）**
 
-<figure><img src=".gitbook/assets/zuwang-b.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1OV00030-zh.jpg" alt=""><figcaption></figcaption></figure>
 
-| 序号     | 说明      | 序号     | 说明      | 序号     | 说明      |
-| ------ | ------- | ------ | ------- | ------ | ------- |
-| **A**  | 光伏板     | **B**  | 思格能源控制器 | **C**  | 思格储能电池  |
-| **D**  | 思格能源备电柜 | **E1** | 备电配电单元  | **E2** | 非备电配电单元 |
-| **F1** | 备电家用负载  | **F2** | 非备电家用负载 | **G**  | 柴油发电机   |
-| **H**  | 智能负载    | **I**  | 功率传感器   | **J**  | 电网      |
-| **K**  | 思格云     | **L**  | 路由器     | **M**  | 天线棒     |
-| **N**  | 思格通信棒   |        |         |        |         |
+<table><thead><tr><th width="68.6363525390625">序号</th><th>说明</th><th width="70.727294921875">序号</th><th>说明</th><th width="93.8182373046875">序号</th><th>说明</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>光伏板</td><td><strong>B</strong></td><td>思格能源控制器</td><td><strong>C</strong></td><td>思格储能电池</td></tr><tr><td><strong>D</strong></td><td>思格能源备电柜</td><td><strong>E1</strong></td><td>备电配电单元</td><td><strong>E2</strong></td><td>非备电配电单元</td></tr><tr><td><strong>F1</strong></td><td>备电家用负载</td><td><strong>F2</strong></td><td>非备电家用负载</td><td><strong>G</strong></td><td>柴油发电机</td></tr><tr><td><strong>H</strong></td><td>智能负载</td><td><strong>I</strong></td><td>功率传感器</td><td><strong>J</strong></td><td>电网</td></tr><tr><td><strong>K</strong></td><td>思格云</td><td><strong>L</strong></td><td>路由器</td><td><strong>M</strong></td><td>天线棒</td></tr><tr><td><strong>N</strong></td><td>思格通信棒</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 {% include ".gitbook/includes/tips.md" %}
 
@@ -47,14 +34,9 @@
 
 ### **组网图（非备电组网）**
 
-<figure><img src=".gitbook/assets/zuwang-c.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1OV00031-ZH.jpg" alt=""><figcaption></figcaption></figure>
 
-| 序号    | 说明    | 序号    | 说明      | 序号    | 说明     |
-| ----- | ----- | ----- | ------- | ----- | ------ |
-| **A** | 光伏板   | **B** | 思格能源控制器 | **C** | 思格储能电池 |
-| **D** | 交流开关  | **E** | 配电单元    | **F** | 家用负载   |
-| **G** | 功率传感器 | **H** | 电网      | **I** | 思格云    |
-| **J** | 路由器   | **K** | 天线棒     | **L** | 思格通信棒  |
+<table><thead><tr><th width="73.45458984375">序号</th><th width="150.181884765625">说明</th><th width="62.181884765625">序号</th><th>说明</th><th width="86.45458984375">序号</th><th>说明</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>光伏板</td><td><strong>B</strong></td><td>思格能源控制器</td><td><strong>C</strong></td><td>思格储能电池</td></tr><tr><td><strong>D</strong></td><td>交流开关</td><td><strong>E</strong></td><td>配电单元</td><td><strong>F</strong></td><td>家用负载</td></tr><tr><td><strong>G</strong></td><td>功率传感器</td><td><strong>H</strong></td><td>电网</td><td><strong>I</strong></td><td>思格云</td></tr><tr><td><strong>J</strong></td><td>路由器</td><td><strong>K</strong></td><td>天线棒</td><td><strong>L</strong></td><td>思格通信棒</td></tr></tbody></table>
 
 {% include ".gitbook/includes/tips.md" %}
 
