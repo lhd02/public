@@ -1,0 +1,5 @@
+# Leistungssensor
+
+Ausgestattet mit einer Netzanschlusspunktdatenerfassung zur Erreichung der Nullstrom-Netzanschlussfunktionalität.
+
+<table><thead><tr><th width="184">Produktname</th><th width="272">Modell</th><th>Bezeichnung</th></tr></thead><tbody><tr><td>Power Sensor</td><td><p>Sigen Sensor SP-DH</p><p>(SDM230Modbus)</p></td><td>Sigen Power Sensor Single Phase DH</td></tr><tr><td>Power Sensor</td><td><p>Sigen Sensor SP-CT120-DH</p><p>(SDM120CT 40mA)</p></td><td>Sigen Power Sensor Single Phase External CT 120 A DH</td></tr><tr><td>Power Sensor</td><td><p>Sigen Sensor TP-DH</p><p>(SDM630MODBUS V2)</p></td><td>Sigen Power Sensor Three Phase DH</td></tr><tr><td>Power Sensor</td><td><p>Sigen Sensor TP-CT120-DH</p><p>(SDM630MCT 40mA/120A)</p></td><td>Sigen Power Sensor Three Phase External CT 120 A DH</td></tr><tr><td>Power Sensor</td><td><p>Sigen Sensor TP-CT300-DH</p><p>(SDM630MCT 40mA/300A)</p></td><td>Sigen Power Sensor Three Phase External CT 300 A DH</td></tr><tr><td>Power Sensor</td><td><p>Sigen Sensor TP-CT600-DH</p><p>(SDM630MCT V2/600A)</p></td><td>Sigen Power Sensor Three Phase External CT 600 A DH</td></tr></tbody></table>
