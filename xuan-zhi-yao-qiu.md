@@ -12,6 +12,8 @@
 * Do not install the equipment in an environment with strong electromagnetic interference.
 * The temperature and humidity of the installation environment should meet equipment requirements.
 * The equipment should be installed in an area that is at least 500 m away from corrosion sources that may result in salt damage or acid damage. Corrosion sources include but are not limited to seaside, thermal power plants, chemical plants, smelters, coal plants, rubber plants, and electroplating plants.
+* In areas with good marine environments (such as Norway, where the nearshore salinity is ≤ 28 psu), the mounting distance of the device from the coastline can be appropriately relaxed to ≥ 200 m.
+* If the outer surface of the device is damaged, please repaint the device in time.
 
 ### **Installation Position Requirements**
 
@@ -31,6 +33,7 @@
 * The installation base should meet the load-bearing requirement. Solid brick-concrete structures, concrete walls, and floors are recommended.
 * The installation base should be flat, and the installation area should meet the installation space requirements.
 * No plumbing or electrical alignments are allowed inside the installation base to avoid potential drilling hazards during equipment installation.
+* The equipment base is made of aluminum. If the equipment is installed on a metallic substrate that is prone to electrochemical corrosion (such as high-chromium stainless steel, austenitic stainless steel, and nickel-plated steel), insulating gaskets must be fully installed between the equipment and the substrate. (Non-metallic insulating gaskets such as PC, PTFE, or PVDF can be used)
 
 <figure><img src=".gitbook/assets/SSA1SF00010-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
