@@ -1,6 +1,6 @@
 # Sigen Gateway HomeMax SP
 
-<figure><img src="../../.gitbook/assets/hmsp-ao.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hmsp-ao.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

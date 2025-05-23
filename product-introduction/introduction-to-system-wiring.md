@@ -63,19 +63,10 @@
 
 ![](../.gitbook/assets/9.png)
 
-| No.    | Description            | No.    | Description                | No.    | Description                   |
-| ------ | ---------------------- | ------ | -------------------------- | ------ | ----------------------------- |
-| **A**  | PV panel               | **B**  | SigenStor EC/Sigen Hybrid  | **C**  | SigenStor BAT                 |
-| **D**  | Gateway                | **E1** | Backup Distribution panel  | **E2** | Non-Backup Distribution panel |
-| **F1** | Backup Household loads | **F2** | Non-Backup Household loads | **G**  | Diesel Generator              |
-| **H**  | Smart loads            | **I**  | Power sensor               | **J**  | Power grid                    |
-| **K**  | mySigen                | **L**  | Router                     | **M**  | Antenna                       |
-| **N**  | CommMod                |        |                            |        |                               |
+<table><thead><tr><th width="50.5">No.</th><th>Description</th><th width="50.5">No.</th><th>Description</th><th width="51">No.</th><th>Description</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>PV panel</td><td><strong>B</strong></td><td>SigenStor EC/Sigen Hybrid</td><td><strong>C</strong></td><td>SigenStor BAT</td></tr><tr><td><strong>D</strong></td><td>Gateway</td><td><strong>E1</strong></td><td>Backup Distribution panel</td><td><strong>E2</strong></td><td>Non-Backup Distribution panel</td></tr><tr><td><strong>F1</strong></td><td>Backup Household loads</td><td><strong>F2</strong></td><td>Non-Backup Household loads</td><td><strong>G</strong></td><td>Diesel Generator</td></tr><tr><td><strong>H</strong></td><td>Smart loads</td><td><strong>I</strong></td><td>Power sensor</td><td><strong>J</strong></td><td>Power grid</td></tr><tr><td><strong>K</strong></td><td>mySigen</td><td><strong>L</strong></td><td>Router</td><td><strong>M</strong></td><td>Antenna</td></tr><tr><td><strong>N</strong></td><td>CommMod</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">When B is SigenStor AC, A is not configured.</mark>
-* <mark style="color:blue;">When B is Sigen Hybrid, C is optional.</mark>
 * <mark style="color:blue;">If E2 (non-backup distribution panel) features leakage protection, it is recommended that the rated residual operating current be greater than or equal to the number of inverters × 100 mA.</mark>
 * <mark style="color:blue;">If F1 (backup household load) experiences leakage, it may pose a risk of electric shock. In order to avoid this hazard, a residual current device (RCD) must be installed between the D (Gateway) and the F1 (backup household load).</mark>
 * <mark style="color:blue;">As a backup energy source for long-term off-grid applications, the diesel generator can work in tandem with the Gateway to provide a smooth transition between PV, storage and diesel power generation.</mark>
