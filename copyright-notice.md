@@ -1,6 +1,6 @@
 # Copyright Notice
 
-**Copyright© 2025 Sigenergy Technology Co., Ltd. All Rights Reserved.**
+Copyright© 2025 Sigenergy Technology Co., Ltd. All Rights Reserved.
 
 Description in this document may contain predictive statements regarding financial and operating results, product portfolio, new technology, configurations and features of product. Several factors could cause difference between actual results and those expressed or implied in the predictive statements. Therefore, description in this document is provided for reference purpose only and constitutes neither an offer nor an acceptance. Sigenergy Technology Co., Ltd. may change the information at any time without notice.
 
@@ -8,6 +8,6 @@ Description in this document may contain predictive statements regarding financi
 
 All trademarks and registered trademarks in this document belong to their owners.
 
-<div align="left"><img src=".gitbook/assets/2 (1).png" alt="" width="340"></div>
+![](<.gitbook/assets/2 (1).png>)
 
-## **www.sigenergy.com**
+## [**www.sigenergy.com**](https://www.sigenergy.com)

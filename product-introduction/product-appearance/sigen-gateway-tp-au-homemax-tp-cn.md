@@ -2,19 +2,41 @@
 
 ### **Dimensions**
 
-<figure><img src="../../.gitbook/assets/SGA1OV00001-en.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/htpcn1-a.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Bottom View
 
-<figure><img src="../../.gitbook/assets/SGA1OV00009-端口介绍.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/htpcn1-b.png" alt="" width="316"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="85">S/N</th><th width="164">Marking</th><th>Description</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>INV1</td><td>Wire-in port of inverter 1</td></tr><tr><td><strong>2</strong></td><td>INV2</td><td>Wire-in port of inverter 2</td></tr><tr><td><strong>3</strong></td><td>BACKUP</td><td>Wire-in port of backup Household loads</td></tr><tr><td><strong>4</strong></td><td>SMART-PORT</td><td>Wire-in port for smart loads /Generator</td></tr><tr><td><strong>5</strong></td><td>GRID</td><td>Wire-in port of power grid</td></tr><tr><td><strong>6</strong></td><td>COM</td><td>Wire-in port of communication</td></tr></tbody></table>
+| S/N   | Marking    | Description                             |
+| ----- | ---------- | --------------------------------------- |
+| **1** | INV1       | Wire-in port of inverter 1              |
+| **2** | INV2       | Wire-in port of inverter 2              |
+| **3** | BACKUP     | Wire-in port of backup Household loads  |
+| **4** | SMART-PORT | Wire-in port for smart loads /Generator |
+| **5** | GRID       | Wire-in port of power grid              |
+| **6** | COM        | Wire-in port of communication           |
 
 ### Interior View
 
-<figure><img src="../../.gitbook/assets/SGA1OV00022.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/htpcn1-c.png" alt="" width="268"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="82">S/N</th><th width="103">Label</th><th>Description</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>-</td><td>Grounding copper busbar</td></tr><tr><td><strong>2</strong></td><td>-</td><td>N-line copper busbar</td></tr><tr><td><strong>3</strong></td><td>QF7</td><td>Surge protective device switch</td></tr><tr><td><strong>4</strong></td><td>KM2</td><td>Generator contactor</td></tr><tr><td><strong>5</strong></td><td>KM1</td><td>Grid contactor</td></tr><tr><td><strong>6</strong></td><td>SPD</td><td>Surge protective device</td></tr><tr><td><strong>7</strong></td><td>-</td><td>Communication terminal (connecting to FE or DI communication cable)</td></tr><tr><td><strong>8</strong></td><td>QS1</td><td>Bypass switch</td></tr><tr><td><strong>9</strong></td><td>QF2</td><td>Miniature circuit breaker (connecting to a smart load[1]/Generator)</td></tr><tr><td><strong>10</strong></td><td>QF3</td><td>Miniature circuit breaker (connecting to a three-phase inverter in a power range of 17.0 kW to 30.0kW)</td></tr><tr><td><strong>11</strong></td><td>QF4</td><td>Miniature circuit breaker (connecting to a three-phase inverter in a power range of 17.0 kW to 30.0kW)</td></tr><tr><td><strong>12</strong></td><td>QF5</td><td>Miniature circuit breaker (connecting to a three-phase inverter in a power range of 5.0kW to 15.0kW)</td></tr><tr><td><strong>13</strong></td><td>QF1</td><td>Miniature circuit breaker (connecting to the power grid)</td></tr><tr><td><strong>14</strong></td><td>QF6</td><td>Miniature circuit breaker (connecting to a household load)</td></tr></tbody></table>
+| S/N    | Label | Description                                                                                            |
+| ------ | ----- | ------------------------------------------------------------------------------------------------------ |
+| **1**  | -     | Grounding copper busbar                                                                                |
+| **2**  | -     | N-line copper busbar                                                                                   |
+| **3**  | QF7   | Surge protective device switch                                                                         |
+| **4**  | KM2   | Generator contactor                                                                                    |
+| **5**  | KM1   | Grid contactor                                                                                         |
+| **6**  | SPD   | Surge protective device                                                                                |
+| **7**  | -     | Communication terminal (connecting to FE or DI communication cable)                                    |
+| **8**  | QS1   | Bypass switch                                                                                          |
+| **9**  | QF2   | Miniature circuit breaker (connecting to a smart load\[1]/Generator)                                   |
+| **10** | QF3   | Miniature circuit breaker (connecting to a three-phase inverter in a power range of 17.0 kW to 30.0kW) |
+| **11** | QF4   | Miniature circuit breaker (connecting to a three-phase inverter in a power range of 17.0 kW to 30.0kW) |
+| **12** | QF5   | Miniature circuit breaker (connecting to a three-phase inverter in a power range of 5.0kW to 15.0kW)   |
+| **13** | QF1   | Miniature circuit breaker (connecting to the power grid)                                               |
+| **14** | QF6   | Miniature circuit breaker (connecting to a household load)                                             |
 
 Note \[1]:
 
