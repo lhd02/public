@@ -10,7 +10,7 @@
 
 **Table 2-1**
 
-<table><thead><tr><th width="51.25" align="center">S/N</th><th>Model</th><th valign="top">Number of Inverters that can be connected</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>Sigen Gateway HomeMax SP</td><td valign="top">3 units</td></tr><tr><td align="center"><strong>2</strong></td><td>Gateway Home SP</td><td valign="top">1 unit</td></tr><tr><td align="center"><strong>3</strong></td><td>Gateway Home SP 12K</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>4</strong></td><td>Sigen Gateway SP AU</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>5</strong></td><td>Sigen Gateway HomeMax TP</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>6</strong></td><td>Sigen Gateway Home TP</td><td valign="top">1 unit</td></tr><tr><td align="center"><strong>7</strong></td><td>Sigen Gateway TP AU</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>8</strong></td><td>Sigen Gateway HomeMax TP CN</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>9</strong></td><td>Sigen Gateway Home TP 30K</td><td valign="top">1 unit</td></tr><tr><td align="center"><strong>10</strong></td><td>Sigen Gateway Home TP 30K CN</td><td valign="top">1 unit</td></tr></tbody></table>
+<table><thead><tr><th width="51.25" align="center">S/N</th><th>Model</th><th valign="top">Number of Inverters that can be connected</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>Sigen Gateway HomeMax SP</td><td valign="top">3 units</td></tr><tr><td align="center"><strong>2</strong></td><td>Gateway Home SP</td><td valign="top">1 unit</td></tr><tr><td align="center"><strong>3</strong></td><td>Gateway Home SP 12K</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>4</strong></td><td>Sigen Gateway SP AU</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>5</strong></td><td>Sigen Gateway HomeMax SP LA</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>6</strong></td><td>Sigen Gateway HomeMax TP</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>7</strong></td><td>Sigen Gateway Home TP</td><td valign="top">1 unit</td></tr><tr><td align="center"><strong>8</strong></td><td>Sigen Gateway TP AU</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>9</strong></td><td>Sigen Gateway HomeMax TP CN</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>10</strong></td><td>Sigen Gateway Home TP 30K</td><td valign="top">1 unit</td></tr><tr><td align="center"><strong>11</strong></td><td>Sigen Gateway Home TP 30K CN</td><td valign="top">1 unit</td></tr><tr><td align="center"><strong>12</strong></td><td>Sigen Gateway HomePro TP</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>13</strong></td><td>Sigen Gateway HomePro TP-L</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>14</strong></td><td>Sigen Gateway Home SP AU</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>15</strong></td><td>Sigen Gateway Home TP AU</td><td valign="top">2 units</td></tr><tr><td align="center"><strong>16</strong></td><td>Sigen Gateway HomePro SP</td><td valign="top">1 unit</td></tr></tbody></table>
 
 ### **Whole home backup system wiring diagram**
 
@@ -30,18 +30,16 @@
 
 ![](../.gitbook/assets/4.png)
 
-| No.   | Description            | No.   | Description                             | No.   | Description            |
-| ----- | ---------------------- | ----- | --------------------------------------- | ----- | ---------------------- |
-| **A** | PV panel               | **B** | SigenStor EC/SigenStor AC /Sigen Hybrid | **C** | SigenStor BAT          |
-| **D** | Gateway                | **E** | Backup Distribution panel               | **F** | Backup Household loads |
-| **G** | Backup Household loads | **H** | Smart loads                             | **I** | Power grid             |
-| **J** | mySigen                | **K** | Router                                  | **L** | Antenna                |
-| **M** | CommMod                |       |                                         |       |                        |
+| No.   | Description            | No.   | Description               | No.   | Description            |
+| ----- | ---------------------- | ----- | ------------------------- | ----- | ---------------------- |
+| **A** | PV panel               | **B** | SigenStor EC/Sigen Hybrid | **C** | SigenStor BAT          |
+| **D** | Gateway                | **E** | Backup Distribution panel | **F** | Backup Household loads |
+| **G** | Backup Household loads | **H** | Smart loads               | **I** | Power grid             |
+| **J** | mySigen                | **K** | Router                    | **L** | Antenna                |
+| **M** | CommMod                |       |                           |       |                        |
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">When B is SigenStor AC, A is not configured.</mark>
-* <mark style="color:blue;">When B is Sigen Hybrid, C is optional.</mark>
 * <mark style="color:blue;">If F (backup household load) experiences leakage, it may pose a risk of electric shock. In order to avoid this hazard, a residual current device (RCD) must be installed between the D (Gateway) and the F (backup household load).</mark>
 * <mark style="color:blue;">As a backup energy source for long-term off-grid applications, thediesel generator can work in tandem with the Gateway to provide a smooth transition between PV, storage and diesel generation.</mark>
 * <mark style="color:blue;">All the power equipment in the owner's home can be connected as smart loads. To ensure that this product maximizes the benefits to users, it is recommended that the high-power equipment be connected as smart loads (heat pumps, pool heaters, clothes dryers, etc.), which can be cut off when the energy storage system has low power. Other low-power equipment are connected as household loads (lights, routers, etc.)</mark>
@@ -65,14 +63,14 @@
 
 ![](../.gitbook/assets/9.png)
 
-| No.    | Description            | No.    | Description                             | No.    | Description                   |
-| ------ | ---------------------- | ------ | --------------------------------------- | ------ | ----------------------------- |
-| **A**  | PV panel               | **B**  | SigenStor EC/SigenStor AC /Sigen Hybrid | **C**  | SigenStor BAT                 |
-| **D**  | Gateway                | **E1** | Backup Distribution panel               | **E2** | Non-Backup Distribution panel |
-| **F1** | Backup Household loads | **F2** | Non-Backup Household loads              | **G**  | Diesel Generator              |
-| **H**  | Smart loads            | **I**  | Power sensor                            | **J**  | Power grid                    |
-| **K**  | mySigen                | **L**  | Router                                  | **M**  | Antenna                       |
-| **N**  | CommMod                |        |                                         |        |                               |
+| No.    | Description            | No.    | Description                | No.    | Description                   |
+| ------ | ---------------------- | ------ | -------------------------- | ------ | ----------------------------- |
+| **A**  | PV panel               | **B**  | SigenStor EC/Sigen Hybrid  | **C**  | SigenStor BAT                 |
+| **D**  | Gateway                | **E1** | Backup Distribution panel  | **E2** | Non-Backup Distribution panel |
+| **F1** | Backup Household loads | **F2** | Non-Backup Household loads | **G**  | Diesel Generator              |
+| **H**  | Smart loads            | **I**  | Power sensor               | **J**  | Power grid                    |
+| **K**  | mySigen                | **L**  | Router                     | **M**  | Antenna                       |
+| **N**  | CommMod                |        |                            |        |                               |
 
 {% include "../.gitbook/includes/tips.md" %}
 
