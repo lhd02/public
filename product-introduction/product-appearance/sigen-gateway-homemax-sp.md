@@ -6,7 +6,7 @@
 
 ### 底视图
 
-<figure><img src="../../.gitbook/assets/SGA1OV00002.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1OV00002.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="101" align="center">序号</th><th width="149">丝印</th><th>名称</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>INV1</td><td>逆变器进线口1</td></tr><tr><td align="center"><strong>2</strong></td><td>INV2</td><td>逆变器进线口2</td></tr><tr><td align="center"><strong>3</strong></td><td>INV3</td><td>逆变器进线口3</td></tr><tr><td align="center"><strong>4</strong></td><td>BACKUP</td><td>备电家用负载进线口</td></tr><tr><td align="center"><strong>5</strong></td><td>SMART-PORT</td><td>智能负载/发电机进线口</td></tr><tr><td align="center"><strong>6</strong></td><td>GRID</td><td>电网进线口</td></tr><tr><td align="center"><strong>7</strong></td><td>COM</td><td>通信进线口</td></tr></tbody></table>
 
