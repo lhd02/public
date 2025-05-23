@@ -11,7 +11,7 @@
 2. Power off by referring to [_Power Off._](power-off/)
 3. Refer to the delay time as instructed on the label on the equipment and wait for the specified time. Once the time has elapsed, remove the retaining ring from the bypass switch and turn on the by the bypass switch.
 
-<figure><img src="../.gitbook/assets/retaining-ring.png" alt="" width="217"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/retaining-ring.png" alt="" width="325"><figcaption></figcaption></figure>
 
 {% include "../.gitbook/includes/warning.md" %}
 
