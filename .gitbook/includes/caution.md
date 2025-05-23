@@ -2,4 +2,4 @@
 title: caution
 ---
 
-<div align="left"><img src="../assets/caution.png" alt="" width="101"></div>
+<div align="left"><img src="../assets/caution (3).png" alt="" width="169"></div>

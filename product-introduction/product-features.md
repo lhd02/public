@@ -8,15 +8,4 @@ Gateway products can be used in household PV storage and pure storage applicatio
 
 This document covers the following product models：
 
-| S/N    | models                       |
-| ------ | ---------------------------- |
-| **1**  | Sigen Gateway HomeMax SP     |
-| **2**  | Sigen Gateway Home SP        |
-| **3**  | Sigen Gateway Home SP 12K    |
-| **4**  | Sigen Gateway SP AU          |
-| **5**  | Sigen Gateway HomeMax TP     |
-| **6**  | Sigen Gateway Home TP        |
-| **7**  | Sigen Gateway TP AU          |
-| **8**  | Sigen Gateway HomeMax TP CN  |
-| **9**  | Sigen Gateway Home TP 30K    |
-| **10** | Sigen Gateway Home TP 30K CN |
+<table><thead><tr><th width="109.6666259765625" align="center">S/N</th><th>models</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>Sigen Gateway HomeMax SP</td></tr><tr><td align="center"><strong>2</strong></td><td>Sigen Gateway Home SP</td></tr><tr><td align="center"><strong>3</strong></td><td>Sigen Gateway Home SP 12K</td></tr><tr><td align="center"><strong>4</strong></td><td>Sigen Gateway SP AU</td></tr><tr><td align="center"><strong>5</strong></td><td>Sigen Gateway HomeMax SP LA</td></tr><tr><td align="center"><strong>6</strong></td><td>Sigen Gateway HomeMax TP</td></tr><tr><td align="center"><strong>7</strong></td><td>Sigen Gateway Home TP</td></tr><tr><td align="center"><strong>8</strong></td><td>Sigen Gateway TP AU</td></tr><tr><td align="center"><strong>9</strong></td><td>Sigen Gateway HomeMax TP CN</td></tr><tr><td align="center"><strong>10</strong></td><td>Sigen Gateway Home TP 30K</td></tr><tr><td align="center"><strong>11</strong></td><td>Sigen Gateway Home TP 30K CN</td></tr><tr><td align="center"><strong>12</strong></td><td>Sigen Gateway HomePro TP</td></tr><tr><td align="center"><strong>13</strong></td><td>Sigen Gateway HomePro TP-L</td></tr><tr><td align="center"><strong>14</strong></td><td>Sigen Gateway Home SP AU</td></tr><tr><td align="center"><strong>15</strong></td><td>Sigen Gateway Home TP AU</td></tr><tr><td align="center"><strong>16</strong></td><td>Sigen Gateway HomePro SP</td></tr></tbody></table>
