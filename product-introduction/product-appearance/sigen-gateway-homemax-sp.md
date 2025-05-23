@@ -8,26 +8,13 @@
 
 <figure><img src="../../.gitbook/assets/hspm_b.png" alt="" width="455"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="116" align="center">S/N</th><th width="170">Marking</th><th>Description</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>INV1</td><td>Wire-in port of inverter 1</td></tr><tr><td align="center"><strong>2</strong></td><td>INV2</td><td>Wire-in port of inverter 2</td></tr><tr><td align="center"><strong>3</strong></td><td>INV3</td><td>Wire-in port of inverter 3</td></tr><tr><td align="center"><strong>4</strong></td><td>BACKUP</td><td>Wire-in port of backup household loads</td></tr><tr><td align="center"><strong>5</strong></td><td>SMART-PORT</td><td>Wire-in port for smart Loads/ Generator</td></tr><tr><td align="center"><strong>6</strong></td><td>GRID</td><td>Wire-in port of power grid</td></tr><tr><td align="center"><strong>7</strong></td><td>COM</td><td><p>Wire-in port of</p><p>communication</p></td></tr></tbody></table>
+<table><thead><tr><th width="51" align="center">S/N</th><th width="150">Marking</th><th>Description</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>INV1</td><td>Wire-in port of inverter 1</td></tr><tr><td align="center"><strong>2</strong></td><td>INV2</td><td>Wire-in port of inverter 2</td></tr><tr><td align="center"><strong>3</strong></td><td>INV3</td><td>Wire-in port of inverter 3</td></tr><tr><td align="center"><strong>4</strong></td><td>BACKUP</td><td>Wire-in port of backup household loads</td></tr><tr><td align="center"><strong>5</strong></td><td>SMART-PORT</td><td>Wire-in port for smart Loads/ Generator</td></tr><tr><td align="center"><strong>6</strong></td><td>GRID</td><td>Wire-in port of power grid</td></tr><tr><td align="center"><strong>7</strong></td><td>COM</td><td><p>Wire-in port of</p><p>communication</p></td></tr></tbody></table>
 
 ### Interior View
 
 <figure><img src="../../.gitbook/assets/hspm_c.png" alt="" width="460"><figcaption></figcaption></figure>
 
-|   S/N  | Label | Description                                                           |
-| :----: | ----- | --------------------------------------------------------------------- |
-|  **1** | -     | FE interfaces                                                         |
-|  **2** | -     | DI, and DO interfaces                                                 |
-|  **3** | QF2   | Miniature circuit breaker (connecting to Smart Loads \[1] /Generator) |
-|  **4** | QF1   | Miniature circuit breaker (connecting to Power grid)                  |
-|  **5** | QF6   | Miniature circuit breaker (connecting to Backup Household loads)      |
-|  **6** | QF8   | Surge protective device switch                                        |
-|  **7** | GND   | GND                                                                   |
-|  **8** | -     | Cable clamp                                                           |
-|  **9** | -     | Earthing bar                                                          |
-| **10** | QF3   | Miniature circuit breaker (connecting to Inverters 1)                 |
-| **11** | QF4   | Miniature circuit breaker (connecting to Inverters 2)                 |
-| **12** | QF5   | Miniature circuit breaker (connecting to Inverters 3)                 |
+<table><thead><tr><th width="53" align="center">S/N</th><th width="99.75">Label</th><th>Description</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>-</td><td>FE interfaces</td></tr><tr><td align="center"><strong>2</strong></td><td>-</td><td>DI, and DO interfaces</td></tr><tr><td align="center"><strong>3</strong></td><td>QF2</td><td>Miniature circuit breaker (connecting to Smart Load<sup>[1]</sup> /Generator)</td></tr><tr><td align="center"><strong>4</strong></td><td>QF1</td><td>Miniature circuit breaker (connecting to Power grid)</td></tr><tr><td align="center"><strong>5</strong></td><td>QF6</td><td>Miniature circuit breaker (connecting to Backup Household loads)</td></tr><tr><td align="center"><strong>6</strong></td><td>QF8</td><td>Surge protective device switch</td></tr><tr><td align="center"><strong>7</strong></td><td>GND</td><td>GND</td></tr><tr><td align="center"><strong>8</strong></td><td>-</td><td>Cable clamp</td></tr><tr><td align="center"><strong>9</strong></td><td>-</td><td>Earthing bar</td></tr><tr><td align="center"><strong>10</strong></td><td>QF3</td><td>Miniature circuit breaker (connecting to Inverters 1)</td></tr><tr><td align="center"><strong>11</strong></td><td>QF4</td><td>Miniature circuit breaker (connecting to Inverters 2)</td></tr><tr><td align="center"><strong>12</strong></td><td>QF5</td><td>Miniature circuit breaker (connecting to Inverters 3)</td></tr></tbody></table>
 
 Note \[1]:
 
