@@ -57,14 +57,7 @@
 
 ![](../.gitbook/assets/9.png)
 
-| 序号     | 说明      | 序号     | 说明      | 序号     | 说明      |
-| ------ | ------- | ------ | ------- | ------ | ------- |
-| **A**  | 光伏板     | **B**  | 思格能源控制器 | **C**  | 思格能源控制器 |
-| **D**  | 思格能源备电柜 | **E1** | 备电配电单元  | **E2** | 非备电配电单元 |
-| **F1** | 备电家用负载  | **F2** | 非备电家用负载 | **G**  | 发电机     |
-| **H**  | 智能负载    | **I**  | 功率传感器   | **J**  | 电网      |
-| **K**  | 思格云     | **L**  | 路由器     | **M**  | 天线棒     |
-| **N**  | 思格通信棒   |        |         |        |         |
+<table><thead><tr><th width="54.25">序号</th><th>说明</th><th width="55.5">序号</th><th>说明</th><th width="54.25">序号</th><th>说明</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>光伏板</td><td><strong>B</strong></td><td>思格能源控制器</td><td><strong>C</strong></td><td>思格能源控制器</td></tr><tr><td><strong>D</strong></td><td>思格能源备电柜</td><td><strong>E1</strong></td><td>备电配电单元</td><td><strong>E2</strong></td><td>非备电配电单元</td></tr><tr><td><strong>F1</strong></td><td>备电家用负载</td><td><strong>F2</strong></td><td>非备电家用负载</td><td><strong>G</strong></td><td>发电机</td></tr><tr><td><strong>H</strong></td><td>智能负载</td><td><strong>I</strong></td><td>功率传感器</td><td><strong>J</strong></td><td>电网</td></tr><tr><td><strong>K</strong></td><td>思格云</td><td><strong>L</strong></td><td>路由器</td><td><strong>M</strong></td><td>天线棒</td></tr><tr><td><strong>N</strong></td><td>思格通信棒</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 {% include "../.gitbook/includes/tips.md" %}
 
