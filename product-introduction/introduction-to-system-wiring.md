@@ -8,9 +8,9 @@
 * <mark style="color:blue;">备电组网下，备电负载离网运行时长与光储系统供电能力相关，若离网运行时，光储系统供电出现异常（包含但不限于光伏发电异常、电池电量不足、油机等供电源异常），备电负载依然存在无法运行情况。</mark>
 * <mark style="color:blue;">组网图以2台逆变器为示例，不同型号的备电柜可支持接入的逆变器台数不同，请根据表1中所列内容进行匹配。</mark>
 
-**表 1**
+**表 2-1**
 
-<table><thead><tr><th width="75">序号</th><th>型号</th><th>支持接入的逆变器台数</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Sigen Gateway HomeMax SP</td><td>3 台</td></tr><tr><td><strong>2</strong></td><td>Gateway Home SP</td><td>1 台</td></tr><tr><td><strong>3</strong></td><td>Gateway Home SP 12K</td><td>2 台</td></tr><tr><td><strong>4</strong></td><td>Sigen Gateway SP AU</td><td>2 台</td></tr><tr><td><strong>5</strong></td><td>Sigen Gateway HomeMax TP</td><td>2 台</td></tr><tr><td><strong>6</strong></td><td>Sigen Gateway Home TP</td><td>1 台</td></tr><tr><td><strong>7</strong></td><td>Sigen Gateway TP AU</td><td>2 台</td></tr><tr><td><strong>8</strong></td><td>Sigen Gateway HomeMax TP CN</td><td>2 台</td></tr><tr><td><strong>9</strong></td><td>Sigen Gateway Home TP 30K</td><td>1 台</td></tr><tr><td><strong>10</strong></td><td>Sigen Gateway Home TP 30K CN</td><td>1 台</td></tr></tbody></table>
+<table><thead><tr><th width="55" align="center">序号</th><th>型号</th><th>支持接入的逆变器台数</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>Sigen Gateway HomeMax SP</td><td>3 台</td></tr><tr><td align="center"><strong>2</strong></td><td>Gateway Home SP</td><td>1 台</td></tr><tr><td align="center"><strong>3</strong></td><td>Gateway Home SP 12K</td><td>2 台</td></tr><tr><td align="center"><strong>4</strong></td><td>Sigen Gateway SP AU</td><td>2 台</td></tr><tr><td align="center"><strong>5</strong></td><td>Sigen Gateway HomeMax TP</td><td>2 台</td></tr><tr><td align="center"><strong>6</strong></td><td>Sigen Gateway Home TP</td><td>1 台</td></tr><tr><td align="center"><strong>7</strong></td><td>Sigen Gateway TP AU</td><td>2 台</td></tr><tr><td align="center"><strong>8</strong></td><td>Sigen Gateway HomeMax TP CN</td><td>2 台</td></tr><tr><td align="center"><strong>9</strong></td><td>Sigen Gateway Home TP 30K</td><td>1 台</td></tr><tr><td align="center"><strong>10</strong></td><td>Sigen Gateway Home TP 30K CN</td><td>1 台</td></tr></tbody></table>
 
 ### 全屋备电组网图
 
