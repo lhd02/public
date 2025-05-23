@@ -2,11 +2,11 @@
 
 ### **Dimensions**
 
-<figure><img src="../../.gitbook/assets/htpcn1-a.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/htpcn1-a.png" alt=""><figcaption></figcaption></figure>
 
 ### Bottom View
 
-<figure><img src="../../.gitbook/assets/htpcn1-b.png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/htpcn1-b.png" alt=""><figcaption></figcaption></figure>
 
 | S/N   | Marking    | Description                             |
 | ----- | ---------- | --------------------------------------- |
@@ -19,7 +19,7 @@
 
 ### Interior View
 
-<figure><img src="../../.gitbook/assets/htpcn1-c.png" alt="" width="268"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/htpcn1-c.png" alt=""><figcaption></figcaption></figure>
 
 | S/N    | Label | Description                                                                                            |
 | ------ | ----- | ------------------------------------------------------------------------------------------------------ |
