@@ -33,7 +33,7 @@
     * [Sigen Gateway (TP AU, HomeMax TP CN)](system-maintenance/power-off/sigen-gateway-tp-au-homemax-tp-cn.md)
     * [Sigen Gateway Home TP (30K, 30K CN)](system-maintenance/power-off/sigen-gateway-home-tp-30k-30k-cn.md)
     * [Sigen Gateway HomePro TP](system-maintenance/power-off/sigen-gateway-homepro-tp.md)
-    * [Page 1](system-maintenance/power-off/page-1.md)
+    * [Sigen Gateway HomePro TP-L](system-maintenance/power-off/sigen-gateway-homepro-tp-l.md)
     * [Pag 2](system-maintenance/power-off/pag-2.md)
     * [Page 3](system-maintenance/power-off/page-3.md)
     * [Page 2](system-maintenance/power-off/page-2.md)

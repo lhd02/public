@@ -1,6 +1,8 @@
 # Sigen Gateway HomePro TP
 
-<figure><img src="../../.gitbook/assets/SGA1IN00185-下电.png" alt="" width="331"><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/SGA1IN00185下.png" alt="" width="331"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 
@@ -11,7 +13,7 @@
 3. <mark style="color:orange;">After shutting down the inverter, switch off the miniature circuit breaker QF3 (connecting to Inverter 1).</mark>
 4. <mark style="color:orange;">(optional) If installing a self-supplied circuit breaker, you can switch off the miniature circuit breaker (connecting to Inverter 2).</mark>
 5. <mark style="color:orange;">Switch off the miniature circuit breaker QF1 (connecting to Power grid).</mark>
-6. <mark style="color:orange;">Switch off the surge protective device switch QF6.</mark>
+6. <mark style="color:orange;">Switch off the surge protective device switch QF5.</mark>
 
 
 
