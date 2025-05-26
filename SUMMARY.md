@@ -36,7 +36,7 @@
     * [Sigen Gateway HomePro TP-L](system-maintenance/power-off/sigen-gateway-homepro-tp-l.md)
     * [Sigen Gateway Home SP AU](system-maintenance/power-off/pag-2.md)
     * [Sigen Gateway Home TP AU](system-maintenance/power-off/sigen-gateway-home-tp-au.md)
-    * [Page 2](system-maintenance/power-off/page-2.md)
+    * [Sigen Gateway HomePro SP](system-maintenance/power-off/sigen-gateway-homepro-sp.md)
   * [Routine Maintenance](system-maintenance/routine-maintenance.md)
   * [Troubleshooting](system-maintenance/troubleshooting.md)
   * [Operations on Bypass Switch](system-maintenance/operations-on-bypass-switch.md)
