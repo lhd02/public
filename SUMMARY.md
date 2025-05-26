@@ -28,6 +28,7 @@
     * [Sigen Gateway Home SP](system-maintenance/power-off/sigen-gateway-home-sp.md)
     * [Sigen Gateway Home SP 12K](system-maintenance/power-off/sigen-gateway-home-sp-12k.md)
     * [Sigen Gateway SP AU](system-maintenance/power-off/sigen-gateway-sp-au.md)
+    * [Sigen Gateway HomeMax SP LA](system-maintenance/power-off/sigen-gateway-homemax-sp-la.md)
     * [Sigen Gateway HomeMax TP](system-maintenance/power-off/sigen-gateway-homemax-tp.md)
     * [Sigen Gateway Home TP](system-maintenance/power-off/sigen-gateway-home-tp.md)
     * [Sigen Gateway (TP AU, HomeMax TP CN)](system-maintenance/power-off/sigen-gateway-tp-au-homemax-tp-cn.md)
