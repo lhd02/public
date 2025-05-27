@@ -1,6 +1,6 @@
 # LED Indicator State
 
-### **SigenStor EC/ SigenStor AC/Sigen Hybrid Indicator**
+### **SigenStor EC/ Sigen Hybrid Indicator**
 
 <figure><img src="../.gitbook/assets/SSA1IN00027-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
