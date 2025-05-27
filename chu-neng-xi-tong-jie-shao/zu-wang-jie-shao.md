@@ -6,7 +6,7 @@
 {% include "../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">**Under backup power system wiring, the duration of off-grid operation of the backup power load is related to the power supply capacity of the PV storage system. If there is an abnormality in the power supply of the PV storage system during off-grid operation (including but not limited to abnormal PV power generation, insufficient battery power, and abnormal power supplies to the diesel generator), the backup power load will still be unable to operate.**</mark>
-* <mark style="color:blue;">**Low-voltage Three-phase system Home Series products does not support backup power scenarios, and only the Non-backup system wiring diagram is available.**</mark>
+* <mark style="color:blue;">**Low-voltage Three-phase system Home Series products does not support backup scenarios, and only the Non-backup system wiring diagram is available.**</mark>
 
 ### **Whole home backup system wiring diagram**
 
