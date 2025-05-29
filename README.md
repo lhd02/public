@@ -1,3 +1,3 @@
 # Installer Manual
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/covery.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src=".gitbook/assets/mySigen App 安装商手册-en.png" alt=""><figcaption></figcaption></figure>

@@ -2,4 +2,4 @@
 title: tips
 ---
 
-<div align="left"><img src="../assets/0 (7).png" alt="" width="59"></div>
+<div align="left"><img src="../assets/tips.png" alt="" width="169"></div>
