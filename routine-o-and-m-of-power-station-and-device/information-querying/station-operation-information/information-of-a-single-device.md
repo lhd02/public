@@ -2,7 +2,7 @@
 
 On the "Home" screen, click the station name you want to query. Click the device in the energy flow chart in the "System" tab or the "Device" tab to view the device information, software version, and more.
 
-<figure><img src="../../../.gitbook/assets/Informationofsingledevice.png" alt="" width="304"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MSA1CM00078-单设备信息.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include "../../../.gitbook/includes/tips.md" %}
 

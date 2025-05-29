@@ -1,0 +1,13 @@
+# Export/Import limitation parameters
+
+{% include "../../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">An installer can set export/import limitation parameters according to user needs when creating new systems.</mark>
+* <mark style="color:blue;">To modify parameters after creating new systems, please manually set export/import</mark>
+* <mark style="color:blue;">limitation parameters according to local laws and regulations and grid agreements.</mark>
+* <mark style="color:blue;">Before setting the export/import limitation parameters, ensure that the meter or Gateway is connected to the system wiring.</mark>
+* <mark style="color:blue;">The parameter display may differ depending on the device model. The actual screen display shall prevail.</mark>
+
+<figure><img src="../../.gitbook/assets/export-a.png" alt=""><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="75">No.</th><th width="154">Parameter Name</th><th>Description</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Export Limitation</td><td>When set to <img src="../../.gitbook/assets/2 (3).png" alt="" data-size="line">, the grid connection point is allowed to output power.</td></tr><tr><td><strong>2</strong></td><td>Maximum Power Export Limitation</td><td>Set the maximum power value output by the grid connection point.</td></tr><tr><td><strong>3</strong></td><td>Maximum Power Import Limitation</td><td>When set to <img src="../../.gitbook/assets/3 (2).png" alt="" data-size="line">, the grid connection point is allowed to input power.</td></tr><tr><td><strong>4</strong></td><td>Maximum Power Import Limitation</td><td>Set the maximum power value input by the grid connection point.</td></tr><tr><td><strong>5</strong></td><td>Grid Connection Point Power Control Method</td><td><ul><li>Total Power: The grid connection point is controlled according to the total three-phase power, meaning the sum of the three-phase power cannot exceed the Maximum Power Export Limitation and Maximum Reverse Charging Power.</li><li>Power Per Phase: The grid connection point is controlled independently for each phase, that is, the power of each phase cannot exceed 1/3 of the Maximum Power Export Limitation and 1/3 of the Maximum Reverse Charging Power.</li></ul></td></tr></tbody></table>
