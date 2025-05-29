@@ -1,6 +1,0 @@
-# DRM0 parameter
-
-
-
-
-

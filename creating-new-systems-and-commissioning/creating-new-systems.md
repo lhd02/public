@@ -6,6 +6,8 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Create a new system step by step as instructed on the screen. The screen display may differ depending on the device model. For detailed steps, check the supporting documentation.**</mark>
+<mark style="color:blue;">Create a new system step by step as instructed on the screen. The screen display may differ depending on the device model. For detailed steps, check the supporting documentation.</mark>
+
+
 
 2. Please ask the owner to check the email titled "sigencloud" within 24 hours and activate the account.

@@ -1,0 +1,28 @@
+# Smart load
+
+## Method 1: Connecting using Gateway
+
+{% include "../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">**Before connecting a smart load, please ensure that a Gateway is configured in the networking.**</mark>
+* <mark style="color:blue;">**The number of smart loads that can be connected is determined by the supported capacity of the Gateway.**</mark>
+* <mark style="color:blue;">**After adding the smart load to the App, you can switch the smart load on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.**</mark>
+* <mark style="color:blue;">**If you cannot locate the icon of the connected device, for example, an immersion heater, select "Other" and connect it. You can check the connected smart load on the "Device" screen.**</mark>
+
+<figure><img src="../.gitbook/assets/smartload.png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Method 2: Connecting using Shelly
+
+{% include "../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">**You need to turn on the Bluetooth feature on the phone before connecting to Shelly.**</mark>
+* <mark style="color:blue;">**Shelly needs to connect to the same WLAN network as SigenStor.**</mark>
+* <mark style="color:blue;">**Shelly consists of smart plugs, smart relays, and other devices designed for power/energy monitoring and remote control of electrical loads.**</mark>
+
+<table><thead><tr><th width="61">No.</th><th width="138">Product Type</th><th width="174">Model Number</th><th>Recommended firmware versions supporting Shelly</th><th>Maximum supported load current</th></tr></thead><tbody><tr><td>1</td><td>Smart plugs</td><td>Shelly Plug S Gen3</td><td>1.2.2, 1.2.3</td><td>AC power supply: 12A</td></tr><tr><td>2</td><td>Smart plugs</td><td>Shelly Plus Plug S</td><td>1.0.7, 1.3.3, 1.4.4</td><td>AC power supply: 12A</td></tr><tr><td>3</td><td>Smart plugs</td><td>Shelly Plus Plug UK</td><td>1.0.7, 1.3.3, 1.4.4</td><td>AC power supply: 13A</td></tr><tr><td>4</td><td>Smart relays</td><td>Shelly 1PM Gen3</td><td>1.2.2, 1.3.3</td><td><p>AC power supply: 16A</p><p>DC power supply: 10A</p></td></tr><tr><td>5</td><td>Smart relays</td><td>Shelly 2PM Gen3</td><td>1.2.2, 1.3.3</td><td>AC power supply: 10A per channel, 16A total</td></tr><tr><td>6</td><td>Smart relays</td><td>Shelly 1PM Mini Gen3</td><td>1.3.3, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 8A</td></tr><tr><td>7</td><td>Smart relays</td><td>Shelly Plus 1PM</td><td>1.3.3, 1.4.4, 1.5.0-beta1</td><td><p>AC power supply: 16A</p><p>DC power supply: 10A</p></td></tr><tr><td>8</td><td>Smart relays</td><td>Shelly Plus 2PM</td><td>1.3.3, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 10A per channel, 16A total</td></tr><tr><td>9</td><td>Smart relays</td><td>Shelly Pro 1PM</td><td>0.10.2-beta1, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 16A per channel</td></tr><tr><td>10</td><td>Smart relays</td><td>Shelly Pro 2PM</td><td>0.10.2-beta1, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 16A per channel, 25A total</td></tr><tr><td>11</td><td>Smart relays</td><td>Shelly Pro 4PM</td><td>0.10.2-beta1, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 16A per channel, 40A total</td></tr></tbody></table>
+
+
+
+### Control Mode
+
+<table><thead><tr><th width="65">No.</th><th width="110">Parameter name</th><th width="99">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Manual Control</td><td>-</td><td><ul><li>When it is displayed as In Use, you can turn on and off the Smart Load through "<img src="../.gitbook/assets/2 (11).png" alt="" data-size="line">" on the App.</li><li>When displayed as Disable, You can click "Enable Manual" to switch to manual mode.</li></ul></td></tr><tr><td></td><td>Auto (Time-based）</td><td>-</td><td><ul><li>When displayed as In Use, it indicates automatic control mode. You can modify or add a schedule.</li><li>When displayed as Disable, you can click "Set a Schedule" → "Yes, save and use" to switch to automatic mode.</li></ul></td></tr><tr><td><strong>2</strong></td><td>Schedule</td><td>Energy Source Control</td><td><ul><li>Depends on System：Automatically selects the most available power source from the system– solar, battery, or grid.</li><li>Solar Excess only：Operates appliances exclusively on solar surplus energy.</li><li>Battery Level Control：Allows precise energy management by setting start and stop thresholds for battery usage(e. g., start at 60%, stop at 20%). Recommended for users who demand detailed control of their system.</li></ul></td></tr><tr><td><strong>3</strong></td><td>Schedule</td><td>Auto charge</td><td>When set to <img src="../.gitbook/assets/3 (8).png" alt="" data-size="line">, energy storage discharge is allowed.Use Battery Stop SOC: When the SOC value of the energy storage battery is less than this threshold, the load will be turned off.</td></tr><tr><td><strong>4</strong></td><td>Ready by</td><td>Activation For</td><td>Total running time.Before the time set in Be Ready By, if the running time on that day is less than the set value, the load will be turned on.</td></tr><tr><td><strong>5</strong></td><td>Ready by</td><td>Be Ready By</td><td>Set the running time.It is used in conjunction with the total running time.</td></tr></tbody></table>
