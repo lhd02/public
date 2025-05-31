@@ -1,6 +1,6 @@
 # Sigen Gateway Home TP
 
-<figure><img src="../../.gitbook/assets/htp-ao.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1IN00043-下电.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

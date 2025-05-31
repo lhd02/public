@@ -1,6 +1,6 @@
 # Sigen Gateway (TP AU, HomeMax TP CN)
 
-<figure><img src="../../.gitbook/assets/htpcn1-ao.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1IN00125-下电.png" alt="" width="337"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

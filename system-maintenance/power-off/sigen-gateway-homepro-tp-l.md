@@ -1,8 +1,8 @@
 # Sigen Gateway HomePro TP-L
 
-<figure><img src="../../.gitbook/assets/SGA1IN00178-下电.png" alt="" width="331"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="331"><figcaption></figcaption></figure>
 
-{% include "../../.gitbook/includes/warning.md" %}
+{% include "https://app.gitbook.com/s/C7yAc8yWwipEGMaK8mJk/~/reusable/GpQNGQ2TJq5nQqVhWUIl/" %}
 
 <mark style="color:orange;">The Gateway should be disconnected in the following order:</mark>
 

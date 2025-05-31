@@ -1,10 +1,8 @@
 # Sigen Gateway HomePro SP
 
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-<figure><img src="../../.gitbook/assets/SGA1IN00249下.png" alt="" width="375"><figcaption></figcaption></figure>
-
-{% include "../../.gitbook/includes/warning.md" %}
+{% include "https://app.gitbook.com/s/C7yAc8yWwipEGMaK8mJk/~/reusable/GpQNGQ2TJq5nQqVhWUIl/" %}
 
 <mark style="color:orange;">The Gateway should be disconnected in the following order:</mark>
 
@@ -12,6 +10,3 @@
 2. <mark style="color:orange;">Turn off the miniature circuit breaker QF2 (connecting to Generator/Smart load).</mark>
 3. <mark style="color:orange;">After shutting down the inverter on the phone, turn off the miniature circuit breaker QF3 or QF4 (connecting to an Inverter).</mark>
 4. <mark style="color:orange;">Turn off the miniature circuit breaker QF1 (connecting to Power grid).</mark>
-
-
-
