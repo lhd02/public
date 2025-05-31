@@ -1,6 +1,6 @@
 # Sigen Gateway Home SP AU
 
-<figure><img src="../../.gitbook/assets/SGA1IN00220下.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

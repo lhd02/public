@@ -1,6 +1,6 @@
 # Sigen Gateway HomePro SP
 
-<figure><img src="../../.gitbook/assets/SGA1IN00249下.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

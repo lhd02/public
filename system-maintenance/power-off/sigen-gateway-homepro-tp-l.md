@@ -1,6 +1,6 @@
 # Sigen Gateway HomePro TP-L
 
-<figure><img src="../../.gitbook/assets/SGA1IN00178-下电.png" alt="" width="331"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="331"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

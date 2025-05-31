@@ -1,6 +1,6 @@
 # Sigen Gateway Home TP AU
 
-<figure><img src="../../.gitbook/assets/SGA1IN00209下.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

@@ -1,6 +1,6 @@
 # Sigen Gateway Home TP (30K, 30K CN)
 
-<figure><img src="../../.gitbook/assets/SGA1IN00085-下电.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1IN00085-下电.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 

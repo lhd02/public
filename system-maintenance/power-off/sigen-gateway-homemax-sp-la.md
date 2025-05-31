@@ -1,6 +1,6 @@
 # Sigen Gateway HomeMax SP LA
 
-<figure><img src="../../.gitbook/assets/SGA1IN00152-下电zh.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 
