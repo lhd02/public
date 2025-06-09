@@ -1,6 +1,6 @@
 # Energy storage working mode
 
-{% include "../../../.gitbook/includes/tips.md" %}
+{% include "../../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">The SigenStor energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios. It can support up to 20 SigenStor units in parallel. If more SigenStor units are required, the digital acquisition SigenLogger can be connected to meet the needs.</mark>
 * <mark style="color:blue;">The energy storage system supports multiple working modes, namely: "Sigen AI Mode," "Fully Feed-in to Grid," "Time-based Control," "Self-Consumption," "Remote EMS Mode," and "Load Shedding Mode."</mark>
@@ -32,3 +32,19 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 
 ## Fully Feed-in to Grid
+
+
+
+
+
+## Remote EMS Mode
+
+* Supports scheduling of energy storage system through third-party EMS system.
+* Supports third-party EMS with RS-485 communication.Please make sure that the RS485-1 port cable of the device is properly connected and that the baud rate is set correctly according to the description in section ‎2.4.1.5Others.(Non-grid connection scenario)
+* It supports third-party EMS with ModBus-TCP communication. Please ensure that you have completed the setup according to the description in section ‎2.4.1.4 ModBus parameters.
+
+
+
+## Load Shedding
+
+In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
