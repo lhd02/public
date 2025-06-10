@@ -8,9 +8,9 @@
 
 Method 1:
 
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-
-Method 2:
+Method 2:![](<../.gitbook/assets/image (12).png>)
 
