@@ -1,6 +1,6 @@
 # Creating new systems
 
-1. Click <img src="../.gitbook/assets/plus.png" alt="" data-size="line">in the upper right corner of the "Home" to go to the station creation screen, where you can finish creating a power station. The App will send the owner account to the owner's email address.
+1. Click <img src="../.gitbook/assets/plus.png" alt="" data-size="line"> in the upper right corner of the "Home" to go to the station creation screen, where you can finish creating a power station. The App will send the owner account to the owner's email address.
 
 <figure><img src="../.gitbook/assets/create-sys.png" alt=""><figcaption></figcaption></figure>
 
