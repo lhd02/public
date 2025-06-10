@@ -34,6 +34,7 @@
     * [电站类型、名称与地址修改](station-parameter-setup/general-settings/dian-zhan-lei-xing-ming-cheng-yu-di-zhi-xiu-gai.md)
     * [Software upgrade](station-parameter-setup/general-settings/software-upgrade.md)
     * [LED灯设置](station-parameter-setup/general-settings/led-deng-she-zhi.md)
+    * [Parameters on the "System Settings" screen](station-parameter-setup/general-settings/parameters-on-the-system-settings-screen.md)
     * [Internet connection](station-parameter-setup/general-settings/internet-connection.md)
   * [安装商工具](station-parameter-setup/an-zhuang-shang-gong-ju/README.md)
     * [电网码相关参数设置](routine-o-and-m-of-power-station-and-device/station-parameter-setup/parameters-on-the-system-settings-screen/README.md)
