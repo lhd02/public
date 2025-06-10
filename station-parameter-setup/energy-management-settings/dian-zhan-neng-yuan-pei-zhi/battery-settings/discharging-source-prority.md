@@ -1,2 +1,0 @@
-# Discharging Source Prority
-

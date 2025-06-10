@@ -1,2 +1,0 @@
-# Solar Producing Power Limit
-

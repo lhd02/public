@@ -1,2 +1,0 @@
-# Charging Source Prority
-
