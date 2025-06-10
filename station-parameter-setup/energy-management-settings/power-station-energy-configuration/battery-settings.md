@@ -9,7 +9,7 @@ Setting battery-related parameters can optimize battery performance, extend batt
 * <mark style="color:blue;">By default, PV is placed before Grid. In the negative electricity price scenario, Grid can be adjusted to be before PV.</mark>
 * <mark style="color:blue;">The battery acquires power according to the set order.</mark>
 
-<figure><img src="../../../.gitbook/assets/MSA1CM00073-电网设置-电网输出优先级.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MSA1CM00073-电网设置-电网输出优先级 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Discharging Source Prority
 

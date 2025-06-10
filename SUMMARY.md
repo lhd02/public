@@ -29,7 +29,7 @@
     * [Power station energy configuration](station-parameter-setup/energy-management-settings/power-station-energy-configuration/README.md)
       * [Solar Settings](station-parameter-setup/energy-management-settings/power-station-energy-configuration/solar-settings.md)
       * [Battery Settings](station-parameter-setup/energy-management-settings/power-station-energy-configuration/battery-settings.md)
-      * [Grid Settings](station-parameter-setup/energy-management-settings/power-station-energy-configuration/grid-settings.md)
+      * [Grid Settings](station-parameter-setup/energy-management-settings/power-station-energy-configuration/grid-settings/README.md)
   * [常规设置](station-parameter-setup/chang-gui-she-zhi/README.md)
     * [Software upgrade](routine-o-and-m-of-power-station-and-device/station-parameter-setup/software-upgrade.md)
     * [Internet connection](routine-o-and-m-of-power-station-and-device/station-parameter-setup/parameters-on-the-system-settings-screen/internet-connection.md)
