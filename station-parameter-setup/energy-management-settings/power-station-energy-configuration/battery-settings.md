@@ -29,10 +29,26 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 <mark style="color:blue;">Pre-adjust the battery temperature to the optimal working range in low temperature environments to prevent performance degradation and safety hazards caused by low temperature.</mark>
 
-<figure><img src="../../../.gitbook/assets/MSA1CM00073-电池设置-预热调度.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MSA1CM00073-电池设置-预热调度.png" alt="" width="375"><figcaption></figcaption></figure>
 
-|   | Parameter name | Description                                                                          |
-| - | -------------- | ------------------------------------------------------------------------------------ |
-|   |                | Set to ![](../../../.gitbook/assets/image.png) to set the battery preheating period. |
-|   |                |                                                                                      |
-|   |                |                                                                                      |
+<table><thead><tr><th width="67" align="center">No.</th><th width="206">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Pack preheating</td><td>Set to <img src="../../../.gitbook/assets/image.png" alt=""> to set the battery preheating period.</td></tr></tbody></table>
+
+## Battery Power Limit
+
+{% include "../../../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">If you need to set more detailed charging and discharging data, you can set this parameter.</mark>
+
+<figure><img src="../../../.gitbook/assets/MSA1CM00073-电池功率设置.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="77" align="center">No.</th><th width="259">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Battery Max Charging Power</td><td>Set the maximum charging input power allowed by the battery.</td></tr><tr><td align="center">2</td><td>Battery Max Discharging Power</td><td>Set the maximum discharging output power allowed by the battery.</td></tr></tbody></table>
+
+## Battery Automation
+
+{% include "../../../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">If this parameter is set, the battery will prioritize executing the parameters set by Battery Automation.</mark>
+
+<figure><img src="../../../.gitbook/assets/MSA1CM00073-电池设置-电池自动化.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="68" align="center">No.</th><th width="148">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Add Time Period</td><td>Click to add Time Period.</td></tr><tr><td align="center">2</td><td>Add your action</td><td><p>Click to add battery operation status.</p><p><strong>Battery Charging</strong></p><ol><li>Maximum Charging Power: Set the maximum total input power allowed for the battery charging, including all charging sources.</li><li>Maximum Charging Power From grid to BAT: Set the maximum charging input power from Grid to BAT.This parameter must be ≤ Maximum Charging Power.</li><li>Battery Charging From Grid Cut-off SOC: When the battery SOC reaches this threshold, the grid is forced to stop charging the battery.</li><li>Battery Charging Source Priority: Adjust the battery energy source priority.</li></ol><p><strong>Battery Discharging</strong></p><ol><li>Maximum Discharging Power: Set the maximum total discharging output power allowed for the battery.</li><li>Maximum Discharging Power from BAT to Grid: Set the maximum discharging output power from BAT to Grid.This parameter must be ≤ Maximum Discharging Power.</li><li>Discharge Cut-off SOC from BAT to Grid: When the battery SOC reaches this threshold, the BAT is forced to stop transmitting power to the grid.</li></ol><p><strong>Battery Preserve: Maintain the current SOC without change.</strong></p><p><strong>Battery Self Consumption</strong></p><ol><li>Maximum Charging Power: Set the maximum charging input power from PV to the battery.</li><li>Maximum Discharging Power: Set the maximum discharging output power of the battery to the household load.</li></ol></td></tr></tbody></table>
