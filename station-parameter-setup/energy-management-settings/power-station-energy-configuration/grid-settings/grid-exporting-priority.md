@@ -1,2 +1,0 @@
-# Grid Exporting Priority
-

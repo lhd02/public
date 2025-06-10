@@ -1,2 +1,0 @@
-# Setting rate plan
-
