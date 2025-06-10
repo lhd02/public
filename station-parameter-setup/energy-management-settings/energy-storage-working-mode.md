@@ -1,6 +1,6 @@
 # Energy storage working mode
 
-
+{% include "../../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">The SigenStor energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios. It can support up to 20 SigenStor units in parallel. If more SigenStor units are required, the digital acquisition SigenLogger can be connected to meet the needs.</mark>
 * <mark style="color:blue;">The energy storage system supports multiple working modes, namely: "Sigen AI Mode," "Fully Feed-in to Grid," "Time-based Control," "Self-Consumption," "Remote EMS Mode," and "Load Shedding Mode."</mark>
@@ -43,25 +43,20 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 <table><thead><tr><th width="54" align="center">No.</th><th width="161">Parameter name</th><th>Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Charging</td><td>Maximum charging power for BAT</td><td>During this period, the sum of the charging power of all battery packs in the system cannot be greater than the "PACK maximum charging power."The system default is infinity.</td></tr><tr><td align="center">2</td><td>Charging</td><td>Grid Charging Cut-off SOC</td><td>Set the cut-off charging capacity value for the battery pack to be charged from the grid during this period.The system default is 100%.</td></tr><tr><td align="center">3</td><td>Charging</td><td>Maximum power for importing from grid</td><td>The maximum power that can be imported from the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">4</td><td>Charging</td><td>Maximum Charging Power from Grid to BAT</td><td>The maximum power that the grid charges the battery pack during this period. The system default value is infinity.</td></tr><tr><td align="center">5</td><td>Discharging</td><td>Maximum discharging power for BAT</td><td>During this period, the sum of the discharging power of all battery packs in the system cannot be greater than the "PACK maximum discharging power." The system default is infinity.</td></tr><tr><td align="center">6</td><td>Discharging</td><td>Maximum power for exporting to grid</td><td>The maximum power that the system is allowed to export to the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">7</td><td>Discharging</td><td>Maximum Discharging Power from BAT to Grid</td><td>The maximum power that the battery pack discharges to the grid during this period. The system default value is infinity.</td></tr><tr><td align="center">8</td><td>Self-Consumption</td><td>Maximum power for importing from grid</td><td>The maximum power that can be imported from the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">9</td><td>Self-Consumption</td><td>Maximum power for exporting to grid</td><td>The maximum power that the system is allowed to export to the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr></tbody></table>
 
+{% include "../../.gitbook/includes/tips.md" %}
 
-
-
-
-
-
-
+<mark style="color:blue;">The system will operate based on the PV power situation in periods that you do not specify as charging and discharging periods. The PV power will first be used to power home loads, with excess energy charging the batteries, and the batteries will not discharge.</mark>
 
 ## Fully Feed-in to Grid
 
-
-
-
+* You can sell excess energy back to the grid and earn credits on your energy bill.
+* In the daytime, when the PV power is greater than the maximum output capacity of the inverter, the inverter maintains the maximum output while storing excess energy in the batteries. When the PV power is lower than the maximum output capacity of the inverter or there is no PV power in the nighttime, the batteries are discharged to ensure that the inverter maximizes the output.
 
 ## Remote EMS Mode
 
 * Supports scheduling of energy storage system through third-party EMS system.
-* Supports third-party EMS with RS-485 communication.Please make sure that the RS485-1 port cable of the device is properly connected and that the baud rate is set correctly according to the description in section ‎2.4.1.5Others.(Non-grid connection scenario)
-* It supports third-party EMS with ModBus-TCP communication. Please ensure that you have completed the setup according to the description in section ‎2.4.1.4 ModBus parameters.
+* Supports third-party EMS with RS-485 communication.Please make sure that the RS485-1 port cable of the device is properly connected and that the baud rate is set correctly according to the description in section [Others](../../others/).(Non-grid connection scenario)
+* It supports third-party EMS with ModBus-TCP communication. Please ensure that you have completed the setup according to the description in section [ModBus parameters](../../routine-o-and-m-of-power-station-and-device/device-parameter-setup/sigenstor/modbus-parameters.md).
 
 
 
