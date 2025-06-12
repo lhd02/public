@@ -36,6 +36,8 @@ You can connect a power sensor to the RS485\_1 port of the inverter. You must ma
 
 ## In grid connection scenarios, how can I quickly identify where SigenStor is installed?
 
+You can light up the LED of SigenStor in the App and locate the SigenStor.
+
 ## How do I reconnect the network when the device network connection is lost?
 
 You can re-configure the network settings using a device hotspot in "Setting" → "Network Configure" or "Device Configure."
