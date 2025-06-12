@@ -30,7 +30,7 @@ Please push the account activation notification again and ask the owner to activ
 
 You can connect a power sensor to the RS485\_1 port of the inverter. You must manually add a power sensor after the cable is properly connected.
 
-{% include "../.gitbook/includes/tips.md" %}
+{% include ".gitbook/includes/tips.md" %}
 
 <mark style="color:blue;">**When the RS485\_1 port is connected to a power sensor, do not connect other devices simultaneously. Otherwise, the power control may be affected.**</mark>
 
@@ -40,7 +40,7 @@ You can connect a power sensor to the RS485\_1 port of the inverter. You must ma
 
 You can re-configure the network settings using a device hotspot in "Setting" → "Network Configure" or "Device Configure."
 
-{% include "../.gitbook/includes/tips.md" %}
+{% include ".gitbook/includes/tips.md" %}
 
 <mark style="color:blue;">**If you still cannot connect to the device hotspot, disconnect the AC circuit breaker and DC switch of the device, wait for the device indicator to go out, then turn on the AC circuit breaker and DC switch again, wait for 30 seconds, and then rescan the device QR code and configure the network according to the above steps.**</mark>
 
