@@ -6,12 +6,15 @@ Setting grid-related parameters can ensure safe grid connection, compliant elect
 
 {% include "../../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">By default, PV is placed before Battery. In the negative electricity price scenario, Battery can be adjusted to be before PV.</mark>
-* <mark style="color:blue;">The device sells electricity to the grid according to the set order.</mark>
+* <mark style="color:blue;">**By default priority, PV is placed before Battery. PV power prioritizes grid feed-in, with battery supplementing grid sales.**</mark>
+* <mark style="color:blue;">**In the negative electricity price scenario, Battery can be adjusted to be before PV.**</mark>
+* <mark style="color:blue;">**The device sells electricity to the grid according to the set order.**</mark>
 
-<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电网设置-电网输出优先级.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电网设置-电网输出优先级 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Grid power setting
+
+<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电网功率.png" alt="" width="296"><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="62" align="center">No.</th><th width="257">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1 </td><td>Grid Export Power Limit</td><td>Set the system's maximum power for selling electricity to the grid.</td></tr><tr><td align="center">2</td><td>Grid Import Power Limit</td><td>Set the system's maximum power for buying electricity from the grid.</td></tr></tbody></table>
 

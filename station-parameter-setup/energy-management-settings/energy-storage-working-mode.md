@@ -6,7 +6,7 @@
 * <mark style="color:blue;">The energy storage system supports multiple working modes, namely: "Sigen AI Mode," "Fully Feed-in to Grid," "Time-based Control," "Self-Consumption," "Remote EMS Mode," and "Load Shedding Mode."</mark>
 * <mark style="color:blue;">Some countries support Load Shedding Mode, which is subject to the App interface display.</mark>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00078-储能工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Sigen AI Mode
 
@@ -18,9 +18,9 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 ### **Add Spike Load**
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="98" align="center">No.</th><th width="205">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Spike Load</td><td>Peak load, which refers to the instantaneous surge in electricity demand.</td></tr><tr><td align="center">2</td><td>Start time</td><td>Set the peak load start time.</td></tr><tr><td align="center">3</td><td>Run Time</td><td>Set the peak load runtime duration.</td></tr><tr><td align="center">4</td><td>Consumption Forecast</td><td>Set the energy consumption power for peak load.</td></tr></tbody></table>
+<table><thead><tr><th width="98" align="center">No.</th><th width="198.60009765625">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Spike Load</td><td>Peak load, which refers to the instantaneous surge in electricity demand.</td></tr><tr><td align="center">2</td><td>Start time</td><td>Set the peak load start time.</td></tr><tr><td align="center">3</td><td>Run Time</td><td>Set the peak load runtime duration.</td></tr><tr><td align="center">4</td><td>Consumption Forecast</td><td>Set the energy consumption power for peak load.</td></tr></tbody></table>
 
 ## Self-Consumption Mode
 
@@ -41,7 +41,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-TOU mode.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="54" align="center">No.</th><th width="161">Parameter name</th><th>Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Charging</td><td>Maximum charging power for BAT</td><td>During this period, the sum of the charging power of all battery packs in the system cannot be greater than the "PACK maximum charging power."The system default is infinity.</td></tr><tr><td align="center">2</td><td>Charging</td><td>Grid Charging Cut-off SOC</td><td>Set the cut-off charging capacity value for the battery pack to be charged from the grid during this period.The system default is 100%.</td></tr><tr><td align="center">3</td><td>Charging</td><td>Maximum power for importing from grid</td><td>The maximum power that can be imported from the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">4</td><td>Charging</td><td>Maximum Charging Power from Grid to BAT</td><td>The maximum power that the grid charges the battery pack during this period. The system default value is infinity.</td></tr><tr><td align="center">5</td><td>Discharging</td><td>Maximum discharging power for BAT</td><td>During this period, the sum of the discharging power of all battery packs in the system cannot be greater than the "PACK maximum discharging power." The system default is infinity.</td></tr><tr><td align="center">6</td><td>Discharging</td><td>Maximum power for exporting to grid</td><td>The maximum power that the system is allowed to export to the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">7</td><td>Discharging</td><td>Maximum Discharging Power from BAT to Grid</td><td>The maximum power that the battery pack discharges to the grid during this period. The system default value is infinity.</td></tr><tr><td align="center">8</td><td>Self-Consumption</td><td>Maximum power for importing from grid</td><td>The maximum power that can be imported from the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">9</td><td>Self-Consumption</td><td>Maximum power for exporting to grid</td><td>The maximum power that the system is allowed to export to the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr></tbody></table>
+<table><thead><tr><th width="54" align="center">No.</th><th width="111.4000244140625">Parameter name</th><th width="175">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Charging</td><td>Maximum charging power for BAT</td><td>During this period, the sum of the charging power of all battery packs in the system cannot be greater than the "PACK maximum charging power."The system defaults to the sum of rated charging power of all battery packs.</td></tr><tr><td align="center">2</td><td>Charging</td><td>Grid Charging Cut-off SOC</td><td><p>Set the cut-off charging capacity value for the battery pack to be charged from the grid during this period.The system default is 100%.</p><p>When the battery SOC exceeds this parameter, the grid can charge the battery; when the battery SOC falls below this parameter, the grid cannot charge the battery.</p></td></tr><tr><td align="center">3</td><td>Charging</td><td>Maximum power for importing from grid</td><td>The maximum power that can be imported from the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">4</td><td>Charging</td><td>Maximum Charging Power from Grid to BAT</td><td>The maximum power that the grid charges the battery pack during this period. </td></tr><tr><td align="center">5</td><td>Discharging</td><td>Maximum discharging power for BAT</td><td>During this period, the sum of the discharging power of all battery packs in the system cannot be greater than the "PACK maximum discharging power." The system defaults to the sum of rated charging power of all battery packs.</td></tr><tr><td align="center">6</td><td>Discharging</td><td>Maximum power for exporting to grid</td><td>The maximum power that the system is allowed to export to the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">7</td><td>Discharging</td><td>Maximum Discharging Power from BAT to Grid</td><td>The maximum power that the battery pack discharges to the grid during this period. The system defaults to the sum of rated charging power of all battery packs.</td></tr><tr><td align="center">8</td><td>Self-Consumption</td><td>Maximum power for importing from grid</td><td>The maximum power that can be imported from the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr><tr><td align="center">9</td><td>Self-Consumption</td><td>Maximum power for exporting to grid</td><td>The maximum power that the system is allowed to export to the grid during this period. System default values are effective according to the parameters in System Settings → Operational Parameters.</td></tr></tbody></table>
 
 {% include "../../.gitbook/includes/tips.md" %}
 
@@ -63,3 +63,13 @@ By obtaining local peak and valley electricity prices and weather data, combined
 ## Load Shedding Mode
 
 In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
+
+
+
+## Custom Working Mode
+
+{% include "../../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">**Customized operation modes can be created according to owner requirements.**</mark>
+
+<figure><img src="../../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
