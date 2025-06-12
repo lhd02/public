@@ -33,7 +33,7 @@ Setting grid-related parameters can ensure safe grid connection, compliant elect
 
 Assume that the peak shaving SOC is set to 50% and the maximum peak power is 2kW. Because Total electricity bill = Cost at peak power + cost for electricity usage + other costs. Wherein, peak power refers to the maximum power imported from the grid. After Self-Consumption Mode is set to Peak Shaving, the power purchased from the grid drops from 5 kW to 2 kW, so the total electricity bill is reduced.
 
-<figure><img src="../../../../.gitbook/assets/MSA1OV00005-en.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/MSA1OV00007-en.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Example 2: Time-based Control Mode Settings for Peak Shaving
 

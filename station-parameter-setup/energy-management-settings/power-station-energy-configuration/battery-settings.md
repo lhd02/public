@@ -6,9 +6,9 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">By default priority, PV is placed before Grid, PV solar charges the battery first，Grid supplements the remaining charge.</mark>
-* <mark style="color:blue;">In the negative electricity price scenario, Grid can be adjusted to be before PV.</mark>
-* <mark style="color:blue;">The battery acquires power according to the set order.</mark>
+* <mark style="color:blue;">**By default priority, PV is placed before Grid, PV solar charges the battery first，Grid supplements the remaining charge.**</mark>
+* <mark style="color:blue;">**In the negative electricity price scenario, Grid can be adjusted to be before PV.**</mark>
+* <mark style="color:blue;">**The battery acquires power according to the set order.**</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-电网设置-电网输出优先级 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 

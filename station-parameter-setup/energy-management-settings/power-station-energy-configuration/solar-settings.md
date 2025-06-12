@@ -6,8 +6,8 @@ Setting PV-related parameters can optimize power generation efficiency, ensure s
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">The displayed parameters may vary in different working modes. Please refer to the actual interface.</mark>
-* <mark style="color:blue;">PV distributes the direction of the electrical energy according to the set order.</mark>
+* <mark style="color:blue;">**The displayed parameters may vary in different working modes. Please refer to the actual interface.**</mark>
+* <mark style="color:blue;">**PV distributes the direction of the electrical energy according to the set order.**</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-光伏发电优先级.png" alt="" width="563"><figcaption></figcaption></figure>
 
