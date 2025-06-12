@@ -29,9 +29,9 @@
 
 ## Smart Load Settings
 
-On the device interface, click the smart load you want to configure → click " ![](<../../../.gitbook/assets/image (2).png>)" in the upper right corner to set the smart load parameters.
+On the device interface, click the smart load you want to configure → click " ![](<../../../.gitbook/assets/image (2) (1).png>)" in the upper right corner to set the smart load parameters.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="56.2728271484375">No.</th><th width="161.2728271484375">Parameter name</th><th width="124.45458984375"></th><th></th></tr></thead><tbody><tr><td>1</td><td>General Settings</td><td>Device Type</td><td>Set the smart load type.</td></tr><tr><td>2</td><td>General Settings</td><td>Device Name</td><td>Set the smart load name.</td></tr><tr><td>3</td><td>General Settings</td><td>Room</td><td>Set the room where the smart load is located.</td></tr><tr><td>4</td><td>Operation Settings</td><td>PV Excess Setting</td><td><ul><li>Starting Power: Set the starting power of the load.</li><li>Rated Power: Set the rated power of the load, which can be checked on the load's label.</li></ul></td></tr><tr><td>5</td><td>Operation Settings</td><td>Minimum Running Time</td><td>Set the minimum running time for the smart load.</td></tr><tr><td>6</td><td>Operation Settings</td><td>Backup Management (When configuring the Gateway in the network setup, this parameter is displayed.)</td><td><ul><li><p>When Essential Load is set to , the SOC for load startup and shutdown can be configured.</p><ul><li>Cut-in: The smart load will activate when the actual SOC is greater than the set parameter.</li><li>Cut-off: The smart load will deactivate when the actual SOC is less than the set parameter.</li></ul></li></ul></td></tr><tr><td>7</td><td>Remove Smart Device</td><td>-</td><td>Click to remove the smart load.</td></tr></tbody></table>
 

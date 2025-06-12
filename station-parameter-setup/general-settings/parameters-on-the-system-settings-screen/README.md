@@ -2,4 +2,4 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-Parameters available for setup differ depending on the grid code. The screen display shall prevail.
+<mark style="color:blue;">Parameters available for setup differ depending on the grid code. The screen display shall prevail.</mark>
