@@ -6,7 +6,7 @@
 * <mark style="color:blue;">**If the Gateway features a Smart Port interface, the generator card will be displayed in the App interface.**</mark>
 * <mark style="color:blue;">**After connecting the generator to the Gateway, users must add the generator via the App to access and configure generator-specific parameters.**</mark>
 
-<figure><img src="../../../.gitbook/assets/adddevoce.png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SSA1CM00072-油机.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Manual start by operating the generator's switch**
 

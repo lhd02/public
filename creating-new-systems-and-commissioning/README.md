@@ -23,7 +23,7 @@ Use the following two methods to download the App.
 
 Please visit [https://www.sigenergy.com](https://www.sigenergy.com/) and go to "Partner" →"Become a Partner" and sign up for your account.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Method 2: App-based operation**
 
