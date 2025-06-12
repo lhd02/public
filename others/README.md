@@ -55,3 +55,14 @@ Click "Service" → "Service CRM" or "Dispatched" to check and manage owner cons
 ## Support
 
 Click "Service" → "Support" to get the contact information of your region or submit a work order.
+
+## Access Guide Video
+
+Click"Service"→ "Guide Video".
+
+## Access User Manual
+
+Click"Service"→ "User Manual".
+
+
+
