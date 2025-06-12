@@ -15,23 +15,21 @@
 
 Use the following two methods to download the App.
 
-![](../.gitbook/assets/1.jpeg)
-
-
+<figure><img src="../.gitbook/assets/SSA1CM00014-欧洲区.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Registration of installer account
 
 ### **Method 1: Web-based operation**
 
-Please visit [https://www.sigenergy.com](https://www.sigenergy.com/) and go to "Partner" →"Register Now" and sign up for your account.
+Please visit [https://www.sigenergy.com](https://www.sigenergy.com/) and go to "Partner" →"Become a Partner" and sign up for your account.
 
-![](<../.gitbook/assets/0 (19).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### **Method 2: App-based operation**
 
 On the "Sign Up" screen of the App, sign up for your account.
 
-![](<../.gitbook/assets/1 (3).jpeg>)
+<figure><img src="../.gitbook/assets/MSA1CM00001-en.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Creating new systems
 

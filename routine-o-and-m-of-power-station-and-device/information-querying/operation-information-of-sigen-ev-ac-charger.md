@@ -4,8 +4,8 @@ Go to the corresponding interface using the following method, and click "Real Ti
 
 ### **Pure charging application**
 
-![](<../../.gitbook/assets/0 (7).jpeg>)
+<figure><img src="../../.gitbook/assets/MSA1CM00079-纯充EVAC.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **PV charging or PV storage & charging application**
 
-![](<../../.gitbook/assets/1 (2).jpeg>)
+<figure><img src="../../.gitbook/assets/MSA1CM00078-光充EVAC.png" alt=""><figcaption></figcaption></figure>
