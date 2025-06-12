@@ -20,12 +20,14 @@ Setting grid-related parameters can ensure safe grid connection, compliant elect
 
 ## Peak Shaving Control Mode
 
-* The electricity bill in some regions is calculated as follows: Total electricity bill = Cost at peak power + cost for electricity usage + other costs. Wherein, peak power refers to the maximum power imported from the grid. This mode is suitable for areas with peak and valley electricity prices and significant price differences.
-* The Peak Shaving function can be used with all working modes, configuring the maximum peak power drawn from the grid to reduce the maximum peak power drawn from the grid during peak periods, thereby lowering the electricity bill.
+{% include "../../../../.gitbook/includes/tips.md" %}
 
-<figure><img src="../../../../.gitbook/assets/SSA1CM00043-en-peak shaving.jpg" alt="" width="375"><figcaption></figcaption></figure>
+* <mark style="color:blue;">**The electricity bill in some regions is calculated as follows: Total electricity bill = Cost at peak power + cost for electricity usage + other costs. Wherein, peak power refers to the maximum power imported from the grid. This mode is suitable for areas with peak and valley electricity prices and significant price differences.**</mark>
+* <mark style="color:blue;">**The Peak Shaving function can be used with all working modes, configuring the maximum peak power drawn from the grid to reduce the maximum peak power drawn from the grid during peak periods, thereby lowering the electricity bill.**</mark>
 
-**Active Power Control**
+<figure><img src="../../../../.gitbook/assets/MSA1CM00073-peak shaving.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### **Active Power Control**
 
 <table><thead><tr><th width="71" align="center">No.</th><th width="186">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Peak shaving SOC</td><td>This parameter setting affects the capacity of peak shaving, and the system charges the battery to the set SOC value during the off-peak period. The larger the parameter setting, the stronger the peak shaving capability.</td></tr><tr><td align="center">2</td><td>Schedule</td><td>A maximum of 24 timetables can be added.</td></tr><tr><td align="center">3</td><td>Maximum Peak Power</td><td>Set the maximum peak power for drawing electricity from the grid for household loads and battery packcharging.</td></tr></tbody></table>
 

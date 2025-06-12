@@ -2,7 +2,7 @@
 
 ![](<../../../.gitbook/assets/0 (9).jpeg>)
 
-## Internet connection
+## Connectivity
 
 Click the "Connectivity" area to view the communication method of the device connecting to the network.
 
