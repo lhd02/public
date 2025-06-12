@@ -2,11 +2,9 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">Before connecting a diesel generator, please ensure that the Gateway that can be connected to the diesel generator has been configured in the networking and connected correctly. For details about the Gateway, please refer to the respective Installation Guide.</mark>
-
-若Gateway有Smart Port接口，App界面展示发电机卡片。
-
-发电机接入Gateway后需通过App添加油机，才可查看与设置油机相关参数。
+* <mark style="color:blue;">**Before connecting a diesel generator, please ensure that the Gateway that can be connected to the diesel generator has been configured in the networking and connected correctly. For details about the Gateway, please refer to the respective Installation Guide.**</mark>
+* <mark style="color:blue;">**If the Gateway features a Smart Port interface, the generator card will be displayed in the App interface.**</mark>
+* <mark style="color:blue;">**After connecting the generator to the Gateway, users must add the generator via the App to access and configure generator-specific parameters.**</mark>
 
 <figure><img src="../../../.gitbook/assets/adddevoce.png" alt="" width="311"><figcaption></figcaption></figure>
 

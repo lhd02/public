@@ -1,13 +1,8 @@
 # Third-party inverter
 
-{% include "../../../.gitbook/includes/tips.md" %}
+<figure><img src="../../../.gitbook/assets/SSA1CM00072-第三方逆变器.png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**If you use our products, the system will automatically recognize and connect them. You can view device information on the "Device" screen.**</mark>
-* <mark style="color:blue;">**This section describes how to connect a third-party device.**</mark>
-
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-## Method 1: **Connecting using Gateway**
+### Method 1: **Connecting using Gateway**
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
@@ -15,7 +10,7 @@
 * <mark style="color:blue;">**Before connecting to a third-party inverter, ensure that the third-party inverter is connected to the smart load circuit breaker of the Gateway. For connection details, refer to the Installation Guide of the respective product.**</mark>
 * <mark style="color:blue;">**On the "Device" screen, set related parameters based on the third-party inverter. Then, you can check detailed settings on the "Device" screen.**</mark>
 
-## Method 2: **Connecting using an electric meter**
+### Method 2: **Connecting using an electric meter**
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
