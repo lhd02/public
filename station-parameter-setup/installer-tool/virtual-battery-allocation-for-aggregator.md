@@ -1,0 +1,16 @@
+# Virtual Battery Allocation for Aggregator
+
+{% include "../../.gitbook/includes/tips.md" %}
+
+
+
+
+
+<figure><img src="../../.gitbook/assets/MSA1CM00078-储能分身.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="60" align="center">No.</th><th width="197">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Virtual Battery Allocation for Aggregator</td><td>Sets the capacity at which the battery pack stops charging.</td></tr><tr><td align="center">2</td><td>Total Battery Capacity</td><td><p><strong>Sets the capacity at which the battery pack stops discharging.</strong></p><ul><li>Value 0 is not recommended for this parameter to avoid irreversible attenuation due to failure to charge the battery pack in time.</li></ul><ul><li>The priority is given to "Backup Capacity" in backup power networking mode, while the parameter is applied in non-backup power networking mode.</li></ul></td></tr><tr><td align="center">3</td><td>Virtual Battery Capacity</td><td><ul><li>You can set this parameter when a gateway exists in the network.</li></ul><ul><li>In the on-grid scenario, the battery pack stops discharging when the backup capacity value is reached. In the off-grid scenario, the battery pack supplies power to power device and stops discharging when the Discharge Cut-off SOC setting is reached.</li></ul><ul><li>Users can manually set this parameter according to the power interruption frequency of their regions and leave time. Value 0 is not recommended for this parameter to avoid irreversible attenuation due to failure to charge the battery pack in time.</li></ul></td></tr><tr><td align="center">4</td><td>Allocation Ratio for Aggregator</td><td></td></tr><tr><td align="center">5</td><td>Inverter Rated Max Active Input Power</td><td></td></tr><tr><td align="center">6</td><td>Inverter Max Active Input Power</td><td></td></tr><tr><td align="center">7</td><td>Inverter Rated Max Active Output Power</td><td></td></tr><tr><td align="center">8</td><td>Inverter Max Active Output Power</td><td></td></tr><tr><td align="center"></td><td>Battery Rated Max Charging Power</td><td></td></tr><tr><td align="center"></td><td>Battery Max Charging Power</td><td></td></tr><tr><td align="center"></td><td>Battery Rated Max Discharging Power</td><td></td></tr><tr><td align="center"></td><td>Battery Max Discharging Power</td><td></td></tr><tr><td align="center"></td><td></td><td></td></tr></tbody></table>
+
+
+
+### Virtual Battery Setting
+

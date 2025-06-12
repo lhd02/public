@@ -1,4 +1,4 @@
-# LED Light Settings
+# Indicator Settings
 
 <figure><img src="../../.gitbook/assets/MSA1CM00078-LED.png" alt="" width="563"><figcaption></figcaption></figure>
 
