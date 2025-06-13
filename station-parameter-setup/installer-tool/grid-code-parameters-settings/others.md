@@ -2,7 +2,7 @@
 
 ## Maintenance
 
-<table><thead><tr><th width="69" align="center">No.</th><th width="198">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Maintenance</td><td>Used to bulk turn on/off all devices in the power station.</td></tr><tr><td align="center">7</td><td>Grid Overvoltage and Islanding Switch Point</td><td>Used to set the on-grid-to-off-grid overvoltage switch point.</td></tr><tr><td align="center">8</td><td>Grid Undervoltage and Islanding Switch Point</td><td>Used to set the on-grid-to-off-grid undervoltage switch point.</td></tr><tr><td align="center">9</td><td>Grid Overfrequency and Islanding Switch Point</td><td>Used to set the on-grid-to-off-grid overfrequency switch point.</td></tr><tr><td align="center">10</td><td>Grid Underfrequency and Islanding Switch Point</td><td>Used to set the on-grid-to-off-grid underfrequency switch point.</td></tr><tr><td align="center">12</td><td>Load threshold (enter energy saving state)</td><td>When "Energy Saving Mode" is set to "Energy Saving," you can set the load threshold in standby mode to reduce power loss. The default value is 0.5% of the sum of the maximum powers of inverters in parallel.</td></tr><tr><td align="center">15</td><td></td><td></td></tr><tr><td align="center">16</td><td></td><td></td></tr><tr><td align="center">17</td><td>DO Custom Function Enable</td><td>When it is set to <img src="../../../.gitbook/assets/image (6).png" alt="">, the DO custom function is enabled, and a third-party device (for example, heat pump) can connect to the device of the company through the DO port.</td></tr><tr><td align="center">18</td><td>DO Custom Function Input Port</td><td>Set the DO port to which the device connects to according to the wiring.</td></tr><tr><td align="center">19</td><td>DO Custom Function Mode</td><td>Set the DO port mode.</td></tr><tr><td align="center">20</td><td>Connected Device SN</td><td>Set the SN of the inverter to which the device connects through the DO port.</td></tr><tr><td align="center">21</td><td>Grid connection point voltage control enable</td><td>The output power of the inverter affects the grid voltage when the grid voltage is low. The grid overvoltage/undervoltage protection may be triggered when the output power or absorbed power is too high. When this parameter is set to <img src="../../../.gitbook/assets/image (6).png" alt="">, the power output is limited to prevent triggering grid overvoltage/undervoltage protection.</td></tr><tr><td align="center">22</td><td></td><td> <img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""> </td></tr><tr><td align="center">23</td><td></td><td></td></tr><tr><td align="center">24</td><td></td><td></td></tr><tr><td align="center">25</td><td>Grid Fault Recovery Power Gradient (%/s)</td><td>Specifies the power rise gradient after the devices are connected to the grid after the power grid resumes normal operation.</td></tr><tr><td align="center">26</td><td>System Report Download</td><td>Used to download station reports.</td></tr></tbody></table>
+<table><thead><tr><th width="60" align="center">No.</th><th width="197">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Maintenance</td><td>Used to bulk turn on/off all devices in the power station.</td></tr></tbody></table>
 
 
 
@@ -42,6 +42,12 @@
 
 
 
+## DO Custom
+
+<table><thead><tr><th width="59" align="center">No.</th><th width="241">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>DO Custom Function Enable</td><td>When it is set to <img src="../../../.gitbook/assets/image (6).png" alt="">, the DO custom function is enabled, and a third-party device (for example, heat pump) can connect to the device of the company through the DO port.</td></tr><tr><td align="center">2</td><td>DO Custom Function Input Port</td><td>Set the DO port to which the device connects to according to the wiring.</td></tr><tr><td align="center">3</td><td>DO Custom Function Mode</td><td>Set the DO port mode.</td></tr><tr><td align="center">4</td><td>Connected Device SN</td><td>Set the SN of the inverter to which the device connects through the DO port.</td></tr></tbody></table>
+
+
+
 ## Grid Control
 
 <table><thead><tr><th width="60" align="center">No.</th><th width="197">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid Connection Point Voltage Control Enable</td><td>Grid Connection Point Voltage Control Enable: Set to<img src="../../../.gitbook/assets/image (6).png" alt=""></td></tr></tbody></table>
@@ -78,13 +84,15 @@ Note: _**N**_ is a numeric value from 1 to 6. You can set a parameter for "Frequ
 
 ## Reactive power regulation
 
-<table><thead><tr><th width="82">No.</th><th width="222">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>QU Curve Enable</td><td>When set to <img src="../../../.gitbook/assets/2 (5) (1).png" alt="" data-size="line">, the Q-U Curve parameters can be configured.</td></tr><tr><td>2</td><td>Q-U Curve</td><td>Lock In Power: 设置设备触发Q-U曲线功能的P/Pmax。设备的实际功率＞设置值时，启动Q-U曲线调度功能。<br>Lock Out Power: 设置设备退出Q-U曲线功能的P/Pmax。设备的实际功率＜设置值时，退出Q-U曲线调度功能。<br>Response Time: </td></tr><tr><td>3</td><td>Pf-P Curve Enable</td><td>当设置为<img src="../../../.gitbook/assets/2 (5) (1).png" alt="" data-size="line">时，可设置PF-P/Pn Curve相关参数。</td></tr><tr><td>4</td><td>PF-P/Pn Curve</td><td>Response Time: 设置根据对应PF-P/Pn曲线关系调节设备输出无功功率值的95%所需时间。</td></tr></tbody></table>
+<table><thead><tr><th width="82">No.</th><th width="222">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>QU Curve Enable</td><td>When set to <img src="../../../.gitbook/assets/2 (5) (1).png" alt="" data-size="line">, the Q-U Curve parameters can be configured.</td></tr><tr><td>2</td><td>Q-U Curve</td><td>Lock In Power: Set the P/Pmax threshold to trigger the Q-U curve function. When the device's actual power exceeds the set value, the Q-U curve dispatch function is activated.<br>Lock Out Power: 设置设备退出Q-U曲线功能的P/Pmax。设备的实际功率＜设置值时，退出Q-U曲线调度功能。<br>Response Time: Under-frequency power boost response time: The delay time for power response when frequency falls below threshold.</td></tr><tr><td>3</td><td>Pf-P Curve Enable</td><td>When set to<img src="../../../.gitbook/assets/2 (5) (1).png" alt="" data-size="line">，PF-P/Pn curve parameters are configurable.</td></tr><tr><td>4</td><td>PF-P/Pn Curve</td><td>Response Time: Set the response time required to adjust the device's reactive power output to 95% of the target value based on the defined PF-P/Pn curve relationship.</td></tr></tbody></table>
 
 
 
 ## **Power Response to overfrequency**
 
 <table><thead><tr><th width="60" align="center">No.</th><th width="203">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Power Response to Overfrequency Enable</td><td>The grid frequency is greater than the trigger value when it is set to <img src="../../../.gitbook/assets/2 (5) (1).png" alt="" data-size="line">. This setting will limit the device from outputting active power.</td></tr><tr><td align="center">2</td><td>Trigger Frequency</td><td>Specifies the threshold for triggering derating upon overfrequency.</td></tr><tr><td align="center">3</td><td>Power Droop Rate</td><td>The active power is recovered based on the gradient setting after the frequency is recovered.</td></tr><tr><td align="center">4</td><td>Exit Frequency</td><td>Specifies the threshold to exit derating upon overfrequency. That is, when the grid frequency is lower than the exit threshold, the device outputs active power and derating stops.</td></tr><tr><td align="center">5</td><td>Power Reference Mode</td><td><ul><li>Freeze active power on trigger: Specifies the real-time active power when derating upon overfrequency is triggered.</li><li>Maximum active power: Specifies the maximum active power of the device.</li><li>Rated power: Specifies the rated power of the device.</li></ul><p>Remaining charge power capacity of battery: Specifies the real-time power + energy storage charging power when derating upon overfrequency is triggered.</p></td></tr><tr><td align="center">6</td><td>Overfrequency derating response delay</td><td>Set the time required for the output power of the device to start changing till reach 95% of the stable value after derating upon overfrequency is triggered.</td></tr><tr><td align="center">7</td><td>Overfrequency derating exit delay</td><td>If "Overfrequency derating exit frequency enable" is set to <img src="../../../.gitbook/assets/3 (4).png" alt="" data-size="line">, you can use this parameter to set the time for the device to stop output active power derating when derating upon overfrequency exits, provided that the grid frequency is lower than the "Over-Frequency Derating Exit Frequency" setting.</td></tr><tr><td align="center">8</td><td>Overfrequency derating exit frequency enable</td><td>When it is set to <img src="../../../.gitbook/assets/4 (2).png" alt="" data-size="line">, "Overfrequency derating exit delay" takes effect, and you can set the "Overfrequency derating exit delay" value.</td></tr></tbody></table>
+
+
 
 ## **Power Response to underfrequency**
 
@@ -96,9 +104,39 @@ Note: _**N**_ is a numeric value from 1 to 6. You can set a parameter for "Frequ
 
 <table><thead><tr><th width="60" align="center">No.</th><th width="237.77783203125">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Startup Grid Connection Enable</td><td>When it is set to <img src="../../../.gitbook/assets/13 (1).png" alt="" data-size="line">, the device can be connected to the power grid only when the actual grid voltage and frequency are within the set range, and this state is maintained for the set duration.</td></tr><tr><td align="center">2</td><td>Observation Time</td><td>Specifies the time after which the actual grid voltage and frequency are within the set range, and the device waits for the grid connection after the device is powered on.</td></tr><tr><td align="center">3</td><td>Connection Upper Frequency</td><td>Specifies the allowable maximum frequency for the grid connection after the device is powered on.</td></tr><tr><td align="center">4</td><td>Connection Lower Frequency</td><td>Specifies the allowable minimum frequency for the grid connection after the device is powered on.</td></tr><tr><td align="center">5</td><td>Connection Upper Voltage</td><td>Specifies the allowable maximum voltage for the grid connection after the device is powered on.</td></tr><tr><td align="center">6</td><td>Connection Lower Voltage</td><td>Specifies the allowable minimum voltage for the grid connection after the device is powered on.</td></tr><tr><td align="center">7</td><td>Startup Grid Connection Detection Power Gradient</td><td>Specifies the power rise gradient after the device is connected to the grid after being powered on.</td></tr></tbody></table>
 
-## **EMS Control**
 
-<table><thead><tr><th width="60" align="center">No.</th><th width="162">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Single-Machine Active Power Dispatch Enable</td><td><p>When it is set to <img src="../../../.gitbook/assets/11 (1).png" alt="" data-size="line">, the power is scheduled for a single device, and you can set it to either active power mode or reactive power mode.</p><p><img src="../../../.gitbook/assets/12 (1).png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-警告-en.png" data-size="line"></p><p>Inverters with this parameter set cannot participate in EMS control.</p></td></tr></tbody></table>
+
+## **Islanding**
+
+<table><thead><tr><th width="61" align="center">No.</th><th width="169">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Active Islanding</td><td>When it is set to <img src="../../../.gitbook/assets/19 (1).png" alt="" data-size="line">, the output power, frequency, or phase can be disturbed to a certain extent by using a control unit.</td></tr><tr><td align="center">2</td><td>Passive Islanding</td><td>When it is set to <img src="../../../.gitbook/assets/20 (1).png" alt="" data-size="line">, the islanding effect will be detected by the change of output voltage, frequency, phase, or harmonics during the power outage.</td></tr></tbody></table>
+
+
+
+## Off-Grid Settings
+
+{% include "../../../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">**Application scenario: When the Sigenergy inverter operates off-grid without PV connection, while photovoltaic arrays are connected to a third-party inverter.**</mark>
+
+<table><thead><tr><th width="61" align="center">No.</th><th width="169">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Enable 3rd Party PV Inverter Black Start</td><td>When it is set to <img src="../../../.gitbook/assets/19 (1).png" alt="" data-size="line"><strong>,</strong> the energy storage system will reserve SOC to initiate morning startup.</td></tr><tr><td align="center">2</td><td>SOC Reserved For Black Start</td><td>The reserved SOC serves as the energy source for next-day black start.</td></tr></tbody></table>
+
+
+
+## 3 Phase Switch To 2 Phase
+
+{% include "../../../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">**Supports connecting equipment using two phases in a three-phase four-wire grid.**</mark>
+
+<table><thead><tr><th width="61" align="center">No.</th><th width="169">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>3 Phase Switch To 2 Phase Enable</td><td>When it is set to <img src="../../../.gitbook/assets/19 (1).png" alt="" data-size="line"><strong>,</strong> Two-phase grid connection is supported.</td></tr></tbody></table>
+
+
+
+## Third Party Inverter Control
+
+<table><thead><tr><th width="61" align="center">No.</th><th width="237.888916015625">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>3rd Party Inverter Control Disconnection Enable</td><td>When it is set to <img src="../../../.gitbook/assets/19 (1).png" alt="" data-size="line"><strong>,</strong> The system can disconnect third-party inverters. This feature activates when anomalies are detected (e.g., islanding, grid faults, etc.).</td></tr><tr><td align="center">2</td><td>Third Party Inverter Control Disconnection Delay Time</td><td>When it is set to <img src="../../../.gitbook/assets/20 (1).png" alt="" data-size="line">, Set a delay time for third-party inverter disconnection. After configuration, the system will wait for the specified delay before executing the disconnection, preventing false triggers or frequent switching due to transient fluctuations.</td></tr></tbody></table>
+
+
 
 
 
