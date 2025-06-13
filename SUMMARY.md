@@ -17,7 +17,7 @@
     * [Viewing Feedback History](routine-o-and-m-of-power-station-and-device/information-querying/viewing-feedback-history.md)
     * [Viewing backup history and Event](routine-o-and-m-of-power-station-and-device/information-querying/viewing-backup-event-record.md)
     * [Viewing Station Diagnosis](routine-o-and-m-of-power-station-and-device/information-querying/viewing-station-diagnosis.md)
-* [Station parameter setup](routine-o-and-m-of-power-station-and-device/station-parameter-setup/README.md)
+* [System Settings](routine-o-and-m-of-power-station-and-device/station-parameter-setup/README.md)
   * [Manual Control](station-parameter-setup/manual-control.md)
   * [Energy management settings](station-parameter-setup/energy-management-settings/README.md)
     * [Energy storage working mode](station-parameter-setup/energy-management-settings/energy-storage-working-mode.md)
