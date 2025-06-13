@@ -7,8 +7,6 @@
 * <mark style="color:blue;">**The heat pump has been properly connected to the DO port of the company's inverter, and the software version of the inverter enables users to connect the heat pump.**</mark>
 * <mark style="color:blue;">**"DO Custom Function Enable" in the "System Settings" menu has been set to**</mark> <img src="../../../.gitbook/assets/3 (8).png" alt="" data-size="line"><mark style="color:blue;">**.**</mark>
 
-
-
 ## Control Mode
 
 On the device interface, click the SG heat pump to set the SG heat pump control mode.
@@ -21,6 +19,6 @@ On the device interface, click the SG heat pump to set the SG heat pump control 
 
 On the device interface, click SG heat pump → Click "<img src="../../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> " in the upper right corner to set the SG heat pump parameters.
 
-
+<figure><img src="../../../.gitbook/assets/SSA1CM00072-SG热泵设置.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="51" align="center">No.</th><th width="135">Parameter name</th><th width="143">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>General Settings</td><td>Device Name</td><td>Set the device name.</td></tr><tr><td align="center">2</td><td>General Settings</td><td>Room</td><td>Set the room where the device is located.</td></tr><tr><td align="center">3</td><td>Operation Settings</td><td>PV Excess Setting</td><td><ul><li>Starting Power: Set the starting power of the SG heat pump.</li></ul><ul><li>Rated Power: Set the rated power of the connected device, which can be checked on the SG heat pump's label.</li></ul></td></tr><tr><td align="center">4</td><td>Operation Settings</td><td>Minimum Running Time</td><td>Set the minimum running time for the device.</td></tr><tr><td align="center">5</td><td>Operation Settings</td><td>Backup Management (When configuring the Gateway in the network setup, this parameter is displayed.)</td><td><p><strong>When Essential Load is set to , the SOC for SG heat pump startup and shutdown can be configured.</strong></p><ul><li> Cut-in: The SG heat pump will activate when the actual SOC is greater than the set parameter.</li><li>Cut-off: The SG heat pump will deactivate when the actual SOC is less than the set parameter.</li></ul></td></tr><tr><td align="center">6</td><td>Remove Smart Device</td><td>-</td><td>Click to remove the SG heat pump.</td></tr></tbody></table>
