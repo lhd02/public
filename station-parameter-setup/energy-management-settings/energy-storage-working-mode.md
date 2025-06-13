@@ -6,7 +6,7 @@
 * <mark style="color:blue;">The energy storage system supports multiple working modes, namely: "Sigen AI Mode," "Fully Feed-in to Grid," "Time-based Control," "Self-Consumption," "Remote EMS Mode," and "Load Shedding Mode."</mark>
 * <mark style="color:blue;">Some countries support Load Shedding Mode, which is subject to the App interface display.</mark>
 
-<figure><img src="../../.gitbook/assets/MSA1CM00078-储能工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00078-储能工作模式.png" alt=""><figcaption></figcaption></figure>
 
 ## Sigen AI Mode
 
@@ -14,11 +14,11 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 <figure><img src="../../.gitbook/assets/SSA1OV00011-en.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-Sigen AI mode.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-Sigen AI mode.png" alt=""><figcaption></figcaption></figure>
 
 ### **Add Spike Load**
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="98" align="center">No.</th><th width="198.60009765625">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Spike Load</td><td>Peak load, which refers to the instantaneous surge in electricity demand.</td></tr><tr><td align="center">2</td><td>Start time</td><td>Set the peak load start time.</td></tr><tr><td align="center">3</td><td>Run Time</td><td>Set the peak load runtime duration.</td></tr><tr><td align="center">4</td><td>Consumption Forecast</td><td>Set the energy consumption power for peak load.</td></tr></tbody></table>
 
