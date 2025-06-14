@@ -10,7 +10,7 @@ Setting grid-related parameters can ensure safe grid connection, compliant elect
 * <mark style="color:blue;">**In the negative electricity price scenario, Battery can be adjusted to be before PV.**</mark>
 * <mark style="color:blue;">**The device sells electricity to the grid according to the set order.**</mark>
 
-<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电网设置-电网输出优先级 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电网输出优先级.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Grid power setting
 
@@ -49,7 +49,7 @@ Assume that the peak shaving SOC is set to 50% and the maximum peak power is 2kW
 
 <mark style="color:blue;">Some countries support the Tariff Rate Plan, as shown in the App interface.</mark>
 
-<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电价设置.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电价设置.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Tariff Rate Plan**
 
@@ -65,6 +65,6 @@ Assume that the peak shaving SOC is set to 50% and the maximum peak power is 2kW
 
 <mark style="color:blue;">If this parameter is set, the grid will prioritize executing the parameters set by Grid Automation.</mark>
 
-<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电网设置-电网自动化.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/MSA1CM00073-电网设置-电网自动化.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="70" align="center">No.</th><th width="152">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Add Time Period</td><td>Click to add Time Period.</td></tr><tr><td align="center">2</td><td>Add your action</td><td><p>Click to add grid operation status.</p><p><strong>Grid Self-Consumption: The battery's power is supplied to the load first, and the surplus electric energy is sold to the grid.</strong></p><ol><li>Maximum power for importing from grid: Set the maximum input power for importing from the grid.</li><li>Maximum power for exporting to grid: Set the maximum output power for exporting to the grid.</li></ol><p><strong>Grid Importing: Set the maximum total input power for selling electricity to the grid, including all power sources within the system.</strong></p><ol><li>Maximum power for importing from grid：Set the maximum input power for selling electricity to the grid。</li></ol><p><strong>Grid Exporting: Set the maximum total output power for buying electricity from the grid, including all power sources within the system.</strong></p><ol><li>Maximum power for exporting to grid: Set the maximum output power for buying electricity from the grid.</li><li>Grid Exporting Source Priority: The device sells electricity to the grid according to the set order.</li></ol></td></tr></tbody></table>
