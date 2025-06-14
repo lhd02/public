@@ -25,6 +25,3 @@ By clicking "Maintenance" and then "Power-off" or "Power-on,” you can power th
 
 <figure><img src="../../.gitbook/assets/MSA1CM00082-设备开关机.png" alt=""><figcaption></figcaption></figure>
 
-## Operational Parameters
-
-<table><thead><tr><th width="60" align="center">No.</th><th width="183">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>RS485-1 Baud Rate</td><td>Specifies the data transfer rate of the RS485 port.</td></tr></tbody></table>
