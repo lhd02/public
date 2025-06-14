@@ -26,7 +26,7 @@
       * [Battery Settings](station-parameter-setup/energy-management-settings/power-station-energy-configuration/battery-settings.md)
       * [Grid Settings](station-parameter-setup/energy-management-settings/power-station-energy-configuration/grid-settings/README.md)
       * [Backup Setting](station-parameter-setup/energy-management-settings/power-station-energy-configuration/backup-setting.md)
-  * [General setting](station-parameter-setup/general-setting.md)
+  * [General setting](station-parameter-setup/general.md)
   * [Installer Tool](station-parameter-setup/installer-tool/README.md)
     * [Grid Code Parameters Settings](station-parameter-setup/installer-tool/grid-code-parameters-settings/README.md)
       * [Export/Import limitation parameters](station-parameter-setup/installer-tool/grid-code-parameters-settings/export-import-limitation-parameters.md)

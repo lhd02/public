@@ -21,7 +21,7 @@
 
 **Diagram of third-party inverter wiring connections**
 
-![](<../../../.gitbook/assets/3 (9).png>)
+<figure><img src="../../../.gitbook/assets/MSA1CM00090-en.png" alt=""><figcaption></figcaption></figure>
 
 {% include "../../../.gitbook/includes/tips.md" %}
 

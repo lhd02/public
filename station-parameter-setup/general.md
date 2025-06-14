@@ -1,4 +1,4 @@
-# General settings
+# General setting
 
 ## Editing station type, name, and address
 
