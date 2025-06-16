@@ -59,6 +59,14 @@ Assume that the peak shaving SOC is set to 50% and the maximum peak power is 2kW
 
 <table><thead><tr><th width="70" align="center">No.</th><th width="224">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Enter the name of the power company.</td></tr><tr><td align="center">2</td><td>Rate Plan Name</td><td>Enter the name of the electricity rate plan.</td></tr><tr><td align="center">3</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">4</td><td>Rate Plan Type</td><td><p><strong>Single Rate Tariff: All time periods adopt a single rate.</strong></p><ol><li>Rate Tariff.</li></ol><p><strong>TOU Rate Plan: Different rates are used for different time periods.</strong></p><ol><li>Add your TOU schedule: Add your Time-of-Use (TOU) rate periods.</li><li>Seasons Settings: Up to 6 seasons can be set within 1 year.</li><li>Season N time period: Set the time period within the season.</li><li>Price Setting: Set the price within the time period.</li></ol></td></tr><tr><td align="center">5</td><td>Go to settings to enable it</td><td>Click to switch to Tariff Rate Plan.</td></tr></tbody></table>
 
+### Save electricity price configuration
+
+{% include "../../../../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">**The tariff settings can be saved to the installer's account and applied to other plants.**</mark>
+
+<figure><img src="../../../../.gitbook/assets/MSA1CM00081-查看电价配置.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Grid Automation
 
 {% include "../../../../.gitbook/includes/tips.md" %}
