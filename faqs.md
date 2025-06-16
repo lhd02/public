@@ -5,9 +5,13 @@
 * Check whether the email from the "sigencloud" account was received in the Spam folder.
 * If not, check whether the email address of the owner is correct. If the email address is incorrect, please set the email address and push the notification again.
 
+<figure><img src=".gitbook/assets/MSA1CM00078-激活邮箱.png" alt=""><figcaption></figcaption></figure>
+
 ## What should you do if the owner account activation times out and cannot be operated?
 
 Please push the account activation notification again and ask the owner to activate the account within 24 hours.
+
+<figure><img src=".gitbook/assets/MSA1CM00078-激活超时.png" alt=""><figcaption></figcaption></figure>
 
 ## What should you do if you have a problem with creating new systems or other actions? <a href="#toc191308983" id="toc191308983"></a>
 
@@ -23,7 +27,7 @@ Please push the account activation notification again and ask the owner to activ
 
 1. Insert the network cable into the device.
 2. On the "Home" screen, click the station name you want to set.
-3. Click  next to the station name and click "System Settings" → "Connectivity.”
+3. Click <img src=".gitbook/assets/image (25).png" alt="" data-size="line"> next to the station name and click "System Settings" → "Connectivity.”
 4. Wait until "Ethernet" is connected, click "WLAN,” and then select any WLAN and enter an invalid password.
 
 ## How do I connect a power sensor if the RS485\_2 port of the inverter is faulty? <a href="#toc191308986" id="toc191308986"></a>
@@ -34,9 +38,13 @@ You can connect a power sensor to the RS485\_1 port of the inverter. You must ma
 
 <mark style="color:blue;">**When the RS485\_1 port is connected to a power sensor, do not connect other devices simultaneously. Otherwise, the power control may be affected.**</mark>
 
+<figure><img src=".gitbook/assets/SSA1CM00072-添加电表.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## In grid connection scenarios, how can I quickly identify where SigenStor is installed?
 
 You can light up the LED of SigenStor in the App and locate the SigenStor.
+
+<figure><img src=".gitbook/assets/MSA1CM00078-查找设备.png" alt=""><figcaption></figcaption></figure>
 
 ## How do I reconnect the network when the device network connection is lost?
 
@@ -52,5 +60,7 @@ You can check this in "Setting" → "System Affiliation Lookup."
 
 ## How to recharge the Sigen CommMod data when it is used up?
 
-You can recharge the desired data plan by going to " "→ "Connectivity" on the power station homepage.
+You can recharge the desired data plan by going to " <img src=".gitbook/assets/image (24).png" alt="" data-size="line">"→ "Connectivity" on the power station homepage.
+
+<figure><img src=".gitbook/assets/SSA1CM00073-流量充值.jpg" alt=""><figcaption></figcaption></figure>
 
