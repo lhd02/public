@@ -2,10 +2,10 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">An installer can set export/import limitation parameters according to user needs when creating new systems.</mark>
-* <mark style="color:blue;">To modify parameters after creating new systems, please manually set export/import limitation parameters according to local laws and regulations and grid agreements.</mark>
-* <mark style="color:blue;">Before setting the export/import limitation parameters, ensure that the meter or Gateway is connected to the system wiring.</mark>
-* <mark style="color:blue;">The parameter display may differ depending on the device model. The actual screen display shall prevail.</mark>
+* <mark style="color:blue;">**An installer can set export/import limitation parameters according to user needs when creating new systems.**</mark>
+* <mark style="color:blue;">**To modify parameters after creating new systems, please manually set export/import limitation parameters according to local laws and regulations and grid agreements.**</mark>
+* <mark style="color:blue;">**Before setting the export/import limitation parameters, ensure that the meter or Gateway is connected to the system wiring.**</mark>
+* <mark style="color:blue;">**The parameter display may differ depending on the device model. The actual screen display shall prevail.**</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00083-防逆流参数设置.png" alt="" width="297"><figcaption></figcaption></figure>
 
