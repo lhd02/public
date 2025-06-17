@@ -48,7 +48,7 @@
 * [Device parameter setup](routine-o-and-m-of-power-station-and-device/device-parameter-setup/README.md)
   * [SigenStor](device-parameter-setup/sigenstor/README.md)
     * [Operational Parameters](device-parameter-setup/sigenstor/operational-parameters.md)
-    * [ModBus parameters](device-parameter-setup/sigenstor/modbus-parameters.md)
+    * [ModBus Settings](device-parameter-setup/sigenstor/modbus-settings.md)
   * [Inverter](routine-o-and-m-of-power-station-and-device/device-parameter-setup/inverter.md)
   * [Gateway](routine-o-and-m-of-power-station-and-device/device-parameter-setup/gateway.md)
   * [Sigen EV DC Charging Module](routine-o-and-m-of-power-station-and-device/device-parameter-setup/sigen-ev-dc-charging-module.md)

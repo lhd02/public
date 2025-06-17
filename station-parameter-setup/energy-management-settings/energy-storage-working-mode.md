@@ -58,7 +58,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 * Supports scheduling of energy storage system through third-party EMS system.
 * Supports third-party EMS with RS-485 communication.Please make sure that the RS485-1 port cable of the device is properly connected and that the baud rate is set correctly according to the description in section [Operational Parameters](../../device-parameter-setup/sigenstor/operational-parameters.md).(Non-grid connection scenario)
-* It supports third-party EMS with ModBus-TCP communication. Please ensure that you have completed the setup according to the description in section [ModBus parameters](../../device-parameter-setup/sigenstor/modbus-parameters.md).
+* It supports third-party EMS with ModBus-TCP communication. Please ensure that you have completed the setup according to the description in section [ModBus parameters](../../device-parameter-setup/sigenstor/modbus-settings.md).
 
 
 
