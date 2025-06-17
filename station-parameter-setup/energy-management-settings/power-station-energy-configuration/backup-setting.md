@@ -14,15 +14,12 @@ For example, the backup power SOC is set in Self-Consumption Mode.
 
 <figure><img src="../../../.gitbook/assets/SSA1OV00014-en.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/MSA1CM00071-备电.png" alt="" width="563"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/MSA1CM00078-备电设置.png" alt=""><figcaption></figcaption></figure>
 
 ## Backup History
 
-<figure><img src="../../../.gitbook/assets/MSA1CM00071-备电历史.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MSA1CM00078-备电历史.png" alt=""><figcaption></figcaption></figure>
 
 ## Backup Event Center
 
-<figure><img src="../../../.gitbook/assets/MSA1CM00071-备电事件中心.png" alt="" width="563"><figcaption></figcaption></figure>
-
+<figure><img src="../../../.gitbook/assets/MSA1CM00078-备电事件.png" alt=""><figcaption></figcaption></figure>
