@@ -54,6 +54,7 @@
   * [Sigen EV DC Charging Module](routine-o-and-m-of-power-station-and-device/device-parameter-setup/sigen-ev-dc-charging-module.md)
   * [Sigen EV AC Charger](routine-o-and-m-of-power-station-and-device/device-parameter-setup/sigen-ev-ac-charger.md)
   * [Downloading device logs](routine-o-and-m-of-power-station-and-device/device-parameter-setup/downloading-device-logs.md)
-* [Others](others/README.md)
+* [App Setting](app-setting.md)
+* [Account Setting](others/README.md)
 * [Logout](logout.md)
 * [FAQs](faqs.md)
