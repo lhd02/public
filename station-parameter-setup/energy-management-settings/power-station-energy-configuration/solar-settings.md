@@ -15,6 +15,6 @@ Setting PV-related parameters can optimize power generation efficiency, ensure s
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">It is recommended to set this parameter in the negative electricity price scenario.</mark>
+<mark style="color:blue;">**Limit the photovoltaic power generation output. It is recommended to set this parameter in the negative electricity price scenario.**</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-光伏发电功率 (1).png" alt="" width="563"><figcaption></figcaption></figure>

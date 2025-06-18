@@ -4,7 +4,6 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**By default priority, PV is placed before Battery. PV power prioritizes grid feed-in, with battery supplementing grid sales.**</mark>
 * <mark style="color:blue;">**Skip this section if no Gateway is configured.**</mark>
 * <mark style="color:blue;">**Users can manually set this parameter according to the power interruption frequency of their regions and leave time.**</mark>
 
