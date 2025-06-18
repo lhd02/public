@@ -58,6 +58,10 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 After setting to this mode, a third-party EMS dispatch company will be allowed to set the relevant parameters of the power station and products. Do not enter or exit this mode without the installer's confirmation.
 
+## VPP Scheduling-evergen Mode
+
+Once this mode is enabled, your energy storage system will be connected to the CheckWatt Virtual Power Plant (VPP) smart dispatch network. The VPP will control the charging and discharging strategy of your energy storage system based on real-time electricity prices and grid demand.
+
 ## Load Shedding Mode
 
 In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
