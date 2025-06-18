@@ -36,7 +36,7 @@ You can connect a power sensor to the RS485\_1 port of the inverter. You must ma
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**When the RS485\_1 port is connected to a power sensor, do not connect other devices simultaneously. Otherwise, the power control may be affected.**</mark>
+<mark style="color:blue;">When the RS485\_1 port is connected to a power sensor, do not connect other devices simultaneously. Otherwise, the power control may be affected.</mark>
 
 <figure><img src=".gitbook/assets/SSA1CM00072-添加电表.png" alt="" width="563"><figcaption></figcaption></figure>
 
