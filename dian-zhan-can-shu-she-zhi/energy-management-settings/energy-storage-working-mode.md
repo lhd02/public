@@ -2,9 +2,9 @@
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-* <mark style="color:blue;">**The SigenStor energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios. It can support up to 20 SigenStor units in parallel. If more SigenStor units are required, the digital acquisition SigenLogger can be connected to meet the needs.**</mark>
-* <mark style="color:blue;">**The energy storage system supports multiple working modes, namely: "Sigen AI Mode," "Fully Feed-in to Grid," "Time-based Control," "Self-Consumption," "Remote EMS Mode," and "Load Shedding Mode."**</mark>
-* <mark style="color:blue;">**Some countries support Load Shedding Mode, which is subject to the App interface display.**</mark>
+* <mark style="color:blue;">The SigenStor energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios. It can support up to 20 SigenStor units in parallel. If more SigenStor units are required, the digital acquisition Sigen Logger can be connected to meet the needs.</mark>
+* <mark style="color:blue;">The energy storage system supports multiple working modes, namely: "Sigen AI Mode," "Fully Feed-in to Grid," "Time-based Control," "Self-Consumption," "Remote EMS Mode," and "Load Shedding Mode."</mark>
+* <mark style="color:blue;">Some countries support Load Shedding Mode, which is subject to the App interface display.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00068-工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -20,8 +20,8 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**This parameter can only be set in AI mode.**</mark>
-* <mark style="color:blue;">**Peak load refers to the instantaneous surge in electricity demand.**</mark>
+* <mark style="color:blue;">This parameter can only be set in AI mode.</mark>
+* <mark style="color:blue;">Peak load refers to the instantaneous surge in electricity demand.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">**The system will operate based on the PV power situation in periods that you do not specify as charging and discharging periods. The PV power will first be used to power home loads, with excess energy charging the batteries, and the batteries will not discharge.**</mark>
+<mark style="color:blue;">The system will operate based on the PV power situation in periods that you do not specify as charging and discharging periods. The PV power will first be used to power home loads, with excess energy charging the batteries, and the batteries will not discharge.</mark>
 
 ## Fully Feed-in to Grid
 
@@ -67,6 +67,6 @@ In areas with frequent power outages, you can add your region and schedule in th
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">**Customized operation modes can be created according to your requirements.**</mark>
+<mark style="color:blue;">Customized operation modes can be created according to your requirements.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt=""><figcaption></figcaption></figure>

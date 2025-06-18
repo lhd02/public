@@ -4,7 +4,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**The Home screen displays running information, You can click**</mark> <img src="../.gitbook/assets/1 (8).png" alt="" data-size="line"><mark style="color:blue;">**to share information displayed on the Home screen to others.**</mark>
+<mark style="color:blue;">The Home screen displays running information, You can click</mark> <img src="../.gitbook/assets/1 (8).png" alt="" data-size="line"><mark style="color:blue;">to share information displayed on the Home screen to others.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00068-首页.png" alt="" width="295"><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Click the energy box to view the energy flow.**</mark>
+<mark style="color:blue;">Click the energy box to view the energy flow.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00068-桑基图.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**In parallel mode, slide left or right, or up and down, to locate the SigenStor you want to view based on the SN.**</mark>
+<mark style="color:blue;">In parallel mode, slide left or right, or up and down, to locate the SigenStor you want to view based on the SN.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00069-单设备.png" alt="" width="296"><figcaption></figcaption></figure>
 

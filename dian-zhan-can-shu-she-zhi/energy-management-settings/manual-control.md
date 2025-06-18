@@ -2,7 +2,7 @@
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">**When the battery capacity is too high or insufficient, the battery charging or discharging period can be forcibly set, and this parameter will be executed first after setting.**</mark>
+<mark style="color:blue;">When the battery capacity is too high or insufficient, the battery charging or discharging period can be forcibly set, and this parameter will be executed first after setting.</mark>
 
 ### Method 1:
 

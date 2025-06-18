@@ -6,9 +6,9 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-* <mark style="color:blue;">**By default priority, PV is placed before Grid, PV solar charges the battery first，Grid supplements the remaining charge.**</mark>
-* <mark style="color:blue;">**In the negative electricity price scenario, Grid can be adjusted to be before PV.**</mark>
-* <mark style="color:blue;">**The battery acquires power according to the set order.**</mark>
+* <mark style="color:blue;">By default priority, PV is placed before Grid, PV solar charges the battery first，Grid supplements the remaining charge.</mark>
+* <mark style="color:blue;">In the negative electricity price scenario, Grid can be adjusted to be before PV.</mark>
+* <mark style="color:blue;">The battery acquires power according to the set order.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-电池充电来源优先级 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">**Battery releases power according to the set order. The battery discharge priority can be configured based on the actual situation.**</mark>
+<mark style="color:blue;">Battery releases power according to the set order. The battery discharge priority can be configured based on the actual situation.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-电池放电优先级.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">**Pre-adjust the battery temperature to the optimal working range in low temperature environments to prevent performance degradation and safety hazards caused by low temperature.**</mark>
+<mark style="color:blue;">Pre-adjust the battery temperature to the optimal working range in low temperature environments to prevent performance degradation and safety hazards caused by low temperature.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-电池设置-预热调度.png" alt="" width="563"><figcaption></figcaption></figure>
 

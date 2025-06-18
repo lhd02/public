@@ -8,7 +8,7 @@
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">**To gain the best compatibility and performance, you are advised to upgrade the mySigen App regularly.**</mark>
+<mark style="color:blue;">To gain the best compatibility and performance, you are advised to upgrade the mySigen App regularly.</mark>
 
 <figure><img src=".gitbook/assets/MSA1CM00071-软件升级.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Settable parameters on the "App Setting" page vary with equipment. The actual screen shall prevail.**</mark>
+<mark style="color:blue;">Settable parameters on the "App Setting" page vary with equipment. The actual screen shall prevail.</mark>
 
 <figure><img src=".gitbook/assets/MSA1CM00071-App设置.png" alt="" width="297"><figcaption></figcaption></figure>
 

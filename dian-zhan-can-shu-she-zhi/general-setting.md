@@ -8,7 +8,7 @@
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">**You can use this function to check whether the system software is updated to the latest version and upgrade the device to the latest version when necessary.**</mark>
+<mark style="color:blue;">You can use this function to check whether the system software is updated to the latest version and upgrade the device to the latest version when necessary.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00071-电站软件升级.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">**When it is set to**</mark> ![](https://github.com/lhd02/edit/blob/appu-en/dian-zhan-can-shu-she-zhi/broken-reference)<mark style="color:blue;">**, you can set the LED lighting effect according to your preference. When "LED Strips" is set to "Power Flow," the flowing water lighting effect from the top down indicates that the battery pack and charger are charging and the flowing water lighting effect from the bottom up indicates that the battery pack and charger are discharging. The steady-on lighting effect indicates that the battery pack and charger are not charging or discharging.**</mark>
+<mark style="color:blue;">You can set the LED lighting effect according to your preference. When "LED Strips" is set to "Power Flow," the flowing water lighting effect from the top down indicates that the battery pack and charger are charging and the flowing water lighting effect from the bottom up indicates that the battery pack and charger are discharging. The steady-on lighting effect indicates that the battery pack and charger are not charging or discharging.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00071-LED灯.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod runs out, users must top up their accounts or replace an SIM card.**</mark>
+<mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod runs out, users must top up their accounts or replace an SIM card.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00071-网络连接.png" alt="" width="563"><figcaption></figcaption></figure>
 

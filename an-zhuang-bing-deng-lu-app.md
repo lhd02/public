@@ -2,13 +2,13 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**This document takes version 3.0.0 as an example to introduce relevant operations. The screenshots given in this document are for illustration purposes only. Interfaces in different periods may differ. The actual interface display shall prevail.**</mark>
+<mark style="color:blue;">This document takes version 3.0.0 as an example to introduce relevant operations. The screenshots given in this document are for illustration purposes only. Interfaces in different periods may differ. The actual interface display shall prevail.</mark>
 
 ## Downloading the App
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Mobile operating systems: Android 6.0, iOS 12.0, and later versions.**</mark>
+<mark style="color:blue;">Mobile operating systems: Android 6.0, iOS 12.0, and later versions.</mark>
 
 **You can download** **the App using the following two methods:**
 
