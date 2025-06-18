@@ -15,7 +15,6 @@
     * [Alarm information](routine-o-and-m-of-power-station-and-device/information-querying/alarm-information/README.md)
     * [Viewing warranty information](routine-o-and-m-of-power-station-and-device/information-querying/viewing-warranty-information.md)
     * [Viewing Feedback History](routine-o-and-m-of-power-station-and-device/information-querying/viewing-feedback-history.md)
-    * [Viewing backup history and Event](routine-o-and-m-of-power-station-and-device/information-querying/viewing-backup-event-record.md)
     * [Viewing Station Diagnosis](routine-o-and-m-of-power-station-and-device/information-querying/viewing-station-diagnosis.md)
 * [System Settings](routine-o-and-m-of-power-station-and-device/station-parameter-setup/README.md)
   * [Energy management settings](station-parameter-setup/energy-management-settings/README.md)

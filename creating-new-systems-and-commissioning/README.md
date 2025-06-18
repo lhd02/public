@@ -29,7 +29,7 @@ Please visit [https://www.sigenergy.com](https://www.sigenergy.com/) and go to "
 
 On the "Sign Up" screen of the App, sign up for your account.
 
-<figure><img src="../.gitbook/assets/MSA1CM00001-en.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1CM00001-en.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Creating new systems
 
