@@ -61,10 +61,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 ## VPP Scheduling-evergen Mode
 
-* This feature is exclusively available in Sweden.
-* When the power station enables Virtual Battery Allocation for Aggregator, this mode will be automatically locked. In this mode, the energy storage system is virtually partitioned into two independent operating units:
-  * The virtual battery can participate in CheckWatt VPP's frequency regulation services
-  * Remaining capacity continues to be optimized by Sigen algorithm
+Once this mode is enabled, your energy storage system will be connected to the CheckWatt Virtual Power Plant (VPP) smart dispatch network. The VPP will control the charging and discharging strategy of your energy storage system based on real-time electricity prices and grid demand.
 
 ## Load Shedding Mode
 
