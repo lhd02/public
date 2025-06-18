@@ -2,10 +2,10 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Before connecting to a heat pump, make sure that:**</mark>
+<mark style="color:blue;">Before connecting to a heat pump, make sure that:</mark>
 
-* <mark style="color:blue;">**The heat pump has been properly connected to the DO port of the company's inverter, and the software version of the inverter enables users to connect the heat pump.**</mark>
-* <mark style="color:blue;">**"DO Custom Function Enable" in the "System Settings" menu has been set to**</mark> <img src="../.gitbook/assets/3 (8).png" alt="" data-size="line"><mark style="color:blue;">**.**</mark>
+* <mark style="color:blue;">The heat pump has been properly connected to the DO port of the company's inverter, and the software version of the inverter enables users to connect the heat pump.</mark>
+* <mark style="color:blue;">"DO Custom Function Enable" in the "System Settings" menu has been set to</mark> <img src="../.gitbook/assets/3 (8).png" alt="" data-size="line"><mark style="color:blue;">.</mark>
 
 ## Control Mode
 

@@ -6,4 +6,4 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**For use and precautions of the Sigen EV DC Charging Module, refer to the Sigen EV DC Charging Module User Manual.**</mark>
+<mark style="color:blue;">For use and precautions of the Sigen EV DC Charging Module, refer to the Sigen EV DC Charging Module User Manual.</mark>

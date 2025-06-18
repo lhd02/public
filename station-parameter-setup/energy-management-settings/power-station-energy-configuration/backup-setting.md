@@ -4,8 +4,8 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**Skip this section if no Gateway is configured.**</mark>
-* <mark style="color:blue;">**Users can manually set this parameter according to the power interruption frequency of their regions and leave time.**</mark>
+* <mark style="color:blue;">Skip this section if no Gateway is configured.</mark>
+* <mark style="color:blue;">Users can manually set this parameter according to the power interruption frequency of their regions and leave time.</mark>
 
 If there is a gateway in your networking, you can manually set the "Backup Reserve" value in the mySigen App. In grid connection mode, the battery stops discharging when the backup power SOC setting is reached. In the event of grid power outage, the backup power becomes available.
 
@@ -19,7 +19,7 @@ For example, the backup power SOC is set in Self-Consumption Mode.
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**After Gateway is installed in the system, the system records on-grid/off-grid events. You can view the time and reason for the on-/off-grid switchover through the following methods.**</mark>
+<mark style="color:blue;">After Gateway is installed in the system, the system records on-grid/off-grid events. You can view the time and reason for the on-/off-grid switchover through the following methods.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00078-备电历史.png" alt=""><figcaption></figcaption></figure>
 

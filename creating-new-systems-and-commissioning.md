@@ -2,8 +2,8 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**This document takes version 3.0.0 as an example to introduce relevant operations. The screenshots given in this document are for illustration purposes only. Interfaces in different periods may differ. The actual interface display shall prevail.**</mark>
-* <mark style="color:blue;">**Before creating new systems, please make sure that the device is powered on.**</mark>
+* <mark style="color:blue;">This document takes version 3.0.0 as an example to introduce relevant operations. The screenshots given in this document are for illustration purposes only. Interfaces in different periods may differ. The actual interface display shall prevail.</mark>
+* <mark style="color:blue;">Before creating new systems, please make sure that the device is powered on.</mark>
 
 
 
@@ -11,7 +11,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Mobile operating systems: Android 6.0, iOS 12.0, and later versions.**</mark>
+<mark style="color:blue;">Mobile operating systems: Android 6.0, iOS 12.0, and later versions.</mark>
 
 Use the following two methods to download the App.
 
@@ -35,7 +35,7 @@ On the "Sign Up" screen of the App, sign up for your account.
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Create a new system step by step as instructed on the screen. The screen display may differ depending on the device model. For detailed steps, check the supporting documentation.**</mark>
+<mark style="color:blue;">Create a new system step by step as instructed on the screen. The screen display may differ depending on the device model. For detailed steps, check the supporting documentation.</mark>
 
 1. Click <img src=".gitbook/assets/plus.png" alt="" data-size="line"> in the upper right corner of the "Home" to go to the station creation screen, where you can finish creating a power station. The App will send the owner account to the owner's email address.
 2. Please ask the owner to check the email titled "sigencloud" within 24 hours and activate the account.

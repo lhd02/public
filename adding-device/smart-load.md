@@ -4,10 +4,10 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**Be**</mark><mark style="color:blue;">**fore connecting a Smart Home Device, please ensure that a Gateway is configured in the networking.**</mark>
-* <mark style="color:blue;">**The number of Smart Home Devices that can be connected is determined by the supported capacity of the Gateway.**</mark>
-* <mark style="color:blue;">**After adding the Smart Home Device to the App, you can switch theSmart Home Device on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.**</mark>
-* <mark style="color:blue;">**If you cannot locate the icon of the connected device, for example, an immersion heater, select "Other" and connect it. You can check the connected smart load on the "Device" screen.**</mark>
+* <mark style="color:blue;">Be</mark><mark style="color:blue;">fore connecting a Smart Home Device, please ensure that a Gateway is configured in the networking.</mark>
+* <mark style="color:blue;">The number of Smart Home Devices that can be connected is determined by the supported capacity of the Gateway.</mark>
+* <mark style="color:blue;">After adding the Smart Home Device to the App, you can switch theSmart Home Device on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.</mark>
+* <mark style="color:blue;">If you cannot locate the icon of the connected device, for example, an immersion heater, select "Other" and connect it. You can check the connected smart load on the "Device" screen.</mark>
 
 <figure><img src="../.gitbook/assets/SSA1CM00072-智能负载.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -15,16 +15,16 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**You need to turn on the Bluetooth feature on the phone before connecting to Shelly.**</mark>
-* <mark style="color:blue;">**Shelly needs to connect to the same WLAN network as SigenStor.**</mark>
-* <mark style="color:blue;">**Shelly consists of smart plugs, smart relays, and other devices designed for power/energy monitoring and remote control of electrical loads.**</mark>
+* <mark style="color:blue;">You need to turn on the Bluetooth feature on the phone before connecting to Shelly.</mark>
+* <mark style="color:blue;">Shelly needs to connect to the same WLAN network as SigenStor.</mark>
+* <mark style="color:blue;">Shelly consists of smart plugs, smart relays, and other devices designed for power/energy monitoring and remote control of electrical loads.</mark>
 
 <figure><img src="../.gitbook/assets/SSA1CM00072-shelly.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**For Shelly-related information, please refer to the user manual and specifications of the corresponding Shelly model.**</mark>
-* <mark style="color:blue;">**Table 1 shows the supported Shelly models and related information for SigenStor Home series inverters. Please match them according to actual requirements.**</mark>
+* <mark style="color:blue;">For Shelly-related information, please refer to the user manual and specifications of the corresponding Shelly model.</mark>
+* <mark style="color:blue;">Table 1 shows the supported Shelly models and related information for SigenStor Home series inverters. Please match them according to actual requirements.</mark>
 
 Table 1
 
@@ -52,8 +52,8 @@ On the device interface, click theSmart Home Device you want to configure → cl
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**To enable Smart Home Device participation in Solar Producing Source priority, Click the smart load→“Control Mode”→**</mark>![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAeAB8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkiyopZjgDrVZ7pz90BR78mlun5Ve3Wl03TbrV75LS1Tc7csx6IO5NaEkQu2B+cAj2qwHDDIORUWrxWdrci2tHMjQgpNKG3JIwP3l9Bjt61DaOSpHpQBLdKSAw7dasWN+lpYzwpqktt9qGJkS23HAzgBsj1pjVWkt0Y56UAMuIrBIiYL6SWQdEa32A/juNLbIUXnqaFt0U56mplFAH/9k=)<mark style="color:blue;">**→”Schedule”→”Energy Source Type”→”Surplus PV Only”.**</mark>
-* <mark style="color:blue;">**Select the load and drag it up or down to adjust the load priority.**</mark>
+* <mark style="color:blue;">To enable Smart Home Device participation in Solar Producing Source priority, Click the smart load→“Control Mode”→</mark>![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAeAB8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkiyopZjgDrVZ7pz90BR78mlun5Ve3Wl03TbrV75LS1Tc7csx6IO5NaEkQu2B+cAj2qwHDDIORUWrxWdrci2tHMjQgpNKG3JIwP3l9Bjt61DaOSpHpQBLdKSAw7dasWN+lpYzwpqktt9qGJkS23HAzgBsj1pjVWkt0Y56UAMuIrBIiYL6SWQdEa32A/juNLbIUXnqaFt0U56mplFAH/9k=)<mark style="color:blue;">→”Schedule”→”Energy Source Type”→”Surplus PV Only”.</mark>
+* <mark style="color:blue;">Select the load and drag it up or down to adjust the load priority.</mark>
 
 <figure><img src="../.gitbook/assets/SSA1CM00072-智能负载优先级.png" alt=""><figcaption></figcaption></figure>
 

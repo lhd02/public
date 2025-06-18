@@ -8,15 +8,15 @@ On the login screen, click "Forgot Password" to reset the login password.
 
 **Method 2:**
 
-Click "Setting" and ![](<.gitbook/assets/image (5).png>) on the screen top to change "Password."
+Click "Setting" and <img src=".gitbook/assets/image (5).png" alt="" data-size="line"> on the screen top to change "Password."
 
 ## Changing account nickname
 
-Click "Setting" and ![](<.gitbook/assets/image (6).png>) on the screen top to modify "Nickname.”
+Click "Setting" and <img src=".gitbook/assets/image (6).png" alt="" data-size="line"> on the screen top to modify "Nickname.”
 
 ## Changing account binding information
 
-Click "Setting" and ![](<.gitbook/assets/image (4).png>) on the screen top to change "Binding Information," for example, email address.
+Click "Setting" and <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> on the screen top to change "Binding Information," for example, email address.
 
 ## Viewing and exchanging points
 
@@ -29,20 +29,6 @@ If the installer company account number wants to grant permissions to other inst
 **Authorize other installers**: Join the team with invitation code. You can join only one team.
 
 **View other installers**: Copy "My Invitation Code" to the invitee and invite him to join your team.
-
-##
-
-## Support
-
-Click "Service" → "Support" to get the contact information of your region or submit a work order.
-
-## Access Guide Video
-
-Click"Service"→ "Guide Video".
-
-## Access User Manual
-
-Click"Service"→ "User Manual".
 
 
 

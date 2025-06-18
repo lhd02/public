@@ -72,6 +72,6 @@ In areas with frequent power outages, you can add your region and schedule in th
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Customized operation modes can be created according to owner requirements.**</mark>
+<mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt="" width="563"><figcaption></figcaption></figure>

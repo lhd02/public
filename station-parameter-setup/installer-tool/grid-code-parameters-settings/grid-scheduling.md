@@ -4,8 +4,8 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**In Germany and some European areas, the Ripple Control Receiver is used to convert power grid scheduling signals to dry contact signals, which are then transmitted to power stations. The dry contact communication mode is required to receive the power grid scheduling signal to achieve active and reactive power scheduling for the power station.**</mark>
-* <mark style="color:blue;">**Before this operation, ensure that the inverter you want to configure is connected with the Ripple Control Receiver and ports DI1–DI4 (ports 5–8 for an aviation connector) are not in use. For details, please refer to the Installation Guide.**</mark>
+* <mark style="color:blue;">In Germany and some European areas, the Ripple Control Receiver is used to convert power grid scheduling signals to dry contact signals, which are then transmitted to power stations. The dry contact communication mode is required to receive the power grid scheduling signal to achieve active and reactive power scheduling for the power station.</mark>
+* <mark style="color:blue;">Before this operation, ensure that the inverter you want to configure is connected with the Ripple Control Receiver and ports DI1–DI4 (ports 5–8 for an aviation connector) are not in use. For details, please refer to the Installation Guide.</mark>
 
 
 
@@ -13,7 +13,7 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**When a power station has power limiting requirements, the grid scheduling personnel must temporarily limit the active power fed into the power station or directly disconnect all the active power fed into the power station, that is, active power derating.**</mark>
+<mark style="color:blue;">When a power station has power limiting requirements, the grid scheduling personnel must temporarily limit the active power fed into the power station or directly disconnect all the active power fed into the power station, that is, active power derating.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00083-有功功率.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -25,7 +25,7 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**The grid operator requires a large-scale power station to have a certain ability to regulate the voltage at the grid connection point. The grid scheduling personnel schedules the power station to absorb or inject reactive power to the grid connection point according to the real-time reactive power transmission condition in the power grid, that is, reactive power compensation.**</mark>
+<mark style="color:blue;">The grid operator requires a large-scale power station to have a certain ability to regulate the voltage at the grid connection point. The grid scheduling personnel schedules the power station to absorb or inject reactive power to the grid connection point according to the real-time reactive power transmission condition in the power grid, that is, reactive power compensation.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00083-无功功率.png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -6,9 +6,9 @@ Setting grid-related parameters can ensure safe grid connection, compliant elect
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**By default priority, PV is placed before Battery. PV power prioritizes grid feed-in, with battery supplementing grid sales.**</mark>
-* <mark style="color:blue;">**In the negative electricity price scenario, Battery can be adjusted to be before PV.**</mark>
-* <mark style="color:blue;">**The device sells electricity to the grid according to the set order.**</mark>
+* <mark style="color:blue;">By default priority, PV is placed before Battery. PV power prioritizes grid feed-in, with battery supplementing grid sales.</mark>
+* <mark style="color:blue;">In the negative electricity price scenario, Battery can be adjusted to be before PV.</mark>
+* <mark style="color:blue;">The device sells electricity to the grid according to the set order.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-电网输出优先级.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -22,8 +22,8 @@ Setting grid-related parameters can ensure safe grid connection, compliant elect
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**The electricity bill in some regions is calculated as follows: Total electricity bill = Cost at peak power + cost for electricity usage + other costs. Wherein, peak power refers to the maximum power imported from the grid. This mode is suitable for areas with peak and valley electricity prices and significant price differences.**</mark>
-* <mark style="color:blue;">**The Peak Shaving function can be used with all working modes, configuring the maximum peak power drawn from the grid to reduce the maximum peak power drawn from the grid during peak periods, thereby lowering the electricity bill.**</mark>
+* <mark style="color:blue;">The electricity bill in some regions is calculated as follows: Total electricity bill = Cost at peak power + cost for electricity usage + other costs. Wherein, peak power refers to the maximum power imported from the grid. This mode is suitable for areas with peak and valley electricity prices and significant price differences.</mark>
+* <mark style="color:blue;">The Peak Shaving function can be used with all working modes, configuring the maximum peak power drawn from the grid to reduce the maximum peak power drawn from the grid during peak periods, thereby lowering the electricity bill.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-peak shaving.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ Assume that the peak shaving SOC is set to 50% and the maximum peak power is 2kW
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**The tariff settings can be saved to the installer's account and applied to other plants.**</mark>
+<mark style="color:blue;">The tariff settings can be saved to the installer's account and applied to other plants.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00081-查看电价配置.png" alt="" width="563"><figcaption></figcaption></figure>
 

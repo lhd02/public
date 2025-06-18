@@ -92,7 +92,7 @@ Note: _**N**_ is a numeric value from 1 to 6. You can set a parameter for "Frequ
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Application scenario: When the Sigenergy inverter operates off-grid without PV connection, while photovoltaic arrays are connected to a third-party inverter.**</mark>
+<mark style="color:blue;">Application scenario: When the Sigenergy inverter operates off-grid without PV connection, while photovoltaic arrays are connected to a third-party inverter.</mark>
 
 <table><thead><tr><th width="61" align="center">No.</th><th width="169">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Enable 3rd Party PV Inverter Black Start</td><td>When it is set to <img src="../../../.gitbook/assets/19 (1).png" alt="" data-size="line"><strong>,</strong> the energy storage system will reserve SOC to initiate morning startup.</td></tr><tr><td align="center">2</td><td>SOC Reserved For Black Start</td><td>The reserved SOC serves as the energy source for next-day black start.</td></tr></tbody></table>
 
@@ -100,7 +100,7 @@ Note: _**N**_ is a numeric value from 1 to 6. You can set a parameter for "Frequ
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Supports connecting equipment using two phases in a three-phase four-wire grid.**</mark>
+<mark style="color:blue;">Supports connecting equipment using two phases in a three-phase four-wire grid.</mark>
 
 <table><thead><tr><th width="61" align="center">No.</th><th width="169">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>3 Phase Switch To 2 Phase Enable</td><td>When it is set to <img src="../../../.gitbook/assets/19 (1).png" alt="" data-size="line"><strong>,</strong> Two-phase grid connection is supported.</td></tr></tbody></table>
 

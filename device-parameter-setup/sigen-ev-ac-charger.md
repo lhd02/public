@@ -2,7 +2,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**In pure charging scenarios, only one Sigen EV AC Charger can be connected. In PV charging or PV storage scenarios, one SigenStor can connect up to two Sigen EV AC Chargers.**</mark>
+<mark style="color:blue;">In pure charging scenarios, only one Sigen EV AC Charger can be connected. In PV charging or PV storage scenarios, one SigenStor can connect up to two Sigen EV AC Chargers.</mark>
 
 ### **Pure charging application**
 
@@ -12,8 +12,8 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**To connect a Sigen EV AC Charger, you need to connect the FE network cable to SigenStor.**</mark>
-* <mark style="color:blue;">**To connect two Sigen EV AC Chargers, you need to connect them to the same WLAN network as SigenStor. For the steps to add them, refer to**</mark> [_<mark style="color:blue;">**After-sales service**</mark>_](../station-parameter-setup/installer-tool/after-sales-service.md)<mark style="color:blue;">**.**</mark>
+* <mark style="color:blue;">To connect a Sigen EV AC Charger, you need to connect the FE network cable to SigenStor.</mark>
+* <mark style="color:blue;">To connect two Sigen EV AC Chargers, you need to connect them to the same WLAN network as SigenStor. For the steps to add them, refer to</mark> [Post-Sales service.](../station-parameter-setup/installer-tool/after-sales-service.md)
 
 <figure><img src="../.gitbook/assets/MSA1CM00078-EVAC参数设置.png" alt=""><figcaption></figcaption></figure>
 
