@@ -60,7 +60,12 @@ By obtaining local peak and valley electricity prices and weather data, combined
 * Supports third-party EMS with RS-485 communication.Please make sure that the RS485-1 port cable of the device is properly connected and that the baud rate is set correctly according to the description in section [Operational Parameters](../../device-parameter-setup/sigenstor/operational-parameters.md).(Non-grid connection scenario)
 * It supports third-party EMS with ModBus-TCP communication. Please ensure that you have completed the setup according to the description in section [ModBus parameters](../../device-parameter-setup/sigenstor/modbus-settings.md).
 
+## VPP Scheduling-evergen Mode
 
+* This feature is exclusively available in Sweden.
+* When the power station enables Virtual Battery Allocation for Aggregator, this mode will be automatically locked. In this mode, the energy storage system is virtually partitioned into two independent operating units:
+  * The virtual battery can participate in CheckWatt VPP's frequency regulation services
+  * Remaining capacity continues to be optimized by Sigen algorithm
 
 ## Load Shedding Mode
 
