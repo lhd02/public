@@ -9,4 +9,5 @@ If there is a gateway in your networking, you can manually set the "Backup Reser
 
 For example, the backup power SOC is set in Self-Consumption Mode.
 
-<figure><img src="../.gitbook/assets/SSA1OV00014-en.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00014-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
