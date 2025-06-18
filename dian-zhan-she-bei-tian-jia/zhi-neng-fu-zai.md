@@ -1,0 +1,56 @@
+# Smart load
+
+### Method 1: Connecting using Gateway
+
+{% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
+
+* <mark style="color:blue;">**Before connecting a Smart Home Device, please ensure that a Gateway is configured in the networking.**</mark>
+* <mark style="color:blue;">**The number of Smart Home Devices that can be connected is determined by the supported capacity of the Gateway.**</mark>
+* <mark style="color:blue;">**After adding the Smart Home Device to the App, you can switch theSmart Home Device on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.**</mark>
+* <mark style="color:blue;">**If you cannot locate the icon of the connected device, for example, an immersion heater, select "Other" and connect it. You can check the connected smart load on the "Device" screen.**</mark>
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-gateway添加智能负载.png" alt=""><figcaption></figcaption></figure>
+
+### Method 2: Connecting using Shelly
+
+{% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
+
+* <mark style="color:blue;">**You need to turn on the Bluetooth feature on the phone before connecting to Shelly.**</mark>
+* <mark style="color:blue;">**Shelly needs to connect to the same WLAN network as SigenStor.**</mark>
+* <mark style="color:blue;">**Shelly consists of smart plugs, smart relays, and other devices designed for power/energy monitoring and remote control of electrical loads.**</mark>
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-shelly.png" alt=""><figcaption></figcaption></figure>
+
+{% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
+
+* <mark style="color:blue;">**For Shelly-related information, please refer to the user manual and specifications of the corresponding Shelly model.**</mark>
+* <mark style="color:blue;">**Table 1 shows the supported Shelly models and related information for SigenStor Home series inverters. Please match them according to actual requirements.**</mark>
+
+Table 1
+
+<table><thead><tr><th width="50" align="center">No.</th><th width="121">Product Type</th><th width="167">Model Number</th><th width="203.22216796875">Recommended firmware versions supporting Shelly</th><th>Maximum supported load current</th></tr></thead><tbody><tr><td align="center">1</td><td>Smart plugs</td><td>Shelly Plug S Gen3</td><td>1.2.2, 1.2.3</td><td>AC power supply: 12A</td></tr><tr><td align="center">2</td><td>Smart plugs</td><td>Shelly Plus Plug S</td><td>1.0.7, 1.3.3, 1.4.4</td><td>AC power supply: 12A</td></tr><tr><td align="center">3</td><td>Smart plugs</td><td>Shelly Plus Plug UK</td><td>1.0.7, 1.3.3, 1.4.4</td><td>AC power supply: 13A</td></tr><tr><td align="center">4</td><td>Smart relays</td><td>Shelly 1PM Gen3</td><td>1.2.2, 1.3.3</td><td><p>AC power supply: 16A</p><p>DC power supply: 10A</p></td></tr><tr><td align="center">5</td><td>Smart relays</td><td>Shelly 2PM Gen3</td><td>1.2.2, 1.3.3</td><td>AC power supply: 10A per channel, 16A total</td></tr><tr><td align="center">6</td><td>Smart relays</td><td>Shelly 1PM Mini Gen3</td><td>1.3.3, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 8A</td></tr><tr><td align="center">7</td><td>Smart relays</td><td>Shelly Plus 1PM</td><td>1.3.3, 1.4.4, 1.5.0-beta1</td><td><p>AC power supply: 16A</p><p>DC power supply: 10A</p></td></tr><tr><td align="center">8</td><td>Smart relays</td><td>Shelly Plus 2PM</td><td>1.3.3, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 10A per channel, 16A total</td></tr><tr><td align="center">9</td><td>Smart relays</td><td>Shelly Pro 1PM</td><td>0.10.2-beta1, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 16A per channel</td></tr><tr><td align="center">10</td><td>Smart relays</td><td>Shelly Pro 2PM</td><td>0.10.2-beta1, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 16A per channel, 25A total</td></tr><tr><td align="center">11</td><td>Smart relays</td><td>Shelly Pro 4PM</td><td>0.10.2-beta1, 1.4.4, 1.5.0-beta1</td><td>AC power supply: 16A per channel, 40A total</td></tr></tbody></table>
+
+### Control Mode
+
+On the device interface, click the Smart Home Device you want to configure to set the Smart Home Device control mode.
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-智能负载设置 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="54.0909423828125" align="center">No.</th><th width="98.18182373046875">Parameter name</th><th width="104.4544677734375">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Manual Control</td><td>-</td><td><ul><li>When it is displayed as In Use, you can turn on and off the Smart Load through "<img src="../.gitbook/assets/image (1).png" alt="" data-size="line">" on the App.</li><li>When displayed as Disable, You can click "Enable Manual" to switch to manual mode.</li></ul></td></tr><tr><td align="center">2</td><td>Auto (Time-based）</td><td>-</td><td><ul><li>When displayed as In Use, it indicates automatic control mode. You can modify or add a schedule.</li><li>When displayed as Disable, you can click "Set a Schedule" → "Yes, save and use" to switch to automatic mode.</li></ul></td></tr><tr><td align="center">3</td><td>Schedule</td><td>Energy Source Control</td><td><p>Set the Energy Source Type. The following three modes can be set:</p><ul><li><p>Depends on System: In this mode, the Smart Home Device activates and deactivates according to the preset schedule.</p><ul><li>Battery Boost: When set to <img src="../.gitbook/assets/4 (1).png" alt="" data-size="line">, home batteries charge Smart Home Device.</li></ul></li></ul><ul><li><p>Surplus PV Only: In this mode, the Smart Home Deviceactivates/deactivates based on configured power thresholds. Solar Producing Source priority can be set.</p><ul><li>Starting Power: Set the starting power of the Smart Home Device.</li><li>Rated Power: Set the rated power of the Smart Home Device, which can be checked on the Smart Home Device's label.</li><li>Battery Boost: When set to<img src="../.gitbook/assets/4 (1).png" alt="" data-size="line">, home batteries charge Smart Home Device.</li></ul></li></ul><ul><li><p>Battery Level Control: In this mode, the load is controlled based on battery SOC thresholds.</p><ul><li>Device Activation Threshold: The Smart Home Device will activate when the actual SOC is greater than the set parameter.</li><li>Device Deactivation Threshold: The Smart Home Device will deactivate when the actual SOC is less than the set parameter.</li></ul></li></ul></td></tr><tr><td align="center">4</td><td>Ready by</td><td>Activation For</td><td>Total running time.Before the time set in Ready By, if the running time on that day is less than the set value, the load will be turned on.</td></tr><tr><td align="center">5</td><td>Ready by</td><td>Be Ready By</td><td>Set the running time.It is used in conjunction with the total running time.</td></tr><tr><td align="center">6</td><td>Resume Schedule</td><td>-</td><td>If a schedule has been added, you can click to delete the schedule parameters.</td></tr></tbody></table>
+
+### Smart Load Settings
+
+On the device interface, click theSmart Home Device you want to configure → click "<img src="../.gitbook/assets/image (14).png" alt="" data-size="line"> " in the upper right corner to set the smart load parameters.
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-智能负载设置.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="56.2728271484375" align="center">No.</th><th width="149.2728271484375">Parameter name</th><th width="132.45458984375">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>General Settings</td><td>Device Type</td><td>Set the Smart Home Device type.</td></tr><tr><td align="center">2</td><td>General Settings</td><td>Device Name</td><td>Set the Smart Home Device name.</td></tr><tr><td align="center">3</td><td>General Settings</td><td>Room</td><td>Set the room where the Smart Home Device is located.</td></tr><tr><td align="center">4</td><td>Operation Settings</td><td>PV Excess Setting</td><td><ul><li>Starting Power: Set the starting power of the Smart Home Device.</li><li>Rated Power: Set the rated power of the Smart Home Device, which can be checked on the Smart Home Device's label.</li></ul></td></tr><tr><td align="center">5</td><td>Operation Settings</td><td>Minimum Running Time</td><td>Set the minimum running time for the Smart Home Device.</td></tr><tr><td align="center">6</td><td>Operation Settings</td><td>Backup Management (When configuring the Gateway in the network setup, this parameter is displayed.)</td><td><ul><li><p>When Essential Load is set to <img src="../.gitbook/assets/4 (1).png" alt="" data-size="line">, the SOC for load startup and shutdown can be configured.</p><ul><li>Cut-in: The Smart Home Device will activate when the actual SOC is greater than the set parameter.</li><li>Cut-off: The Smart Home Device will deactivate when the actual SOC is less than the set parameter.</li></ul></li></ul></td></tr><tr><td align="center">7</td><td>Remove Smart Device</td><td>-</td><td>Click to remove the smart load.</td></tr></tbody></table>
+
+## Adjust Smart Home Devices priority（optional）
+
+{% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
+
+* <mark style="color:blue;">**To enable Smart Home Device participation in Solar Producing Source priority, Click the smart load→“Control Mode”→**</mark>![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAeAB8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkiyopZjgDrVZ7pz90BR78mlun5Ve3Wl03TbrV75LS1Tc7csx6IO5NaEkQu2B+cAj2qwHDDIORUWrxWdrci2tHMjQgpNKG3JIwP3l9Bjt61DaOSpHpQBLdKSAw7dasWN+lpYzwpqktt9qGJkS23HAzgBsj1pjVWkt0Y56UAMuIrBIiYL6SWQdEa32A/juNLbIUXnqaFt0U56mplFAH/9k=)<mark style="color:blue;">**→”Schedule”→”Energy Source Type”→”Surplus PV Only”.**</mark>
+* <mark style="color:blue;">**Select the load and drag it up or down to adjust the load priority.**</mark>
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-智能负载优先级.png" alt=""><figcaption></figcaption></figure>
