@@ -12,6 +12,10 @@
 
 <table><thead><tr><th width="60" align="center">No.</th><th width="197">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Charge Cut-off SOC</td><td>Sets the capacity at which the battery pack stops charging.</td></tr><tr><td align="center">2</td><td>Discharge Cut-off SOC</td><td><p><strong>Sets the capacity at which the battery pack stops discharging.</strong></p><ul><li>Value 0 is not recommended for this parameter to avoid irreversible attenuation due to failure to charge the battery pack in time.</li></ul><ul><li>The priority is given to "Backup Capacity" in backup power networking mode, while the parameter is applied in non-backup power networking mode.</li></ul></td></tr><tr><td align="center">3</td><td>Backup Reserve SOC</td><td><ul><li>You can set this parameter when a gateway exists in the network.</li></ul><ul><li>In the on-grid scenario, the battery pack stops discharging when the backup capacity value is reached. In the off-grid scenario, the battery pack supplies power to power device and stops discharging when the Discharge Cut-off SOC setting is reached.</li></ul><ul><li>Users can manually set this parameter according to the power interruption frequency of their regions and leave time. Value 0 is not recommended for this parameter to avoid irreversible attenuation due to failure to charge the battery pack in time.</li></ul></td></tr></tbody></table>
 
+## Grid Code
+
+<table><thead><tr><th width="60" align="center">No.</th><th width="172.45458984375">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid Code</td><td>Specifies a grid code based on the country/region when devices are used.</td></tr></tbody></table>
+
 ## Battery Preheating Scheduling
 
 <table><thead><tr><th width="60" align="center">No.</th><th width="197">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid Code</td><td>Set to<img src="../../../.gitbook/assets/image (6).png" alt="">to set the battery preheating period.</td></tr></tbody></table>
@@ -28,21 +32,13 @@
 
 <table><thead><tr><th width="60" align="center">No.</th><th width="289">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Custom On Off Grid Switch Enable</td><td><p>When set<img src="../../../.gitbook/assets/image (6).png" alt="">, the voltage and frequency thresholds for grid-connected/off-grid switching can be customized. When the actual voltage or frequency exceeds the set range, the system switches from grid-connected operation to off-grid operation.</p><p>When set <img src="../../../.gitbook/assets/image (22).png" alt="" data-size="line">, the system follows the grid code standards for over-voltage, under-voltage, over-frequency, and under-frequency thresholds. If the actual voltage or frequency exceeds the set range, the system switches from grid-connected to off-grid operation.</p></td></tr><tr><td align="center">2</td><td>Over-voltage Switching Threshold</td><td>Used to set the on-grid-to-off-grid overvoltage switch point.</td></tr><tr><td align="center">3</td><td>Under-voltage Switching Threshold</td><td>Used to set the on-grid-to-off-grid undervoltage switch point.</td></tr><tr><td align="center">4</td><td>Over-frequency Switching Threshold</td><td>Used to set the on-grid-to-off-grid overfrequency switch point.</td></tr><tr><td align="center">5</td><td>Under-frequency Switching Threshold</td><td>Used to set the on-grid-to-off-grid underfrequency switch point.</td></tr><tr><td align="center">6</td><td>SOC Switching Hysteresis Threshold</td><td>When the battery SOC approaches the discharge cutoff SOC, the system prevents frequent start-stop cycles. It will only restart operation when the actual SOC exceeds the "Discharge cutoff SOC plus the off-grid startup SOC hysteresis value".</td></tr><tr><td align="center">7</td><td>Output Voltage Regulation Ratio</td><td>In off-grid mode, the inverter outputs the rated voltage. However, due to external factors such as line losses, a slight deviation may occur between the actual load voltage and the rated voltage. This parameter is used to compensate for such deviations, with an adjustable compensation range of [-10V, 10V].</td></tr></tbody></table>
 
-## Grid Conrol
-
-<table><thead><tr><th width="60" align="center">No.</th><th width="197">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid Connection Point Voltage Control Enable</td><td>When set<img src="../../../.gitbook/assets/image (6).png" alt="">，When the grid connection point voltage rises, the AC output power is limited to prevent excessive power output, which could cause overvoltage at the grid connection point and trigger a grid overvoltage shutdown.</td></tr></tbody></table>
-
-## Grid Code
-
-<table><thead><tr><th width="60" align="center">No.</th><th width="172.45458984375">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid Code</td><td>Specifies a grid code based on the country/region when devices are used.</td></tr></tbody></table>
-
 ## DO Custom
 
 <table><thead><tr><th width="59" align="center">No.</th><th width="241">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>DO Custom Function Enable</td><td>When it is set to <img src="../../../.gitbook/assets/image (6).png" alt="">, the DO custom function is enabled, and a third-party device (for example, heat pump) can connect to the device of the company through the DO port.</td></tr><tr><td align="center">2</td><td>DO Custom Function Input Port</td><td>Set the DO port to which the device connects to according to the wiring.</td></tr><tr><td align="center">3</td><td>DO Custom Function Mode</td><td>Set the DO port mode.</td></tr><tr><td align="center">4</td><td>Connected Device SN</td><td>Set the SN of the inverter to which the device connects through the DO port.</td></tr></tbody></table>
 
-## Grid Control
+## Grid Conrol
 
-<table><thead><tr><th width="60" align="center">No.</th><th width="197">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid Connection Point Voltage Control Enable</td><td>Grid Connection Point Voltage Control Enable: Set to<img src="../../../.gitbook/assets/image (6).png" alt=""></td></tr></tbody></table>
+<table><thead><tr><th width="60" align="center">No.</th><th width="197">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid Connection Point Voltage Control Enable</td><td>When set<img src="../../../.gitbook/assets/image (6).png" alt="">，When the grid connection point voltage rises, the AC output power is limited to prevent excessive power output, which could cause overvoltage at the grid connection point and trigger a grid overvoltage shutdown.</td></tr></tbody></table>
 
 ## **Voltage Protection**
 
