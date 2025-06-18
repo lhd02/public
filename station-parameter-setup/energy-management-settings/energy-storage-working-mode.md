@@ -75,4 +75,4 @@ In areas with frequent power outages, you can add your region and schedule in th
 
 <mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt=""><figcaption></figcaption></figure>
