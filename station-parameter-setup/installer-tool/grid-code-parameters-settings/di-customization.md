@@ -1,5 +1,7 @@
 # DI customization
 
+<figure><img src="../../../.gitbook/assets/MSA1CM00083-DI自定义.png" alt="" width="297"><figcaption></figcaption></figure>
+
 <table><thead><tr><th width="60" align="center">No.</th><th width="166">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center"><p></p><p>1</p></td><td>DI Custom Function Enable</td><td>When set to <img src="../../../.gitbook/assets/image (5).png" alt="">, the DI custom function is enabled, and you can set related parameters. The function becomes unavailable when disabled.</td></tr><tr><td align="center">2</td><td>DI Custom Function Input Port</td><td>Set the DI port to which the device connects to according to the wiring.</td></tr><tr><td align="center">3</td><td>DI Custom Function Mode</td><td><ul><li>If set to "External Switch Control mode (switch ON, INV ON)," when the connected device switch is turned on, the inverter is powered on, and when the device switch is turned off, the inverter is shut down.</li><li>If set to "DRM0 mode (switch ON, INV OFF)," when the connected device switch is turned on, the inverter is shut down, and when the device switch is turned off, the inverter is powered on.</li><li>If set to "Micro-grid Control mode: (Switch OFF: Off grid INV standby, On-grid INV ON)," when the connected device switch is turned off and grid power outage occurs, the AC side of the inverter is in standby mode. When the power grid is restored and connected to the grid, the inverter operates normally. When the device switch is turned on and grid power outage occurs, the inverter can operate in off-grid mode.</li><li>If set to "Micro-grid Control mode: (Switch ON: Off grid INV standby, On-grid INV ON)," when the connected device switch is turned on and grid power outage occurs, the AC side of the inverter is in standby mode. When the power grid is restored and connected to the grid, the inverter operates normally. When the device switch is turned off and a grid power outage occurs, the inverter can operate in off-grid mode.</li><li>If set to "Gateway Bypass mode (state of switch)," when the connected device switch is turned off and the bypass switch of Gateway is turned on, the inverter cannot operate in off-grid mode. When the device switch is turned on, and the bypass switch of Gateway is turned off, the inverter can operate in off-grid mode.</li><li>If set to "Transfer Switch Position II Status Detection," when the connected device switch is turned off, the transfer switch is in on-grid mode, and the inverter cannot operate in off-grid mode. When the device switch is turned on, the transfer switch is in off-grid mode, and the inverter can operate in off-grid mode.</li></ul></td></tr><tr><td align="center">4</td><td>Connected AIO Machine SN</td><td>Set the SN of the inverter to which the device connects.</td></tr></tbody></table>
 
 
@@ -9,6 +11,8 @@
 ccording to AS/NZS 4777.2:2020+A1:2021, connecting the inverter to the power grid must meet the Demand Response Mode (DRM) function, of which DRM0 is mandatory.
 
 <sub>**Connection diagram:**</sub>
+
+<figure><img src="../../../.gitbook/assets/SSA1IN00140.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
@@ -23,6 +27,8 @@ ccording to AS/NZS 4777.2:2020+A1:2021, connecting the inverter to the power gri
 In areas where VDE4105 standards apply, such as VDE-AR-N-4105, VDE-AR-N 4110, and VDE-AR-N 4120, power generating equipment in a power station must support connection with network and system protection (NS) devices.
 
 &#x20;<sub>**Connection diagram**</sub>
+
+<figure><img src="../../../.gitbook/assets/SSA1IN00099-NS保护.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
