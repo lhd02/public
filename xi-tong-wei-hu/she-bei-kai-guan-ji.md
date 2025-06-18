@@ -4,7 +4,7 @@
 
 In the mySigen app, tap "Settings" to turn the device on or off.
 
-<figure><img src="../.gitbook/assets/app-setting.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1CM00001-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Scheme 2: Manual operation**
 

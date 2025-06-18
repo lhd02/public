@@ -7,7 +7,7 @@ Under normal circumstances, the equipment can charge itself according to the run
 * When the battery power is greater than or equal to 10%, charge within 30 days
 * When the battery power is less than or equal to 0% and less than 10%, charge within 7 days
 
-Scenarios that may cause a charge failure (including but not limited to) :
+**Scenarios that may cause a charge failure (including but not limited to) :**
 
 * The PV side has no input, and the power grid side is powered off for a long time.
 * The equipment is faulty.
