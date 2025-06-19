@@ -19,7 +19,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**Peak load refers to the instantaneous surge in electricity demand.**</mark>
+<mark style="color:blue;">Peak load refers to the instantaneous surge in electricity demand.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -61,13 +61,11 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 ## VPP Scheduling-evergen Mode
 
-Once this mode is enabled, your energy storage system will be connected to the CheckWatt Virtual Power Plant (VPP) smart dispatch network. The VPP will control the charging and discharging strategy of your energy storage system based on real-time electricity prices and grid demand.
+Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
 
 ## Load Shedding Mode
 
 In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
-
-
 
 ## Custom Working Mode
 
