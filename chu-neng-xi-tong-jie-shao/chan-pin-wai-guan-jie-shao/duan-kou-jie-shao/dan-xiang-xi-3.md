@@ -1,0 +1,5 @@
+# Single-phase System (8.0-12.0) Inverter Left View
+
+<figure><img src="../../../.gitbook/assets/SHA1OV00003-大单相.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="85" align="center">No.</th><th>Name</th><th>Marking</th></tr></thead><tbody><tr><td align="center">1</td><td>Decorative cover strip light interface</td><td>LED</td></tr><tr><td align="center">2</td><td>Network cable interface</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">3</td><td>DC input interface</td><td>PV1+/PV2+/ PV3+/PV4+/ PV1-/PV2-/ PV3-/PV4-</td></tr><tr><td align="center">4</td><td>AC output interface</td><td>AC</td></tr><tr><td align="center">5</td><td>Communication interface</td><td>COM</td></tr><tr><td align="center">6</td><td>Grounding screw</td><td>-</td></tr><tr><td align="center">7</td><td>Power button</td><td>ON/OFF</td></tr><tr><td align="center">8</td><td>DC switch</td><td>DC SWITCH</td></tr><tr><td align="center">9</td><td>Sigen CommMod interface</td><td>4G</td></tr><tr><td align="center">10</td><td>Sigen CommMod interface</td><td>ANT</td></tr></tbody></table>
