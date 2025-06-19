@@ -1,9 +1,8 @@
-# Energy storage working mode
+# Operational mode
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">The SigenStor energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios. It can support up to 20 SigenStor units in parallel. If more SigenStor units are required, the digital acquisition SigenLogger can be connected to meet the needs.</mark>
-* <mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
+<mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00078-储能工作模式.png" alt=""><figcaption></figcaption></figure>
 

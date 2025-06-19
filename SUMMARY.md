@@ -18,7 +18,7 @@
     * [Viewing Station Diagnosis](routine-o-and-m-of-power-station-and-device/information-querying/viewing-station-diagnosis.md)
 * [System Settings](station-parameter-setup/README.md)
   * [Energy management settings](station-parameter-setup/energy-management-settings/README.md)
-    * [Energy storage working mode](station-parameter-setup/energy-management-settings/energy-storage-working-mode.md)
+    * [Operational mode](station-parameter-setup/energy-management-settings/energy-storage-working-mode.md)
     * [Manual Control](station-parameter-setup/energy-management-settings/manual-control.md)
     * [Power station energy configuration](station-parameter-setup/energy-management-settings/power-station-energy-configuration/README.md)
       * [Solar Settings](station-parameter-setup/energy-management-settings/power-station-energy-configuration/solar-settings.md)
