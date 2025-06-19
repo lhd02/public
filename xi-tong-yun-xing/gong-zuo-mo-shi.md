@@ -2,8 +2,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">The energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios.</mark>
-* <mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
+<mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
 
 ## **Sigen AI** **Mode**
 
@@ -44,3 +43,11 @@ After setting to this mode will allows a third-party EMS to schedule parameters 
 ## **Load Shedding Mode**
 
 In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
+
+## Custom Working Mode
+
+{% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
+
+<mark style="color:blue;">Customized operation modes can be created according to your requirements.</mark>
+
+<figure><img src="../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt=""><figcaption></figcaption></figure>
