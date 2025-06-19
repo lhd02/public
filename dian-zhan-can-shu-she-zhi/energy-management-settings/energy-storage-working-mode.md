@@ -2,7 +2,7 @@
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-* <mark style="color:blue;">The SigenStor energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios. It can support up to 20 SigenStor units in parallel. If more SigenStor units are required, the digital acquisition Sigen Logger can be connected to meet the needs.</mark>
+* <mark style="color:blue;">The energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios.</mark>
 * <mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00068-工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
@@ -34,7 +34,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 ## Time-based Control
 
 * The charging period, discharging period, and self-consumption period need to be set manually.When electricity prices are high, the surplus power from photovoltaic power generation and battery power can be sold to the grid, and the battery can be charged during periods of low electricity prices to save electricity bills.
-* If no period is set, the energy storage system will be in standby mode without discharging. The photovoltaic power will prioritize supplying the load, and the surplus power will be used for charging energy storage system. \*
+* If no period is set, the energy storage system will be in standby mode without discharging. The photovoltaic power will prioritize supplying the load, and the surplus power will be used for charging energy storage system.&#x20;
 * Up to 24 charging and discharging or self-consumption periods can be set.
 * It is suitable for areas with peak and valley electricity prices and significant price differences.
 * When entering this period, the battery capacity will be recorded. When the photovoltaic power is greater than the load, the remaining photovoltaic power will charge the battery. When the photovoltaic power is less than the load, the battery can be discharged to the load. However, when the battery capacity decreases and approaches the battery capacity value when entering this period, the battery will stop discharging.
@@ -60,7 +60,7 @@ After setting to this mode, a third-party EMS dispatch company will be allowed t
 
 ## VPP Scheduling-evergen Mode
 
-Once this mode is enabled, your energy storage system will be connected to the CheckWatt Virtual Power Plant (VPP) smart dispatch network. The VPP will control the charging and discharging strategy of your energy storage system based on real-time electricity prices and grid demand.
+Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
 
 ## Load Shedding Mode
 
