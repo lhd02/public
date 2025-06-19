@@ -35,7 +35,7 @@
 * [Site Selection Requirements](xuan-zhi-yao-qiu.md)
 * [Equipment Installation and Wiring](she-bei-an-zhuang-yu-jie-xian.md)
 * [System Operation](xi-tong-yun-xing/README.md)
-  * [Working Mode](xi-tong-yun-xing/gong-zuo-mo-shi.md)
+  * [Operational Mode](xi-tong-yun-xing/gong-zuo-mo-shi.md)
   * [Backup power setup](xi-tong-yun-xing/backup-power-setup.md)
   * [Peak Shaving Control Mode](xi-tong-yun-xing/peak-shaving-control-mode.md)
   * [LED Indicator State](xi-tong-yun-xing/led-zhi-shi-deng-zhuang-tai.md)
