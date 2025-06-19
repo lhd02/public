@@ -14,6 +14,7 @@
   * [Label Description](chu-neng-xi-tong-jie-shao/biao-qian-shuo-ming.md)
   * [Supported Power Supply Methods for the Power Grid](chu-neng-xi-tong-jie-shao/dian-wang-gong-dian-fang-shi/README.md)
     * [Sigen Hybrid (2.0-6.0) SP2 Series](chu-neng-xi-tong-jie-shao/dian-wang-gong-dian-fang-shi/dan-xiang-xi-tong.md)
+    * [Sigen Hybrid (3.0-12.0) TP2 Series](chu-neng-xi-tong-jie-shao/dian-wang-gong-dian-fang-shi/sigen-hybrid-3.0-12.0-tp2-series.md)
   * [Introduction to system wiring](chu-neng-xi-tong-jie-shao/zu-wang-jie-shao.md)
 * [Site Selection Requirements](xuan-zhi-yao-qiu.md)
 * [Equipment Installation and Wiring](she-bei-an-zhuang-yu-jie-xian.md)
