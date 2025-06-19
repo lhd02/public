@@ -35,7 +35,9 @@
 * No plumbing or electrical alignments are allowed inside the installation base to avoid potential drilling hazards during equipment installation.
 * The equipment base is made of aluminum. If the equipment is installed on a metallic substrate that is prone to electrochemical corrosion (such as high-chromium stainless steel, austenitic stainless steel, and nickel-plated steel), insulating gaskets must be fully installed between the equipment and the substrate. (Non-metallic insulating gaskets such as PC, PTFE, or PVDF can be used)
 
-<figure><img src=".gitbook/assets/SSA1SF00010-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SHA1IN00031-en.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/SHA1IN00044-en.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
