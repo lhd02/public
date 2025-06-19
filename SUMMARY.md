@@ -10,7 +10,7 @@
   * [Sigen EV AC Charger](xin-xi-cha-xun/sigen-ev-ac-charger.md)
 * [System Settings](dian-zhan-can-shu-she-zhi/README.md)
   * [Energy management settings](dian-zhan-can-shu-she-zhi/energy-management-settings/README.md)
-    * [Energy storage working mode](dian-zhan-can-shu-she-zhi/energy-management-settings/energy-storage-working-mode.md)
+    * [Operational mode](dian-zhan-can-shu-she-zhi/energy-management-settings/energy-storage-working-mode.md)
     * [Manual Control](dian-zhan-can-shu-she-zhi/energy-management-settings/manual-control.md)
     * [Power station energy configuration](dian-zhan-can-shu-she-zhi/energy-management-settings/power-station-energy-configuration/README.md)
       * [Solar Settings](dian-zhan-can-shu-she-zhi/energy-management-settings/power-station-energy-configuration/solar-settings.md)
