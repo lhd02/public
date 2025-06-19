@@ -1,4 +1,4 @@
-# Working Mode
+# Operational Mode
 
 {% include "../.gitbook/includes/tips.md" %}
 
@@ -44,7 +44,7 @@ After setting to this mode will allows a third-party EMS to schedule parameters 
 
 In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
 
-## Custom Working Mode
+## Custom Operational Mode
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
