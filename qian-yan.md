@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-This document mainly introduces the product introduction, system wiring, system operation and maintenance of the devices in the SigenStor Home.
+本文档主要介绍Sigen Hybrid (2.0-6.0) SP2, Sigen Hybrid (3.0-12.0) TP2系列逆变器、SigenStor储能系统产品介绍、组网、系统运行与维护等。
 
 ### **Readers**
 
