@@ -2,8 +2,7 @@
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-* <mark style="color:blue;">The energy storage system is mainly used in household rooftop power station systems and small power station on-grid systems in C\&I scenarios.</mark>
-* <mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
+<mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00068-工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -54,13 +53,13 @@ By obtaining local peak and valley electricity prices and weather data, combined
 * You can sell excess energy back to the grid and earn credits on your energy bill.
 * In the daytime, when the PV power is greater than the maximum output capacity of the inverter, the inverter maintains the maximum output while storing excess energy in the batteries. When the PV power is lower than the maximum output capacity of the inverter or there is no PV power in the nighttime, the batteries are discharged to ensure that the inverter maximizes the output.
 
-## Remote EMS Mode
-
-After setting to this mode, a third-party EMS dispatch company will be allowed to set the relevant parameters of the power station and products. Do not enter or exit this mode without the installer's confirmation.
-
 ## VPP Scheduling-evergen Mode
 
 Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
+
+## Remote EMS Mode
+
+After setting to this mode, a third-party EMS dispatch company will be allowed to set the relevant parameters of the power station and products. Do not enter or exit this mode without the installer's confirmation.
 
 ## Load Shedding Mode
 
