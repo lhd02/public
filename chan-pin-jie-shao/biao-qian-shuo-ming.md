@@ -1,0 +1,3 @@
+# 标签说明
+
+<table><thead><tr><th width="134">符号</th><th>定义</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/0 (1).png" alt="" data-size="original"></td><td>警告！带电危险<br>设备的盖子存在交流电压。操作设备时，请做好防护。</td></tr><tr><td><img src="../.gitbook/assets/1 (1).jpeg" alt="" data-size="original"></td><td>设备断电后，内部元器件放电存在延迟，请根据标签时间要求等待对应时长至设备完全放电。</td></tr><tr><td><img src="../.gitbook/assets/2 (2).png" alt="" data-size="original"></td><td>警告！烫伤危险<br>设备表面存在高温，设备运行时禁止触摸，否则可能导致烫伤。</td></tr><tr><td><img src="../.gitbook/assets/3.png" alt="" data-size="original"></td><td>请参照说明书操作设备。</td></tr><tr><td><img src="../.gitbook/assets/4.png" alt="" data-size="original"></td><td>接地标识</td></tr></tbody></table>
