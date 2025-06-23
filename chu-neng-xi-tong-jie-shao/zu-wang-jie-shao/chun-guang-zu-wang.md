@@ -4,21 +4,21 @@ Sigen Hybrid适用于家庭屋顶光伏并网系统。并网系统由光伏组�
 
 <figure><img src="../../.gitbook/assets/SVA1OV00012-户用2代-en.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="59.5555419921875" align="center">序号</th><th width="128">说明</th><th width="61.111083984375" align="center">序号</th><th>说明</th><th width="60.333251953125" align="center">序号</th><th>说明</th></tr></thead><tbody><tr><td align="center"><strong>A</strong></td><td>光伏板</td><td align="center"><strong>B</strong></td><td>Sigen Hybrid</td><td align="center"><strong>C</strong></td><td>交流开关</td></tr><tr><td align="center"><strong>D</strong></td><td>交流配电单元</td><td align="center"><strong>E</strong></td><td>家用负载</td><td align="center"><strong>F</strong></td><td>Power sensor</td></tr><tr><td align="center"><strong>G</strong></td><td>电网</td><td align="center"><strong>H</strong></td><td>mySigen</td><td align="center"><strong>I</strong></td><td>路由器</td></tr><tr><td align="center"><strong>J</strong></td><td>天线</td><td align="center"><strong>K</strong></td><td>CommMod</td><td align="center"></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="59.5555419921875" align="center">No.</th><th width="128">Description</th><th width="61.111083984375" align="center">No.</th><th>Description</th><th width="60.333251953125" align="center">No.</th><th>Description</th></tr></thead><tbody><tr><td align="center"><strong>A</strong></td><td>PV panel</td><td align="center"><strong>B</strong></td><td>Sigen Hybrid</td><td align="center"><strong>C</strong></td><td>AC switch</td></tr><tr><td align="center"><strong>D</strong></td><td>AC distribution panel</td><td align="center"><strong>E</strong></td><td>Household loads</td><td align="center"><strong>F</strong></td><td>Power sensor</td></tr><tr><td align="center"><strong>G</strong></td><td>Power grid</td><td align="center"><strong>H</strong></td><td>mySigen</td><td align="center"><strong>I</strong></td><td>Router</td></tr><tr><td align="center"><strong>J</strong></td><td>Antenna</td><td align="center"><strong>K</strong></td><td>CommMod</td><td align="center"></td><td></td></tr></tbody></table>
 
 {% include "https://app.gitbook.com/s/tFgK8zJhiu8RPgeJGaR0/~/reusable/0Sa91aaU4RsIllal7jMR/" %}
 
-* <mark style="color:blue;">Sigen Hybrid支持级联台数≤20。</mark>
-* <mark style="color:blue;">Sigen Hybrid (2.0-6.0) SP2系列：与每一台逆变器连接的交流开关额定电压均需≥240Va.c.，额定电流推荐规格：</mark>
-  * <mark style="color:blue;">Sigen Hybrid (2.0-4.0) SP2系列：额定电流为25A。</mark>
-  * <mark style="color:blue;">Sigen Hybrid (4.6-6.0) SP2系列：额定电流为40A。</mark>
-* <mark style="color:blue;">Sigen Hybrid (3.0-12.0) TP2系列：与每一台逆变器连接的交流开关额定电压均需≥415 Va.c.，额定电流推荐规格：</mark>
-  * <mark style="color:blue;">Sigen Hybrid (3.0, 4.0) TP2系列：额定电流为10A。</mark>
-  * <mark style="color:blue;">Sigen Hybrid (5.0, 6.0) TP2系列：额定电流为16A。</mark>
-  * <mark style="color:blue;">Sigen Hybrid (7.5, 8.0) TP2系列：额定电流为25A。</mark>
-  * <mark style="color:blue;">Sigen Hybrid (10.0, 12.0) TP2系列：额定电流为32A。</mark>
-* <mark style="color:blue;">若D（交流配电单元）具有漏电保护功能，推荐额定剩余动作电流为≥逆变器数量×100mA。</mark>
+* <mark style="color:blue;">No more than 20 Sigen Hybrid units can be cascaded.</mark>
+* <mark style="color:blue;">T</mark><mark style="color:blue;">he rated voltage of the AC switch connected to each</mark> <mark style="color:blue;">Sigen Hybrid (2.0-6.0) SP2 series</mark> <mark style="color:blue;">inverter must be ≥ 240 Va.c., and the recommended rated current specifications are:</mark>
+  * <mark style="color:blue;">Sigen Hybrid (2.0-4.0) SP2 series</mark><mark style="color:blue;">: Rated current is 25 A.</mark>
+  * <mark style="color:blue;">Sigen Hybrid (4.6-6.0) SP2 series</mark><mark style="color:blue;">: Rated current is 40 A.</mark>
+* <mark style="color:blue;">The rated voltage of the AC switch connected to each</mark> <mark style="color:blue;">Sigen Hybrid (3.0-12.0) TP2 series inverter</mark> <mark style="color:blue;">must be ≥ 415 Va.c., and the recommended rated current specifications are:</mark>
+  * <mark style="color:blue;">Sigen Hybrid (3.0, 4.0) TP2 series</mark><mark style="color:blue;">: Rated current is 10 A.</mark>
+  * <mark style="color:blue;">Sigen Hybrid (5.0, 6.0) TP2 series: Rated current is 16 A.</mark>
+  * <mark style="color:blue;">Sigen Hybrid (7.5, 8.0) TP2 series</mark><mark style="color:blue;">: Rated current is 25 A.</mark>
+  * <mark style="color:blue;">Sigen Hybrid (10.0, 12.0) TP2 series</mark><mark style="color:blue;">: Rated current is 32 A.</mark>
+* <mark style="color:blue;">If D (AC distribution panel) features leakage protection, it is recommended that the rated residual operating current be greater than or equal to the number of inverters × 100 mA.</mark>
 * <mark style="color:blue;">配电单元的交流开关额定电压需 ≥240 Va.c., 额定电流需：≥ 逆变器最大输出电流 x 并机数量 x 1.25</mark><sup><mark style="color:blue;">【1】<mark style="color:blue;"></sup>
-* <mark style="color:blue;">通信方式推荐采用FE和WLAN。CommMod赠送4G流量用完后，需用户自行更换SIM卡。</mark>
+* <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod runs out, users must top up their accounts or replace an SIM card.</mark>
 
-<mark style="color:blue;">注【1】：逆变器最大输出电流可在产品Data sheets上获取。</mark>
+<mark style="color:blue;">Note \[1]: The maximum output current of an inverter can be found in its respective data sheet.</mark>
