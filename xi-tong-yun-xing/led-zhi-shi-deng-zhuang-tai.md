@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/SHA1OV00006-en.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/一体机LED灯-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/en-01.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## SigenStor Energy Storage System
 
@@ -13,6 +13,8 @@
 <mark style="color:blue;">The indicator correctly indicates the real-time power and status of the battery rack.</mark>
 
 <figure><img src="../.gitbook/assets/SHA1OV00008-en_画板 1.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/en-02.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### CommMod Indicator
 
