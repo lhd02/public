@@ -4,7 +4,17 @@
 
 In the mySigen app, tap "Settings" to turn the device on or off.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1CM00071-批量开关机.png" alt=""><figcaption></figcaption></figure>
+
+### **Scheme 2: Manual operation**
+
+Follow the steps shown to remove the side and top decorative cover, and press the ON/OFF switch button.
+
+{% include "../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">Press and hold for more than 3s to turn on or off the power; an interval of more than 10s is needed between power-on and power-off.</mark>
+
+<figure><img src="../.gitbook/assets/app-setting2.png" alt="" width="356"><figcaption></figcaption></figure>
 
 {% include "../.gitbook/includes/tips.md" %}
 
