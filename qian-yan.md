@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-This document mainly introduces the product introduction, system wiring, system operation and maintenance of the devices in the SigenStor Home.
+This document primarily introduces the Sigen Hybrid (2.0-6.0) SP2 series inverters, Sigen Hybrid (3.0-12.0) TP2 series inverters, and SigenStor energy storage system, covering product introduction, system wiring, and system operation and maintenance.
 
 ### **Readers**
 

@@ -1,6 +1,6 @@
-# 纯光组网
+# PV System Wiring
 
-Sigen Hybrid适用于家庭屋顶光伏并网系统。并网系统由光伏组串、逆变器、配电单元等组成。
+Sigen Hybrid is designed for residential rooftop on-grid solar systems. The on-grid solar system consists of PV strings, inverters, distribution panels, and other components.
 
 <figure><img src="../../.gitbook/assets/SVA1OV00012-户用2代-en.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@ Sigen Hybrid适用于家庭屋顶光伏并网系统。并网系统由光伏组�
   * <mark style="color:blue;">Sigen Hybrid (7.5, 8.0) TP2 series</mark><mark style="color:blue;">: Rated current is 25 A.</mark>
   * <mark style="color:blue;">Sigen Hybrid (10.0, 12.0) TP2 series</mark><mark style="color:blue;">: Rated current is 32 A.</mark>
 * <mark style="color:blue;">If D (AC distribution panel) features leakage protection, it is recommended that the rated residual operating current be greater than or equal to the number of inverters × 100 mA.</mark>
-* <mark style="color:blue;">配电单元的交流开关额定电压需 ≥240 Va.c., 额定电流需：≥ 逆变器最大输出电流 x 并机数量 x 1.25</mark><sup><mark style="color:blue;">【1】<mark style="color:blue;"></sup>
+* <mark style="color:blue;">The distribution panel AC switch must have a rated voltage ≥ 240 Va.c. and rated current ≥ (Inverter maximum output current × Number of parallel units × 1.25)</mark><sup><mark style="color:blue;">\[1]<mark style="color:blue;"></sup>
 * <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod runs out, users must top up their accounts or replace an SIM card.</mark>
 
 <mark style="color:blue;">Note \[1]: The maximum output current of an inverter can be found in its respective data sheet.</mark>

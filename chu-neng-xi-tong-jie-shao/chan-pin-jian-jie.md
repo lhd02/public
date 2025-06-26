@@ -2,13 +2,13 @@
 
 ## Inverter (Sigen Hybrid)
 
-逆变器，可与光伏组件配合，单独应用于纯光伏场景；也可与光伏组件、SigenStor BAT配合应用于光储系统。
+The inverter supports standalone PV applications with PV modules or integrated PV storage systems when combined with PV modules and SigenStor BAT.
 
 <table><thead><tr><th width="208">Model</th><th>Name</th></tr></thead><tbody><tr><td>Sigen Hybrid 2.0 SP2</td><td>Sigen Hybrid Inverter 2.0 kW Single Phase</td></tr><tr><td>Sigen Hybrid 3.0 SP2</td><td>Sigen Hybrid Inverter 3.0 kW Single Phase</td></tr><tr><td>Sigen Hybrid 3.6 SP2</td><td>Sigen Hybrid Inverter 3.6 kW Single Phase</td></tr><tr><td>Sigen Hybrid 4.0 SP2</td><td>Sigen Hybrid Inverter 4.0 kW Single Phase</td></tr><tr><td>Sigen Hybrid 4.6 SP2</td><td>Sigen Hybrid Inverter 4.6 kW Single Phase</td></tr><tr><td>Sigen Hybrid 5.0 SP2</td><td>Sigen Hybrid Inverter 5.0 kW Single Phase</td></tr><tr><td>Sigen Hybrid 6.0 SP2</td><td>Sigen Hybrid Inverter 6.0 kW Single Phase</td></tr><tr><td>Sigen Hybrid 3.0 SP2 AU</td><td>Sigen Hybrid Inverter 3.0 kW Single Phase Australia</td></tr><tr><td>Sigen Hybrid 5.0 SP2 AU</td><td>Sigen Hybrid Inverter 5.0 kW Single Phase Australia</td></tr><tr><td>Sigen Hybrid 6.0 SP2 AU</td><td>Sigen Hybrid Inverter 6.0 kW Single Phase Australia</td></tr><tr><td>Sigen Hybrid 3.0 TP2</td><td>Sigen Hybrid Inverter 3.0 kW Three Phase</td></tr><tr><td>Sigen Hybrid 4.0 TP2</td><td>Sigen Hybrid Inverter 4.0 kW Three Phase</td></tr><tr><td>Sigen Hybrid 5.0 TP2</td><td>Sigen Hybrid Inverter 5.0 kW Three Phase</td></tr><tr><td>Sigen Hybrid 6.0 TP2</td><td>Sigen Hybrid Inverter 6.0 kW Three Phase</td></tr><tr><td>Sigen Hybrid 8.0 TP2</td><td>Sigen Hybrid Inverter 8.0 kW Three Phase</td></tr><tr><td>Sigen Hybrid 10.0 TP2</td><td>Sigen Hybrid Inverter 10.0 kW Three Phase</td></tr><tr><td>Sigen Hybrid 12.0 TP2</td><td>Sigen Hybrid Inverter 12.0 kW Three Phase</td></tr><tr><td>Sigen Hybrid 10.0 TP2 BE</td><td>Sigen Hybrid Inverter 10.0 kW Three Phase Belgium</td></tr><tr><td>Sigen Hybrid 5.0 TP2 AU</td><td>Sigen Hybrid Inverter 5.0 kW Three Phase Australia</td></tr><tr><td>Sigen Hybrid 6.0 TP2 AU</td><td>Sigen Hybrid Inverter 6.0 kW Three Phase Australia</td></tr><tr><td>Sigen Hybrid 8.0 TP2 AU</td><td>Sigen Hybrid Inverter 8.0 kW Three Phase Australia</td></tr><tr><td>Sigen Hybrid 10.0 TP2 AU</td><td>Sigen Hybrid Inverter 10.0 kW Three Phase Australia</td></tr><tr><td>Sigen Hybrid 12.0 TP2 AU</td><td>Sigen Hybrid Inverter 12.0 kW Three Phase Australia</td></tr><tr><td>Sigen Hybrid 7.5 TP2 BR</td><td>Sigen Hybrid Inverter 7.5 kW Three Phase Brazil</td></tr></tbody></table>
 
-## 电池控制器 （SigenStor BC）
+## Battery Controller (SigenStor BC)
 
-用于Sigen Hybrid SP2/TP2系列逆变器与SigenStor BAT电池包间的配电及通信转接与控制。
+Provides power distribution, communication relaying, and control between Sigen Hybrid SP2/TP2 series inverters and SigenStor BAT battery packs.
 
 | Model           | Name                               |
 | --------------- | ---------------------------------- |
