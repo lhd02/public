@@ -2,4 +2,4 @@
 
 若您想通过第三方平台管理SigenStor EVDC，可通过设置OCPP进行授权。
 
-![](<../../.gitbook/assets/0 (5).png>)
+![](../../.gitbook/assets/MSA1CM00051-occp-zh.png)

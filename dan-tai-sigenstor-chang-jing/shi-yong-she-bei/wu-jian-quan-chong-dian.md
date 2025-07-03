@@ -2,7 +2,7 @@
 
 1. 将“授权”设置为 <img src="../../.gitbook/assets/shouquanbutton.png" alt="" data-size="line">。
 
-<figure><img src="../../.gitbook/assets/shouquans.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00051-鉴权-zh.png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. 将充电枪安装到位。
 

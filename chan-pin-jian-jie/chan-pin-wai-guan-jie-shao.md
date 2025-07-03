@@ -1,8 +1,6 @@
 # 产品外观介绍
 
-### **SigenStor EVDC 12 (5S2, 7.5S2, 10S2)**
-
-### **SigenStor EVDC 25 (5S2, 7.5S2, 10S2)**
+### **SigenStor EVDC 12 (5S2, 7.5S2, 10S2)，SigenStor EVDC 25 (5S2, 7.5S2, 10S2)**
 
 ![](<../.gitbook/assets/0 (2).png>)
 
@@ -13,9 +11,7 @@
 | **3** | RFID刷卡片刷卡区域   |
 | **4** | 电缆支架，收纳充电线    |
 
-### **SigenStor EVDC 12 (7.5GBT, 10GBT)**
-
-### **SigenStor EVDC 25 (7.5GBT, 10GBT)**
+### **SigenStor EVDC 12 (7.5GBT, 10GBT)，SigenStor EVDC 25 (7.5GBT, 10GBT)**
 
 ![](<../.gitbook/assets/1 (2).png>)
 

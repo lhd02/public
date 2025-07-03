@@ -1,3 +1,3 @@
-# EVDC允许充电功率设置
+# 充电设置
 
-![](../../.gitbook/assets/evdc-powerd.png)
+![](../../.gitbook/assets/MSA1CM00053-充电设置-zh.png)

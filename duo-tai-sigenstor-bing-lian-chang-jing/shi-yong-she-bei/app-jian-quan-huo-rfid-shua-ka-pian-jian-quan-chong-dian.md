@@ -5,7 +5,7 @@
 
 * #### 方式一：App鉴权充电
 
-![](../../.gitbook/assets/jianquand.png)
+![](../../.gitbook/assets/MSA1CM00053-启动-zh.png)
 
 *   #### 方式二：RFID刷卡片鉴权充电
 

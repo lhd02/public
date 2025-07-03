@@ -30,7 +30,7 @@
 * <mark style="color:red;">禁止将设备长时间暴露于高温环境或发热源长时间在设备周围（如日照、火源、取暖器等）。</mark>
 * <mark style="color:red;">禁止用水、酒精、油等清洗或浸泡设备，以免造成设备漏电、电池包漏液等。</mark>
 * <mark style="color:red;">禁止将液体遗留在充电枪端子或设备插座中。</mark>
-* <mark style="color:red;">禁止敲打、撞击设备。若意外发生撞击，请立即停止使用设备并及时您的销售代理商，设备经专业人员检查评估后方可继续使用。</mark>
+* <mark style="color:red;">禁止敲打、撞击设备。若意外发生撞击，请立即停止使用设备并及时您的安装商或销售代理商，设备经专业人员检查评估后方可继续使用。</mark>
 * <mark style="color:red;">若设备安装于室外，请勿在恶劣天气（如暴雨、暴雪等）使用。</mark>
 * <mark style="color:red;">禁止使用尖锐物体或手指插入设备。</mark>
 
@@ -42,13 +42,13 @@
 
 {% include ".gitbook/includes/caution.md" %}
 
-* <mark style="color:purple;">禁止带故障使用设备。若设备发生异常时，请及时联系您的销售代理商处理。</mark>
+* <mark style="color:purple;">禁止带故障使用设备。若设备发生异常时，请及时联系您的安装商或销售代理商处理。</mark>
 * <mark style="color:purple;">禁止外接非本设备安装要求的线缆、适配器或转接器。</mark>
 * <mark style="color:purple;">禁止将设备用于非车辆充电的场景。</mark>
 * <mark style="color:purple;">禁止将私人发电机作为设备的电源使用。</mark>
 * <mark style="color:purple;">禁止暴力折弯、敲击设备上的部件。</mark>
 * <mark style="color:purple;">推荐家中备二氧化碳灭火器或ABC干粉灭火器。</mark>
-* <mark style="color:purple;">若设备无法进入充电状态时，请及时联系您的销售代理商处理。</mark>
+* <mark style="color:purple;">若设备无法进入充电状态时，请及时联系您的安装商或销售代理商处理。</mark>
 * <mark style="color:purple;">设备使用时产生的无线电波可能会影响植入式医用仪器或个人医用仪器的正常使用（如心脏起搏器、植入式除颤器、助听器等）。在使用设备前，请先向医用仪器制造商咨询使用本设备的限制条件。</mark>
 
 ### **禁止设备用于以下场景：**

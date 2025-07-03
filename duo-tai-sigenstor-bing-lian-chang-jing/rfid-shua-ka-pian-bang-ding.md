@@ -1,6 +1,6 @@
 # RFID刷卡片绑定
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/rfidd.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/MSA1CM00053-绑卡-zh.png" alt=""><figcaption></figcaption></figure></div>
 
 {% include "../.gitbook/includes/tips.md" %}
 
