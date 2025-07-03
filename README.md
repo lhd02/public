@@ -1,3 +1,3 @@
 # User Manual
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/cover.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/思格直流充电模块 用户手册-en.png" alt=""><figcaption></figcaption></figure></div>

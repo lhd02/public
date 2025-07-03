@@ -1,3 +1,3 @@
-# Charging Power Allowed for EVDC Settings
+# Charging Settings
 
-![](../../../.gitbook/assets/chongdianpowerd.png)
+![](../../../.gitbook/assets/MSA1CM00053-充电设置-en.png)

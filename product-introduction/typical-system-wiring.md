@@ -4,18 +4,17 @@
 
 <figure><img src="../.gitbook/assets/zuwang_a.png" alt=""><figcaption></figcaption></figure>
 
-| No.    | Description            | No.    | Description                             | No.    | Description                         |
-| ------ | ---------------------- | ------ | --------------------------------------- | ------ | ----------------------------------- |
-| **A**  | Solar Panel            | **B**  | SigenStor EC/ SigenStor AC/Sigen Hybrid | **C**  | SigenStor EVDC                      |
-| **D**  | SigenStor BAT          | **E**  | Diesel Generator                        | **F**  | Gateway                             |
-| **G**  | Vehicle                | **H1** | Backup Power Distribution Panel         | **H2** | Non-backup Power Distribution Panel |
-| **I1** | Backup Power Equipment | **I2** | Non-backup Power Equipment              | **J**  | Power Sensor                        |
-| **K**  | Power Grid             | **L**  | mySigen                                 | **M**  | Router                              |
-| **N**  | Antenna                | **O**  | CommMod                                 |        |                                     |
+| No.    | Description            | No.    | Description                     | No.    | Description                         |
+| ------ | ---------------------- | ------ | ------------------------------- | ------ | ----------------------------------- |
+| **A**  | Solar Panel            | **B**  | SigenStor EC/ Sigen Hybrid      | **C**  | SigenStor EVDC                      |
+| **D**  | SigenStor BAT          | **E**  | Diesel Generator                | **F**  | Gateway                             |
+| **G**  | Vehicle                | **H1** | Backup Power Distribution Panel | **H2** | Non-backup Power Distribution Panel |
+| **I1** | Backup Power Equipment | **I2** | Non-backup Power Equipment      | **J**  | Power Sensor                        |
+| **K**  | Power Grid             | **L**  | mySigen                         | **M**  | Router                              |
+| **N**  | Antenna                | **O**  | CommMod                         |        |                                     |
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">When B is SigenStor AC, A is not configured.</mark>
 * <mark style="color:blue;">J features data collection from grid-connected points to realize zero power grid connection. For partial backup, J can be left un-configured. In the case of partial backup + zero-power grid connection control, J is configured.</mark>
 * <mark style="color:blue;">As a backup energy source for long-term off-grid applications, the diesel generator can work in tandem with the Gateway to provide a smooth transition between PV, energy storage, and diesel power generation.</mark>
 * <mark style="color:blue;">If H2 (Non-backup Power Distribution Panel) features leakage protection, it is recommended that the rated residual operating current be greater than or equal to the number of inverters × 100 mA.</mark>

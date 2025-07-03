@@ -5,7 +5,7 @@
 
 * #### **Method 1: App authenticated charging**
 
-<div align="center"><figure><img src="../../../.gitbook/assets/rfidd (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/MSA1CM00053-启动-en.png" alt=""><figcaption></figcaption></figure></div>
 
 * #### **Method 2: Sigen RFID card authenticated charging**
 

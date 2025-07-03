@@ -2,4 +2,4 @@
 title: warning
 ---
 
-<div align="left"><figure><img src="../assets/warning.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../assets/warning.png" alt="" width="169"><figcaption></figcaption></figure></div>

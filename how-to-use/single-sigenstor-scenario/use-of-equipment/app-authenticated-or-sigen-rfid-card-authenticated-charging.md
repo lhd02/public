@@ -1,11 +1,11 @@
-# App authenticated or Sigen RFID card authenticated charging(Recommended)
+# App authenticated or Sigen RFID card authenticated charging (Recommended)
 
 1. Install the charging connector in place.
 2. Start charging on the equipment.
 
 * #### **Method 1: App authenticated charging**
 
-<div align="center"><figure><img src="../../../.gitbook/assets/rfids.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/MSA1CM00051-启动-en.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 * #### **Method 2: Sigen RFID card authenticated charging**
 

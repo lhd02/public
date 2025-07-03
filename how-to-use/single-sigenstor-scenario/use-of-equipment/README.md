@@ -1,6 +1,6 @@
 # Use of Equipment
 
-SigenStor EVDC supports App authenticated charging, Sigen RFID card authenticated, and unauthenticated charging.
+SigenStor EVDC supports App authenticated charging, Sigen RFID card authenticated, unauthenticated charging and scheduled charging.
 
 {% include "../../../.gitbook/includes/caution.md" %}
 

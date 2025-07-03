@@ -6,13 +6,13 @@ The equipment will automatically stop charging when the vehicle is fully charged
 
 ### **During charging**
 
-* **During charging**
+* **Method 1: During charging**
 
 Read your Sigen RFID Card to stop charging.
 
 * **Method 2: App authenticated**
 
-Stop charging from "Home"→"Charger"→"Stop".
+Stop charging from "Home"→![](../../../.gitbook/assets/DC.png)→"Stop".
 
 {% include "../../../.gitbook/includes/waring.md" %}
 

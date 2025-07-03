@@ -30,7 +30,7 @@ The Company shall not be liable for equipment damage or property loss caused by 
 * <mark style="color:red;">Do not expose the equipment to high temperature or heat sources, such as ignition sources, heaters, etc.</mark>
 * <mark style="color:red;">Do not clean or soak the equipment with water, alcohol, or oil to avoid power leakage or battery pack leakage.</mark>
 * <mark style="color:red;">Do not leave liquid in the charging connector or socket.</mark>
-* <mark style="color:red;">Do not knock or impact the equipment. In case of an accident, please stop using the equipment immediately and contact your sales agent, The equipment shall be inspected and evaluated by professional personnel before continuing to use.</mark>
+* <mark style="color:red;">Do not knock or impact the equipment. In case of an accident, please stop using the equipment immediately and contact your installer or sales agent, The equipment shall be inspected and evaluated by professional personnel before continuing to use.</mark>
 * <mark style="color:red;">Do not use the equipment in bad weather, such as heavy rain or snowstorm, when installed outdoors.</mark>
 * <mark style="color:red;">Do not extend sharp objects or fingers into the equipment.</mark>
 
@@ -42,13 +42,13 @@ The Company shall not be liable for equipment damage or property loss caused by 
 
 {% include ".gitbook/includes/caution.md" %}
 
-* <mark style="color:purple;">Do not use the equipment with faults. If the equipment appears abnormal, contact your sales agent.</mark>
+* <mark style="color:purple;">Do not use the equipment with faults. If the equipment appears abnormal, contact your</mark> <mark style="color:purple;">installer or</mark> <mark style="color:purple;">sales agent.</mark>
 * <mark style="color:purple;">Do not connect cables or adapters that are not required for installing this equipment.</mark>
 * <mark style="color:purple;">Do not use the equipment for any purposes other than vehicle charging.</mark>
 * <mark style="color:purple;">Do not use a private generator as the power source for the equipment.</mark>
 * <mark style="color:purple;">Do not forcedly bend or knock components on the equipment.</mark>
 * <mark style="color:purple;">Carbon dioxide fire extinguishers or ABC dry powder fire extinguishers are recommended at home.</mark>
-* <mark style="color:purple;">If the equipment cannot be charged, please contact your sales agent in time.</mark>
+* <mark style="color:purple;">If the equipment cannot be charged, please contact your</mark> <mark style="color:purple;">installer or</mark> <mark style="color:purple;">sales agent in time.</mark>
 * <mark style="color:purple;">The radio waves generated when using the equipment may affect the normal use of implantable medical devices or personal medical devices, such as pacemakers, implantable defibrillators, hearing AIDS, etc. Consult with your medical device manufacturer about the restrictions of using the equipment before use.</mark>
 
 **Do not use the equipment in the following situations:**

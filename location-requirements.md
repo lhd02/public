@@ -2,7 +2,6 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">The warranty applies when the equipment has been installed properly for its intended use and in accordance with the operating instructions.</mark>
 * <mark style="color:blue;">Before installing the equipment, please be sure to carefully read the following installation requirements. The company will not be liable for any functional abnormalities or damages arising from the operation of the equipment if the installation requirements are not followed, even in cases leading to personal safety incidents.</mark>
 * <mark style="color:blue;">During actual installation, the selection of installation location should comply with local firefighting, environmental protection regulations, and other relevant laws. The specific installation location planning should be subject to the installer or engineering, procurement, and construction (EPC) contracts.</mark>
 
@@ -13,6 +12,8 @@
 * Do not install the equipment in an environment with strong electromagnetic interference.
 * The temperature and humidity of the installation environment should meet equipment requirements.
 * The equipment should be installed in an area that is at least 1640.42 ft (500 m) away from corrosion sources that may result in salt damage or acid damage. Corrosion sources include but are not limited to seaside, thermal power plants, chemical plants, smelters, coal plants, rubber plants, and electroplating plants.
+* In areas with good marine environments (such as Norway, where the nearshore salinity is ≤ 28 psu), the mounting distance of the device from the coastline can be appropriately relaxed to ≥ 656.17 ft (200 m).
+* If the outer surface of the device is damaged, please repaint the device in time.
 
 ### **Installation Position Requirements**
 
@@ -34,7 +35,7 @@
 * The installation base should be flat, and the installation area should meet the installation space requirements.
 * No plumbing or electrical alignments are allowed inside the installation base to avoid potential drilling hazards during equipment installation.
 
-<div align="center"><figure><img src=".gitbook/assets/anzhuang.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/SEA1SF00002-en (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% include ".gitbook/includes/tips.md" %}
 
