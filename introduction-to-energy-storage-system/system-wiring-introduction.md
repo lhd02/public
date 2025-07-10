@@ -54,7 +54,7 @@
 
 {% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
 
-* <mark style="color:blue;">Each inverter must be equipped with an AC switch, and multiple inverters cannot be connected to one AC switch at the same time.</mark>
+* <mark style="color:blue;">Multiple inverters cannot be connected to one AC switch at the same time.</mark>
 * <mark style="color:blue;">Every inverter (with a backup load port) connected to the backup load must use an AC switch with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
   * <mark style="color:blue;">For inverters with a power rating of 50 kW: rated current is 100 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 60 kW: rated current is 125 A</mark>
