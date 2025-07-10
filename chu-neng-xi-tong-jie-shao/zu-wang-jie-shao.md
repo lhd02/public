@@ -5,12 +5,12 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**Under backup power system wiring, the duration of off-grid operation of the backup power load is related to the power supply capacity of the PV storage system. If there is an abnormality in the power supply of the PV storage system during off-grid operation (including but not limited to abnormal PV power generation, insufficient battery power, and abnormal power supplies to the diesel generator), the backup power load will still be unable to operate.**</mark>
-* <mark style="color:blue;">**Low-voltage Three-phase system Home Series products does not support backup scenarios, and only the Non-backup system wiring diagram is available.**</mark>
+* <mark style="color:blue;">Under backup power system wiring, the duration of off-grid operation of the backup power load is related to the power supply capacity of the PV storage system. If there is an abnormality in the power supply of the PV storage system during off-grid operation (including but not limited to abnormal PV power generation, insufficient battery power, and abnormal power supplies to the diesel generator), the backup power load will still be unable to operate.</mark>
+* <mark style="color:blue;">Low-voltage Three-phase system Home Series products does not support backup scenarios, and only the Non-backup system wiring diagram is available.</mark>
 
 ### **Whole home backup system wiring diagram**
 
-<figure><img src="../.gitbook/assets/SSA1OV00029-en.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00029-en.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="61.11114501953125" align="center">No.</th><th width="114.77777099609375">Description</th><th width="60.33331298828125" align="center">No.</th><th>Description</th><th width="59" align="center" valign="middle">No.</th><th>Description</th></tr></thead><tbody><tr><td align="center"><strong>A</strong></td><td>PV panel</td><td align="center"><strong>B</strong></td><td>SigenStor EC/ Sigen Hybrid</td><td align="center" valign="middle"><strong>C</strong></td><td>SigenStor BAT</td></tr><tr><td align="center"><strong>D</strong></td><td>Gateway</td><td align="center"><strong>E</strong></td><td>Backup Distribution panel</td><td align="center" valign="middle"><strong>F</strong></td><td>Backup Household loads</td></tr><tr><td align="center"><strong>G</strong></td><td>Diesel generator</td><td align="center"><strong>H</strong></td><td>Smart loads</td><td align="center" valign="middle"><strong>I</strong></td><td>Power grid</td></tr><tr><td align="center"><strong>J</strong></td><td>mySigen</td><td align="center"><strong>K</strong></td><td>Router</td><td align="center" valign="middle"><strong>L</strong></td><td>Antenna</td></tr><tr><td align="center"><strong>M</strong></td><td>CommMod</td><td align="center"></td><td></td><td align="center" valign="middle"></td><td></td></tr></tbody></table>
 
@@ -25,7 +25,7 @@
 
 ### **Partial home backup system wiring diagram**
 
-<figure><img src="../.gitbook/assets/SSA1OV00027-EN（电表+CT）.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00027-en.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="59.11114501953125" align="center">No.</th><th width="142">Description</th><th width="60.22216796875" align="center">No.</th><th width="151">Description</th><th width="60.22216796875" align="center">No.</th><th>Description</th></tr></thead><tbody><tr><td align="center"><strong>A</strong></td><td>PV panel</td><td align="center"><strong>B</strong></td><td>SigenStor EC/ Sigen Hybrid</td><td align="center"><strong>C</strong></td><td>SigenStor BAT</td></tr><tr><td align="center"><strong>D</strong></td><td>Gateway</td><td align="center"><strong>E1</strong></td><td>Backup Distribution panel</td><td align="center"><strong>E2</strong></td><td>Non-Backup Distribution panel</td></tr><tr><td align="center"><strong>F1</strong></td><td>Backup Household loads</td><td align="center"><strong>F2</strong></td><td>Non-Backup Household loads</td><td align="center"><strong>G</strong></td><td>Diesel Generator</td></tr><tr><td align="center"><strong>H</strong></td><td>Smart loads</td><td align="center"><strong>I</strong></td><td>Power sensor</td><td align="center"><strong>J</strong></td><td>Power sensor</td></tr><tr><td align="center"><strong>K</strong></td><td>mySigen</td><td align="center"><strong>L</strong></td><td>Router</td><td align="center"><strong>M</strong></td><td>Antenna</td></tr><tr><td align="center"><strong>N</strong></td><td>CommMod</td><td align="center"><strong>O</strong></td><td></td><td align="center"></td><td></td></tr></tbody></table>
 
@@ -43,7 +43,7 @@
 
 ### **Non-backup system wiring diagram**
 
-<figure><img src="../.gitbook/assets/SSA1OV00028-en（电表+CT）.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00028-en.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="91">No.</th><th width="149">Description</th><th width="74">No.</th><th>Description</th><th width="82">No.</th><th>Description</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>PV panel</td><td><strong>B</strong></td><td>SigenStor EC/ Sigen Hybrid</td><td><strong>C</strong></td><td>SigenStor BAT</td></tr><tr><td><strong>D</strong></td><td>AC switch</td><td><strong>E</strong></td><td>Distribution panel</td><td><strong>F</strong></td><td>Household loads</td></tr><tr><td><strong>G</strong></td><td>Power sensor</td><td><strong>H</strong></td><td>Power grid</td><td><strong>I</strong></td><td>mySigen</td></tr><tr><td><strong>J</strong></td><td>Router</td><td><strong>K</strong></td><td>Antenna</td><td><strong>L</strong></td><td>CommMod</td></tr></tbody></table>
 
