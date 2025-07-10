@@ -5,7 +5,6 @@
 * <mark style="color:red;">Before connecting cables, ensure that the equipment is not damaged. Otherwise, electric shock or fire hazard may occur.</mark>
 * <mark style="color:red;">Before connecting or removing cables, ensure that the upstream and downstream switches of the equipment and the switches on the equipment are turned off.</mark>
 * Do not intertwine cables or route cables across each other. It is recommended that cables be bundled by category.If you find that the power cord length is not sufficient, you must replace the power cord. It is strictly forbidden to make joints or soldering points in the power cord.
-* The positive or negative terminal of the PV string is short to the ground if the power distribution cables are not installed or routed in accordance with the requirements. As a result, the AC-DC short circuit may occur when the equipment is operating, resulting in equipment damage. The equipment damage caused by this is not covered under the equipment warranty.
 * The cables must be vertically inserted into the equipment to avoid the terminals being damaged due to lateral force.
 * Do not route cables through the air inlet and air outlet of the equipment.
 * Do not use cables with damaged insulation. No sharp edges or burrs are allowed in cable holes. Replace cables with insufficient length. Do not extend cables using welding or similar methods.
