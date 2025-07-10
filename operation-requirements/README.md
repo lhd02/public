@@ -18,8 +18,17 @@
 * <mark style="color:red;">Equipment that must be grounded is permanently connected to the PGND. Connect the PGND in the first step before connecting cables, and when replacing an equipment, remove the PGND in the last step.</mark>
 * <mark style="color:red;">Do not touch terminals with bare hands or conductors or damp objects. Measure the voltage of the contact before touching a terminal to avoid the risk of electric shock.</mark>
 * <mark style="color:red;">Prevent foreign objects from falling into the equipment while operating the equipment. Otherwise, the equipment may be short-circuited or damaged, or power supply to loads may be derated or power failure may occur, or this may even result in personal injury.</mark>
-* <mark style="color:red;">Before powering off the 10 kV or higher medium-voltage equipment, it is recommended to turn off the inverter and switch off the low-voltage equipment first.</mark>
 * <mark style="color:red;">Touch up paint scratches on the surface of the equipment.</mark>
+
+
+
+### Safety Requirements
+
+{% include "../.gitbook/includes/danger.md" %}
+
+* <mark style="color:red;">It is prohibited to expose the equipment to high-temperature environments for a long time or keep heat sources (such as sunlight, fire sources, heaters, etc.) around the equipment for an extended period.</mark>
+* <mark style="color:red;">It is prohibited to clean or soak the equipment with water, alcohol, oil, etc., to prevent electrical leakage or other issues.</mark>
+* <mark style="color:red;">It is prohibited to strike or impact the equipment. In case of accidental impact, stop using the equipment immediately and contact your installer or sales agent promptly. The equipment can only be reused after being inspected and evaluated by professionals.</mark>
 
 {% include "https://app.gitbook.com/s/QQ893uO4j5RKcrjDiLmp/~/reusable/F4cMUXj5Am0uXVCnSnaR/" %}
 
