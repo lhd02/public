@@ -51,11 +51,11 @@ Assume that the peak shaving SOC is set to 50% and the maximum peak power is 2kW
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-电价设置.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Tariff Rate Plan**
+### **Tariff Rate Plan**
 
 <table><thead><tr><th width="70" align="center">No.</th><th width="224">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Select a power company.</td></tr><tr><td align="center">2</td><td>Rate Plan Name</td><td>Select an electricity rate plan.</td></tr><tr><td align="center">3</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">4</td><td>Additional Fee</td><td>Automatically match the additional fee.</td></tr><tr><td align="center">5</td><td>Customize</td><td>Click to switch to Customize Rate Plan.</td></tr></tbody></table>
 
-**Customize Rate Plan**
+### **Customize Rate Plan**
 
 <table><thead><tr><th width="70" align="center">No.</th><th width="224">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Enter the name of the power company.</td></tr><tr><td align="center">2</td><td>Rate Plan Name</td><td>Enter the name of the electricity rate plan.</td></tr><tr><td align="center">3</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">4</td><td>Rate Plan Type</td><td><p><strong>Single Rate Tariff: All time periods adopt a single rate.</strong></p><ul><li>Rate Tariff.</li></ul><p><strong>TOU Rate Plan: Different rates are used for different time periods.</strong></p><ul><li>Add your TOU schedule: Add your Time-of-Use (TOU) rate periods.</li></ul><ul><li>Seasons Settings: Up to 6 seasons can be set within 1 year.</li></ul><ul><li>Season N time period: Set the time period within the season.</li></ul><ul><li>Price Setting: Set the price within the time period.</li></ul></td></tr><tr><td align="center">5</td><td>Go to settings to enable it</td><td>Click to switch to Tariff Rate Plan.</td></tr></tbody></table>
 
