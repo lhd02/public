@@ -18,7 +18,7 @@ Setting grid-related parameters can ensure safe grid connection, compliant elect
 
 <table><thead><tr><th width="62" align="center">No.</th><th width="235.181884765625">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1 </td><td>Grid Export Power Limit</td><td>Set the system's maximum power for selling electricity to the grid.</td></tr><tr><td align="center">2</td><td>Grid Import Power Limit</td><td>Set the system's maximum power for buying electricity from the grid.</td></tr></tbody></table>
 
-## Peak Shaving Control Mode
+## Peak Shaving&#x20;
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
