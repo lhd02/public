@@ -37,7 +37,7 @@
 
 <figure><img src=".gitbook/assets/SHA1IN00031-en.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/SHA1IN00044-en.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SHA1IN00044-en (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
