@@ -20,7 +20,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 <mark style="color:blue;">Peak load refers to the instantaneous surge in electricity demand.</mark>
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt=""><figcaption></figcaption></figure>
 
 ## Self-Consumption Mode
 
