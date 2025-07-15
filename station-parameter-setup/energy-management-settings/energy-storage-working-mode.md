@@ -2,7 +2,7 @@
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">The energy storage system supports multiple operational modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
+<mark style="color:blue;">The energy storage system supports multiple operational modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de and VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00078-储能工作模式.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,16 +55,16 @@ By obtaining local peak and valley electricity prices and weather data, combined
 ## Remote EMS Mode
 
 * Supports scheduling of energy storage system through third-party EMS system.
-* Supports third-party EMS with RS-485 communication.Please make sure that the RS485-1 port cable of the device is properly connected and that the baud rate is set correctly according to the description in section [Operational Parameters](../../device-parameter-setup/sigenstor/operational-parameters.md).(Non-grid connection scenario)
+* Supports third-party EMS with RS-485 communication.Please make sure that the RS485-1 port cable of the device is properly connected and that the baud rate is set correctly according to the description in section [Operational Parameters](../../device-parameter-setup/sigenstor/operational-parameters.md). (Non-grid connection scenario)
 * It supports third-party EMS with ModBus-TCP communication. Please ensure that you have completed the setup according to the description in section [ModBus parameters](../../device-parameter-setup/sigenstor/modbus-settings.md).
-
-## VPP Scheduling-evergen Mode
-
-Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
 
 ## Load Shedding Mode
 
 In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
+
+## VPP Scheduling-evergen Mode
+
+Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
 
 ## Custom Operational Mode
 
