@@ -16,7 +16,7 @@
 * [选址要求](xuan-zhi-yao-qiu.md)
 * [设备安装与接线](she-bei-an-zhuang-yu-jie-xian.md)
 * [系统运行](xi-tong-yun-xing/README.md)
-  * [工作模式](xi-tong-yun-xing/gong-zuo-mo-shi.md)
+  * [储能工作模式](xi-tong-yun-xing/gong-zuo-mo-shi.md)
   * [LED指示灯状态](xi-tong-yun-xing/led-zhi-shi-deng-zhuang-tai.md)
   * [思格云App查询](xi-tong-yun-xing/si-ge-yun-app-cha-xun.md)
 * [系统维护](xi-tong-wei-hu/README.md)
