@@ -2,7 +2,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de, VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
+<mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de and VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
 
 ## **Sigen AI** **Mode**
 
@@ -32,10 +32,6 @@ By obtaining local peak and valley electricity prices and weather data, combined
 * You can sell excess energy back to the grid and earn credits on your energy bill.
 * In the daytime, when the PV power is greater than the maximum output capacity of the inverter, the inverter maintains the maximum output while storing excess energy in the batteries. When the PV power is lower than the maximum output capacity of the inverter or there is no PV power in the nighttime, the batteries are discharged to ensure that the inverter maximizes the output.
 
-## VPP Scheduling-evergen Mode
-
-Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
-
 ## **Remote EMS Mode**
 
 After setting to this mode will allows a third-party EMS to schedule parameters related to the power station and the product set by the company. Do not enter or exit this mode without the installer's confirmation.
@@ -43,6 +39,10 @@ After setting to this mode will allows a third-party EMS to schedule parameters 
 ## **Load Shedding Mode**
 
 In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
+
+## VPP Scheduling-evergen Mode
+
+Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
 
 ## Custom Operational Mode
 

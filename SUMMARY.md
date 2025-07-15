@@ -37,7 +37,7 @@
 * [System Operation](xi-tong-yun-xing/README.md)
   * [Operational Mode](xi-tong-yun-xing/gong-zuo-mo-shi.md)
   * [Backup power setup](xi-tong-yun-xing/backup-power-setup.md)
-  * [Peak Shaving Control Mode](xi-tong-yun-xing/peak-shaving-control-mode.md)
+  * [Peak Shaving](xi-tong-yun-xing/peak-shaving-control-mode.md)
   * [LED Indicator State](xi-tong-yun-xing/led-zhi-shi-deng-zhuang-tai.md)
   * [mySigen App Query and Setting](xi-tong-yun-xing/mysigen-app-cha-xun.md)
 * [System Maintenance](xi-tong-wei-hu/README.md)
