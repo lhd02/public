@@ -45,7 +45,7 @@
   * [Smart Home Device](adding-device/smart-load.md)
   * [SG heat pump](adding-device/sg-heat-pump.md)
 * [Device parameter setup](device-parameter-setup/README.md)
-  * [SigenStor](device-parameter-setup/sigenstor/README.md)
+  * [SigenStor/Sigen PV Max](device-parameter-setup/sigenstor/README.md)
     * [Operational Parameters](device-parameter-setup/sigenstor/operational-parameters.md)
     * [ModBus Settings](device-parameter-setup/sigenstor/modbus-settings.md)
   * [Inverter](device-parameter-setup/inverter.md)
