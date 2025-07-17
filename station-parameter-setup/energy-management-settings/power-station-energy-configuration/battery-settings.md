@@ -34,7 +34,7 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-电池设置-预热调度 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="67" align="center">No.</th><th width="206">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Pack preheating</td><td>Set to <img src="../../../.gitbook/assets/image (16).png" alt=""> to set the battery preheating period.</td></tr></tbody></table>
+<table><thead><tr><th width="67" align="center">No.</th><th width="206">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Pack preheating</td><td>Set to <img src="../../../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line">to set the battery preheating period.</td></tr></tbody></table>
 
 ## Battery Power Limit
 

@@ -18,7 +18,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">When it is set to</mark> ![](<../.gitbook/assets/image (13).png>)<mark style="color:blue;">, you can set the LED lighting effect according to your preference. When "LED Strips" is set to "Power Flow," the flowing water lighting effect from the top down indicates that the battery pack and charger are charging and the flowing water lighting effect from the bottom up indicates that the battery pack and charger are discharging. The steady-on lighting effect indicates that the battery pack and charger are not charging or discharging.</mark>
+<mark style="color:blue;">When it is set to</mark> <img src="../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line"><mark style="color:blue;">, you can set the LED lighting effect according to your preference. When "LED Strips" is set to "Power Flow," the flowing water lighting effect from the top down indicates that the battery pack and charger are charging and the flowing water lighting effect from the bottom up indicates that the battery pack and charger are discharging. The steady-on lighting effect indicates that the battery pack and charger are not charging or discharging.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00078-LED.png" alt="" width="563"><figcaption></figcaption></figure>
 
