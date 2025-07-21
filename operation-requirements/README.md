@@ -24,7 +24,7 @@
 
 ### Safety Requirements
 
-{% include "../.gitbook/includes/danger.md" %}
+{% include "https://app.gitbook.com/s/QQ893uO4j5RKcrjDiLmp/~/reusable/DRd5KGEEYi55Rt8YKhcG/" %}
 
 * <mark style="color:red;">It is prohibited to expose the equipment to high-temperature environments for a long time or keep heat sources (such as sunlight, fire sources, heaters, etc.) around the equipment for an extended period.</mark>
 * <mark style="color:red;">It is prohibited to clean or soak the equipment with water, alcohol, oil, etc., to prevent electrical leakage or other issues.</mark>
