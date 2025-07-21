@@ -17,12 +17,12 @@
 {% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
 
 * <mark style="color:blue;">Each inverter must be equipped with an AC switch, and multiple inverters cannot be connected to one AC switch at the same time.</mark>
-* <mark style="color:blue;">The rated voltage of the AC switch connected to each inverter must be ≥ 500 Va.c., The recommended specifications for the rated current are as follows:</mark>
+* <mark style="color:blue;">The rated voltage of the AC switch</mark> <mark style="color:blue;">(D) co</mark><mark style="color:blue;">nnected to each inverter must be ≥ 500 Va.c., The recommended specifications for the rated current are as follows:</mark>
   * <mark style="color:blue;">For inverters with a power rating of 50 kW or 60 kW: rated current is 125 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 75 kW or 80 kW: rated current is 160 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 99.9 kW or 100 kW: rated current is 200 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 110 kW or 125 kW: rated current is 250 A</mark>
-* <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod runs out, users must replace an SIM card.</mark>
+* <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod</mark> <mark style="color:blue;">(J)</mark> <mark style="color:blue;">runs out, users must replace an SIM card.</mark>
 
 ### Non-backup **wiring diagram (1 ≤ number of inverters ≤ 160)**
 
@@ -33,7 +33,7 @@
 {% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
 
 * <mark style="color:blue;">Multiple inverters cannot be connected to one AC switch at the same time.</mark>
-* <mark style="color:blue;">The rated voltage of the AC switch connected to each inverter must be ≥ 500 Va.c., The recommended specifications for the rated current are as follows:</mark>
+* <mark style="color:blue;">The rated voltage of the AC swit</mark><mark style="color:blue;">ch (D) c</mark><mark style="color:blue;">onnected to each inverter must be ≥ 500 Va.c., The recommended specifications for the rated current are as follows:</mark>
   * <mark style="color:blue;">For inverters with a power rating of 50 kW or 60 kW: rated current is 125 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 75 kW or 80 kW: rated current is 160 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 99.9 kW or 100 kW: rated current is 200 A</mark>
@@ -46,29 +46,36 @@
 
 <table data-header-hidden><thead><tr><th valign="middle"></th><th width="161.2222900390625" valign="middle"></th><th valign="middle"></th><th valign="middle"></th><th valign="middle"></th><th data-hidden></th></tr></thead><tbody><tr><td valign="middle">A. Battery</td><td valign="middle">B. PV panel</td><td valign="middle">C. Inverter</td><td valign="middle">D. Gateway</td><td valign="middle">E. Generator</td><td></td></tr><tr><td valign="middle">F. Smart load</td><td valign="middle">G. Backup load</td><td valign="middle">H. Power grid</td><td valign="middle">I. mySigen</td><td valign="middle">J. Router</td><td></td></tr><tr><td valign="middle">K. CommMod</td><td valign="middle">L. CommBridge</td><td valign="middle"></td><td valign="middle"></td><td valign="middle"></td><td></td></tr></tbody></table>
 
+{% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
+
+* <mark style="color:blue;">As a backup energy source for long-term off-grid applications, the generator (E) can work in tandem with the Gateway (D) to provide a smooth transition between PV, storage and diesel generation.</mark>
+* <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod</mark> <mark style="color:blue;">(K)</mark> <mark style="color:blue;">runs out, users must replace an SIM card.</mark>
+
+
+
 ### Backup wiring diagram (**The HYB model has a backup load port**, ≤ 3 Units)
 
-<figure><img src="../.gitbook/assets/SVA1OV00039-EN (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SVA1OV00039-EN.png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="159" valign="middle"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A. Battery</td><td valign="middle">B. PV panel</td><td valign="middle">C. Inverter</td><td valign="top">D. AC Switch</td><td valign="top">E. ACB</td></tr><tr><td valign="middle">F. Backup load</td><td valign="middle">G. Power sensor</td><td valign="middle">H. Box-type substation</td><td valign="top">I. Power grid</td><td valign="top">J. mySigen</td></tr><tr><td valign="middle">K. Router</td><td valign="middle">L. CommMod</td><td valign="middle">M. CommBridge</td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="159" valign="middle"></th><th width="147" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A. Battery</td><td valign="middle">B. PV panel</td><td valign="middle">C. Inverter</td><td valign="top">D. AC Switch</td><td valign="top">E. ACB</td></tr><tr><td valign="middle">F. Backup load</td><td valign="middle">G. Power sensor</td><td valign="middle">H. Box-type substation</td><td valign="top">I. Power grid</td><td valign="top">J. Manual control switch</td></tr><tr><td valign="middle">K.mySigen</td><td valign="middle">L. Router</td><td valign="middle">M. CommMod</td><td valign="top">N. CommBridge</td><td valign="top"></td></tr></tbody></table>
 
 {% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
 
 * <mark style="color:blue;">Multiple inverters cannot be connected to one AC switch at the same time.</mark>
-* <mark style="color:blue;">Every inverter (with a backup load port) connected to the backup load must use an AC switch with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
+* <mark style="color:blue;">Every inverter (with a backup load port) connected to the backup load must use an AC switch  (D) with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
   * <mark style="color:blue;">For inverters with a power rating of 50 kW: rated current is 100 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 60 kW: rated current is 125 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 80 kW: rated current is 160 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 99.9 kW or 100 kW: rated current is 200 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 110 kW: rated current is 250 A</mark>
-* <mark style="color:blue;">Every inverter (with a backup load port) connected to the power grid must use an AC switch with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
+* <mark style="color:blue;">Every inverter (with a backup load port) connected to the power grid must use an AC switch ( D) with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
   * <mark style="color:blue;">For inverters with a power rating of 50 kW: rated current is 200 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 60 kW: rated current is 250 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 80 kW to 110 kW: rated current is 315 A</mark>
-* <mark style="color:blue;">Every inverter (without a backup load port) connected to the power grid must use an AC switch with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
+* <mark style="color:blue;">Every inverter (without a backup load port) connected to the power grid must use an AC switch ( D) with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
   * <mark style="color:blue;">For inverters with a power rating of 50 kW: rated current is 100 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 60 kW: rated current is 125 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 80 kW: rated current is 160 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 99.9 kW or 100 kW: rated current is 200 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 110 kW: rated current is 250 A</mark>
-* <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod runs out, users must replace an SIM card.</mark>
+* <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod (L) runs out, users must replace an SIM card.</mark>
