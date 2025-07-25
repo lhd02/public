@@ -15,6 +15,7 @@
     * [Alarm information](routine-o-and-m-of-power-station-and-device/information-querying/alarm-information.md)
     * [Viewing warranty information](routine-o-and-m-of-power-station-and-device/information-querying/viewing-warranty-information.md)
     * [Viewing Feedback History](routine-o-and-m-of-power-station-and-device/information-querying/viewing-feedback-history.md)
+    * [风暴预警](routine-o-and-m-of-power-station-and-device/information-querying/feng-bao-yu-jing.md)
     * [Viewing Station Diagnosis](routine-o-and-m-of-power-station-and-device/information-querying/viewing-station-diagnosis.md)
 * [System Settings](station-parameter-setup/README.md)
   * [Energy management settings](station-parameter-setup/energy-management-settings/README.md)
