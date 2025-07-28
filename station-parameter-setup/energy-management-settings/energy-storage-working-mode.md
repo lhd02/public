@@ -70,15 +70,11 @@ Once registered with the VPP, your storage system will join the smart dispatchin
 
 ## Custom Operational Mode
 
-{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
-
-<mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
-
 ### **创建自定义工作模式**
 
 {% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
 
-<mark style="color:blue;">可根据业主需求，创建定制化的工作模式。</mark>
+<mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-创建自定义工作模式.png" alt=""><figcaption></figcaption></figure>
 
@@ -95,11 +91,5 @@ Once registered with the VPP, your storage system will join the smart dispatchin
 {% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
 
 <mark style="color:$primary;">粘贴分享码，获取他人自定义工作模式。</mark>
-
-##
-
-{% include "../../.gitbook/includes/tips.md" %}
-
-
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt=""><figcaption></figcaption></figure>
