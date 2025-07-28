@@ -2,7 +2,7 @@
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">The energy storage system supports multiple operational modes, Some countries support Load Shedding Mo</mark><mark style="color:blue;">de and VPP Scheduling-evergen Mode, which is s</mark><mark style="color:blue;">ubject to the App interface display.</mark>
+<mark style="color:blue;">The energy storage system supports multiple operational modes, Some countries support Load Shedding Mode and VPP Scheduling-evergen Mode, which is subject to the App interface display.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00078-储能工作模式.png" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-TOU mode.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="54" align="center">No.</th><th width="124.12725830078125">Parameter name</th><th width="175">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Charging</td><td>Maximum charging power for BAT</td><td><ul><li>During this period, the sum of the charging power of all battery packs in the system cannot be greater than the "PACK maximum charging power."</li></ul><ul><li>The system default value is set to infinity.</li></ul></td></tr><tr><td align="center">2</td><td>Charging</td><td>Grid Charging Cut-off SOC</td><td><ul><li>Set the cut-off charging capacity value for the battery pack to be charged from the grid during this period.</li><li>The system default is 100%.</li></ul></td></tr><tr><td align="center">3</td><td>Charging</td><td>Maximum power for importing from grid</td><td><ul><li>The maximum power that can be imported from the grid during this period. </li><li>System default values are effective according to the parameters in “System Settings → Energy Management Settings→Grid Settings”.</li></ul></td></tr><tr><td align="center">4</td><td>Charging</td><td>Maximum Charging Power from Grid to BAT</td><td><ul><li>The maximum power that the grid charges the battery pack during this period. </li><li>The system default value is set to infinity.</li></ul></td></tr><tr><td align="center">5</td><td>Discharging</td><td>Maximum discharging power for BAT</td><td><ul><li>During this period, the sum of the discharging power of all battery packs in the system cannot be greater than the "PACK maximum discharging power." </li></ul><ul><li>The system default value is set to infinity.</li></ul></td></tr><tr><td align="center">6</td><td>Discharging</td><td>Maximum power for exporting to grid</td><td><ul><li>The maximum power that the system is allowed to export to the grid during this period. </li><li>System default values are effective according to the parameters in “System Settings → Energy Management Settings→Grid Settings”.</li></ul></td></tr><tr><td align="center">7</td><td>Discharging</td><td>Maximum Discharging Power from BAT to Grid</td><td><ul><li>The maximum power that the battery pack discharges to the grid during this period. </li></ul><ul><li>The system default value is set to infinity.</li></ul></td></tr><tr><td align="center">8</td><td>Self-Consumption</td><td>Maximum power for importing from grid</td><td><ul><li>The maximum power that can be imported from the grid during this period. </li></ul><ul><li>System default values are effective according to the parameters in “System Settings → Energy Management Settings→Grid Settings”.</li></ul></td></tr><tr><td align="center">9</td><td>Self-Consumption</td><td>Maximum power for exporting to grid</td><td><ul><li>The maximum power that the system is allowed to export to the grid during this period. </li></ul><ul><li>System default values are effective according to the parameters in “System Settings → Energy Management Settings→Grid Settings”.</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="54" align="center">No.</th><th width="124.12725830078125">Parameter name</th><th width="175">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Charging</td><td>Maximum charging power for BAT</td><td><ul><li>During this period, the sum of the charging power of all battery packs in the system cannot be greater than the "PACK maximum charging power."</li></ul><ul><li>The system default value is set to infinity.</li></ul></td></tr><tr><td align="center">2</td><td>Charging</td><td>Grid Charging Cut-off SOC</td><td><ul><li>Set the cut-off charging capacity value for the battery pack to be charged from the grid during this period.</li><li>The system default is 100%.</li></ul></td></tr><tr><td align="center">3</td><td>Charging</td><td>Maximum power for importing from grid</td><td><ul><li>The maximum power that can be imported from the grid during this period.</li><li>System default values are effective according to the parameters in “System Settings → Energy Management Settings→Grid Settings”.</li></ul></td></tr><tr><td align="center">4</td><td>Charging</td><td>Maximum Charging Power from Grid to BAT</td><td><ul><li>The maximum power that the grid charges the battery pack during this period.</li><li>The system default value is set to infinity.</li></ul></td></tr><tr><td align="center">5</td><td>Discharging</td><td>Maximum discharging power for BAT</td><td><ul><li>During this period, the sum of the discharging power of all battery packs in the system cannot be greater than the "PACK maximum discharging power."</li></ul><ul><li>The system default value is set to infinity.</li></ul></td></tr><tr><td align="center">6</td><td>Discharging</td><td>Maximum power for exporting to grid</td><td><ul><li>The maximum power that the system is allowed to export to the grid during this period.</li><li>System default values are effective according to the parameters in “System Settings → Energy Management Settings→Grid Settings”.</li></ul></td></tr><tr><td align="center">7</td><td>Discharging</td><td>Maximum Discharging Power from BAT to Grid</td><td><ul><li>The maximum power that the battery pack discharges to the grid during this period.</li></ul><ul><li>The system default value is set to infinity.</li></ul></td></tr><tr><td align="center">8</td><td>Self- Consumption</td><td>Maximum power for importing from grid</td><td><ul><li>The maximum power that can be imported from the grid during this period.</li></ul><ul><li>System default values are effective according to the parameters in “System Settings → Energy Management Settings→Grid Settings”.</li></ul></td></tr><tr><td align="center">9</td><td>Self- Consumption</td><td>Maximum power for exporting to grid</td><td><ul><li>The maximum power that the system is allowed to export to the grid during this period.</li></ul><ul><li>System default values are effective according to the parameters in “System Settings → Energy Management Settings→Grid Settings”.</li></ul></td></tr></tbody></table>
 
 {% include "../../.gitbook/includes/tips.md" %}
 
@@ -66,10 +66,40 @@ In areas with frequent power outages, you can add your region and schedule in th
 
 Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
 
+
+
 ## Custom Operational Mode
+
+{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
+
+<mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
+
+### **创建自定义工作模式**
+
+{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
+
+<mark style="color:blue;">可根据业主需求，创建定制化的工作模式。</mark>
+
+<figure><img src="../../.gitbook/assets/MSA1CM00074-创建自定义工作模式.png" alt=""><figcaption></figcaption></figure>
+
+### **分享自定义工作模式**
+
+{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
+
+<mark style="color:$primary;">复制分享码，将自定义工作模式分享给他人。</mark>
+
+<figure><img src="../../.gitbook/assets/MSA1CM00074-分享自定义工作模式.png" alt=""><figcaption></figcaption></figure>
+
+### **添加自定义工作模式**
+
+{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
+
+<mark style="color:$primary;">粘贴分享码，获取他人自定义工作模式。</mark>
+
+##
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
+
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt=""><figcaption></figcaption></figure>
