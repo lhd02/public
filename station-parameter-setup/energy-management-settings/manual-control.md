@@ -6,4 +6,4 @@
 
 <figure><img src="../../.gitbook/assets/MSA1CM00078-Manual Control.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="63.09088134765625" align="center">No.</th><th width="163">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Mode</td><td><ul><li>Charging: Force the battery to be charged.</li></ul><ul><li>Discharging: Force the battery to discharge.</li></ul><ul><li><mark style="color:$danger;">Hold Battery：电池非充非放。</mark></li><li><mark style="color:$danger;">Self-Consumption：电池自发自用。</mark></li></ul></td></tr><tr><td align="center">2</td><td>Period</td><td>Set the charging or discharging period.</td></tr></tbody></table>
+<table><thead><tr><th width="63.09088134765625" align="center">No.</th><th width="163">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Mode</td><td><ul><li>Charging: Force the battery to be charged.</li></ul><ul><li>Discharging: Force the battery to discharge.</li></ul></td></tr><tr><td align="center">2</td><td>Period</td><td>Set the charging or discharging period.</td></tr></tbody></table>

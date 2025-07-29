@@ -20,7 +20,7 @@
 
 ## **EMS Control**
 
-<table><thead><tr><th width="60" align="center">No.</th><th width="162">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Single-Machine Active Power Dispatch Enable</td><td><p>When it is set to <img src="../.gitbook/assets/11 (1).png" alt="" data-size="line">, the power is scheduled for a single device, and you can set it to either active power mode or reactive power mode.</p><p><img src="../.gitbook/assets/warning.png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-警告-en.png" data-size="line"></p><p>Inverters with this parameter set cannot participate in EMS control.</p></td></tr></tbody></table>
+<table><thead><tr><th width="60" align="center">No.</th><th width="162">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Single-Machine Active Power Dispatch Enable</td><td><p>When it is set to <img src="../.gitbook/assets/11 (1).png" alt="" data-size="line">, the power is scheduled for a single device, and you can set it to either active power mode or reactive power mode.</p><p><img src="../.gitbook/assets/12 (1).png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-警告-en.png" data-size="line"></p><p>Inverters with this parameter set cannot participate in EMS control.</p></td></tr></tbody></table>
 
 ## AFCI
 

@@ -1,0 +1,21 @@
+# Virtual Battery Allocation for Aggregator
+
+{% include "../../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">This feature is exclusively available in Sweden.</mark>
+* <mark style="color:blue;">The function enables virtual partitioning of ESS into two independent operational units:</mark>
+  * <mark style="color:blue;">The virtual battery can participate in CheckWatt VPP's frequency regulation services</mark>
+  * <mark style="color:blue;">Remaining capacity continues to be optimized by Sigen algorithm</mark>
+
+<figure><img src="../../.gitbook/assets/MSA1CM00078-储能分身.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="60" align="center">No.</th><th width="245.888916015625">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Virtual Battery Allocation for Aggregator</td><td>When set to <img src="../../.gitbook/assets/image (1) (1) (1).png" alt="">, configurable parameters for the Aggregator-dispatched virtual battery become available.</td></tr><tr><td align="center">2</td><td>Total Battery Capacity</td><td>Total battery capacity of the energy storage system.</td></tr><tr><td align="center">3</td><td>Virtual Battery Capacity</td><td><p>Configure virtual battery capacity allocated for Aggregator dispatch.</p><p>（Virtual Battery Capacity≤Total Battery Capacity）</p></td></tr><tr><td align="center">4</td><td>Allocation Ratio for Aggregator</td><td>The percentage of virtual battery capacity relative to total battery capacity, quantifying dispatch rights allocation.</td></tr><tr><td align="center">5</td><td>Inverter Rated Max Active Input Power</td><td>Maximum allowable output power of the inverter.</td></tr><tr><td align="center">6</td><td>Inverter Max Active Input Power</td><td><p>Maximum inverter power during virtual battery charging.</p><p>（Inverter Max Active Input Power≤Inverter Rated Max Active Input Power, Inverter Max Active Input Power≥Battery Max Charging Power）</p></td></tr><tr><td align="center">7</td><td>Inverter Rated Max Active Output Power</td><td>Maximum allowable output power of the inverter.</td></tr><tr><td align="center">8</td><td>Inverter Max Active Output Power</td><td><p>Set the maximum inverter output power allocated to the Aggregator-dispatched virtual battery.</p><p>（Inverter Max Active Output Power≤Inverter Rated Max Active Output Power, Inverter Max Active Output Power≥Battery Rated Max Discharging Power）</p></td></tr><tr><td align="center">9</td><td>Battery Rated Max Charging Power</td><td>Maximum allowable charging power of the battery.</td></tr><tr><td align="center">10</td><td>Battery Max Charging Power</td><td><p>Set the maximum inverter output power allocated to the Aggregator-dispatched virtual battery.</p><p>（Battery Max Charging Power≤Battery Rated Max Charging Power, Battery Max Charging Power≤Inverter Max Active Input Power）</p></td></tr><tr><td align="center">11</td><td>Battery Rated Max Discharging Power</td><td>Maximum allowable discharge power of the battery</td></tr><tr><td align="center">12</td><td>Battery Max Discharging Power</td><td><p>Configure the maximum discharge power limit for the Aggregator-dispatched virtual battery.</p><p>（Battery Max Discharging Power≤Battery Rated Max Discharging Power， Battery Max Discharging Power≤Inverter Max Active Output Power）</p></td></tr></tbody></table>
+
+
+
+### Virtual Battery Setting
+
+<table><thead><tr><th width="60" align="center">No.</th><th width="190.3333740234375">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Operational Mode</td><td>Configure virtual battery operating mode.</td></tr><tr><td align="center">2</td><td>Charging Cut-off SOC</td><td>Terminate charging when battery reaches the preset value (e.g. 80%) to prevent overcharging and extend battery life. The setting shall not exceed the system's charge termination SOC.</td></tr><tr><td align="center">3</td><td>Discharging Cut-off SOC</td><td>Discharge termination activates when battery reaches the preset threshold (e.g. 50%) to prevent over-discharge and maintain battery health. The setting shall not fall below the system's discharge cutoff SOC.</td></tr></tbody></table>
+
+
+

@@ -62,39 +62,5 @@ You can check this in "Setting" → "System Affiliation Lookup."
 
 You can recharge the desired data plan by going to " <img src=".gitbook/assets/image (41).png" alt="" data-size="line">"→ "Connectivity" on the power station homepage.
 
-### **方式一**
-
-<figure><img src=".gitbook/assets/MSA1CM00084-流量充值.png" alt=""><figcaption></figcaption></figure>
-
-### **方式二**
-
 <figure><img src=".gitbook/assets/SSA1CM00073-流量充值.jpg" alt=""><figcaption></figcaption></figure>
-
-## **如何购买License？**
-
-{% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
-
-<mark style="color:blue;">If Sigen Sigen Hybrid SP, Sigen Hybrid SP AU, Sigen Hybrid TP, Sigen Hybrid TP AU, Sigen Hybrid TPLV Series inverters are expected to be applied in PV storage systems, users must purchase and activate the license.</mark>
-
-<figure><img src=".gitbook/assets/MSA1CM00084-购买license.png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
-
-## **如何激活License？**
-
-### **方式一**
-
-<figure><img src=".gitbook/assets/MSA1CM00108-license激活.png" alt=""><figcaption></figcaption></figure>
-
-### **方式二**
-
-<figure><img src=".gitbook/assets/MSA1CM00078-license激活.png" alt=""><figcaption></figcaption></figure>
-
-## **如何购买延长保修服务？**
-
-<figure><img src=".gitbook/assets/MSA1CM00084-购买延保.png" alt=""><figcaption></figcaption></figure>
-
-## **如何激活延长保修服务？**
-
-<figure><img src=".gitbook/assets/MSA1CM00108-延保激活.png" alt=""><figcaption></figcaption></figure>
 
