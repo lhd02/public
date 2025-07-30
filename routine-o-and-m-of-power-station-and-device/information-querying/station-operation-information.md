@@ -1,8 +1,8 @@
 # Station information
 
-## **多电站信息**
+## Multi - station Information
 
-### **多电站筛选**
+### Multi - station Screening
 
 {% include "../../.gitbook/includes/tips.md" %}
 
@@ -11,7 +11,7 @@
 
 <figure><img src="../../.gitbook/assets/MSA1CM00077-电站筛选.png" alt="" width="297"><figcaption></figcaption></figure>
 
-### **多电站逻辑并站**
+### Logical Merging of Multi - stations
 
 {% include "../../.gitbook/includes/tips.md" %}
 
@@ -21,7 +21,7 @@
 
 ## **Single** System information
 
-### **单电站信息查询**
+### Single - station Information Query
 
 {% include "../../.gitbook/includes/tips.md" %}
 
@@ -30,10 +30,10 @@
 
 <figure><img src="../../.gitbook/assets/MSA1CM00077-电站运行信息.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### **电站页面自定义设置**
+### Station Page Custom Settings
 
-* 点击<img src="../../.gitbook/assets/image.png" alt="" data-size="line">，您可根据需求，创建定制化的电站页面布局。
-* 点击“Restore Defaults”可恢复默认设置。
+* Click <img src="../../.gitbook/assets/image.png" alt="" data-size="line">，and you can create a customized power station page layout as needed.
+* Click "Restore Defaults" to restore the default settings.
 
 <figure><img src="../../.gitbook/assets/MSA1CM00077-电站页自定义.png" alt=""><figcaption></figcaption></figure>
 
