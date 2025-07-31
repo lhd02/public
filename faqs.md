@@ -66,13 +66,16 @@ You can check this in "Setting" → "System Affiliation Lookup."
 
 ### Method 2:
 
-<figure><img src=".gitbook/assets/MSA1CM00078-流量充值.png" alt=""><figcaption></figcaption></figure>
+
 
 ## **How to Purchase a License?**
 
 {% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
 
-<mark style="color:blue;">If Sigen Sigen Hybrid SP, Sigen Hybrid SP AU, Sigen Hybrid TP, Sigen Hybrid TP AU, Sigen Hybrid TPLV Series inverters are expected to be applied in PV storage systems, users must purchase and activate the license.</mark>
+* <mark style="color:blue;">If Sigen Sigen Hybrid SP, Sigen Hybrid SP AU, Sigen Hybrid TP, Sigen Hybrid TP AU, Sigen Hybrid TPLV Series inverters are expected to be applied in PV storage systems, users must purchase and activate the license.</mark>
+* <mark style="color:$primary;">During purchase, the product information must match the device information.</mark>
+
+<figure><img src=".gitbook/assets/MSA1CM00078-流量充值.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/MSA1CM00084-购买license.png" alt=""><figcaption></figcaption></figure>
 
