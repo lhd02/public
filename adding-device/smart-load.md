@@ -1,12 +1,12 @@
-# Smart Home Device
+# Smart Load
 
 ### Method 1: Connecting using Gateway
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">Before connecting a Smart Home Device, please ensure that a Gateway is configured in the networking.</mark>
-* <mark style="color:blue;">The number of Smart Home Devices that can be connected is determined by the supported capacity of the Gateway.</mark>
-* <mark style="color:blue;">After adding the Smart Home Device to the App, you can switch theSmart Home Device on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.</mark>
+* <mark style="color:blue;">Before connecting a Smart Load please ensure that a Gateway is configured in the networking.</mark>
+* <mark style="color:blue;">The number of Smart Loads that can be connected is determined by the supported capacity of the Gateway.</mark>
+* <mark style="color:blue;">After adding the Smart Load to the App, you can switch the Smart Load on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.</mark>
 * <mark style="color:blue;">If you cannot locate the icon of the connected device, for example, an immersion heater, select "Other" and connect it. You can check the connected smart load on the "Device" screen.</mark>
 
 <figure><img src="../.gitbook/assets/SSA1CM00072-智能负载.png" alt="" width="563"><figcaption></figcaption></figure>
