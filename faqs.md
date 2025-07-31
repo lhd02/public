@@ -60,40 +60,7 @@ You can check this in "Setting" → "System Affiliation Lookup."
 
 ## How to recharge the Sigen CommMod data when it is used up?
 
-### Method 1:
+You can recharge the desired data plan by going to " <img src=".gitbook/assets/image (41).png" alt="" data-size="line">"→ "Connectivity" on the power station homepage.
 
-<figure><img src=".gitbook/assets/MSA1CM00084-流量充值.png" alt=""><figcaption></figcaption></figure>
-
-### Method 2:
-
-
-
-## **How to Purchase a License?**
-
-{% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
-
-* <mark style="color:blue;">If Sigen Sigen Hybrid SP, Sigen Hybrid SP AU, Sigen Hybrid TP, Sigen Hybrid TP AU, Sigen Hybrid TPLV Series inverters are expected to be applied in PV storage systems, users must purchase and activate the license.</mark>
-* <mark style="color:$primary;">During purchase, the product information must match the device information.</mark>
-
-<figure><img src=".gitbook/assets/MSA1CM00078-流量充值.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/MSA1CM00084-购买license.png" alt=""><figcaption></figcaption></figure>
-
-## &#x20;**How to Activate a License?**
-
-### Method 1:
-
-<figure><img src=".gitbook/assets/MSA1CM00108-license激活.png" alt=""><figcaption></figcaption></figure>
-
-### Method 2:
-
-<figure><img src=".gitbook/assets/MSA1CM00078-license激活.png" alt=""><figcaption></figcaption></figure>
-
-## **How to Buy Extended Warranty Service?**
-
-<figure><img src=".gitbook/assets/MSA1CM00084-购买延保.png" alt=""><figcaption></figcaption></figure>
-
-## **How to Activate Extended Warranty Service?**
-
-<figure><img src=".gitbook/assets/MSA1CM00108-延保激活.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1CM00073-流量充值.jpg" alt=""><figcaption></figcaption></figure>
 
