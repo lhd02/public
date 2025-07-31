@@ -48,8 +48,37 @@ You can re-configure the network settings using a device hotspot in "Setting" �
 
 <mark style="color:blue;">If you still cannot connect to the device hotspot, disconnect the AC circuit breaker and DC switch of the device, wait for the device indicator to go out, then turn on the AC circuit breaker and DC switch again, wait for 30 seconds, and then rescan the device QR code and configure the network according to the above steps.</mark>
 
+## How do I check whether the device is connected in parallel with other ones?
+
+You can check this in "Setting" → "System Affiliation Lookup."
+
 ## How to recharge the Sigen CommMod data when it is used up?
 
-You can recharge the desired data plan by going to " "→ "Connectivity" on the power station homepage.
+### Method 1:
 
-<figure><img src=".gitbook/assets/SSA1CM00073-流量充值.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/MSA1CM00084-业主流量充值.png" alt=""><figcaption></figcaption></figure>
+
+### Method 2:
+
+<figure><img src=".gitbook/assets/MSA1CM00071-流量充值.png" alt=""><figcaption></figcaption></figure>
+
+## **How to Purchase a License?**
+
+{% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
+
+* <mark style="color:blue;">If Sigen Sigen Hybrid SP, Sigen Hybrid SP AU, Sigen Hybrid TP, Sigen Hybrid TP AU, Sigen Hybrid TPLV Series inverters are expected to be applied in PV storage systems, users must purchase and activate the license.</mark>
+* <mark style="color:$primary;">During purchase, the product information must match the device information.</mark>
+
+<figure><img src=".gitbook/assets/MSA1CM00084-业主购买license.png" alt=""><figcaption></figcaption></figure>
+
+## &#x20;**How to Activate a License?**
+
+<figure><img src=".gitbook/assets/MSA1CM00108-业主license激活.png" alt=""><figcaption></figcaption></figure>
+
+## **How to Buy Extended Warranty Service?**
+
+<figure><img src=".gitbook/assets/MSA1CM00084-业主购买延保.png" alt=""><figcaption></figcaption></figure>
+
+## **How to Activate Extended Warranty Service?**
+
+<figure><img src=".gitbook/assets/MSA1CM00108-业主延保激活.png" alt=""><figcaption></figcaption></figure>
