@@ -2,7 +2,7 @@
 
 ## Editing station type, name, and address
 
-<figure><img src="../.gitbook/assets/MSA1CM00071-修改电站名称.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1CM00071-修改电站名称 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Software upgrade
 
