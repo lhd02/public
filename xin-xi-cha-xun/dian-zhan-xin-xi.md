@@ -55,7 +55,17 @@ Click the energy box to view the energy flow.
 
 ## Station Diagnosis
 
+{% include "../.gitbook/includes/tips.md" %}
 
+<mark style="color:$primary;">To check the power station's communication status and the connection status of devices within the station, you can use this function.</mark>
+
+### Method 1: <a href="#method-1-1" id="method-1-1"></a>
+
+<figure><img src="../.gitbook/assets/MSA1CM00070-电站诊断.png" alt="" width="297"><figcaption></figcaption></figure>
+
+### Method 2: <a href="#method-1-1" id="method-1-1"></a>
+
+<figure><img src="../.gitbook/assets/MSA1CM00071-电站诊断 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
