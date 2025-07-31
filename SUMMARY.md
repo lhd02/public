@@ -52,6 +52,6 @@
   * [Sigen EV AC Charger](device-parameter-setup/sigen-ev-ac-charger.md)
   * [Downloading device logs](device-parameter-setup/downloading-device-logs.md)
 * [App Setting](app-setting.md)
-* [Account Setting](others.md)
+* [Account and Team Info Setting](others.md)
 * [Logout](logout.md)
 * [FAQs](faqs.md)
