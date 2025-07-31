@@ -60,17 +60,15 @@ You can check this in "Setting" → "System Affiliation Lookup."
 
 ## How to recharge the Sigen CommMod data when it is used up?
 
-You can recharge the desired data plan by going to " <img src=".gitbook/assets/image (41).png" alt="" data-size="line">"→ "Connectivity" on the power station homepage.
-
-### **方式一**
+### Method 1:
 
 <figure><img src=".gitbook/assets/MSA1CM00084-流量充值.png" alt=""><figcaption></figcaption></figure>
 
-### **方式二**
+### Method 2:
 
-<figure><img src=".gitbook/assets/SSA1CM00073-流量充值.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/MSA1CM00078-流量充值.png" alt=""><figcaption></figcaption></figure>
 
-## **如何购买License？**
+## **How to Purchase a License?**
 
 {% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
 
@@ -78,23 +76,21 @@ You can recharge the desired data plan by going to " <img src=".gitbook/assets/i
 
 <figure><img src=".gitbook/assets/MSA1CM00084-购买license.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+## &#x20;**How to Activate a License?**
 
-## **如何激活License？**
-
-### **方式一**
+### Method 1:
 
 <figure><img src=".gitbook/assets/MSA1CM00108-license激活.png" alt=""><figcaption></figcaption></figure>
 
-### **方式二**
+### Method 2:
 
 <figure><img src=".gitbook/assets/MSA1CM00078-license激活.png" alt=""><figcaption></figcaption></figure>
 
-## **如何购买延长保修服务？**
+## **How to Buy Extended Warranty Service?**
 
 <figure><img src=".gitbook/assets/MSA1CM00084-购买延保.png" alt=""><figcaption></figcaption></figure>
 
-## **如何激活延长保修服务？**
+## **How to Activate Extended Warranty Service?**
 
 <figure><img src=".gitbook/assets/MSA1CM00108-延保激活.png" alt=""><figcaption></figcaption></figure>
 
