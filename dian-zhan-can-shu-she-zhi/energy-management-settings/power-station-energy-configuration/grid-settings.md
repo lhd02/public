@@ -18,7 +18,7 @@ Setting grid-related parameters can ensure safe grid connection, compliant elect
 
 <table><thead><tr><th width="62" align="center">No.</th><th width="203.6666259765625">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid Export Power Limit</td><td>Set the system's maximum power for selling electricity to the grid.</td></tr><tr><td align="center">2</td><td>Grid Import Power Limit</td><td>Set the system's maximum power for buying electricity from the grid.</td></tr></tbody></table>
 
-## Peak Shaving Control Mode
+## Peak Shaving
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
@@ -53,11 +53,11 @@ Assume that the peak shaving SOC is set to 50% and the maximum peak power is 2kW
 
 ### **Tariff Rate Plan**
 
-<table><thead><tr><th width="70" align="center">No.</th><th width="224">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Select a power company.</td></tr><tr><td align="center">2</td><td>Rate Plan Name</td><td>Select an electricity rate plan.</td></tr><tr><td align="center">3</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">4</td><td>Additional Fee</td><td>Automatically match the additional fee.</td></tr><tr><td align="center">5</td><td>Customize</td><td>Click to switch to Customize Rate Plan.</td></tr></tbody></table>
+<table><thead><tr><th width="70" align="center">No.</th><th width="189.5555419921875">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Select a power company.</td></tr><tr><td align="center">2</td><td>Rate Plan Name</td><td>Select an electricity rate plan.</td></tr><tr><td align="center">3</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">4</td><td>Additional Fee</td><td>Automatically match the additional fee.</td></tr><tr><td align="center">5</td><td>Customize</td><td>Click to switch to Customize Rate Plan.</td></tr></tbody></table>
 
 ### **Customize Rate Plan**
 
-<table><thead><tr><th width="70" align="center">No.</th><th width="224">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Enter the name of the power company.</td></tr><tr><td align="center">2</td><td>Rate Plan Name</td><td>Enter the name of the electricity rate plan.</td></tr><tr><td align="center">3</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">4</td><td>Rate Plan Type</td><td><p><strong>Single Rate Tariff: All time periods adopt a single rate.</strong></p><ol><li>Rate Tariff.</li></ol><p><strong>TOU Rate Plan: Different rates are used for different time periods.</strong></p><ol><li>Add your TOU schedule: Add your Time-of-Use (TOU) rate periods.</li><li>Seasons Settings: Up to 6 seasons can be set within 1 year.</li><li>Season N time period: Set the time period within the season.</li><li>Price Setting: Set the price within the time period.</li></ol></td></tr><tr><td align="center">5</td><td>Go to settings to enable it</td><td>Click to switch to Tariff Rate Plan.</td></tr></tbody></table>
+<table><thead><tr><th width="70" align="center">No.</th><th width="185.111083984375">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Enter the name of the power company.</td></tr><tr><td align="center">2</td><td>Rate Plan Name</td><td>Enter the name of the electricity rate plan.</td></tr><tr><td align="center">3</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">4</td><td>Rate Plan Type</td><td><p><strong>Single Rate Tariff: All time periods adopt a single rate.</strong></p><ul><li>Rate Tariff.</li></ul><p><strong>TOU Rate Plan: Different rates are used for different time periods.</strong></p><ul><li>Add your TOU schedule: Add your Time-of-Use (TOU) rate periods.</li></ul><ul><li>Seasons Settings: Up to 6 seasons can be set within 1 year.</li></ul><ul><li>Season N time period: Set the time period within the season.</li></ul><ul><li>Price Setting: Set the price within the time period.</li></ul></td></tr><tr><td align="center">5</td><td>Go to settings to enable it</td><td>Click to switch to Tariff Rate Plan.</td></tr></tbody></table>
 
 ## Grid Automation
 
