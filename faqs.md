@@ -66,7 +66,7 @@ You can check this in "Setting" → "System Affiliation Lookup."
 
 ### Method 2:
 
-
+<figure><img src=".gitbook/assets/MSA1CM00078-流量充值 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **How to Purchase a License?**
 
@@ -88,6 +88,10 @@ You can check this in "Setting" → "System Affiliation Lookup."
 <figure><img src=".gitbook/assets/MSA1CM00078-license激活.png" alt=""><figcaption></figcaption></figure>
 
 ## **How to Buy Extended Warranty Service?**
+
+{% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
+
+<mark style="color:$primary;">During purchase, the product information must match the device information.</mark>
 
 <figure><img src=".gitbook/assets/MSA1CM00084-购买延保.png" alt=""><figcaption></figcaption></figure>
 
