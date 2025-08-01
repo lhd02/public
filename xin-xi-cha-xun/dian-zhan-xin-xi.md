@@ -67,8 +67,19 @@ Click the energy box to view the energy flow.
 
 <figure><img src="../.gitbook/assets/MSA1CM00071-电站诊断 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ## User Guide Information
 
 <figure><img src="../.gitbook/assets/MSA1CM00070-用户指南 (1) (2).png" alt="" width="297"><figcaption></figcaption></figure>
+
+## Guide Video Information
+
+<figure><img src="../.gitbook/assets/MSA1CM00070-获取安装视频.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## **Contact customer service**
+
+{% include "../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">Please feel free to reach out to us in the App if you have any questions about the use of the product.</mark>
+* <mark style="color:blue;">To check the question history, click "History" in the upper right corner of the "Support" page.</mark>
+
+<figure><img src="../.gitbook/assets/MSA1CM00070-联系客服.png" alt="" width="563"><figcaption></figcaption></figure>
