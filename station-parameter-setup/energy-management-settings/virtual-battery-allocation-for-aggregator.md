@@ -3,6 +3,7 @@
 {% include "../../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">This feature is exclusively available in Sweden.</mark>
+* <mark style="color:blue;">This feature can only be set up when batteries are configured within the power station.</mark>
 * <mark style="color:blue;">The function enables virtual partitioning of ESS into two independent operational units: The virtual battery can participate in CheckWatt VPP's frequency regulation services, Remaining capacity continues to be optimized by Sigen algorithm</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00078-储能分身.png" alt=""><figcaption></figcaption></figure>
