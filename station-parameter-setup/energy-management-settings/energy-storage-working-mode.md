@@ -92,4 +92,4 @@ Once registered with the VPP, your storage system will join the smart dispatchin
 
 <mark style="color:$primary;">Paste the sharing code to obtain others' custom Operational modes.</mark>
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-添加自定义工作模式.png" alt=""><figcaption></figcaption></figure>
