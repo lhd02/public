@@ -40,7 +40,7 @@
 * [Adding device](adding-device/README.md)
   * [Third-party inverter](adding-device/third-party-inverter.md)
   * [Generator](adding-device/diesel-generator.md)
-  * [Smart Load](adding-device/smart-load.md)
+  * [Smart load](adding-device/smart-load.md)
   * [SG heat pump](adding-device/sg-heat-pump.md)
 * [Device parameter setup](device-parameter-setup/README.md)
   * [SigenStor/Sigen PV Max](device-parameter-setup/sigenstor/README.md)
