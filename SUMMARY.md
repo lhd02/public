@@ -13,7 +13,6 @@
     * [Alarm information](routine-o-and-m-of-power-station-and-device/information-querying/alarm-information.md)
     * [Warranty information](routine-o-and-m-of-power-station-and-device/information-querying/viewing-warranty-information.md)
     * [Feedback History](routine-o-and-m-of-power-station-and-device/information-querying/viewing-feedback-history.md)
-    * [Storm Watch](routine-o-and-m-of-power-station-and-device/information-querying/storm-watch.md)
     * [Station Diagnosis](routine-o-and-m-of-power-station-and-device/information-querying/viewing-station-diagnosis.md)
 * [System Settings](station-parameter-setup/README.md)
   * [Energy management settings](station-parameter-setup/energy-management-settings/README.md)
