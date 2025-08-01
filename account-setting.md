@@ -2,6 +2,8 @@
 
 ## Switch Accounts
 
+The App enables you to quickly switch among accounts when you have set multiple accounts for different products.
+
 <figure><img src=".gitbook/assets/SSA1CM00063-切换账号.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Changing password
@@ -26,10 +28,7 @@ Click "Setting" and ![](data:image/png;base64,R0lGODdhHwAeAHcAACH+GlNvZnR3YXJlOi
 
 <figure><img src=".gitbook/assets/MSA1CM00071-bn.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## Switch Accounts
 
-The App enables you to quickly switch among accounts when you have set multiple accounts for different products.
 
-## Logout
 
-<figure><img src=".gitbook/assets/MSA1CM00071-退出账号.png" alt="" width="563"><figcaption></figcaption></figure>
+
