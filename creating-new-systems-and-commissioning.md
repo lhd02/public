@@ -2,8 +2,10 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">This document takes version 3.1.0 as an example to introduce relevant operations. The screenshots given in this document are for illustration purposes only. Interfaces in different periods may differ. The actual interface display shall prevail.</mark>
+* <mark style="color:blue;">This document takes version 3.0.0 as an example to introduce relevant operations. The screenshots given in this document are for illustration purposes only. Interfaces in different periods may differ. The actual interface display shall prevail.</mark>
 * <mark style="color:blue;">Before creating new systems, please make sure that the device is powered on.</mark>
+
+
 
 ## Downloading the App
 
@@ -40,3 +42,8 @@ On the "Sign Up" screen of the App, sign up for your account.
 <figure><img src=".gitbook/assets/MSA1CM00091-en (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Please ask the owner to check the email titled "sigencloud" within 24 hours and activate the account.
+
+
+
+
+

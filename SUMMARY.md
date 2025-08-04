@@ -47,7 +47,7 @@
     * [ModBus Settings](device-parameter-setup/sigenstor/modbus-settings.md)
   * [Inverter](device-parameter-setup/inverter.md)
   * [Gateway](device-parameter-setup/gateway.md)
-  * [Sigen EV DC Charging Module](device-parameter-setup/sigen-ev-dc-charging-module/README.md)
+  * [Sigen EV DC Charging Module](device-parameter-setup/sigen-ev-dc-charging-module.md)
     * [(optional) V2X Function Activation and Manual Control](device-parameter-setup/sigen-ev-dc-charging-module/optional-v2x-function-activation-and-manual-control.md)
   * [Sigen EV AC Charger](device-parameter-setup/sigen-ev-ac-charger.md)
   * [Downloading device logs](device-parameter-setup/downloading-device-logs.md)
