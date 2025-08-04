@@ -32,12 +32,12 @@
 
 ### Station Page Custom Settings
 
-* Click <img src="../../.gitbook/assets/image.png" alt="" data-size="line">，and you can create a customized power station page layout as needed.
+* Click <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">，and you can create a customized power station page layout as needed.
 * Click "Restore Defaults" to restore the default settings.
 
 <figure><img src="../../.gitbook/assets/MSA1CM00077-电站页自定义.png" alt=""><figcaption></figcaption></figure>
 
-## Single device Information &#x20;
+## Single device Information
 
 {% include "../../.gitbook/includes/tips.md" %}
 
