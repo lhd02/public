@@ -17,7 +17,7 @@ For example, the backup power SOC is set in Self-Consumption Mode.
 
 ## Backup History
 
-<figure><img src="../../../.gitbook/assets/MSA1CM00071-备电历史 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MSA1CM00071-备电历史.png" alt=""><figcaption></figcaption></figure>
 
 ## Backup Event Center
 
@@ -27,8 +27,8 @@ For example, the backup power SOC is set in Self-Consumption Mode.
 
 {% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
 
-* <mark style="color:$primary;">This function is only available for power stations that have batteries and have enabled the off-grid function.</mark>
-* <mark style="color:$primary;">After enabling this function, the system will charge the batteries in advance after obtaining extreme weather information.</mark>
+* This function is only available for power stations that have batteries and have enabled the off-grid function.
+* After enabling this function, the system will charge the batteries in advance after obtaining extreme weather information.
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00085-风暴预警.png" alt="" width="297"><figcaption></figcaption></figure>
 

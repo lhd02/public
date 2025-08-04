@@ -10,7 +10,7 @@ Setting battery-related parameters can optimize battery performance, extend batt
 * <mark style="color:blue;">By default priority, PV is placed before Grid, PV solar charges the battery first, Grid supplements the remaining charge.</mark>
 * <mark style="color:blue;">In the negative electricity price scenario, Grid can be adjusted to be before PV.</mark>
 
-<figure><img src="../../../.gitbook/assets/MSA1CM00073-电池充电来源优先级 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MSA1CM00073-电池充电来源优先级 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Battery Discharging Prority
 
@@ -32,7 +32,7 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00073-电池设置-预热调度.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="67" align="center">No.</th><th width="206">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Pack preheating</td><td>Set to<img src="../../../.gitbook/assets/0 (15) (1) (1).png" alt="" data-size="line"> to set the battery preheating period.</td></tr></tbody></table>
+<table><thead><tr><th width="67" align="center">No.</th><th width="206">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Pack preheating</td><td>Set to<img src="../../../.gitbook/assets/0 (15) (1).png" alt="" data-size="line"> to set the battery preheating period.</td></tr></tbody></table>
 
 ## Battery Power Limit
 

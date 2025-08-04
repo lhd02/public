@@ -6,7 +6,7 @@
 
 ### **Pure charging application**
 
-<figure><img src="../.gitbook/assets/MSA1CM00075-EVAC查看 (1).png" alt="" width="297"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1CM00075-EVAC查看.png" alt="" width="297"><figcaption></figcaption></figure>
 
 ### **PV charging or PV storage & charging application**
 

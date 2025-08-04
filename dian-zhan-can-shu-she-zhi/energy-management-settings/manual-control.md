@@ -6,7 +6,7 @@
 
 ### Method 1:
 
-<figure><img src="../../.gitbook/assets/MSA1CM00068-Manual Control (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00068-Manual Control (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Method 2:
 
