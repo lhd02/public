@@ -4,7 +4,7 @@
 
 Before installation, operation, and maintenance of the equipment, familiarize yourself with this document.
 
-The "Danger ", "Warning", "Caution" items described in this manual are only supplementary to all precautions.
+The "<mark style="color:red;">Danger</mark> ", "<mark style="color:orange;">Warning</mark>", "<mark style="color:purple;">Caution</mark>" items described in this manual are only supplementary to all precautions.
 
 The Company shall not be liable for equipment damage or property loss caused by the following reasons:
 

@@ -2,7 +2,7 @@
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">When abnormal operation of the Gateway's grid contactor prevents power supply to the load, close the bypass switch to directly power the load from the grid.</mark>
+* <mark style="color:blue;">When abnormal operation of the Gateway's grid contactor prevents power supply to the load, close the bypass switch to directly power the load from the grid.</mark>
 
 ### Steps
 

@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-{% include "https://app.gitbook.com/s/C7yAc8yWwipEGMaK8mJk/~/reusable/GpQNGQ2TJq5nQqVhWUIl/" %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 <mark style="color:orange;">The Gateway should be disconnected in the following order:</mark>
 
