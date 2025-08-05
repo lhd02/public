@@ -35,4 +35,4 @@
 * The installation base should be flat, and the installation area should meet the installation space requirements.
 * No plumbing or electrical alignments should be inside the installation base to avoid potential drilling hazards during equipment installation.
 
-<figure><img src=".gitbook/assets/SGA1OV00018-en.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00008-en.png" alt="" width="563"><figcaption></figcaption></figure>
