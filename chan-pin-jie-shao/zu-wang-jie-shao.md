@@ -55,7 +55,7 @@
 
 ### **Multiple inverters (Gateway does not have the circuit breaker connected to the smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00030-多逆无智en (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00030-多逆无智en.png" alt=""><figcaption></figcaption></figure>
 
 | No.    | Description            | No.    | Description                             | No.    | Description                   |
 | ------ | ---------------------- | ------ | --------------------------------------- | ------ | ----------------------------- |
