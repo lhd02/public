@@ -1,6 +1,6 @@
 # Inverter
 
-<figure><img src="../.gitbook/assets/MSA1CM00078-逆变器.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1CM00078-逆变器设置.png" alt=""><figcaption></figcaption></figure>
 
 ## **IPS (only available for Italian grid code CEI-021)**
 
