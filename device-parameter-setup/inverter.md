@@ -16,12 +16,12 @@
 
 ## **Fan parameters**
 
-<table><thead><tr><th width="59" align="center">No.</th><th width="165">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>External fan silent mode regulation</td><td>When it is set to <img src="../.gitbook/assets/17 (1).png" alt="" data-size="line">, the maximum fan speed is limited to reduce fan noise.</td></tr></tbody></table>
+<table><thead><tr><th width="165">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>External fan silent mode regulation</td><td>When it is set to <img src="../.gitbook/assets/17 (1).png" alt="" data-size="line">, the maximum fan speed is limited to reduce fan noise.</td></tr></tbody></table>
 
 ## **EMS Control**
 
-<table><thead><tr><th width="60" align="center">No.</th><th width="162">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Single-Machine Active Power Dispatch Enable</td><td><p>When it is set to <img src="../.gitbook/assets/11 (1).png" alt="" data-size="line">, the power is scheduled for a single device, and you can set it to either active power mode or reactive power mode.</p><p><img src="../.gitbook/assets/warning (1).png" alt="" data-size="line"></p><p>Inverters with this parameter set cannot participate in EMS control.</p></td></tr></tbody></table>
+<table><thead><tr><th width="162">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>Single-Machine Active Power Dispatch Enable</td><td><p>When it is set to <img src="../.gitbook/assets/11 (1).png" alt="" data-size="line">, the power is scheduled for a single device, and you can set it to either active power mode or reactive power mode.</p><p><img src="../.gitbook/assets/warning (1).png" alt="" data-size="line"></p><p>Inverters with this parameter set cannot participate in EMS control.</p></td></tr></tbody></table>
 
 ## AFCI
 
-<table><thead><tr><th width="63" align="center">No.</th><th width="169.1817626953125">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>AFCI Enables</td><td>When it is set to <img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, the device will conduct the DC arc testing.</td></tr></tbody></table>
+<table><thead><tr><th width="169.1817626953125">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>AFCI Enables</td><td>When it is set to <img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, the device will conduct the DC arc testing.</td></tr></tbody></table>
