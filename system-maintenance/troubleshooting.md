@@ -1,0 +1,3 @@
+# Risoluzione dei problemi
+
+<table><thead><tr><th width="213">Malfunzionamento</th><th>Analisi della causa</th><th>Azione correttiva</th></tr></thead><tbody><tr><td>Il SigenStor si spegne/riavvia ripetutamente in modalità off-grid.</td><td>Il carico di backup supera la potenza nominale del SigenStor.</td><td>Spegnere una parte dei carichi domestici per garantire che il carico sia inferiore alla potenza nominale del SigenStor.</td></tr><tr><td>Il SigenStor si spegne/riavvia ripetutamente in modalità off-grid.</td><td>È stato acceso per errore l'interruttore di bypass.</td><td>Spegnere l'interruttore di bypass.</td></tr></tbody></table>

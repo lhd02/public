@@ -1,0 +1,2 @@
+# Aspetto del prodotto
+
