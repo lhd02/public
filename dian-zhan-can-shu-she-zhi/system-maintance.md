@@ -1,8 +1,14 @@
 # System Maintance
 
-## Sytem Power-on/Power-off
+## Sytem Device Power-on/Power-off
+
+### Batch power on/off
 
 <figure><img src="../.gitbook/assets/MSA1CM00071-批量开关机.png" alt=""><figcaption></figcaption></figure>
+
+### **Single-device power on/off**
+
+<figure><img src="../.gitbook/assets/MSA1CM00082-单设备开关机.png" alt=""><figcaption></figcaption></figure>
 
 ## On-grid/Off-grid switchover
 
@@ -20,9 +26,5 @@
 <figure><img src="../.gitbook/assets/MSA1CM00071-并离网切换.png" alt=""><figcaption></figcaption></figure>
 
 ### Method 2:
-
-<figure><img src="../.gitbook/assets/MSA1CM00068-并离网切换.png" alt="" width="563"><figcaption></figcaption></figure>
-
-### Method 3:
 
 <figure><img src="../.gitbook/assets/MSA1CM00069-并离网切换.png" alt="" width="563"><figcaption></figcaption></figure>
