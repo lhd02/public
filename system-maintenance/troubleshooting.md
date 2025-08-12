@@ -1,0 +1,3 @@
+# Fehlersuche
+
+<table><thead><tr><th width="213">Defekt</th><th>Ursachenanalyse</th><th>Korrigierende Maßnahme</th></tr></thead><tbody><tr><td>Der SignStor schaltet wiederholt aus/startet im netzunabhängigen Modus erneut.</td><td>Die Notstromlast ist größer als die Nennleistung des SigenStor.</td><td>Schalten Sie einen Teil der Verbraucher im Haushalt aus, um sicherzustellen, dass die Last niedriger ist als die Nennleistung des SigenStor.</td></tr><tr><td>Der SignStor schaltet wiederholt aus/startet im netzunabhängigen Modus erneut.</td><td>Der Umgehungsschalter ist versehentlich eingeschaltet.</td><td>Schalten Sie den Umgehungsschalter aus.</td></tr></tbody></table>

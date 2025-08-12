@@ -1,0 +1,9 @@
+# Routinewartung
+
+Um den langfristigen Betrieb der Geräte zu gewährleisten, wird empfohlen, die routinemäßige Wartung gemäß diesem Abschnitt durchzuführen.
+
+{% include "../.gitbook/includes/danger.md" %}
+
+<mark style="color:red;">Um die Innenplatte zu entfernen, bitten Sie einen Fachmann um eine Beurteilung, bevor Sie fortfahren.</mark>
+
+<table><thead><tr><th width="168">Inspektionsgegenstände</th><th width="220">Inspektionsmethode</th><th width="138">Ausschalten oder nicht</th><th>Wartungsintervall</th></tr></thead><tbody><tr><td>Systemreinigung</td><td>Überprüfen Sie das Gerät regelmäßig auf Abschirmung und Schmutz. Wenn ja reinigen. Verwenden Sie während des Reinigungsvorgangs keinerlei Werkzeuge, die einen Stromschlag oder Isolierungsschäden verursachen können wie z. B. Drahtbürsten.</td><td>Ja</td><td>Einmal alle 3 Monate</td></tr><tr><td>Systembetriebszustand</td><td><ul><li>Überprüfen Sie, ob das Gerät beschädigt oder verformt ist.</li><li>Überprüfen Sie das Gerät auf Betriebsgeräusche.</li><li>Überprüfen Sie, ob die Geräteparameter während des Betriebs korrekt eingestellt sind.</li></ul></td><td>Nein</td><td>Einmal alle 6 Monate</td></tr><tr><td>Elektrischer Anschluss</td><td><ul><li>Überprüfen Sie, ob alle Kabelklemmen fest angezogen sind.</li><li>Überprüfen Sie, ob der Kabelmantel beschädigt ist.</li><li>Überprüfen Sie auf Oberflächenkratzer, dort, wo das Kabel auf Metall trifft.</li><li>Überprüfen Sie, ob nicht verwendete Kabelöffnungen geschlossen sind.</li></ul></td><td>Ja</td><td>Führen Sie alle 6 Monate nach der Erstellung eines neuen Systems und danach alle 6 bis 12 Monate eine Überprüfung durch.</td></tr><tr><td>Erdungszuverlässigkeit</td><td>Überprüfen Sie, ob das Erdungskabel korrekt und zuverlässig angeschlossen ist.</td><td>Nein</td><td>Führen Sie alle 6 Monate nach der Erstellung eines neuen Systems und danach alle 6 bis 12 Monate eine Überprüfung durch.</td></tr></tbody></table>
