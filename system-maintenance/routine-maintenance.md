@@ -1,0 +1,9 @@
+# Rutynowa konserwacja
+
+Aby zapewnić długi czas eksploatacji urządzenia, należy przeprowadzać rutynową konserwację, którą opisano poniżej.
+
+{% include "../.gitbook/includes/danger.md" %}
+
+<mark style="color:red;">Przed wyjęciem panelu wewnętrznego zlecić profesjonalną ocenę.</mark>
+
+<table><thead><tr><th width="168">Do sprawdzenia</th><th width="220">Sposób inspekcji</th><th width="138">Zasilanie wyłączone?</th><th>Interwał konserwacji</th></tr></thead><tbody><tr><td>Czyszczenie systemu</td><td>Regularnie sprawdzać drożność i czystość obudowy. Wyczyścić w razie potrzeby. W tym celu nie należy używać żadnych narzędzi, które mogą spowodować porażenie prądem lub uszkodzenie izolacji, takich jak druciane szczotki.</td><td>Tak</td><td>Raz na 3 miesiące</td></tr><tr><td>Stan systemu</td><td><ul><li>Sprawdzić, czy urządzenie jest uszkodzone lub zdeformowane.</li><li>Zwrócić uwagę na hałas podczas pracy urządzenia.</li><li>Sprawdzić, czy ustawione parametry urządzenia są prawidłowe podczas pracy urządzenia.</li></ul></td><td>Nie</td><td>Raz na 6 miesięcy</td></tr><tr><td>Przyłącze elektryczne</td><td><ul><li>Sprawdzić, czy złącza przewodu są bezpiecznie podłączone.</li><li>Sprawdzić, czy osłona przewodu jest uszkodzona.</li><li>Sprawdzić, czy w okolicy styku przewodu z metalem występują zarysowania powierzchni.</li><li>Sprawdzić, czy nieużywane otwory do prowadzenia przewodów zostały zaślepione.</li></ul></td><td>Tak</td><td>Sprawdzać co 6 miesięcy po utworzeniu nowej instalacji i później co 6 do 12 miesięcy.</td></tr><tr><td>Sprawność uziemienia</td><td>Sprawdzić, czy przewód uziemiający jest poprawnie i bezpiecznie podłączony.</td><td>Nie</td><td>Sprawdzać co 6 miesięcy po utworzeniu nowej instalacji i później co 6 do 12 miesięcy.</td></tr></tbody></table>
