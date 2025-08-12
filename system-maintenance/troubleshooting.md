@@ -1,0 +1,3 @@
+# Dépannage
+
+<table><thead><tr><th width="213">Anomalie</th><th>Analyse des causes</th><th>Mesure corrective</th></tr></thead><tbody><tr><td>Le SigenStor s'éteint/redémarre à plusieurs reprises en mode hors réseau.</td><td>La charge de secours est supérieure à la puissance nominale du SigenStor.</td><td>Éteignez une partie des charges domestiques pour vous assurer que la charge est inférieure à la puissance nominale du SigenStor.</td></tr><tr><td>Le SigenStor s'éteint/redémarre à plusieurs reprises en mode hors réseau.</td><td>Le commutateur de dérivation est sous tension par erreur.</td><td>Mettez hors tension le commutateur de dérivation.</td></tr></tbody></table>
