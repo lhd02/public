@@ -1,0 +1,9 @@
+# Gepland onderhoud
+
+Om de werking van de apparatuur op de lange termijn te garanderen, wordt u geadviseerd routineonderhoud uit te voeren volgens deze sectie.
+
+{% include "../.gitbook/includes/danger.md" %}
+
+<mark style="color:red;">Vraag een professional om beoordeling voordat u het binnenpaneel verwijdert.</mark>
+
+<table><thead><tr><th width="168">Inspectie-items</th><th width="220">Inspectiemethode</th><th width="138">Uitschakelen of niet</th><th>Onderhoudsinterval</th></tr></thead><tbody><tr><td>Systeemreiniging</td><td>Controleer het apparaat regelmatig op afscherming en vuil. Als dit het geval is, maak het dan schoon. Gebruik tijdens het reinigingsproces geen gereedschap dat elektrische schokken of schade aan de isolatie kan veroorzaken, zoals draadborstels.</td><td>Ja</td><td>Eén keer elke 3 maanden</td></tr><tr><td>Bedrijfsstatus systeem</td><td><ul><li>Controleer of het uiterlijk van de apparatuur beschadigd of vervormd is.</li><li>Controleer op ruis wanneer het apparaat werkt.</li><li>Controleer of de parameters van de apparatuur correct zijn wanneer de apparatuur werkt.</li></ul></td><td>Nee</td><td>Eén keer elke 6 maanden</td></tr><tr><td>Elektrische aansluiting</td><td><ul><li>Controleer of de kabelterminals stevig zijn aangesloten.</li><li>Controleer of de kabelmantel beschadigd is.</li><li>Controleer of er krassen op het oppervlak zitten waar de kabel in contact komt met het metaal.</li><li>Controleer of ongebruikte doorvoeropeningen verzegeld zijn.</li></ul></td><td>Ja</td><td>Controleer elke 6 maanden eenmaal na het maken van nieuwe systemen en eenmaal elke 6 tot 12 maanden daarna.</td></tr><tr><td>Betrouwbaarheid van aarding</td><td>Controleer of de aardingskabel goed en betrouwbaar is aangesloten.</td><td>Nee</td><td>Controleer elke 6 maanden eenmaal na het maken van nieuwe systemen en eenmaal elke 6 tot 12 maanden daarna.</td></tr></tbody></table>

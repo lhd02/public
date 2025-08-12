@@ -1,0 +1,3 @@
+# Probleemoplossing
+
+<table><thead><tr><th width="213">Fout</th><th>Oorzaakanalyse</th><th>Corrigerende actie</th></tr></thead><tbody><tr><td>De SigenStor wordt herhaaldelijk uitgeschakeld/opnieuw gestart in de off-gridmodus.</td><td>De back-upbelasting is groter dan het nominale vermogen van de SigenStor.</td><td>Schakel een deel van de huishoudelijke belasting uit om te verzekeren dat de lading lager is dan het nominale vermogen van de SigenStor.</td></tr><tr><td>De SigenStor wordt herhaaldelijk uitgeschakeld/opnieuw gestart in de off-gridmodus.</td><td>De overbruggingsschakelaar is per ongeluk ingeschakeld.</td><td>Zet de overbruggingsschakelaar uit.</td></tr></tbody></table>
