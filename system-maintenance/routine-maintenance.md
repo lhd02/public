@@ -1,0 +1,9 @@
+# Rutinunderhåll
+
+För att säkerställa långsiktig drift av utrustningen rekommenderas att du utför de rutinunderhåll som beskrivs detta avsnitt.
+
+{% include "../.gitbook/includes/danger.md" %}
+
+<mark style="color:red;">Be om en professionell bedömning innan du demonterar den inre panelen.</mark>
+
+<table><thead><tr><th width="168">Kontrollpunkter</th><th width="220">Arbetsmetod</th><th width="138">Kraftmatning avslagen</th><th>Underhålls­period</th></tr></thead><tbody><tr><td>Rengöring</td><td>Kontrollera regelbundet om enheten blivit smutsig eller täckts av någonting. Rengör i så fall. Använd inte verktyg som kan ge upphov till elektriska stötar eller isoleringsskador under rengöring, exempelvis stålborstar.</td><td>Ja</td><td>Var tredje månad</td></tr><tr><td>System­drift</td><td><ul><li>Kontrollera om utrustningen uppvisar tecken på skada eller deformitet.</li><li>Kontrollera om buller uppstår under drift av utrustningen.</li><li>Kontrollera att utrustningens parametrar är korrekt inställda när utrustningen är i drift.</li></ul></td><td>Nej</td><td>Var sjätte månad</td></tr><tr><td>Elektrisk anslutningar</td><td><ul><li>Kontrollera om kabelplintar är ordentligt åtdragna.</li><li>Kontrollera om kabelhylsor är skadade.</li><li>Kontrollera förekomsten av repor på ytan där kabeln står i kontakt med metallen.</li><li>Kontrollera om ej använda kabelhål har tätats.</li></ul></td><td>Ja</td><td>Kontrollera var sjätte månad när ett nytt system har skapats och därefter med ett intervall på sex till tolv månader.</td></tr><tr><td>Jordningens tillförlitlighet</td><td>Kontrollera om jordkabeln är ordentligt och lämpligen ansluten.</td><td>Nej</td><td>Kontrollera var sjätte månad när ett nytt system har skapats och därefter med ett intervall på sex till tolv månader.</td></tr></tbody></table>

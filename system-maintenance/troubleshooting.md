@@ -1,0 +1,3 @@
+# Felsökning
+
+<table><thead><tr><th width="213">Fel</th><th>Orsaksanalys</th><th>Korrigerande åtgärd</th></tr></thead><tbody><tr><td>SigenStor stängs av/startas om upprepade gånger vid bortkoppling från elnätet.</td><td>Reservlasten är större än SigenStor-systemets märkeffekt.</td><td>Koppla bort en del av hushållets laster så att lasten blir lägre än SigenStor-systemets märkeffekt.</td></tr><tr><td>SigenStor stängs av/startas om upprepade gånger vid bortkoppling från elnätet.</td><td>Förbikopplingsbrytaren har aktiverats av misstag.</td><td>Stäng av förbikopplingsbrytaren.</td></tr></tbody></table>
