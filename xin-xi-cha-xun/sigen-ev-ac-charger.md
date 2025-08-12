@@ -2,7 +2,7 @@
 
 ## Operation Information
 
-<mark style="color:blue;">Go to the corresponding interface using the following method, and click "Energy Delivery" to view detailed information.</mark>
+Go to the corresponding interface using the following method, and click "Energy Delivery" to view detailed information.
 
 ### **Pure charging application**
 

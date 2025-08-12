@@ -19,7 +19,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 {% include "../../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">This parameter can only be set in AI mode.</mark>
-* <mark style="color:blue;">Peak load refers to the instantaneous surge in electricity demand.</mark>
+* <mark style="color:blue;">Adding peak load can improve the accuracy of the "Production & Consumption Forecast" curve prediction.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt=""><figcaption></figcaption></figure>
 
@@ -73,13 +73,13 @@ In areas with frequent power outages, you can add your region and schedule in th
 
 <mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-创建自定义工作模式 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-创建自定义工作模式 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Share Custom Operational Mode
 
 {% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
 
-<mark style="color:$primary;">Paste the sharing code to obtain others' custom Operational modes.</mark>
+Paste the sharing code to obtain others' custom Operational modes.
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-分享自定义工作模式 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -87,6 +87,6 @@ In areas with frequent power outages, you can add your region and schedule in th
 
 {% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
 
-<mark style="color:$primary;">Paste the sharing code to obtain others' custom Operational modes.</mark>
+Paste the sharing code to obtain others' custom Operational modes.
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-添加自定义工作模式.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-添加自定义工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
