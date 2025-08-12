@@ -23,7 +23,7 @@
   * [Third-party inverter](dian-zhan-she-bei-tian-jia/di-san-fang-chang-jia-ni-bian-qi.md)
   * [Generator](dian-zhan-she-bei-tian-jia/chai-you-fa-dian-ji.md)
   * [Smart load](dian-zhan-she-bei-tian-jia/zhi-neng-fu-zai.md)
-  * [SG heat pump](dian-zhan-she-bei-tian-jia/sg-re-beng.md)
+  * [SG Ready heat pump](dian-zhan-she-bei-tian-jia/sg-re-beng.md)
 * [Device parameter setup](she-bei-can-shu-she-zhi/README.md)
   * [SigenStor/Sigen PV Max](she-bei-can-shu-she-zhi/sigenstor-sigen-pv-max.md)
   * [Sigen EV DC Charging Module](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/README.md)
