@@ -43,11 +43,3 @@ In areas with frequent power outages, you can add your region and schedule in th
 ## VPP Scheduling-evergen Mode
 
 Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.
-
-## Custom Operational Mode
-
-{% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
-
-<mark style="color:blue;">Customized operation modes can be created according to your requirements.</mark>
-
-<figure><img src="../.gitbook/assets/MSA1CM00074-自定义工作模式.png" alt=""><figcaption></figcaption></figure>
