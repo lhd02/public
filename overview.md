@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-This document describes product introduction, networking, system operation and maintenance of SigenStor-5S-(5-16), SigenStor-6S-(8-24) and SigenStor-(5T–30T) Series (hereinafter referred to as SigenStor).
+This document describes product introduction, networking, system operation and maintenance of SigenStor-(5S–12S) and SigenStor-(5T–30T) Series (hereinafter referred to as SigenStor).
 
 ### **Readers**
 

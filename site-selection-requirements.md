@@ -13,6 +13,8 @@
 * Do not install the equipment in an environment with strong electromagnetic interference.
 * The temperature and humidity of the installation environment should meet equipment requirements.
 * The equipment should be installed in an area that is at least 500 m away from corrosion sources that may result in salt damage or acid damage. Corrosion sources include but are not limited to seaside, thermal power plants, chemical plants, smelters, coal plants, rubber plants, and electroplating plants.
+* In areas with good marine environments (such as Norway, where the nearshore salinity is ≤ 28 psu), the mounting distance of the device from the coastline can be appropriately relaxed to ≥ 200 m.
+* If the outer surface of the device is damaged, please repaint the device in time.
 
 ### Installation Position Requirements
 
@@ -33,10 +35,14 @@
 * The installation base should be flat, and the installation area should meet the installation space requirements.
 * No plumbing or electrical alignments are allowed inside the installation base to avoid potential drilling hazards during equipment installation.
 
-<figure><img src=".gitbook/assets/mounting surface" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00021-en (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/SSA1SF00015-en.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
+* For models with SigenStor EVDC series, please install it near the parking space. For installation distance, refer to the illustrations.
+* There will be errors in the actual distance under different installation environments, and the figure is for reference only.
 * <mark style="color:blue;">The maximum operating temperature range applicable to the equipment is -20°C to 55°C, and the recommended optimal operating temperature range is 10°C≤T≤35°C.</mark>
 * <mark style="color:blue;">When the battery pack temperature is below 0°C, immediate charging is not possible, and the battery pack (the built-in heating module can be automatically enabled) will activate the heating feature automatically. The best charging performance of the battery can be achieved after heating for less than 2h. The heating feature will consume power.</mark>
 * <mark style="color:blue;">At a temperature > 40°C, the operation of the equipment may trigger a power derating that prevents the equipment from operating optimally. The higher the temperature, the shorter the service life of the equipment.</mark>

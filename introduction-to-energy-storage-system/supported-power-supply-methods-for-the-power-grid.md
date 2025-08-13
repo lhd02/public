@@ -1,6 +1,6 @@
 # Supported Power Supply Methods for the Power Grid
 
-## **SigenStor-(5S, 6S) Series**
+## **SigenStor-(5S, 6S) &**&#x53;igenStor-(8S–12S) **Series**
 
 * The grid supply methods supported include TN-S, TN-C, TN-C-S, and TT.
 * When TT is used as the power supply technique for the power grid, the voltage between N and PE is required to be < 30 V.

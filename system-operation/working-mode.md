@@ -2,18 +2,13 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">The energy storage system supports multiple working modes, namely: Sigen AI Mode, Fully Fed to Grid Mode, Self-Consumption Mode, Time-based Control Mode, Remote EMS Mode, Load Shedding.</mark>
+<mark style="color:blue;">The energy storage system supports multiple working modes, Some countries support Load Shedding Mode and VPP Scheduling-evergen Mode, which is subject to the App interface display.</mark>
 
 ### **Sigen AI Mode**
 
 By obtaining local peak and valley electricity prices and weather data, combined with user electricity consumption habits, the Sigen AI Mode can customize intelligent electricity usage solutions to maximize customers' cost savings.
 
 ![](../.gitbook/assets/SSA1OV00011-en.jpg)
-
-### **Fully Fed to Grid Mode**
-
-* You can sell excess energy back to the grid and earn credits on your energy bill.
-* In the daytime, when the PV power is greater than the maximum output capacity of the inverter, the inverter maintains the maximum output while storing excess energy in the batteries. When the PV power is lower than the maximum output capacity of the inverter or there is no PV power in the nighttime, the batteries are discharged to ensure that the inverter maximizes the output.
 
 ### **Self-Consumption Mode**
 
@@ -33,6 +28,19 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 ![](../.gitbook/assets/SSA1OV00012-en.jpg)
 
+### **Fully Fed to Grid Mode**
+
+* You can sell excess energy back to the grid and earn credits on your energy bill.
+* In the daytime, when the PV power is greater than the maximum output capacity of the inverter, the inverter maintains the maximum output while storing excess energy in the batteries. When the PV power is lower than the maximum output capacity of the inverter or there is no PV power in the nighttime, the batteries are discharged to ensure that the inverter maximizes the output.
+
 ### **Remote EMS Mode**
 
 After setting to this mode, a third-party EMS dispatch company will be allowed to set the relevant parameters of the power station and products. Do not enter or exit this mode without the installer's confirmation.
+
+## **Load Shedding Mode**
+
+In areas with frequent power outages, you can add your region and schedule in this mode, and the system will fully charge the battery in advance as scheduled, ensuring that you have battery power available to supply the load during outages. (currently only supported in South Africa)
+
+## VPP Scheduling-evergen Mode
+
+Once registered with the VPP, your storage system will join the smart dispatching network. The App will show and auto-enable this mode.

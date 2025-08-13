@@ -12,7 +12,7 @@
 
 Tap "Setting" in mySigen App to turn on/off the device.
 
-![](<../.gitbook/assets/1 (1).jpeg>)
+<figure><img src="../.gitbook/assets/MSA1CM00071-批量开关机.png" alt=""><figcaption></figcaption></figure>
 
 ### **Manual operation**
 
@@ -26,7 +26,7 @@ Follow the steps shown to remove the side and top decorative cover, and press th
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">Major firmware upgrades can fail if the equipment is not connected to the internet for an extended period of time. When your equipment is not connected to the internet, the system will send you a reminder repeatedly. If the system does not receive feedback from you for a long time, the system will operate under limited conditions for security reasons. If you want to make the equipment fully functional, connect the equipment to the internet. The system will automatically restore its functionality. If you have further questions, please contact us for assistance.</mark>
+<mark style="color:blue;">Major firmware upgrades can fail if the equipment is not connected to the internet for an extended period of time. When your device is not connected to the internet, the system issues periodic notifications. If the disconnection persists beyond 90 consecutive days, the system will automatically engage in safe operating mode for safety compliance. Reconnect to the internet immediately. For unresolved issues, feel free to contact us.</mark>
 
 2. Turn off the switch connected to the equipment in the backup power distribution panel.
 3. Turn DC SWITCH on the equipment to the OFF position.

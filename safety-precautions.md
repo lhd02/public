@@ -30,7 +30,7 @@ The Company shall not be liable for equipment damage or property loss caused by 
 
 * <mark style="color:red;">The overheated battery pack may cause fire or explosion. Do not expose the device to high temperature or heat sources (such as sunlight, fire, or heaters) around the equipment for a long</mark> <mark style="color:red;">time.</mark>
 * <mark style="color:red;">Do not clean or soak the equipment with water, alcohol, or oil to avoid power leakage or battery pack leakage.</mark>
-* <mark style="color:red;">Do not knock or impact the equipment. In case of an accident, please stop using the equipment immediately and contact your sales agent, The equipment shall be inspected and evaluated by professional personnel before continuing to use.</mark>
+* <mark style="color:red;">Do not knock or impact the equipment. In case of an accident, please stop using the equipment immediately and contact your installer or sales agent, The equipment shall be inspected and evaluated by professional personnel before continuing to use.</mark>
 
 {% include ".gitbook/includes/warning.md" %}
 
@@ -39,9 +39,9 @@ The Company shall not be liable for equipment damage or property loss caused by 
 
 {% include ".gitbook/includes/caution.md" %}
 
-* <mark style="color:purple;">Do not use the equipment with faults. If the equipment appears abnormal (for example, battery pack leakage or appearance distortion), contact your sales agent. It is prohibited to disassemble the equipment by yourself.</mark>
+* <mark style="color:purple;">Do not use the equipment with faults. If the equipment appears abnormal (for example, battery pack leakage or appearance distortion), contact your</mark> installer or sales agent<mark style="color:purple;">. It is prohibited to disassemble the equipment by yourself.</mark>
 * <mark style="color:purple;">Carbon dioxide fire extinguishers or ABC dry powder fire extinguishers are recommended at home.</mark>
-* <mark style="color:purple;">If the equipment cannot be charged, please contact your sales agent in time.</mark>
+* <mark style="color:purple;">If the equipment cannot be charged, please contact your</mark> installer or sales agent <mark style="color:purple;">in time.</mark>
 
 ### **Do not use the equipment in the following situations:**
 
