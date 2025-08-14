@@ -9,10 +9,10 @@
 
 假设设置的削峰SOC为50%，最大峰值功率为2 kW。因为总电费 = 峰值功率费用 + 用电电量费用 + 其它费用。其中，峰值功率指的是从电网取电的最大功率值。最大自发自用模式设置削峰后，电网购电功率从5 kW下降到2 kW，所以总电费降低了。
 
-<figure><img src="../.gitbook/assets/MSA1OV00007-zh.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1OV00007-zh.png" alt=""><figcaption></figcaption></figure>
 
 ### **案例二：在基于时间的控制模式下设置削峰** <a href="#an-li-er-timebased-control-she-zhi-peak-shaving" id="an-li-er-timebased-control-she-zhi-peak-shaving"></a>
 
 假设设置的削峰SOC为50%，最大峰值功率为2 kW。因为总电费 = 峰值功率费用 + 用电电量费用 + 其它费用。其中，峰值功率指的是从电网取电的最大功率值。基于时间的控制模式设置削峰后，电网购电功率从5 kW下降到2 kW，所以总电费降低了。
 
-<figure><img src="../.gitbook/assets/MSA1OV00008-zh.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1OV00008-zh.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,6 @@
 # 端口介绍
 
-### 思格能源控制器左视图
+### **思格能源控制器左视图**
 
 <figure><img src="../../.gitbook/assets/SHA1OV00003.jpg" alt="" width="563"><figcaption></figcaption></figure>
 

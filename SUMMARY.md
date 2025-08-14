@@ -16,7 +16,7 @@
 * [选址要求](xuan-zhi-yao-qiu.md)
 * [设备安装与接线](she-bei-an-zhuang-yu-jie-xian.md)
 * [系统运行](xi-tong-yun-xing/README.md)
-  * [储能工作模式](xi-tong-yun-xing/gong-zuo-mo-shi.md)
+  * [工作模式](xi-tong-yun-xing/gong-zuo-mo-shi.md)
   * [电站备电量设置](xi-tong-yun-xing/dian-zhan-bei-dian-liang-she-zhi.md)
   * [削峰模式](xi-tong-yun-xing/xiao-feng-mo-shi.md)
   * [LED指示灯状态](xi-tong-yun-xing/led-zhi-shi-deng-zhuang-tai.md)
