@@ -2,8 +2,9 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">在安装设备之前，请务必仔细阅读以下安装要求。如果因未按照要求操作而导致设备在运行过程中出现功能异常、损坏，甚至引发人身安全事故，本公司将不承担任何责任。</mark>
-* <mark style="color:blue;">实际安装时，安装位置的选定应同时满足当地消防、环保等法规，具体安装位置规划以安装商或EPC（Engineering，Procurement，Construction）为准。</mark>
+* <mark style="color:blue;">**标准质保仅适用于本公司推荐的安装场景，请按要求操作。**</mark>
+* <mark style="color:blue;">**在安装设备之前，请务必仔细阅读以下安装要求。如果因未按照要求操作而导致设备在运行过程中出现功能异常、损坏，甚至引发人身安全事故，本公司将不承担任何责任。**</mark>
+* <mark style="color:blue;">**实际安装时，安装位置的选定应同时满足当地消防、环保等法规，具体安装位置规划以安装商或EPC（Engineering，Procurement，Construction）为准。**</mark>
 
 ### **安装环境要求**
 
@@ -32,7 +33,7 @@
 * 安装载体表面要平整，可安装区域要满足设备安装空间要求。
 * 安装载体内部无水电走线，以免安装设备时钻孔发生危险。
 
-<figure><img src=".gitbook/assets/SSA1SF00010-zh.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00010-zh.jpg" alt=""><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 

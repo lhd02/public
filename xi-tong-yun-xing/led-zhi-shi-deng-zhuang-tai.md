@@ -8,7 +8,7 @@
 
 ### **思格通信棒指示灯**
 
-<figure><img src="../.gitbook/assets/commod.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SCA1OV00001.jpg" alt=""><figcaption></figcaption></figure>
 
 | 序号 | 名称    | 状态                 | 说明      |
 | -- | ----- | ------------------ | ------- |

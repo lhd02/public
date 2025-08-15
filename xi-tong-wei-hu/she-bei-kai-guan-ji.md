@@ -4,7 +4,7 @@
 
 在思格云APP中点击“Setting”，可进行开关机操作。
 
-<figure><img src="../.gitbook/assets/on.png" alt="" width="342"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1CM00001-zh.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 方案二：手动操作
 
@@ -14,7 +14,7 @@
 
 <mark style="color:blue;">长按＞3s，可实现开机或关机；开机与关机之间需间隔＞10s。</mark>
 
-<figure><img src="../.gitbook/assets/off.png" alt="" width="242"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1IN00030.jpg" alt=""><figcaption></figcaption></figure>
 
 {% include "../.gitbook/includes/tips.md" %}
 
