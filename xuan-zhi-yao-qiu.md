@@ -12,8 +12,6 @@
 * 禁止将设备安装于强电磁干扰的环境中。
 * 安装环境的温度与湿度要符合设备要求。
 * 设备应安装于距高盐或高酸等腐蚀源≥500m 的地区（腐蚀源包括但不限于海边、火电厂、化工厂、冶炼厂、煤厂、橡胶厂、电镀厂等)。
-* 在海洋环境良好（挪威等近岸盐度 ≤ 28 psu）的地区，设备安装距海岸线区域可适当放宽至≥200m。
-* 若设备出现外表面破损情况，请及时对设备进行补漆。
 
 ### **安装位置要求**
 
@@ -34,7 +32,7 @@
 * 安装载体表面要平整，可安装区域要满足设备安装空间要求。
 * 安装载体内部无水电走线，以免安装设备时钻孔发生危险。
 
-<figure><img src=".gitbook/assets/SSA1SF00021-zh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00010-zh.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
