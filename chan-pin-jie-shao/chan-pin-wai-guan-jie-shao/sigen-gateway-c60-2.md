@@ -2,7 +2,7 @@
 
 ### **Dimensions**
 
-<figure><img src="../../.gitbook/assets/SGA1IN00259-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1IN00259-en.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Bottom View**
 
