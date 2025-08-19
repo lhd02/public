@@ -8,7 +8,7 @@
 
 1. <mark style="color:orange;">Turn off the frame circuit breaker QA3 (connecting to a backup load).</mark>
 2. <mark style="color:orange;">Turn off the frame circuit breaker QA2 (connecting to a diesel generator/Smart Load).</mark>
-3. <mark style="color:orange;">After shutting down the inverter on the phone, turn off breakers (connecting to inverters).</mark>
+3. <mark style="color:orange;">After shutting down the inverters on the phone, turn off breakers (connecting to inverters).</mark>
    * <mark style="color:orange;">C600 : turn off 2QF1\~2QF30 (miniature circuit breaker)</mark>
    * <mark style="color:orange;">C1200: turn off 2QF1\~2QF50 (miniature circuit breaker)</mark>
    * <mark style="color:orange;">C600-B: turn off 2QF1\~2QF10 (molded case circuit breaker)</mark>

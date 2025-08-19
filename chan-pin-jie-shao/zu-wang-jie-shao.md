@@ -10,25 +10,25 @@
 
 **Table 2-1**
 
-<table><thead><tr><th width="50" align="center">S/N</th><th width="204">Model</th><th>Number of Inverters that can be connected</th></tr></thead><tbody><tr><td align="center">1</td><td>Sigen Gateway TPLV C30-2</td><td>2 units</td></tr><tr><td align="center">2</td><td>Sigen Gateway C60-2</td><td>2 units</td></tr><tr><td align="center">3</td><td>Sigen Gateway C60 AU</td><td>2 units</td></tr><tr><td align="center">4</td><td>Sigen Gateway TPLV C70-6</td><td>6 units</td></tr><tr><td align="center">5</td><td>Sigen Gateway C120-6</td><td>6 units</td></tr><tr><td align="center">6</td><td>Sigen Gateway C180-9</td><td>9 units</td></tr><tr><td align="center">7</td><td>Sigen Gateway C300-12</td><td>12 units</td></tr><tr><td align="center">8</td><td>Sigen Gateway C600</td><td>30 units</td></tr><tr><td align="center">9</td><td>Sigen Gateway C1200</td><td>50 units</td></tr><tr><td align="center">10</td><td>Sigen Gateway C600-B</td><td>10 units</td></tr><tr><td align="center">11</td><td>Sigen Gateway C1200-B</td><td>20 units</td></tr></tbody></table>
+<table><thead><tr><th width="102" align="center">S/N</th><th width="204">Model</th><th>Number of Inverters that can be connected</th></tr></thead><tbody><tr><td align="center">1</td><td>Sigen Gateway TPLV C30-2</td><td>2 units</td></tr><tr><td align="center">2</td><td>Sigen Gateway C60-2</td><td>2 units</td></tr><tr><td align="center">3</td><td>Sigen Gateway C60 AU</td><td>2 units</td></tr><tr><td align="center">4</td><td>Sigen Gateway TPLV C70-6</td><td>6 units</td></tr><tr><td align="center">5</td><td>Sigen Gateway C120-6</td><td>6 units</td></tr><tr><td align="center">6</td><td>Sigen Gateway C180-9</td><td>9 units</td></tr><tr><td align="center">7</td><td>Sigen Gateway C300-12</td><td>12 units</td></tr><tr><td align="center">8</td><td>Sigen Gateway C600</td><td>30 units</td></tr><tr><td align="center">9</td><td>Sigen Gateway C1200</td><td>50 units</td></tr><tr><td align="center">10</td><td>Sigen Gateway C600-B</td><td>10 units</td></tr><tr><td align="center">11</td><td>Sigen Gateway C1200-B</td><td>20 units</td></tr></tbody></table>
 
 ### **Whole home backup system wiring diagram**
 
 **Single inverter (Gateway has the circuit breaker for connecting smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00029-单逆-en (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00029-单逆-en (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 **Single inverter (Gateway does not have the circuit breaker connected to the smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00029-单逆无智-en.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00029-单逆无智-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Multiple inverters (Gateway has the circuit breaker for connecting smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00029-多逆有智en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00029-多逆有智en.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Multiple inverters (Gateway does not have the circuit breaker connected to the smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00029-多逆无智en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00029-多逆无智en.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="64" align="center">No.</th><th width="114">Description</th><th width="65" align="center">No.</th><th width="295">Description</th><th width="63">No.</th><th>Description</th></tr></thead><tbody><tr><td align="center"><strong>A</strong></td><td>PV panel</td><td align="center"><strong>B</strong></td><td>SigenStor EC/Sigen Hybrid</td><td><strong>C</strong></td><td>SigenStor BAT</td></tr><tr><td align="center"><strong>D</strong></td><td>Gateway</td><td align="center"><strong>E</strong></td><td>Backup Distribution panel</td><td><strong>F</strong></td><td>Backup Household loads</td></tr><tr><td align="center"><strong>G</strong></td><td>Diesel generator</td><td align="center"><strong>H</strong></td><td>Smart loads</td><td><strong>I</strong></td><td>Power grid</td></tr><tr><td align="center"><strong>J</strong></td><td>mySigen</td><td align="center"><strong>K</strong></td><td>Router</td><td><strong>L</strong></td><td>Antenna</td></tr><tr><td align="center"><strong>M</strong></td><td>CommMod</td><td align="center"></td><td></td><td></td><td></td></tr></tbody></table>
 
@@ -43,19 +43,19 @@
 
 ### **Single inverter (Gateway has the circuit breaker for connecting smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00030-单逆-en.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00030-单逆-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Single inverter (Gateway does not have the circuit breaker connected to the smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00030-单逆无智-en.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00030-单逆无智-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Multiple inverters (Gateway has the circuit breaker for connecting smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00030-EN (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00030-EN (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Multiple inverters (Gateway does not have the circuit breaker connected to the smart load/diesel generator)**
 
-<figure><img src="../.gitbook/assets/SSA1OV00030-多逆无智en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00030-多逆无智en.png" alt="" width="563"><figcaption></figcaption></figure>
 
 | No.    | Description            | No.    | Description                             | No.    | Description                   |
 | ------ | ---------------------- | ------ | --------------------------------------- | ------ | ----------------------------- |

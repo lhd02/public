@@ -5,8 +5,8 @@
 
 ### Gateway Single-phase Series Products:
 
-<figure><img src="../.gitbook/assets/SVA1OV00011-en.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SVA1OV00011-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Gateway three-phase series products:
 
-<figure><img src="../.gitbook/assets/SVA1OV00010-en.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SVA1OV00010-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
