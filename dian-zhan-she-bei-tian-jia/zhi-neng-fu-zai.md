@@ -4,9 +4,9 @@
 
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
-* <mark style="color:blue;">在接入智能负载前，请确保组网中已配置</mark>思格能源备电柜<mark style="color:blue;">。</mark>
-* <mark style="color:blue;">智能负载接入的台数，由</mark>思格能源备电柜<mark style="color:blue;">支持接入智能负载的台数决定。</mark>
-* <mark style="color:blue;">App添加智能负载后，可通过App对智能负载进行开关机，或系统根据您设置的</mark>时间表<mark style="color:blue;">，结合设备实际的运行情况实现远程控制设备开关机。</mark>
+* <mark style="color:blue;">在接入智能负载前，请确保组网中已配置思格能源备电柜。</mark>
+* <mark style="color:blue;">智能负载接入的台数，由思格能源备电柜支持接入智能负载的台数决定。</mark>
+* <mark style="color:blue;">App添加智能负载后，可通过App对智能负载进行开关机，或系统根据您设置的时间表，结合设备实际的运行情况实现远程控制设备开关机。</mark>
 * <mark style="color:blue;">若您未找到所接设备的图标（如热得快），可选择“其他”进行接入。智能负载接入后，可在“设备”界面查看。</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00107-gateway添加智能负载 (2).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -38,4 +38,4 @@
 
 在设备界面，点击需要设置的智能负载→点击右上角“![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAjACkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjKa8qxj1PpQWwM1SeTc5J9a0JLP2mQ9No/CpEuf8AnoAB/eFUwT6HipAaAL3XPH/16SordsqU/u9PpUtMCu/Q1R3GObIxlWyMjPvV41Xmh38jgikwNSXxTfz3F7O8dsGvYRDIBFwFHp78/wCcVXvtWuNSjtY51jUWsXlJsTGR71mhHH8J/CpY4mY88Ci4Fm2/ib8KmzTEAVQBS5pgMNNNFFIBMD0p4oooAcKKKKYH/9k=)”，可设置智能负载参数。
 
-<table><thead><tr><th width="70" align="center" valign="middle">序号</th><th width="158" valign="middle">参数名称</th><th>说明</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="middle">通用参数设置</td><td><ul><li>设备类型：设置智能负载类型。</li><li>设备名称：设置智能负载名称。</li><li>房间：设置智能负载所在房间。</li></ul></td></tr><tr><td align="center" valign="middle">2</td><td valign="middle">操作设置</td><td><p><strong>最小运行时间：设置智能负载最小运行时间。</strong></p><p><strong>备电管理（组网中配置思格能源备电柜时，显示此参数）</strong></p><ul><li>备电开关设置为<img src="../.gitbook/assets/0 (15) (1).png" alt="" data-size="line">时，可设置负载启动和关闭的SOC。</li></ul><ul><li>切入：当实际的SOC＞设置参数，启动智能负载。</li><li>切出：当实际的SOC＜设置参数，关闭智能负载。</li></ul></td></tr><tr><td align="center" valign="middle">3</td><td valign="middle">参数</td><td>查看智能负载接入相关参数。</td></tr><tr><td align="center" valign="middle">4</td><td valign="middle">移除智能负载</td><td>点击可移除智能负载。</td></tr></tbody></table>
+<table><thead><tr><th width="70" align="center" valign="middle">序号</th><th width="158" valign="middle">参数名称</th><th>说明</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="middle">通用参数设置</td><td>设置智能负载类型、名称、所在房间。</td></tr><tr><td align="center" valign="middle">2</td><td valign="middle">操作设置</td><td><p><strong>最小运行时间：设置智能负载最小运行时间。</strong></p><p><strong>备电管理（组网中配置思格能源备电柜时，显示此参数）</strong></p><ul><li>备电开关设置为<img src="../.gitbook/assets/0 (15) (1).png" alt="" data-size="line">时，可设置负载启动和关闭的SOC。</li></ul><ul><li>切入：当实际的SOC＞设置参数，启动智能负载。</li><li>切出：当实际的SOC＜设置参数，关闭智能负载。</li></ul></td></tr><tr><td align="center" valign="middle">3</td><td valign="middle">参数</td><td>查看智能负载接入相关参数。</td></tr><tr><td align="center" valign="middle">4</td><td valign="middle">移除智能负载</td><td>点击可移除智能负载。</td></tr></tbody></table>

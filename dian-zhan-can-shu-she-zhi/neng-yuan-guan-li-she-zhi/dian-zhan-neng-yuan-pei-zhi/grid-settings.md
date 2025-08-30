@@ -9,7 +9,7 @@
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
 * <mark style="color:blue;">默认优先级：光伏＞电池，光伏功率优先向电网卖售电，电池补充向电网售电。</mark>
-* <mark style="color:blue;">负电价情景下，优先级可以调整为： 电池</mark>＞光伏<mark style="color:blue;">。尽量放出电池电量，负电价时从电网买电给电池充电。</mark>
+* <mark style="color:blue;">负电价情景下，优先级可以调整为： 电池＞光伏。尽量放出电池电量，负电价时从电网买电给电池充电。</mark>
 * <mark style="color:blue;">设备根据设置顺序向电网售电。</mark>
 
 ## 电网功率
@@ -20,8 +20,8 @@
 
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
-* 某些地区的电费计算方式为：总电费 = 峰值功率费用 + 用电电量费用 + 其它费用。其中，峰值功率指的是从电网取电的最大功率值。该模式适用于有峰谷电价且价差较大的区域。
-* 削峰功能可以配合所有工作模式使用，通过配置从电网取电最大峰值功率，降低高峰期电网取电最大峰值功率，降低用电费用。
+* <mark style="color:blue;">某些地区的电费计算方式为：总电费 = 峰值功率费用 + 用电电量费用 + 其它费用。其中，峰值功率指的是从电网取电的最大功率值。该模式适用于有峰谷电价且价差较大的区域。</mark>
+* <mark style="color:blue;">削峰功能可以配合所有工作模式使用，通过配置从电网取电最大峰值功率，降低高峰期电网取电最大峰值功率，降低用电费用。</mark>
 
 #### **有功功率控制**
 

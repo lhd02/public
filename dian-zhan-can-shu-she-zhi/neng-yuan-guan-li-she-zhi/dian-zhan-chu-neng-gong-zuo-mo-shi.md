@@ -3,7 +3,7 @@
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
 * <mark style="color:blue;">储能系统支持多种工作模式，部分国家支持减载模式和虚拟电厂调度模式，以App界面显示为准。</mark>
-* 支持工作模式下的参数根据模式保存。
+* <mark style="color:blue;">支持工作模式下的参数根据模式保存。</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00089-工作模式.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,23 +68,17 @@
 
 ### **创建自定义工作模式**
 
-{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
-
-<mark style="color:blue;">可根据业主需求，创建定制化的工作模式。</mark>
+可根据业主需求，创建定制化的工作模式。
 
 <figure><img src="../../.gitbook/assets/MSA1CM00095-创建自定义工作模式.png" alt=""><figcaption></figcaption></figure>
 
 ### **分享自定义工作模式**
-
-{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
 
 复制分享码，将自定义工作模式分享给他人。
 
 <figure><img src="../../.gitbook/assets/MSA1CM00095-分享自定义工作模式.png" alt=""><figcaption></figcaption></figure>
 
 ### **添加自定义工作模式**
-
-{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
 
 粘贴分享码，获取他人自定义工作模式。
 

@@ -19,4 +19,4 @@
 
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
-<mark style="color:blue;">系统中安装</mark>思格能源备电柜<mark style="color:blue;">后，当出现并离网事件时，系统将进行记录。您可通过以下方式查看并离网切换的时间与原因。</mark>
+<mark style="color:blue;">系统中安装思格能源备电柜后，当出现并离网事件时，系统将进行记录。您可通过以下方式查看并离网切换的时间与原因。</mark>

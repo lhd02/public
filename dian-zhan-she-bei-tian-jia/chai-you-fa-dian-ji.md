@@ -2,9 +2,9 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* 在接入发电机前，请确保组网中已配置支持连接发电机的思格能源备电柜，且已正确接线。思格能源备电柜的信息，请查阅对应机型的《安装指南》。
-* 若思格能源备电柜有智能负载接口，App界面展示发电机卡片。
-* 发电机接入思格能源备电柜后需通过App添加油机，才可查看与设置油机相关参数。
+* <mark style="color:blue;">在接入发电机前，请确保组网中已配置支持连接发电机的思格能源备电柜，且已正确接线。思格能源备电柜的信息，请查阅对应机型的《安装指南》。</mark>
+* <mark style="color:blue;">若思格能源备电柜有智能负载接口，App界面展示发电机卡片。</mark>
+* <mark style="color:blue;">发电机接入思格能源备电柜后需通过App添加油机，才可查看与设置油机相关参数。</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00107-油机.png" alt="" width="563"><figcaption></figcaption></figure>
 
