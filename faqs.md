@@ -4,8 +4,8 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">若您想查看历史疑问，可点击“</mark>客服<mark style="color:blue;">”界面右上角的“历史故障”获取。</mark>
-* 若您在使用设备过程中有疑问，可通过App告知我们。
+* <mark style="color:blue;">若您想查看历史疑问，可点击“客服”界面右上角的“历史故障”获取。</mark>
+* <mark style="color:blue;">若您在使用设备过程中有疑问，可通过App告知我们。</mark>
 
 <figure><img src=".gitbook/assets/MSA1CM00088-客服.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -59,7 +59,7 @@
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
 * <mark style="color:blue;">Sigen Hybrid SP、Sigen Hybrid SP AU、Sigen Hybrid TP、Sigen Hybrid TP AU、Sigen Hybrid TPLV系列逆变器，若需要应用于光储系统，需购买并激活License。</mark>
-* 购买时，商品信息需与设备信息保持一致。
+* <mark style="color:blue;">购买时，商品信息需与设备信息保持一致。</mark>
 
 点击“服务”→“商城”→“许可证”购买。
 
@@ -78,7 +78,7 @@
 
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
-购买时，商品信息需与设备信息保持一致。
+<mark style="color:blue;">购买时，商品信息需与设备信息保持一致。</mark>
 
 点击“服务”→“商城”→“延长保修”购买。
 

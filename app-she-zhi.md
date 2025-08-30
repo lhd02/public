@@ -16,7 +16,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">不同</mark>设备，“App设置”界面下<mark style="color:blue;">可设置的参数不同，请以实际界面为准。</mark>
+<mark style="color:blue;">不同设备，“App设置”界面下可设置的参数不同，请以实际界面为准。</mark>
 
 点击“设置”→“App设置”。
 

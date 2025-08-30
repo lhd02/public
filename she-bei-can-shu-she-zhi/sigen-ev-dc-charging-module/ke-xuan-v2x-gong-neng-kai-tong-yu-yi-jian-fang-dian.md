@@ -4,8 +4,8 @@
 
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
-* <mark style="color:blue;">开</mark>通V2X功能后可将直流充电桩作为额外 “储能” 参与电站调度，在离网时为家庭放电，或在电池放电时与其他 “储能” 一同参与放电。
-* 设备软件版本（SPC110）需支持V2X放电使能功能。
+* <mark style="color:blue;">开通V2X功能后可将直流充电桩作为额外 “储能” 参与电站调度，在离网时为家庭放电，或在电池放电时与其他 “储能” 一同参与放电。</mark>
+* <mark style="color:blue;">设备软件版本（SPC110）需支持V2X放电使能功能。</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00101-开通V2X.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -15,8 +15,8 @@
 
 {% include "https://app.gitbook.com/s/1LypU6SqgAxA3DvkoZ3T/~/reusable/n8f5jQKe9zmHSW5jo7Vr/" %}
 
-* 需开通V2X功能后可设置此参数。
-* 设置后强制使直流充电桩放电，系统优先执行此参数。
+* <mark style="color:blue;">需开通V2X功能后可设置此参数。</mark>
+* <mark style="color:blue;">设置后强制使直流充电桩放电，系统优先执行此参数。</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00101-一键放电.png" alt=""><figcaption></figcaption></figure>
 
