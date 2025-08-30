@@ -8,7 +8,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">若未配置</mark>思格能源备电柜<mark style="color:blue;">请忽略此章节。</mark>
+<mark style="color:$primary;">若未配置思格能源备电柜请忽略此章节。</mark>
 
 {% include "https://app.gitbook.com/s/idD4D1JGzalGu958SKHb/~/reusable/XmMQ8gCSAIMI0fyclr50/" %}
 
