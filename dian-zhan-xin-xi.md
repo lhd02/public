@@ -13,8 +13,6 @@
 * 点击<img src=".gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="line">→<img src=".gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line">，您可根据需求，创建定制化的首页布局。
 * 点击“恢复默认”可恢复默认设置。
 
-## **电池能量来源**
-
 ## **能源分析**
 
 点击能源框，可查看能量流向。
