@@ -1,0 +1,5 @@
+# Vista laterale sinistra dell'inverter per sistema monofase (3.0-6.0)
+
+![](../../../.gitbook/assets/SSA1OV00002.jpg)
+
+<table><thead><tr><th width="70" align="center">N.</th><th>Nome</th><th>Indicazione</th></tr></thead><tbody><tr><td align="center">1</td><td>Interruttore CC</td><td>DC SWITCH</td></tr><tr><td align="center">2</td><td>Interfaccia della striscia luminosa della copertura decorativa</td><td>LED</td></tr><tr><td align="center">3</td><td>Interfaccia dell'antenna</td><td>ANT</td></tr><tr><td align="center">4</td><td>Interfaccia del cavo di rete</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">5</td><td>Interfaccia di uscita CA</td><td>AC</td></tr><tr><td align="center">6</td><td>Vite di messa a terra</td><td>-</td></tr><tr><td align="center">7</td><td>Interfaccia di comunicazione RS-485</td><td>COM</td></tr><tr><td align="center">8</td><td>Interfaccia CommMod</td><td>4G</td></tr><tr><td align="center">9</td><td>Interfaccia di ingresso CC</td><td>PV1+/PV2+/ PV1-/PV2-</td></tr><tr><td align="center">10</td><td>Pulsante di accensione</td><td>ON/OFF</td></tr></tbody></table>
