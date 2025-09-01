@@ -29,7 +29,7 @@
   * [SG heat pump](dian-zhan-she-bei-tian-jia/sg-re-beng.md)
   * [AndSolar](dian-zhan-she-bei-tian-jia/andsolar.md)
 * [Device parameter setup](she-bei-can-shu-she-zhi/README.md)
-  * [SigenStor/Sigen PV Max](she-bei-can-shu-she-zhi/sigenstor-sigen-pv-max.md)
+  * [SigenStor/SigenStack Unit](she-bei-can-shu-she-zhi/sigenstor-sigen-pv-max.md)
   * [Sigen EV DC Charging Module](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/README.md)
     * [(Optional) V2X Function Activation and Manual Control](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/optional-v2x-function-activation-and-manual-control.md)
   * [Sigen EV AC Charger](she-bei-can-shu-she-zhi/sigen-ev-ac-charge1/README.md)
