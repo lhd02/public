@@ -79,7 +79,7 @@ In areas with frequent power outages, you can add your region and schedule in th
 
 {% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
 
-Paste the sharing code to obtain others' custom Operational modes.
+<mark style="color:blue;">Paste the sharing code to obtain others' custom Operational modes.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-分享自定义工作模式 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -87,6 +87,6 @@ Paste the sharing code to obtain others' custom Operational modes.
 
 {% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
 
-Paste the sharing code to obtain others' custom Operational modes.
+<mark style="color:blue;">Paste the sharing code to obtain others' custom Operational modes.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-添加自定义工作模式.png" alt=""><figcaption></figcaption></figure>

@@ -13,10 +13,6 @@ The Home screen displays running information, You can click<img src="../.gitbook
 * Click <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">→<img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> to create a customized homepage layout according to your needs.
 * Click 'Restore Defaults' to reset to default settings.
 
-## Battery energy source
-
-<figure><img src="../.gitbook/assets/MSA1CM00068-电池能量来源.png" alt="" width="563"><figcaption></figcaption></figure>
-
 ## **Energy Analysis**
 
 Click the energy box to view the energy flow.
@@ -27,7 +23,8 @@ Click the energy box to view the energy flow.
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">In parallel mode, slide left or right, or up and down, to locate the SigenStor you want to view based on the SN.</mark>
+* <mark style="color:blue;">When multiple Singrow inverters/batteries are connected to the same power station, swipe left/right or up/down to view each Singrow inverter/battery.</mark>
+* <mark style="color:blue;">The SN number displayed in the App matches the SN number on the Singrow inverter/battery label. You can locate the specific Singrow inverter/battery you need to view by its SN number.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00069-单设备.png" alt="" width="296"><figcaption></figcaption></figure>
 
