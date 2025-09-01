@@ -26,4 +26,4 @@
 
 Enter your account and password and click "Log in".
 
-<figure><img src=".gitbook/assets/SSA1CM00002-en登录 (1).png" alt="" width="306"><figcaption></figcaption></figure>
+![](<.gitbook/assets/SSA1CM00002-en登录 (1).png>)

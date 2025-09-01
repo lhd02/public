@@ -2,18 +2,16 @@
 
 ## Operation Information
 
+<figure><img src="../.gitbook/assets/MSA1CM00068-运行信息.png" alt="" width="295"><figcaption></figcaption></figure>
+
 ### **Share Power Station**
 
 The Home screen displays running information, You can click<img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> →<img src="../.gitbook/assets/image (11).png" alt="" data-size="line">to share information displayed on the Home screen to others.
-
-<figure><img src="../.gitbook/assets/MSA1CM00068-分享电站.png" alt="" width="295"><figcaption></figcaption></figure>
 
 ### Homepage Customization Settings
 
 * Click <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">→<img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> to create a customized homepage layout according to your needs.
 * Click 'Restore Defaults' to reset to default settings.
-
-<figure><img src="../.gitbook/assets/MSA1CM00068-首页自定义.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Battery energy source
 
@@ -29,58 +27,12 @@ Click the energy box to view the energy flow.
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">Multiple Sigen inverters/batteries are connected to the same power station. Swipe left/right or up/down to view each Sigen inverter/battery.</mark>
-* <mark style="color:blue;">The app displays the SN number, which matches the SN number on the label of the Sigen inverter/battery. You can locate the specific Sigen inverter/battery you need to check by its SN number.</mark>
+<mark style="color:blue;">In parallel mode, slide left or right, or up and down, to locate the SigenStor you want to view based on the SN.</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00069-单设备.png" alt="" width="296"><figcaption></figcaption></figure>
 
-## Alarm information
+## Service Page Information
 
-### Method 1:
+<figure><img src="../.gitbook/assets/MSA1CM00070-服务页.png" alt="" width="297"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/MSA1CM00070-告警.png" alt="" width="297"><figcaption></figcaption></figure>
-
-### Method 2:
-
-<figure><img src="../.gitbook/assets/MSA1CM00071-告警 (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-## Warranty Information
-
-### Method 1:
-
-<figure><img src="../.gitbook/assets/MSA1CM00070-质保 (1).png" alt="" width="297"><figcaption></figcaption></figure>
-
-### Method 2:
-
-<figure><img src="../.gitbook/assets/MSA1CM00071-质保信息 (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-## Station Diagnosis
-
-{% include "../.gitbook/includes/tips.md" %}
-
-To check the power station's communication status and the connection status of devices within the station, you can use this function.
-
-### Method 1: <a href="#method-1-1" id="method-1-1"></a>
-
-<figure><img src="../.gitbook/assets/MSA1CM00070-电站诊断.png" alt="" width="297"><figcaption></figcaption></figure>
-
-### Method 2: <a href="#method-1-1" id="method-1-1"></a>
-
-<figure><img src="../.gitbook/assets/MSA1CM00071-电站诊断 (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-## User Guide Information
-
-<figure><img src="../.gitbook/assets/MSA1CM00070-用户指南 (2).png" alt="" width="297"><figcaption></figcaption></figure>
-
-## Guide Video Information
-
-<figure><img src="../.gitbook/assets/MSA1CM00070-获取安装视频.png" alt="" width="563"><figcaption></figcaption></figure>
-
-## **Contact customer service**
-
-{% include "../.gitbook/includes/tips.md" %}
-
-* <mark style="color:blue;">Please feel free to reach out to us in the App if you have any questions about the use of the product.</mark>
-* <mark style="color:blue;">To check the question history, click "History" in the upper right corner of the "Support" page.</mark>
-
-<figure><img src="../.gitbook/assets/MSA1CM00070-联系客服.png" alt="" width="563"><figcaption></figcaption></figure>
+<table><thead><tr><th width="82" align="center" valign="middle">No.</th><th width="128.8829345703125" valign="middle">Parameter Name</th><th valign="top">说明</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="middle">Diagnosis</td><td valign="top">To check the power station's communication status and the connection status of devices within the station, you can use this function.</td></tr><tr><td align="center" valign="middle">2</td><td valign="middle">Message</td><td valign="top">Click to view power station messages.</td></tr><tr><td align="center" valign="middle">3</td><td valign="middle">Support</td><td valign="top"><ul><li>Please feel free to reach out to us in the App if you have any questions about the use of the product.</li></ul><ul><li>To check the question history, click "History" in the upper right corner of the "Support" page.</li></ul></td></tr><tr><td align="center" valign="middle">4</td><td valign="middle">User Guide</td><td valign="top">Click to access the user guide.</td></tr><tr><td align="center" valign="middle">5</td><td valign="middle">Community</td><td valign="top">Click to enter the forum interface.<br>Click "Community" → "Guide Video" to view product installation videos.</td></tr><tr><td align="center" valign="middle">6</td><td valign="middle">Mail</td><td valign="top">Click to purchase products. Click“<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">”View Order History" in the upper right corner.</td></tr></tbody></table>

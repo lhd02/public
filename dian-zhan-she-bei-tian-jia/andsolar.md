@@ -1,0 +1,8 @@
+# AndSolar
+
+{% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
+
+* Installing AndSolar can improve the conversion efficiency of photovoltaic systems.
+* After adding AndSolar via the App, you can view its location and relevant parameters.
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-添加AndSolar.png" alt="" width="563"><figcaption></figcaption></figure>

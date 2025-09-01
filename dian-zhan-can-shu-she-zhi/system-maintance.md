@@ -1,6 +1,6 @@
 # System Maintance
 
-## Sytem Device Batch Power-on/Power-off
+## Sytem Power-on/Power-off
 
 <figure><img src="../.gitbook/assets/MSA1CM00071-批量开关机.png" alt=""><figcaption></figcaption></figure>
 

@@ -17,15 +17,9 @@ For example, the backup power SOC is set in Self-Consumption Mode.
 
 ## Backup History
 
-{% include "../../../.gitbook/includes/tips.md" %}
+{% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
 
-<mark style="color:blue;">After Gateway is installed in the system, the system records on-grid/off-grid events. You can view the time and reason for the on-/off-grid switchover through the following methods.</mark>
-
-<figure><img src="../../../.gitbook/assets/MSA1CM00071-备电历史.png" alt=""><figcaption></figcaption></figure>
-
-## Backup Event Center
-
-<figure><img src="../../../.gitbook/assets/MSA1CM00071-备电事件.png" alt=""><figcaption></figcaption></figure>
+<mark style="color:blue;">After installing the Gateway in the system, grid-connection and off-grid events will be automatically recorded. You can view the timing and reasons for grid mode switching through the following methods.</mark>
 
 ## Storm Watch
 

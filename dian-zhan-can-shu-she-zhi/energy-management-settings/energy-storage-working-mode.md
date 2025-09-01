@@ -19,7 +19,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 {% include "../../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">This parameter can only be set in AI mode.</mark>
-* <mark style="color:blue;">Adding peak load can improve the accuracy of the "Production & Consumption Forecast" curve prediction.</mark>
+* <mark style="color:blue;">Adding peak load data can improve the accuracy of the "Production & Consumption Forecast" curve prediction.</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-高能耗负载.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 <figure><img src="../../.gitbook/assets/SSA1OV00013-en (2).jpg" alt=""><figcaption></figcaption></figure>
 
-## Time-based Control
+## Time-based Control Mode
 
 * The charging period, discharging period, and self-consumption period need to be set manually.When electricity prices are high, the surplus power from photovoltaic power generation and battery power can be sold to the grid, and the battery can be charged during periods of low electricity prices to save electricity bills.
 * If no period is set, the energy storage system will be in standby mode without discharging. The photovoltaic power will prioritize supplying the load, and the surplus power will be used for charging energy storage system.
@@ -48,7 +48,7 @@ By obtaining local peak and valley electricity prices and weather data, combined
 
 <mark style="color:blue;">The system will operate based on the PV power situation in periods that you do not specify as charging and discharging periods. The PV power will first be used to power home loads, with excess energy charging the batteries, and the batteries will not discharge.</mark>
 
-## Fully Feed-in to Grid
+## Fully Feed-in to Grid Mode
 
 * You can sell excess energy back to the grid and earn credits on your energy bill.
 * In the daytime, when the PV power is greater than the maximum output capacity of the inverter, the inverter maintains the maximum output while storing excess energy in the batteries. When the PV power is lower than the maximum output capacity of the inverter or there is no PV power in the nighttime, the batteries are discharged to ensure that the inverter maximizes the output.
@@ -73,7 +73,7 @@ In areas with frequent power outages, you can add your region and schedule in th
 
 <mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-创建自定义工作模式 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-创建自定义工作模式 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Share Custom Operational Mode
 
@@ -89,4 +89,4 @@ Paste the sharing code to obtain others' custom Operational modes.
 
 Paste the sharing code to obtain others' custom Operational modes.
 
-<figure><img src="../../.gitbook/assets/MSA1CM00074-添加自定义工作模式.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00074-添加自定义工作模式.png" alt=""><figcaption></figcaption></figure>
