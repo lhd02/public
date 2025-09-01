@@ -43,11 +43,11 @@ Assume that the peak shaving SOC is set to 50% and the maximum peak power is 2kW
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
-<mark style="color:blue;">Some countries support the Tariff Rate Plan, as shown in the App interface.</mark>
+<mark style="color:blue;">Some electricity rate operators require entering a Secret Key. Please refer to the actual display in the App interface.</mark>
 
 ### **Tariff Rate Plan**
 
-<table><thead><tr><th width="70" align="center">No.</th><th width="189.5555419921875">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Select a power company.</td></tr><tr><td align="center">2</td><td>Rate Plan Name</td><td>Select an electricity rate plan.</td></tr><tr><td align="center">3</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">4</td><td>Additional Fee</td><td>Automatically match the additional fee.</td></tr><tr><td align="center">5</td><td>Customize</td><td>Click to switch to Customize Rate Plan.</td></tr></tbody></table>
+<table><thead><tr><th width="70" align="center">No.</th><th width="189.5555419921875">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Utility Company</td><td>Select a power company.</td></tr><tr><td align="center">2</td><td>(Optional) Secret Key</td><td>Set the electricity rate provider's Secret Key. After configuration, the App will be able to retrieve and display electricity rates.</td></tr><tr><td align="center">3</td><td>Rate Plan Name</td><td>Select an electricity rate plan.</td></tr><tr><td align="center">4</td><td>Currency Unit</td><td>By default, the minor currency unit is used for setting.</td></tr><tr><td align="center">5</td><td>Additional Fee</td><td>Automatically match the additional fee.</td></tr><tr><td align="center">6</td><td>Customize</td><td>Click to switch to Customize Rate Plan.</td></tr></tbody></table>
 
 ### **Customize Rate Plan**
 
