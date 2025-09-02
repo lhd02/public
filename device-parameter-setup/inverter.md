@@ -20,7 +20,19 @@
 
 ## **EMS Control**
 
-<table><thead><tr><th width="162">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>Single-Machine Active Power Dispatch Enable</td><td><p>When it is set to <img src="../.gitbook/assets/11 (1).png" alt="" data-size="line">, the power is scheduled for a single device, and you can set it to either active power mode or reactive power mode.</p><p><img src="../.gitbook/assets/warning (1).png" alt="" data-size="line"></p><p>Inverters with this parameter set cannot participate in EMS control.</p></td></tr></tbody></table>
+<table><thead><tr><th width="162">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>Single-Machine Active Power Dispatch Enable</td><td><p>When it is set to <img src="../.gitbook/assets/11 (1).png" alt="" data-size="line">, the power is scheduled for a single device, and you can set it to either active power mode or reactive power mode.</p><p><img src="../.gitbook/assets/warning (2).png" alt="" data-size="line"></p><p><mark style="color:orange;">Inverters with this parameter set cannot participate in EMS control.</mark></p></td></tr></tbody></table>
+
+## Pack Delayed Activation
+
+<table><thead><tr><th width="193.22222900390625">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>Pack Delay Activation Enable</td><td>When it is set to<img src="../.gitbook/assets/10 (1).png" alt="" data-size="line"> <mark style="color:$danger;">,</mark> PACK activation is delayed. During initial startup, the PACK is not activated. After startup is completed, manually activate the PACK via the APP interface as needed.</td></tr></tbody></table>
+
+## Islanding
+
+<table><thead><tr><th width="217.25">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>Active Anti-islanding</td><td>When it is set to<img src="../.gitbook/assets/10 (1).png" alt="" data-size="line"> , active anti-islanding is activated.</td></tr></tbody></table>
+
+## PID
+
+<table><thead><tr><th width="218.5">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>PID Compensation Direction</td><td><p>PID compensation direction. Only supports P-type panels or PV positive bias.</p><ul><li>PV Positive Bias: When it is set to<img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, PV positive bias can be set.</li></ul></td></tr><tr><td>Pid Repair Enable</td><td>When it is set to<img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, PID repair is activated. Works only during nighttime when the grid relay is disconnected.</td></tr><tr><td>Pid Protection Enabled</td><td>When it is set to<img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, PID protection is activated. Only applicable to IT grids, i.e., grids with an isolation transformer on the output.</td></tr><tr><td>Nighttime PID Protection Enabled</td><td>When it is set to<img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, nighttime PID protection is activated. If an abnormality is detected in the PID module during nighttime operation, the system shuts down for protection.</td></tr></tbody></table>
 
 ## AFCI
 
