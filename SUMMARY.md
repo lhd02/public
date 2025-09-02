@@ -26,7 +26,7 @@
   * [Grid-side Sensor](dian-zhan-she-bei-tian-jia/grid-side-sensor.md)
   * [Generator](dian-zhan-she-bei-tian-jia/chai-you-fa-dian-ji.md)
   * [Third-party inverter](dian-zhan-she-bei-tian-jia/di-san-fang-chang-jia-ni-bian-qi.md)
-  * [SG heat pump](dian-zhan-she-bei-tian-jia/sg-re-beng.md)
+  * [SG Ready Heat Pump](dian-zhan-she-bei-tian-jia/sg-re-beng.md)
   * [AndSolar](dian-zhan-she-bei-tian-jia/andsolar.md)
 * [Device parameter setup](she-bei-can-shu-she-zhi/README.md)
   * [SigenStor/SigenStack Unit](she-bei-can-shu-she-zhi/sigenstor-sigen-pv-max.md)

@@ -21,6 +21,16 @@
 
 <figure><img src="../.gitbook/assets/SSA1CM00072-电表添加三逆.png" alt=""><figcaption></figcaption></figure>
 
+### Add a single  third-party inverter
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-单逆.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Add multiple third-party inverters
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-多三逆.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
 **Diagram of third-party inverter wiring connections**
 
 <figure><img src="../.gitbook/assets/MSA1CM00090-en.png" alt=""><figcaption></figcaption></figure>

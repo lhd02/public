@@ -2,6 +2,6 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">After configuration, this setting can reduce the power consumption of the power station. You may select either Performance Mode or Deep Energy Saving Mode based on actual requirements.</mark>
+<mark style="color:blue;">After configuration, the power consumption of the device can be reduced. You can select the Performance Mode or Deep Energy-Saving Mode according to actual needs.</mark>
 
 <figure><img src="../../../.gitbook/assets/MSA1CM00068-节能模式.png" alt="" width="563"><figcaption></figcaption></figure>
