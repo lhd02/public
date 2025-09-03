@@ -25,10 +25,10 @@
 
 * <mark style="color:red;">When the battery pack has abnormal odor, electrolyte leakage, or heat, do not touch it, and contact professional personnel immediately. Professionals must wear protective equipment such as goggles, rubber gloves, gas masks, and protective clothing to protect themselves.</mark>
 * <mark style="color:red;">The electrolyte is corrosive and contact may cause skin irritation or chemical burns. In case of accidental contact with the electrolyte, take the following measures immediately:</mark>
-* <mark style="color:red;">Inhalation: Evacuate the contaminated area, keep fresh air circulating, and seek immediate medical help.</mark>
-* <mark style="color:red;">Eye contact: Flush eyes with plenty of water for at least 15 minutes. Do not rub eyes. Seek medical help immediately.</mark>
-* <mark style="color:red;">Skin contact: Wash the contact area with plenty of soapy water and seek medical help immediately.</mark>
-* <mark style="color:red;">Ingestion: Induce vomiting and seek medical help immediately.</mark>
+  * <mark style="color:red;">Inhalation: Evacuate the contaminated area, keep fresh air circulating, and seek immediate medical help.</mark>
+  * <mark style="color:red;">Eye contact: Flush eyes with plenty of water for at least 15 minutes. Do not rub eyes. Seek medical help immediately.</mark>
+  * <mark style="color:red;">Skin contact: Wash the contact area with plenty of soapy water and seek medical help immediately.</mark>
+  * <mark style="color:red;">Ingestion: Induce vomiting and seek medical help immediately.</mark>
 * <mark style="color:red;">Do not continue to use abnormal battery packs, please contact your installer.</mark>
 
 ### **Emergency in case of Battery Pack Drops or Impacts**

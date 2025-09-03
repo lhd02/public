@@ -1,4 +1,6 @@
-# Removing the Inverters
+# Inverter and Battery Pack Disposal
+
+## Removing the Inverters
 
 {% include "https://app.gitbook.com/s/QQ893uO4j5RKcrjDiLmp/~/reusable/F4cMUXj5Am0uXVCnSnaR/" %}
 
@@ -9,3 +11,9 @@
 1. Disconnect all electrical connections of the inverters, including the RS485 communication cable, DC input cable, AC output cable, and protection ground (PGND) cable.
 2. Remove the inverters from the mounting kit.
 3. Remove the mounting kit.
+
+
+
+## Scrapping the Inverters
+
+When the inverter and battery pack reaches the end of its useful life, please dispose of it according to the applicable electrical waste disposal regulations in the installation location.

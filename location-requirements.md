@@ -18,6 +18,8 @@ description: Equipment Installation and Wiring
 * Do not install the equipment in an environment with strong electromagnetic interference.
 * The temperature and humidity of the installation environment should meet equipment requirements.
 * The equipment should be installed in an area that is at least 500 m away from corrosion sources that may result in salt damage or acid damage (corrosion sources include but are not limited to seaside, thermal power plants, chemical plants, smelters, coal plants, rubber plants, and electroplating plants).
+* In areas with good marine environments (such as Norway, where the nearshore salinity is ≤ 28 psu), the mounting distance of the device from the coastline can be appropriately relaxed to ≥ 200 m.
+* If the outer surface of the device is damaged, please repaint the device in time.
 
 ### **Installation Location Requirements**
 
@@ -40,9 +42,13 @@ description: Equipment Installation and Wiring
 * No plumbing or electrical alignments should be inside the installation base to avoid potential drilling hazards during equipment installation.
 * If the equipment is installed in a public place other than work and living areas (such as parking lots, stations, factories, etc.), please install a protective net outside the equipment and erect safety warning signs for isolation. Do not allow unrelated personnel to approach the inverter to avoid personal injury or property loss caused by accidental contact by non-professional personnel or other reasons during the operation of the equipment.
 
-### PV-only installation scenario
+### PV-only installation scenario(PV-only and HYA models)
 
-<figure><img src=".gitbook/assets/SVA1OV00027-en (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SVA1OV00027-en纯光.png" alt=""><figcaption></figcaption></figure>
+
+### PV-only installation scenario(HYB models)
+
+<figure><img src=".gitbook/assets/SVA1OV00044-en.png" alt=""><figcaption></figcaption></figure>
 
 ### PV-storage installation scenario
 

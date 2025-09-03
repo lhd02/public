@@ -12,11 +12,11 @@
 
 ### **Owner's Account**
 
-<figure><img src="../../.gitbook/assets/MSA1CM00071-批量开关机.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00071-系统下电en.png" alt=""><figcaption></figcaption></figure>
 
 ### **Installer's Account**
 
-<figure><img src="../../.gitbook/assets/MSA1CM00060-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00078-系统下电en.png" alt=""><figcaption></figcaption></figure>
 
 2. Turn off the switch connected to the equipment in the backup power distribution panel.
 3. Turn DC SWITCH on the equipment to the OFF position.
