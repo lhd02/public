@@ -45,6 +45,8 @@
 
 <table data-header-hidden><thead><tr><th valign="middle"></th><th width="161.727294921875" valign="middle"></th><th valign="middle"></th><th valign="middle"></th><th valign="middle"></th><th data-hidden></th></tr></thead><tbody><tr><td valign="middle">A．电池</td><td valign="middle">B．光伏板</td><td valign="middle">C．逆变器</td><td valign="middle">D．思格备电柜</td><td valign="middle">E．发电机</td><td></td></tr><tr><td valign="middle">F．智能负载</td><td valign="middle">G．备电负载</td><td valign="middle">H．电网</td><td valign="middle">I．思格云</td><td valign="middle">J．路由器</td><td></td></tr><tr><td valign="middle">K．思格通信棒</td><td valign="middle">L．思格通信网桥</td><td valign="middle"></td><td valign="middle"></td><td valign="middle"></td><td></td></tr></tbody></table>
 
+/
+
 ## 备电组网图（HYB机型配置内机思格能源备电柜，逆变器≤3台）
 
 <figure><img src="../.gitbook/assets/SVA1OV00039-ZH.png" alt=""><figcaption></figcaption></figure>
