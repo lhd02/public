@@ -17,4 +17,3 @@
 * The storage time of battery packs is calculated from the shipping time on the outer packaging. After the battery is properly charged, update the latest charging time (YYYY-MM-DD is recommended).
 * It is not recommended to store battery packs beyond the recommended storage period. After first 12 months at the recommended storage temperature, the irreversible capacity loss is 3% to 10%. If battery packs are stored beyond the expiration date, expiry date, they should be checked and tested by qualified personnel before use.
 * Please follow the "first-in, first-out" principle when shipping the equipment.
-* Recommend charging method: Charging the battery with 157A constant current and 42.6V(3.55V/cell) cconstant voltage until the current reduces to 25A at ambient 20°C ±5°C.
