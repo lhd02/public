@@ -51,7 +51,7 @@
 * <mark style="color:blue;">As a backup energy source for long-term off-grid applications, the generator (E) can work in tandem with the Gateway (D) to provide a smooth transition between PV, storage and diesel generation.</mark>
 * <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod</mark> <mark style="color:blue;">(K)</mark> <mark style="color:blue;">runs out, users must replace an SIM card.</mark>
 
-### Backup wiring diagram (TWhen HYB model does not configure an external Gateway, ≤ 3 Units)
+### Backup wiring diagram (When HYB model is configure with an internal Gateway, ≤ 3 Units)
 
 <figure><img src="../.gitbook/assets/SVA1OV00039-EN.png" alt=""><figcaption></figcaption></figure>
 

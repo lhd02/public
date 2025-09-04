@@ -48,5 +48,4 @@
     * [Low SOC](system-maintenance/system-power-on-power-off/low-soc.md)
     * [Emergency Treatment](system-maintenance/system-power-on-power-off/emergency-treatment.md)
 * [Inverter and Battery Pack Disposal](inverter-and-battery-pack-disposal.md)
-* [Appendix](appendix/README.md)
-  * [Technical Parameter](appendix/technical-parameter.md)
+* [Appendix](appendix.md)
