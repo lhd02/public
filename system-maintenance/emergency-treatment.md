@@ -1,6 +1,6 @@
 # Emergency Treatment
 
-### **Emergency in case of Fire**
+## **Emergency in case of Fire**
 
 {% include "https://app.gitbook.com/s/QQ893uO4j5RKcrjDiLmp/~/reusable/DRd5KGEEYi55Rt8YKhcG/" %}
 
@@ -11,7 +11,7 @@
 * <mark style="color:red;">Do not touch or come into contact with high voltage components during fire fighting, due to the risk of electric shock.</mark>
 * <mark style="color:red;">After extinguishing the fire, do not use the equipment, please contact your installer.</mark>
 
-### **Emergency in case of Flood**
+## **Emergency in case of Flood**
 
 {% include "https://app.gitbook.com/s/QQ893uO4j5RKcrjDiLmp/~/reusable/DRd5KGEEYi55Rt8YKhcG/" %}
 
@@ -19,7 +19,7 @@
 * <mark style="color:red;">If the battery pack is submerged, do not touch it to avoid the danger of electric shock.</mark>
 * <mark style="color:red;">After the flood waters recede, do not use the equipment. Please contact your installer.</mark>
 
-### **Emergency in case of Battery Pack Malfunctions**
+## **Emergency in case of Battery Pack Malfunctions**
 
 {% include "https://app.gitbook.com/s/QQ893uO4j5RKcrjDiLmp/~/reusable/DRd5KGEEYi55Rt8YKhcG/" %}
 
@@ -31,7 +31,7 @@
   * <mark style="color:red;">Ingestion: Induce vomiting and seek medical help immediately.</mark>
 * <mark style="color:red;">Do not continue to use abnormal battery packs, please contact your installer.</mark>
 
-### **Emergency in case of Battery Pack Drops or Impacts**
+## **Emergency in case of Battery Pack Drops or Impacts**
 
 * If there is an obvious odor, smoke, or fire, keep away from the equipment immediately and contact professional personnel.
 * Do not use the battery pack if it has been dropped or hit. Please contact your installer.
