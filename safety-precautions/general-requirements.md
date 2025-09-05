@@ -27,3 +27,4 @@ The Company shall not be held liable for equipment damage or property loss resul
 * The equipment is stolen.
 * The equipment is damaged after the warranty period expires.
 * It is strictly forbidden for fingers, parts, screws, tools, or boards to touch the running fan to avoid injury to hands or damage to the equipment.
+* Some loads may have a relatively high starting power and starting current. Customers must check whether the starting power of the load exceeds the peak output power specified on the nameplate. Otherwise, customers should reduce the load or configure a frequency converter.
