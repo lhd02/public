@@ -12,8 +12,6 @@
 
 <figure><img src="../.gitbook/assets/SVA1OV00028-ja.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://github.com/lhd02/edit/blob/pvci-ja/.gitbook/assets/SVA1OV00028-en.png" alt=""><figcaption></figcaption></figure>
-
 <table data-header-hidden><thead><tr><th width="169" valign="top"></th><th width="133.6666259765625" valign="top"></th><th width="121" valign="top"></th><th width="126.77783203125" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">A. バッテリー</td><td valign="top">B. PVパネル</td><td valign="top">C. インバーター</td><td valign="top">D. ACスイッチ</td><td valign="top">E. 電力センサー</td></tr><tr><td valign="top">F. ボックスタイプ変電所</td><td valign="top">G. 電力グリッド</td><td valign="top">H. mySigen</td><td valign="top">I. ルーター</td><td valign="top">J. CommMod</td></tr><tr><td valign="top">K. CommBridge</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
 
 {% include "../.gitbook/includes/tip.md" %}

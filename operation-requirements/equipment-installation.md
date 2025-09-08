@@ -4,7 +4,7 @@
 
 * <mark style="color:orange;">機器を設置する前に、納品前に取り付けてあるねじが締め付けてあることを確認してください。納品前に締め付けてあるねじには線が引いてあります。線がずれている場合、ねじが緩んでいることを意味します。その場合はねじを締め直してください。</mark>
 
-<figure><img src="https://github.com/lhd02/edit/blob/pvci-ja/.gitbook/assets/SGA1OV00019.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SGA1OV00019.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * <mark style="color:orange;">機器の落下による怪我を防止するため、機器を取り扱う際は、耐荷重に十分注意してください。</mark>
 
@@ -28,6 +28,8 @@
 * 持ち上げ作業中は、絶対に、ブームや持ち上げた物体の下を歩いてはなりません。
 * 持ち上げ作業中は、ワイヤーロープや揚重機を引きずったり、硬い物で叩いてはなりません。
 * 持ち上げ作業中は、下図に示すように、2本のスリング間の角度が90°を超えないように注意してください。
+
+<figure><img src="../.gitbook/assets/SGA1IN00157吊钩.png" alt="" width="337"><figcaption></figcaption></figure>
 
 ### **ドリル作業の安全性**
 
