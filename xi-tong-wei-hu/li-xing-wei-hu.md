@@ -1,0 +1,5 @@
+# Manutenzione ordinaria
+
+Per garantire il funzionamento a lungo termine del dispositivo, si consiglia di eseguire la manutenzione ordinaria in base alle indicazioni fornite in questa sezione.
+
+<table><thead><tr><th width="104">Oggetto della verifica</th><th width="459">Metodo di ispezione</th><th width="94" align="center">Spegnimento o no</th><th>Ciclo di manutenzione</th></tr></thead><tbody><tr><td>Pulizia del sistema</td><td>Verificare periodicamente se il dispositivo è ricoperto e sporco. Pulire se necessario. Per la pulizia, non utilizzare strumenti che potrebbero provocare una folgorazione o il cui isolamento è danneggiato, come le spazzole metalliche.</td><td align="center">Sì</td><td>Ogni tre mesi.</td></tr><tr><td>Stato di funzionamento del sistema</td><td><ul><li>Verificare se il dispositivo è danneggiato o deformato.</li><li>Verificare se si sentono eventuali rumori anomali durante il funzionamento del dispositivo.</li><li>Mentre il dispositivo è in funzione, verificare se i suoi parametri sono stati impostati correttamente.</li></ul></td><td align="center">No</td><td>Ogni sei mesi.</td></tr></tbody></table>
