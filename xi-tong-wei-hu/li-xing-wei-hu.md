@@ -1,0 +1,5 @@
+# Mantenimiento de rutina
+
+Para garantizar el funcionamiento a largo plazo del equipo, le recomendamos llevar a cabo un mantenimiento de rutina tal como se explica en esta sección.
+
+<table><thead><tr><th width="104">Contenido de la inspección</th><th width="459">Método de inspección</th><th width="94" align="center">Apagado o no</th><th>Ciclo de mantenimiento</th></tr></thead><tbody><tr><td>Limpieza del sistema</td><td>Compruebe regularmente si el equipo está cubierto y sucio. Límpielo cuando sea necesario. No utilice herramientas que puedan producir una descarga eléctrica o con el aislante dañado, tales como cepillos metálicos, cuando realice la limpieza.</td><td align="center">Sí</td><td>Cada tres meses.</td></tr><tr><td>Estado operativo del sistema</td><td><ul><li>Inspeccione si el equipo está dañado o deformado.</li><li>Escuche si hay algún ruido anómalo durante el funcionamiento del equipo.</li><li>Con el equipo en marcha, inspeccione si los parámetros del equipo se han fijado correctamente.</li></ul></td><td align="center">No</td><td>Cada seis meses.</td></tr></tbody></table>
