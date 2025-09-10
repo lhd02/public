@@ -1,0 +1,5 @@
+# Routinewartung
+
+Um den langfristigen Betrieb der Geräte zu gewährleisten, wird empfohlen, die routinemäßige Wartung gemäß diesem Abschnitt durchzuführen.
+
+<table><thead><tr><th width="104">Inspektionsinhalt</th><th width="459">Inspektionsmethode</th><th width="94" align="center">Ausschalten oder nicht</th><th>Wartungszyklus</th></tr></thead><tbody><tr><td>Systemreinigung</td><td>Überprüfen Sie regelmäßig, ob das Gerät abgedeckt oder schmutzig ist. Falls notwendig reinigen. Verwenden Sie während des Reinigungsvorgangs keinerlei Werkzeuge, die einen Stromschlag oder Isolierungsschäden verursachen können wie z. B. Drahtbürsten.</td><td align="center">Ja</td><td>Einmal alle drei Monate.</td></tr><tr><td>Systembetriebszustand</td><td><ul><li>Überprüfen Sie, ob das Gerät beschädigt oder verformt ist.</li><li>Achten Sie während des Gerätebetriebs auf abnormale Geräusche.</li><li>Überprüfen Sie während des Gerätebetriebs, ob die Geräteparameter korrekt eingestellt sind.</li></ul></td><td align="center">Nein</td><td>Einmal alle sechs Monate.</td></tr></tbody></table>
