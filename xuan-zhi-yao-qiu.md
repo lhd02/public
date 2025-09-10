@@ -2,9 +2,8 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**标准质保仅适用于本公司推荐的安装场景，请按要求操作。**</mark>
-* <mark style="color:blue;">**在安装设备之前，请务必仔细阅读以下安装要求。如果因未按照要求操作而导致设备在运行过程中出现功能异常、损坏，甚至引发人身安全事故，本公司将不承担任何责任。**</mark>
-* <mark style="color:blue;">**实际安装时，安装位置的选定应同时满足当地消防、环保等法规，具体安装位置规划以安装商或EPC（Engineering，Procurement，Construction）为准。**</mark>
+* <mark style="color:blue;">在安装设备之前，请务必仔细阅读以下安装要求。如果因未按照要求操作而导致设备在运行过程中出现功能异常、损坏，甚至引发人身安全事故，本公司将不承担任何责任。</mark>
+* <mark style="color:blue;">实际安装时，安装位置的选定应同时满足当地消防、环保等法规，具体安装位置规划以安装商或EPC（Engineering，Procurement，Construction）为准。</mark>
 
 ### **安装环境要求**
 
@@ -13,6 +12,8 @@
 * 禁止将设备安装于强电磁干扰的环境中。
 * 安装环境的温度与湿度要符合设备要求。
 * 设备应安装于距高盐或高酸等腐蚀源≥500m 的地区（腐蚀源包括但不限于海边、火电厂、化工厂、冶炼厂、煤厂、橡胶厂、电镀厂等)。
+* 在海洋环境良好（挪威等近岸盐度 ≤ 28 psu）的地区，设备安装距海岸线区域可适当放宽至≥200m。
+* 若设备出现外表面破损情况，请及时对设备进行补漆。
 
 ### **安装位置要求**
 
@@ -33,7 +34,7 @@
 * 安装载体表面要平整，可安装区域要满足设备安装空间要求。
 * 安装载体内部无水电走线，以免安装设备时钻孔发生危险。
 
-<figure><img src=".gitbook/assets/SSA1SF00010-zh.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00021-zh.png" alt=""><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 

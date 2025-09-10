@@ -1,6 +1,6 @@
 # 应急处理
 
-### 火灾应急措施
+## **火灾应急措施**
 
 {% include "../.gitbook/includes/danger.md" %}
 
@@ -11,7 +11,7 @@
 * <mark style="color:red;">消防员在灭火中请勿与高压组件接触，否则可能会导致电击风险。</mark>
 * <mark style="color:red;">灭火后，禁止使用设备，请联系您的销售代理商。</mark>
 
-### **洪水应急措施**
+## **洪水应急措施**
 
 {% include "../.gitbook/includes/danger.md" %}
 
@@ -19,7 +19,7 @@
 * <mark style="color:red;">如果电池包被淹没，禁止触碰，避免电击危险。</mark>
 * <mark style="color:red;">洪水退去后，禁止使用设备，请联系您的销售代理商。</mark>
 
-### **电池包异常应急措施**
+## **电池包异常应急措施**
 
 {% include "../.gitbook/includes/danger.md" %}
 
@@ -31,7 +31,7 @@
   * <mark style="color:red;">摄入：催吐，并立即寻求医疗帮助。</mark>
 * <mark style="color:red;">禁止继续使用异常电池包，请联系您的销售代理商。</mark>
 
-### **电池包跌落或受撞击应急措施**
+## **电池包跌落或受撞击应急措施**
 
 * 如果出现明显的异味、冒烟、起火等，请立即远离设备，并联系专业人员处理。
 * 电池包跌落或受撞击后禁止使用，请联系您的销售代理商。

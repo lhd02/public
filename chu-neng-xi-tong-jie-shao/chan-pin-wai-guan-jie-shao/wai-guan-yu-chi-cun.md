@@ -1,9 +1,7 @@
 # 外观与尺寸
 
-### **逆变器与电池包**
+<figure><img src="../../.gitbook/assets/SSA1OV00001-中国区zh (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/0 (2).jpeg>)
+## **思格通信棒**
 
-### **思格通信棒**
-
-![](<../../.gitbook/assets/1 (1).jpeg>)
+<figure><img src="../../.gitbook/assets/SCA1OV00001-zh.jpg" alt="" width="258"><figcaption></figcaption></figure>
