@@ -6,16 +6,12 @@
 
 ### Multi - station Screening
 
-{% include "../../.gitbook/includes/tips.md" %}
-
-* <mark style="color:blue;">You can click "Home" to check the status of all stations.</mark>
-* <mark style="color:blue;">You can click</mark> <img src="../../.gitbook/assets/0 (24).png" alt="" data-size="line"> <mark style="color:blue;">in the upper left corner to filter the stations you want to view.</mark>
+* You can click "Home" to check the status of all stations.
+* You can click <img src="../../.gitbook/assets/0 (24).png" alt="" data-size="line"> in the upper left corner to filter the stations you want to view.
 
 ### Logical Merging of Multi - stations
 
-{% include "../../.gitbook/includes/tips.md" %}
-
-<mark style="color:blue;">After Sigencloud has set up logical integration, the upper right corner will show</mark> <img src="../../.gitbook/assets/2 (12).png" alt="" data-size="line"> <mark style="color:blue;">. Click it to view the logical integration information.</mark>
+After Sigencloud has set up logical integration, the upper right corner will show <img src="../../.gitbook/assets/2 (12).png" alt="" data-size="line"> . Click it to view the logical integration information.
 
 ## Single System information
 
