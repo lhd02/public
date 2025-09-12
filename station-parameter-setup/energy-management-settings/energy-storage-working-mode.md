@@ -71,24 +71,18 @@ Once registered with the VPP, your storage system will join the smart dispatchin
 
 ### Create Custom Operational Mode
 
-{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
-
-<mark style="color:blue;">Customized operation modes can be created according to owner requirements.</mark>
+Customized operation modes can be created according to owner requirements.
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-创建自定义工作模式.png" alt=""><figcaption></figcaption></figure>
 
 ### Share Custom Operational Mode
 
-{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
-
-<mark style="color:blue;">Paste the sharing code to obtain others' custom Operational modes.</mark>
+Paste the sharing code to obtain others' custom Operational modes.
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-分享自定义工作模式.png" alt=""><figcaption></figcaption></figure>
 
 ### Add Custom Operational Mode
 
-{% include "https://app.gitbook.com/s/YEsgDWDFgclMJZqvpmZf/~/reusable/dnF8ucRZR0FwUqCpci9l/" %}
-
-<mark style="color:blue;">Paste the sharing code to obtain others' custom Operational modes.</mark>
+Paste the sharing code to obtain others' custom Operational modes.
 
 <figure><img src="../../.gitbook/assets/MSA1CM00074-添加自定义工作模式.png" alt=""><figcaption></figcaption></figure>
