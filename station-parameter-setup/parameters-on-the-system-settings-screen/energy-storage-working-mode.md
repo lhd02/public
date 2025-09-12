@@ -2,8 +2,7 @@
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">储能系统支持多种工作模式，部分国家支持减载模式和虚拟电厂调度模式，以App界面显示为准。</mark>
-* 支持工作模式下的参数根据模式保存。
+<mark style="color:blue;">储能系统支持多种工作模式，部分国家支持减载模式和虚拟电厂调度模式，以App界面显示为准。</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00099-储能工作模式.png" alt=""><figcaption></figcaption></figure>
 
