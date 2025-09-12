@@ -97,3 +97,11 @@ Click "Service" → "Mail" → "Extended Warranty" to purchase.
 ## **How to Activate Extended Warranty Service?**
 
 Click "Service" → "Mail" → <img src=".gitbook/assets/image (4).png" alt="" data-size="line">→Select the order to be activated → Click "Activate Now" → Copy the "Extended Warranty Key" → Select power station → Enter the "Extended Warranty Key"
+
+## How to revoke Sigen View's authorization for accessing power station information?
+
+Click on "Service" → "Community" → "Profile icon" in the upper right corner → "Setting" → "Authorize station info" → "Revoke" → "Unbind" in the upper right corner.
+
+## Does the Sigen EV AC Charger (pure charging station) support PV surplus charging with third-party inverters?
+
+Yes, it does. However, the Sigen EV AC Charger pure charging station must be configured with a Sigen power sensor.
