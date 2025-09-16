@@ -41,7 +41,7 @@
 
 ### **PV storage and charging networking (non-backup power scenario)**
 
-<figure><img src="../.gitbook/assets/SEA1OV00004-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SEA1OV00004-en (1).png" alt=""><figcaption></figcaption></figure>
 
 | No.   | Description         | No.   | Description                    |
 | ----- | ------------------- | ----- | ------------------------------ |
@@ -95,4 +95,3 @@
 * <mark style="color:blue;">If H2 (non-backup distribution panel) features leakage protection, it is recommended that the rated residual operating current be greater than or equal to the number of inverters × 100 mA.</mark>
 * <mark style="color:blue;">If G1 (backup household load) experiences leakage, it may pose a risk of electric shock. In order to avoid this hazard, a residual current device (RCD) must be installed between the F (Gateway) and the G1 (backup household load).</mark>
 * <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod runs out, users must replace an SIM card.</mark>
-

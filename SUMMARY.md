@@ -1,6 +1,6 @@
 # Table of contents
 
-* [User Manual](README.md)
+* [User Manual.](README.md)
 * [Copyright Notice](ban-quan-sheng-ming.md)
 * [Revision History](xiu-ding-li-shi.md)
 * [Overview](qian-yan.md)
