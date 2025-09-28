@@ -62,7 +62,7 @@ You can check this in "Setting" → "System Affiliation Lookup."
 
 ### Method 1:
 
-Click "Service" → "Mail" → "Data Plan" to purchase.
+Click "Service" → "Mall" → "Data Plan" to purchase.
 
 ### Method 2:
 
