@@ -79,7 +79,7 @@ Click "Settings" → "System Settings" → "Connectivity" in General → "Cellul
 
 ### Method 1:
 
-Click "Service" → "Mail" →<img src=".gitbook/assets/image (4).png" alt="" data-size="line"> →Select the order to be activated → Click "Activate Now" → Copy the "License Key" → Select power station → Enter the "License Key"
+Click "Service" → "Mall" →<img src=".gitbook/assets/image (4).png" alt="" data-size="line"> →Select the order to be activated → Click "Activate Now" → Copy the "License Key" → Select power station → Enter the "License Key"
 
 ### Method 2:
 
@@ -92,11 +92,11 @@ Click "Service" → "Mail" →<img src=".gitbook/assets/image (4).png" alt="" da
 
 <mark style="color:blue;">During purchase, the product information must match the device information.</mark>
 
-Click "Service" → "Mail" → "Extended Warranty" to purchase.
+Click "Service" → "Mall" → "Extended Warranty" to purchase.
 
 ## **How to Activate Extended Warranty Service?**
 
-Click "Service" → "Mail" → <img src=".gitbook/assets/image (4).png" alt="" data-size="line">→Select the order to be activated → Click "Activate Now" → Copy the "Extended Warranty Key" → Select power station → Enter the "Extended Warranty Key"
+Click "Service" → "Mall" → <img src=".gitbook/assets/image (4).png" alt="" data-size="line">→Select the order to be activated → Click "Activate Now" → Copy the "Extended Warranty Key" → Select power station → Enter the "Extended Warranty Key"
 
 ## How to revoke Sigen View's authorization for accessing power station information?
 
