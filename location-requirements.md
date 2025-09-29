@@ -42,14 +42,25 @@ description: Equipment Installation and Wiring
 * No plumbing or electrical alignments should be inside the installation base to avoid potential drilling hazards during equipment installation.
 * If the equipment is installed in a public place other than work and living areas (such as parking lots, stations, factories, etc.), please install a protective net outside the equipment and erect safety warning signs for isolation. Do not allow unrelated personnel to approach the inverter to avoid personal injury or property loss caused by accidental contact by non-professional personnel or other reasons during the operation of the equipment.
 
+{% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
+
+* <mark style="color:blue;">To ensure optimal performance of the device, it is suggested that the installation distance between the device and surrounding obstacles be planned with reference to the diagram. If the installation site is well-ventilated, the optimal solution may be deployed based on actual conditions.</mark>
+* <mark style="color:blue;">To facilitate subsequent maintenance (such as routine inspection or disassembly of the fan), it is suggested that a clearance of at least 400 mm be reserved on the left side of the device.</mark>
+
 ### PV-only installation scenario(PV-only and HYA models)
 
-<figure><img src=".gitbook/assets/SVA1OV00027-en纯光.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SVA1OV00027-en.png" alt=""><figcaption></figcaption></figure>
 
 ### PV-only installation scenario(HYB models)
 
-<figure><img src=".gitbook/assets/SVA1OV00044-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SVA1OV00044-en (1).png" alt=""><figcaption></figcaption></figure>
+
+{% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
+
+* <mark style="color:blue;">To ensure optimal performance of the device, it is suggested that the installation distance between the device and surrounding obstacles be planned with reference to the diagram. If the installation site is well-ventilated, the optimal solution may be deployed based on actual conditions.</mark>
+* <mark style="color:blue;">To ensure unobstructed access for installation tools (such as lifting tools or forklifts), it is suggested that a clearance of at least 1500 mm be reserved in front of the battery cluster, which may be adjusted based on actual conditions.</mark>
+* <mark style="color:blue;">After installation, please ensure that there is no water accumulation at the bottom of the device, and add drainage channels if necessary.</mark>
 
 ### PV-storage installation scenario
 
-<figure><img src=".gitbook/assets/STA1SF00001-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/STA1SF00001-en (2).png" alt=""><figcaption></figcaption></figure>
