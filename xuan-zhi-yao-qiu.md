@@ -37,6 +37,10 @@
 * 安装载体表面要平整，可安装区域要满足设备安装空间要求。
 * 安装载体内部无水电走线，以免安装设备时钻孔发生危险。
 
+{% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
+
+<mark style="color:blue;">为确保设备最佳性能，建议设备与周边障碍物参考图示安装距离规划，若安装场景通风良好，您可根据实际情况部署最佳方案。</mark>\ <mark style="color:blue;">为确保后续维护便利（如风扇进行日常检查或拆卸维修），建议设备左侧预留≥400mm。</mark>
+
 ### **纯光场景（纯光和HYA机型）**
 
 <figure><img src=".gitbook/assets/SVA1OV00027-zh.png" alt=""><figcaption></figcaption></figure>
@@ -45,4 +49,12 @@
 
 <figure><img src=".gitbook/assets/SVA1OV00044-zh (1).png" alt=""><figcaption></figcaption></figure>
 
+{% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
+
+* <mark style="color:blue;">为确保设备最佳性能，建议设备与周边障碍物参考图示安装距离规划，若安装场景通风良好，您可根据实际需求部署最佳方案。</mark>
+* <mark style="color:blue;">为确保安装工具通行便利（如吊装工具、叉车），建议电池簇前方预留≥1500mm，您也可根据实际情况调整。</mark>
+* <mark style="color:blue;">安装完成后，请保证设备底部不积水，必要时请添加排水通道。</mark>
+
 ### **光储场景**
+
+<figure><img src=".gitbook/assets/STA1SF00001-zh (1).png" alt=""><figcaption></figcaption></figure>
