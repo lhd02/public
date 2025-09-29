@@ -39,12 +39,10 @@
 
 ### **纯光场景（纯光和HYA机型）**
 
-<figure><img src=".gitbook/assets/SVA1OV00027-zh纯光.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SVA1OV00027-zh.png" alt=""><figcaption></figcaption></figure>
 
 ### **纯光场景（HYB机型）**
 
-<figure><img src=".gitbook/assets/SVA1OV00044-zh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SVA1OV00044-zh (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **光储场景**
-
-<figure><img src=".gitbook/assets/STA1SF00001-zh.png" alt=""><figcaption></figcaption></figure>
