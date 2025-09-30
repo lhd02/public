@@ -37,13 +37,13 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">To ensure optimal performance of the device, it is suggested that the installation distance between the device and surrounding obstacles be planned with reference to</mark>\ <mark style="color:blue;">the diagram. If the installation site is well-ventilated, the optimal solution may be deployed based on actual conditions.</mark>
+<mark style="color:blue;">To ensure optimal performance of the device, it is suggested that the installation distance between the device and surrounding obstacles be planned with reference to&#x20;the diagram. If the installation site is well-ventilated, the optimal solution may be deployed based on actual conditions.</mark>
 
-### ≤ **12.0kW Models**
+### ≤ **12.0kW Models** Installation Recommendations&#x20;
 
 <figure><img src=".gitbook/assets/SSA1SF00021-EN.png" alt=""><figcaption></figcaption></figure>
 
-### ＞**12.0kW Models**
+### ＞**12.0kW Models** Installation Recommendations&#x20;
 
 <figure><img src=".gitbook/assets/SSA1SF00022-en.png" alt=""><figcaption></figcaption></figure>
 
