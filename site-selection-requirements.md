@@ -35,14 +35,24 @@
 * The installation base should be flat, and the installation area should meet the installation space requirements.
 * No plumbing or electrical alignments are allowed inside the installation base to avoid potential drilling hazards during equipment installation.
 
-<figure><img src=".gitbook/assets/SSA1SF00021-en (1).png" alt=""><figcaption></figcaption></figure>
+{% include "https://app.gitbook.com/s/HucvjVVfNSKnUPsHM5yH/~/reusable/x1t0zRWvqThFQjOu1XM7/" %}
+
+<mark style="color:blue;">To ensure optimal performance of the device, it is suggested that the installation distance between the device and surrounding obstacles be planned with reference to</mark>\ <mark style="color:blue;">the diagram. If the installation site is well-ventilated, the optimal solution may be deployed based on actual conditions.</mark>
+
+### ≤ **12.0kW Models**&#x20;
+
+
+
+### ＞**12.0kW Models** Installation RecommendationsInstallation RecommendationsInstallation Recommendations
+
+<figure><img src=".gitbook/assets/SSA1SF00022-en.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/SSA1SF00015-en.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
-* For models with SigenStor EVDC series, please install it near the parking space. For installation distance, refer to the illustrations.
-* There will be errors in the actual distance under different installation environments, and the figure is for reference only.
+* <mark style="color:blue;">For models with SigenStor EVDC series, please install it near the parking space. For installation distance, refer to the illustrations.</mark>
+* <mark style="color:blue;">There will be errors in the actual distance under different installation environments, and the figure is for reference only.</mark>
 * <mark style="color:blue;">The maximum operating temperature range applicable to the equipment is -20°C to 55°C, and the recommended optimal operating temperature range is 10°C≤T≤35°C.</mark>
 * <mark style="color:blue;">When the battery pack temperature is below 0°C, immediate charging is not possible, and the battery pack (the built-in heating module can be automatically enabled) will activate the heating feature automatically. The best charging performance of the battery can be achieved after heating for less than 2h. The heating feature will consume power.</mark>
 * <mark style="color:blue;">At a temperature > 40°C, the operation of the equipment may trigger a power derating that prevents the equipment from operating optimally. The higher the temperature, the shorter the service life of the equipment.</mark>
