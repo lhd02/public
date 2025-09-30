@@ -37,7 +37,7 @@
 
 {% include "https://app.gitbook.com/s/HucvjVVfNSKnUPsHM5yH/~/reusable/x1t0zRWvqThFQjOu1XM7/" %}
 
-<mark style="color:blue;">To ensure optimal performance of the device, it is suggested that the installation distance between the device and surrounding obstacles be planned with reference to</mark>\ <mark style="color:blue;">the diagram. If the installation site is well-ventilated, the optimal solution may be deployed based on actual conditions.</mark>
+<mark style="color:blue;">To ensure optimal performance of the device, it is suggested that the installation distance between the device and surrounding obstacles be planned with reference to&#x20;the diagram. If the installation site is well-ventilated, the optimal solution may be deployed based on actual conditions.</mark>
 
 ### ≤ **12.0kW Models** Installation Recommendations&#x20;
 
