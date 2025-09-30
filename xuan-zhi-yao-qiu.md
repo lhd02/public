@@ -39,13 +39,13 @@
 
 <mark style="color:blue;">为确保设备最佳性能，建议设备与周边障碍物参考图示安装距离规划，若安装场景通风良好，您可根据实际情况部署最佳方案。</mark>
 
-### SigenStor EC (5.0–12.0) TP
+### SigenStor EC (5.0–12.0) TP 安装建议
 
-<figure><img src=".gitbook/assets/SSA1SF00021-zh (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00021-zh (2).png" alt=""><figcaption></figcaption></figure>
 
-### SigenStor EC (15.0–30.0) TP
+### SigenStor EC (15.0–30.0) TP 安装建议
 
-<figure><img src=".gitbook/assets/SSA1SF00022-zh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00022-zh (1).png" alt=""><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
