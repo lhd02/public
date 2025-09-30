@@ -41,11 +41,11 @@
 
 ### ≤ **12.0kW Models** Installation Recommendations&#x20;
 
-<figure><img src=".gitbook/assets/SSA1SF00021-EN.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00021-EN (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ＞**12.0kW Models** Installation Recommendations&#x20;
 
-<figure><img src=".gitbook/assets/SSA1SF00022-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00022-en (1).png" alt=""><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
