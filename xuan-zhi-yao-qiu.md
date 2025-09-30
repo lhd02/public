@@ -33,8 +33,19 @@
 * 安装载体符合承重要求，推荐选择实心砖混结构、混凝土墙体和地面。
 * 安装载体表面要平整，可安装区域要满足设备安装空间要求。
 * 安装载体内部无水电走线，以免安装设备时钻孔发生危险。
+* 设备底座为铝材质，若设备安装在易产生电化学腐蚀的金属载体上（如高铬不锈钢、奥氏体不锈钢、钢上镀镍等），需在设备和载体间铺满绝缘垫片。（如非金属PC绝缘垫片、 PTFE绝缘垫片、PVDF绝缘垫片等。）
 
-<figure><img src=".gitbook/assets/SSA1SF00021-zh.png" alt=""><figcaption></figcaption></figure>
+{% include ".gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">为确保设备最佳性能，建议设备与周边障碍物参考图示安装距离规划，若安装场景通风良好，您可根据实际情况部署最佳方案。</mark>
+
+### SigenStor EC (5.0–12.0) TP
+
+<figure><img src=".gitbook/assets/SSA1SF00021-zh (1).png" alt=""><figcaption></figcaption></figure>
+
+### SigenStor EC (15.0–30.0) TP
+
+<figure><img src=".gitbook/assets/SSA1SF00022-zh.png" alt=""><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
