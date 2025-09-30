@@ -32,7 +32,7 @@
     * [Single-phase System](chu-neng-xi-tong-jie-shao/dian-wang-gong-dian-fang-shi/dan-xiang-xi-tong.md)
     * [Three-phase System](chu-neng-xi-tong-jie-shao/dian-wang-gong-dian-fang-shi/san-xiang-xi-tong.md)
     * [Low-voltage Three-phase System](chu-neng-xi-tong-jie-shao/dian-wang-gong-dian-fang-shi/di-ya-san-xiang-xi-tong.md)
-    * [Split-phase System](chu-neng-xi-tong-jie-shao/dian-wang-gong-dian-fang-shi/lie-xiang-xi-tong.md)
+    * [Split-phase System and SigenStor Home](chu-neng-xi-tong-jie-shao/dian-wang-gong-dian-fang-shi/lie-xiang-xi-tong.md)
   * [Introduction to system wiring](chu-neng-xi-tong-jie-shao/zu-wang-jie-shao.md)
 * [Site Selection Requirements](xuan-zhi-yao-qiu.md)
 * [Equipment Installation and Wiring](she-bei-an-zhuang-yu-jie-xian.md)
