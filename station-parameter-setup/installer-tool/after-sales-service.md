@@ -1,9 +1,5 @@
 # Post-Sales service
 
-{% include "../../.gitbook/includes/tips.md" %}
-
-<mark style="color:blue;">After you add, replace, or remove devices (such as batteries, EVDC, and EVAC), you must use this function to finally confirm your operations.</mark>
-
 ### Automatic New Addition Scenario
 
 In the automatic new addition scenario, the system will automatically identify the added devices and upgrade them, without the need for scanning operations or clicking the Post - Sales Service in the App for confirmation.
