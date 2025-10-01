@@ -2,7 +2,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">This document takes version 3.1.2 as an example to introduce relevant operations. The screenshots given in this document are for illustration purposes only. Interfaces in different periods may differ. The actual interface display shall prevail.</mark>
+* <mark style="color:blue;">This document takes version 3.2.0 as an example to introduce relevant operations. The screenshots given in this document are for illustration purposes only. Interfaces in different periods may differ. The actual interface display shall prevail.</mark>
 * <mark style="color:blue;">Before creating new systems, please make sure that the device is powered on.</mark>
 
 ## Downloading the App
@@ -34,6 +34,8 @@ On the "Sign Up" screen of the App, sign up for your account.
 {% include ".gitbook/includes/tips.md" %}
 
 <mark style="color:blue;">Complete the initialization steps according to the on-screen instructions. Interface layouts may vary across devices. Refer to the</mark>  <mark style="color:blue;"></mark>_<mark style="color:blue;">mySigen App Creating New System</mark>_<mark style="color:blue;">s</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Guide</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">for detailed procedures.</mark>
+
+<figure><img src=".gitbook/assets/SSA1CM00076-开局调测.png" alt="" width="375"><figcaption></figcaption></figure>
 
 1. Click <img src=".gitbook/assets/plus.png" alt="" data-size="line"> in the upper right corner of the "Home" to go to the station creation screen, where you can finish creating a power station. The App will send the owner account to the owner's email address.
 
