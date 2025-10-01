@@ -18,6 +18,7 @@
 
 * <mark style="color:blue;">The third-party inverter is properly connected to an electric meter which is purchased from our company.</mark>
 * <mark style="color:blue;">The electric meter is properly connected to the COM port of our inverter. For connection ports, please refer to the respective Installation Guide.</mark>
+*
 
 <figure><img src="../.gitbook/assets/SSA1CM00072-电表添加三逆.png" alt=""><figcaption></figcaption></figure>
 

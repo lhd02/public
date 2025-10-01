@@ -34,7 +34,7 @@
     * [Advanced Wiring Diagnosis](station-parameter-setup/installer-tool/station-connection-diagnosis.md)
     * [System Report Download](station-parameter-setup/installer-tool/system-report-download.md)
     * [(Optional)Remote Output Control](station-parameter-setup/installer-tool/optional-remote-output-control.md)
-* [Adding device](adding-device/README.md)
+* [Add Third-Party Device](adding-device/README.md)
   * [Smart load](adding-device/smart-load.md)
   * [Grid-side Sensor](adding-device/grid-side-sensor.md)
   * [Generator](adding-device/diesel-generator.md)
