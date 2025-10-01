@@ -2,6 +2,7 @@
 
 {% include "../../../.gitbook/includes/tips.md" %}
 
+* <mark style="color:blue;">Click to jump to EMS settings. If this parameter is set by both the owner and the system, the smaller value takes effect.</mark>
 * <mark style="color:blue;">An installer can set export/import limitation parameters according to user needs when creating new systems.</mark>
 * <mark style="color:blue;">To modify parameters after creating new systems, please manually set export/import limitation parameters according to local laws and regulations and grid agreements.</mark>
 * <mark style="color:blue;">Before setting the export/import limitation parameters, ensure that the meter or Gateway is connected to the system wiring.</mark>
