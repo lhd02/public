@@ -1,4 +1,4 @@
-# (optional) V2X Function Activation and Manual Control
+# (Optional) V2X Function Activation and Manual Control
 
 ## V2X Function Activation
 
@@ -11,7 +11,7 @@
 
 <table><thead><tr><th width="68">No.</th><th width="187.22216796875">Parameter Name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Bi-directional V2X operation</td><td>For first-time use, click Activate V2X Function, then sign the Risk Disclosure Agreement and fill in the basic vehicle information.</td></tr><tr><td>2</td><td>My Car</td><td><ul><li>The added Electric Vehicle must support the V2X function.</li><li>Multiple Electric Vehicles can be added, with one set as the Preferred Vehicle.</li><li>Battery Capacity: Enter the Electric Vehicle's actual battery capacity.</li></ul></td></tr></tbody></table>
 
-## Manual Control
+## Add Manual Control
 
 {% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
 
