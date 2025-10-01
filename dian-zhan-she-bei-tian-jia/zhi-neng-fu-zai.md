@@ -4,6 +4,7 @@
 
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
+*
 * <mark style="color:blue;">Before connecting a Smart Home Device, please ensure that a Gateway is configured in the networking.</mark>
 * <mark style="color:blue;">The number of Smart Home Devices that can be connected is determined by the supported capacity of the Gateway.</mark>
 * <mark style="color:blue;">After adding the Smart Home Device to the App, you can switch theSmart Home Device on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.</mark>

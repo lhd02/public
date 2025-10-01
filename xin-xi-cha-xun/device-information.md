@@ -1,6 +1,15 @@
-# Sigen EV AC Charger
+# Device Information
 
-## Operation Information
+## Sigen Inverter/Battery
+
+{% include "../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">When multiple Singrow inverters/batteries are connected to the same power station, swipe left/right or up/down to view each Singrow inverter/battery.</mark>
+* <mark style="color:blue;">The SN number displayed in the App matches the SN number on the Singrow inverter/battery label. You can locate the specific Singrow inverter/battery you need to view by its SN number.</mark>
+
+<figure><img src="../.gitbook/assets/MSA1CM00069-单设备.png" alt="" width="296"><figcaption></figcaption></figure>
+
+## Sigen EV AC Charger information
 
 Go to the corresponding interface using the following method, and click "Energy Delivery" to view detailed information.
 
