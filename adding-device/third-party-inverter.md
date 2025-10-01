@@ -18,7 +18,8 @@
 
 * <mark style="color:blue;">The third-party inverter is properly connected to an electric meter which is purchased from our company.</mark>
 * <mark style="color:blue;">The electric meter is properly connected to the COM port of our inverter. For connection ports, please refer to the respective Installation Guide.</mark>
-*
+* <mark style="color:blue;">A single or multiple third-party inverters can be selected. Please choose based on your actual situation.</mark>
+* <mark style="color:blue;">If an RGM meter is used, the corresponding device serial number (SN) must be selected according to the actual wiring configuration.</mark>
 
 <figure><img src="../.gitbook/assets/SSA1CM00072-电表添加三逆.png" alt=""><figcaption></figcaption></figure>
 
