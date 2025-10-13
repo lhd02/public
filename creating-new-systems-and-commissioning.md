@@ -19,7 +19,7 @@ Use the following two methods to download the App.
 
 ### **Method 1: Web-based operation**
 
-Please visit [https://www.sigenergy.com](https://www.sigenergy.com/) and go to "Partner" →"Become a Partner" and sign up for your account.
+Please visit [https://www.sigenergy.com](https://www.sigenergy.com/) and go to "Installer" →"Become an Installer" and sign up for your account.
 
 <figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
