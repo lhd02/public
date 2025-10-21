@@ -54,7 +54,7 @@
 
 <figure><img src="../.gitbook/assets/SVA1OV00039-ZH.png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="159" valign="middle"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A．电池</td><td valign="middle">B．光伏板</td><td valign="middle">C．逆变器</td><td valign="top">D．交流开关</td><td valign="top">E．汇流柜</td></tr><tr><td valign="middle">F．备电负载</td><td valign="middle">G．功率传感器</td><td valign="middle">H．箱式变电站</td><td valign="top">I．电网</td><td valign="top">J．思格云</td></tr><tr><td valign="middle">K．路由器</td><td valign="middle">L．思格通信棒</td><td valign="middle">M．思格通信网桥</td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="159" valign="middle"></th><th width="159.2222900390625" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A．电池</td><td valign="middle">B．光伏板</td><td valign="middle">C．逆变器</td><td valign="top">D．交流开关</td><td valign="top">E．汇流柜</td></tr><tr><td valign="middle">F．备电负载</td><td valign="middle">G．功率传感器</td><td valign="middle">H．箱式变电站</td><td valign="top">I．电网</td><td valign="top">J．开关</td></tr><tr><td valign="middle">K．思格云</td><td valign="middle">L．路由器</td><td valign="middle">M．思格通信棒</td><td valign="top">N．思格通信网桥</td><td valign="top"></td></tr></tbody></table>
 
 {% include "../.gitbook/includes/tip.md" %}
 
