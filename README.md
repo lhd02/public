@@ -1,3 +1,2 @@
-# 用户手册
+# Page
 
-<figure><img src=".gitbook/assets/工商业光储系统 用户手册-zh.png" alt=""><figcaption></figcaption></figure>
