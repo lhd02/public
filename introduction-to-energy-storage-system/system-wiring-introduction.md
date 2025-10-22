@@ -17,18 +17,34 @@
 {% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
 
 * <mark style="color:blue;">Each inverter must be equipped with an AC switch, and multiple inverters cannot be connected to one AC switch at the same time.</mark>
-* <mark style="color:blue;">The rated voltage of the AC switch</mark> <mark style="color:blue;">(D) co</mark><mark style="color:blue;">nnected to each inverter must be ≥ 500 Va.c., The recommended specifications for the rated current are as follows:</mark>
+* <mark style="color:blue;">The rated voltage of the AC switch</mark> <mark style="color:blue;">(D) connected to each inverter must be ≥ 500 Va.c., The recommended specifications for the rated current are as follows:</mark>
   * <mark style="color:blue;">For inverters with a power rating of 50 kW or 60 kW: rated current is 125 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 75 kW or 80 kW: rated current is 160 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 99.9 kW or 100 kW: rated current is 200 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 110 kW or 125 kW: rated current is 250 A</mark>
 * <mark style="color:blue;">It is recommended to use Fast Ethernet and WLAN for communication with inverters. When free 4G traffic of CommMod</mark> <mark style="color:blue;">(J)</mark> <mark style="color:blue;">runs out, users must replace an SIM card.</mark>
 
+### Non-backup **wiring diagram (1 ≤ number of inverters ≤ 160)**
+
+<figure><img src="../.gitbook/assets/SVA1OV00029-en (1).png" alt=""><figcaption></figcaption></figure>
+
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th width="138.3333740234375" valign="top"></th><th width="163.4443359375" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">A. Battery</td><td valign="top">B. PV panel</td><td valign="top">C. Inverter</td><td valign="top">D. AC Switch (Depends on load power)</td><td valign="top">E. Power sensor</td></tr><tr><td valign="top">F. Box-type substation</td><td valign="top">G. Power grid</td><td valign="top">H. mySigen</td><td valign="top">I. Router</td><td valign="top">J. Data Logger</td></tr></tbody></table>
+
+{% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
+
+* <mark style="color:blue;">Multiple inverters cannot be connected to one AC switch at the same time.</mark>
+* <mark style="color:blue;">The rated voltage of the AC switch (D) connected to each inverter must be ≥ 500 Va.c., The recommended specifications for the rated current are as follows:</mark>
+  * <mark style="color:blue;">For inverters with a power rating of 50 kW or 60 kW: rated current is 125 A</mark>
+  * <mark style="color:blue;">For inverters with a power rating of 75 kW or 80 kW: rated current is 160 A</mark>
+  * <mark style="color:blue;">For inverters with a power rating of 99.9 kW or 100 kW: rated current is 200 A</mark>
+  * <mark style="color:blue;">For inverters with a power rating of 110 kW or 125 kW: rated current is 250 A</mark>
+* <mark style="color:blue;">One data collector can be connected to up to 160 inverters.</mark>
+
 ### Backup Power Networking Diagram (When HYB model is configure with an external Gateway, Inverters ≤ 50 units)
 
 <figure><img src="../.gitbook/assets/SVA1OV00038-EN (2).png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th valign="middle"></th><th width="161.2222900390625" valign="middle"></th><th valign="middle"></th><th valign="middle"></th><th valign="middle"></th><th data-hidden></th></tr></thead><tbody><tr><td valign="middle">A. Battery</td><td valign="middle">B. PV panel</td><td valign="middle">C. Inverter </td><td valign="middle">D. Gateway</td><td valign="middle">E. Generator</td><td></td></tr><tr><td valign="middle">F. Smart load</td><td valign="middle">G. Backup load</td><td valign="middle">H. Power grid</td><td valign="middle">I. mySigen</td><td valign="middle">J. Router</td><td></td></tr><tr><td valign="middle">K. CommMod</td><td valign="middle">L. CommBridge</td><td valign="middle"></td><td valign="middle"></td><td valign="middle"></td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="middle"></th><th width="161.2222900390625" valign="middle"></th><th valign="middle"></th><th valign="middle"></th><th valign="middle"></th><th data-hidden></th></tr></thead><tbody><tr><td valign="middle">A. Battery</td><td valign="middle">B. PV panel</td><td valign="middle">C. Inverter</td><td valign="middle">D. Gateway</td><td valign="middle">E. Generator</td><td></td></tr><tr><td valign="middle">F. Smart load</td><td valign="middle">G. Backup load</td><td valign="middle">H. Power grid</td><td valign="middle">I. mySigen</td><td valign="middle">J. Router</td><td></td></tr><tr><td valign="middle">K. CommMod</td><td valign="middle">L. CommBridge</td><td valign="middle"></td><td valign="middle"></td><td valign="middle"></td><td></td></tr></tbody></table>
 
 {% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
 
@@ -44,7 +60,7 @@
 {% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
 
 * <mark style="color:blue;">Multiple inverters cannot be connected to one AC switch at the same time.</mark>
-* <mark style="color:blue;">Every inverter connected to the backup load must use an AC switch  (D) with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
+* <mark style="color:blue;">Every inverter connected to the backup load must use an AC switch (D) with a rated voltage of ≥500V a.c. The recommended rated current specifications are as follows:</mark>
   * <mark style="color:blue;">For inverters with a power rating of 50 kW: rated current is 100 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 60 kW: rated current is 125 A</mark>
   * <mark style="color:blue;">For inverters with a power rating of 80 kW: rated current is 160 A</mark>

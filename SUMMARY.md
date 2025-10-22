@@ -34,6 +34,7 @@
   * [Label Description](introduction-to-energy-storage-system/label-description.md)
   * [Supported Power Supply Methods for the Power Grid](introduction-to-energy-storage-system/supported-power-supply-methods-for-the-power-grid.md)
   * [System wiring introduction](introduction-to-energy-storage-system/system-wiring-introduction.md)
+  * [Residual Current Protection for Inverters](introduction-to-energy-storage-system/residual-current-protection-for-inverters.md)
 * [Location Requirements](location-requirements.md)
 * [System Operation](system-operation/README.md)
   * [Operational Mode](system-operation/operational-mode.md)
