@@ -75,9 +75,10 @@
 {% include ".gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">Sigen Hybrid SP、Sigen Hybrid SP AU、Sigen Hybrid TP、Sigen Hybrid TP AU、Sigen Hybrid TPLV系列逆变器，若需要应用于光储系统，需购买并激活License。</mark>
-* 购买时，商品信息需与设备信息保持一致。
+* <mark style="color:blue;">直流充电桩升级（例如12.5kW升级为25kW）时，需购买并激活License。</mark>
+* <mark style="color:blue;">购买时，商品信息需与设备信息保持一致。</mark>
 
-点击“服务”→“商城”→“许可证”购买。
+点击“服务”→选择对应产品“许可证”→点击购买。
 
 ## **如何激活许可证？**
 
