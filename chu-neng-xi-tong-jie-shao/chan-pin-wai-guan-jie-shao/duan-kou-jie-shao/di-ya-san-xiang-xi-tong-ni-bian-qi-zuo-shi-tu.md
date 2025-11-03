@@ -1,0 +1,5 @@
+# Niskonapięciowa instalacja trójfazowa, widok falownika z lewej
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="70.5555419921875" align="center">Nr</th><th>Nazwa</th><th>Oznakowanie</th></tr></thead><tbody><tr><td align="center">1</td><td>Interfejs paska świetlnego pokrywy dekoracyjnej</td><td>LED</td></tr><tr><td align="center">2</td><td>Interfejs przewodu sieciowego</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">3</td><td>Interfejs wejścia DC</td><td>PV1+/PV2+/ PV3+/PV4+/ PV1-/PV2-/ PV3-/PV4-</td></tr><tr><td align="center">4</td><td>Złącze wyjścia AC</td><td>AC</td></tr><tr><td align="center">5</td><td>Interfejs komunikacyjny</td><td>COM</td></tr><tr><td align="center">6</td><td>Śruba uziemiająca</td><td>-</td></tr><tr><td align="center">7</td><td>Przycisk zasilania</td><td>ON/OFF</td></tr><tr><td align="center">8</td><td>Przełącznik DC</td><td>DC SWITCH</td></tr><tr><td align="center">9</td><td>Interfejs Sigen CommMod</td><td>4G</td></tr><tr><td align="center">10</td><td>Interfejs Sigen CommMod</td><td>ANT</td></tr></tbody></table>

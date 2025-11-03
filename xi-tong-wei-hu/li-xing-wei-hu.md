@@ -1,0 +1,5 @@
+# Rutynowa konserwacja
+
+Aby zapewnić długi czas eksploatacji urządzenia, należy przeprowadzać rutynową konserwację, którą opisano poniżej.
+
+<table><thead><tr><th width="104">Procedura</th><th width="459">Sposób inspekcji</th><th width="94" align="center">Zasilanie wyłączone?</th><th>Częstotliwość</th></tr></thead><tbody><tr><td>Czyszczenie systemu</td><td>Regularnie sprawdzać, czy pokrywa dekoracyjna lub wentylator są zakryte lub zabrudzone. W razie potrzeby wyczyścić. Do czyszczenia nie należy używać narzędzi mogących spowodować porażenie prądem elektrycznym lub takich, które mogą uszkodzić izolację, np. szczotek drucianych.</td><td align="center">Tak</td><td>Raz na trzy miesiące.</td></tr><tr><td>Stan systemu</td><td><ul><li>Sprawdzić, czy urządzenie jest uszkodzone lub zdeformowane.</li><li>Sprawdzić, czy działające urządzenie wydaje niestandardowe odgłosy.</li><li>Podczas działania urządzenia sprawdzić, czy parametry urządzenia są prawidłowo ustawione.</li></ul></td><td align="center">Nie</td><td>Co pół roku.</td></tr></tbody></table>
