@@ -1,0 +1,5 @@
+# Capteur de puissance
+
+Équipé d'un système de collecte de données sur les points de connexion au réseau afin d'obtenir une connexion au réseau électrique sans consommation d'énergie.
+
+<table><thead><tr><th width="184">Nom du produit</th><th width="272">Modèle</th><th>Nom</th></tr></thead><tbody><tr><td>Capteur de puissance</td><td>Sigen Sensor SP-DH(SDM230Modbus)</td><td>Sigen Power Sensor Single Phase DH</td></tr><tr><td>Capteur de puissance</td><td>Sigen Sensor SP-CT120-DH(SDM120CT 40 mA)</td><td>Sigen Power Sensor Single Phase External CT 120 A DH</td></tr><tr><td>Capteur de puissance</td><td>Sigen Sensor TP-DH(SDM630MODBUS V2)</td><td>Sigen Power Sensor Three Phase DH</td></tr><tr><td>Capteur de puissance</td><td>Sigen Sensor TP-CT120-DH(SDM630MCT 40 mA/120 A)</td><td>Sigen Power Sensor Three Phase External CT 120 A DH</td></tr><tr><td>Capteur de puissance</td><td>Sigen Sensor TP-CT300-DH(SDM630MCT 40 mA/300 A)</td><td>Sigen Power Sensor Three Phase External CT 300 A DH</td></tr><tr><td>Capteur de puissance</td><td>Sigen Sensor TP-CT600-DH(SDM630MCT V2/600 A)</td><td>Sigen Power Sensor Three Phase External CT 600 A DH</td></tr></tbody></table>

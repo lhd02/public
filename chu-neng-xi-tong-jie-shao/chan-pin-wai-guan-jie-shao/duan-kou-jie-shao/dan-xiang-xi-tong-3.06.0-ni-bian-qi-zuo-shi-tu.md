@@ -1,0 +1,5 @@
+# Vue de gauche de l'onduleur du système monophasé (3.0-6.0)
+
+![](../../../.gitbook/assets/SSA1OV00002.jpg)
+
+<table><thead><tr><th width="70" align="center">N°</th><th>Nom</th><th>Marquage</th></tr></thead><tbody><tr><td align="center">1</td><td>Interrupteur CC</td><td>DC SWITCH</td></tr><tr><td align="center">2</td><td>Interface de la bande lumineuse du couvercle décoratif</td><td>LED</td></tr><tr><td align="center">3</td><td>Interface de l'antenne</td><td>ANT</td></tr><tr><td align="center">4</td><td>Interface de câble réseau</td><td>RJ45 1/RJ45 2</td></tr><tr><td align="center">5</td><td>Interface de sortie CA</td><td>AC</td></tr><tr><td align="center">6</td><td>Vis de mise à la terre</td><td>-</td></tr><tr><td align="center">7</td><td>Interface de communication RS-485</td><td>COM</td></tr><tr><td align="center">8</td><td>Interface du CommMod</td><td>4G</td></tr><tr><td align="center">9</td><td>Interface d'entrée CC</td><td>PV1+/PV2+/PV1-/PV2-</td></tr><tr><td align="center">10</td><td>Bouton d'alimentation</td><td>ON/OFF</td></tr></tbody></table>
