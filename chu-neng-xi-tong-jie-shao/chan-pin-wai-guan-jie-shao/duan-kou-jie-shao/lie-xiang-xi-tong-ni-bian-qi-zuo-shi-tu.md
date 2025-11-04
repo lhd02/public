@@ -1,0 +1,5 @@
+# Split-fase systeem omvormer linkeraanzicht
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="94" align="center">Nummer.</th><th>Naam</th><th>Markering</th></tr></thead><tbody><tr><td align="center">1</td><td>Communicatie-interface</td><td>COM</td></tr><tr><td align="center">2</td><td>DC-schakelaar</td><td>DC-SCHAKELAAR</td></tr><tr><td align="center">3</td><td>Interface lichtstrip decoratieve afdekking</td><td>LED</td></tr><tr><td align="center">4</td><td>DC-aansluitblok</td><td>PV1+/PV1-/PV2+/PV2-/PV3+/PV3-/PV4+/PV4-</td></tr><tr><td align="center">5</td><td>AC-aansluitblok</td><td>L1/L2/N</td></tr><tr><td align="center">6</td><td>Aluminium aardrail</td><td>-</td></tr><tr><td align="center">7</td><td>Netwerkkabelinterface</td><td>RJ45 1/RJ45 2</td></tr><tr><td align="center">8</td><td>Aardingsschroef</td><td>-</td></tr><tr><td align="center">9</td><td>Voedingsknop</td><td>AAN/UIT</td></tr><tr><td align="center">10</td><td>(Voorbehouden) CommMod-interface</td><td>4G</td></tr><tr><td align="center">11</td><td>Antenne-interface</td><td>ANT</td></tr></tbody></table>

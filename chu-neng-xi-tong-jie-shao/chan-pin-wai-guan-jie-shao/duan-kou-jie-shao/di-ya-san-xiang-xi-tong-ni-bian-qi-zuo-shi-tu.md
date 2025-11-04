@@ -1,0 +1,5 @@
+# Driefasig laagspanningssysteem omvormer linkeraanzicht
+
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="85" align="center">Nummer.</th><th>Naam</th><th>Markering</th></tr></thead><tbody><tr><td align="center">1</td><td>Interface lichtstrip decoratieve afdekking</td><td>LED</td></tr><tr><td align="center">2</td><td>Netwerkkabelinterface</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">3</td><td>DC-ingangsinterface</td><td>PV1+/PV2+/ PV3+/PV4+/ PV1-/PV2-/ PV3-/PV4-</td></tr><tr><td align="center">4</td><td>AC-uitgangsinterface</td><td>AC</td></tr><tr><td align="center">5</td><td>Communicatie-interface</td><td>COM</td></tr><tr><td align="center">6</td><td>Aardingsschroef</td><td>-</td></tr><tr><td align="center">7</td><td>Voedingsknop</td><td>AAN/UIT</td></tr><tr><td align="center">8</td><td>DC-schakelaar</td><td>DC-SCHAKELAAR</td></tr><tr><td align="center">9</td><td>Sigen CommMod-interface</td><td>4G</td></tr><tr><td align="center">10</td><td>Sigen CommMod-interface</td><td>ANT</td></tr></tbody></table>

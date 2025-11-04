@@ -1,0 +1,5 @@
+# Gepland onderhoud
+
+Om de werking van de apparatuur op de lange termijn te garanderen, wordt u geadviseerd routineonderhoud uit te voeren volgens deze sectie.
+
+<table><thead><tr><th width="104">Inspectie-inhoud</th><th width="459">Inspectiemethode</th><th width="94" align="center">Uitschakelen of niet</th><th>Onderhoudscyclus</th></tr></thead><tbody><tr><td>Systeemreiniging</td><td>Controleer regelmatig of de decoratieve kap of ventilator bedekt of vuil is. Maak deze indien nodig schoon. Gebruik bij het schoonmaken geen gereedschap dat elektrische schokken kan veroorzaken of waarvan de isolatie beschadigd is, zoals draadborstels.</td><td align="center">Ja</td><td>Eenmaal elke drie maanden.</td></tr><tr><td>Bedrijfsstatus systeem</td><td><ul><li>Controleer of de apparatuur beschadigd of vervormd is.</li><li>Let op eventuele abnormale geluiden tijdens de werking van de apparatuur.</li><li>Controleer, terwijl de apparatuur in werking is, of de apparatuurparameters correct zijn ingesteld.</li></ul></td><td align="center">Nee</td><td>Eenmaal elke zes maanden.</td></tr></tbody></table>

@@ -1,0 +1,5 @@
+# Eenfasig systeem (3.0-6.0) omvormer linkeraanzicht
+
+![](../../../.gitbook/assets/SSA1OV00002.jpg)
+
+<table><thead><tr><th width="94.4444580078125" align="center">Nummer.</th><th>Naam</th><th>Markering</th></tr></thead><tbody><tr><td align="center">1</td><td>DC-schakelaar</td><td>DC-SCHAKELAAR</td></tr><tr><td align="center">2</td><td>Interface lichtstrip decoratieve afdekking</td><td>LED</td></tr><tr><td align="center">3</td><td>Antenne-interface</td><td>ANT</td></tr><tr><td align="center">4</td><td>Netwerkkabelinterface</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">5</td><td>AC-uitgangsinterface</td><td>AC</td></tr><tr><td align="center">6</td><td>Aardingsschroef</td><td>-</td></tr><tr><td align="center">7</td><td>RS-485 communicatie-interface</td><td>COM</td></tr><tr><td align="center">8</td><td>CommMod-interface</td><td>4G</td></tr><tr><td align="center">9</td><td>DC-ingangsinterface</td><td>PV1+/PV2+/ PV1-/PV2-</td></tr><tr><td align="center">10</td><td>Voedingsknop</td><td>AAN/UIT</td></tr></tbody></table>
