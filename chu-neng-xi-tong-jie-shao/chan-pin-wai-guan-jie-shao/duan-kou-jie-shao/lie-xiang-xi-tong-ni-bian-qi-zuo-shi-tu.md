@@ -1,0 +1,5 @@
+# Enfassystem med hjälpfas, växelriktare vänster vy
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="70.66668701171875" align="center">Nr</th><th>Namn</th><th>Märkning</th></tr></thead><tbody><tr><td align="center">1</td><td>Kommunikationsuttag</td><td>COM</td></tr><tr><td align="center">2</td><td>DC-brytare</td><td>DC SWITCH</td></tr><tr><td align="center">3</td><td>Uttag för dekorativ ljusslinga på kåpa</td><td>LED</td></tr><tr><td align="center">4</td><td>DC-kopplingsplint</td><td>PV1+/PV1-/PV2+/PV2-/PV3+/PV3-/PV4+/PV4-</td></tr><tr><td align="center">5</td><td>AC-kopplingsplint</td><td>L1/L2/N</td></tr><tr><td align="center">6</td><td>Jordskena av aluminium</td><td>-</td></tr><tr><td align="center">7</td><td>Uttag för nätverkskabel</td><td>RJ45 1/RJ45 2</td></tr><tr><td align="center">8</td><td>Jordningsskruv</td><td>-</td></tr><tr><td align="center">9</td><td>Strömknapp</td><td>ON/OFF</td></tr><tr><td align="center">10</td><td>(Reserverad) CommMod-uttag</td><td>4G</td></tr><tr><td align="center">11</td><td>Antennuttag</td><td>ANT</td></tr></tbody></table>

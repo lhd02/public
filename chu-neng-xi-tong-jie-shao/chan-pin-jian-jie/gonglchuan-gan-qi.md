@@ -1,0 +1,5 @@
+# Effektsensor
+
+Utrustad med datainsamling vid anslutningspunkten till elnätet för att möjliggöra funktionen för anslutning till elnätet utan kraftleverans.
+
+<table><thead><tr><th width="184">Produktnamn</th><th width="272">Modell</th><th>Namn</th></tr></thead><tbody><tr><td>Effektsensor</td><td>Sigen Sensor SP-DH(SDM230Modbus)</td><td>Sigen Power Sensor Single Phase DH</td></tr><tr><td>Effektsensor</td><td>Sigen Sensor SP-CT120-DH(SDM120CT 40mA)</td><td>Sigen Power Sensor Single Phase External CT 120 A DH</td></tr><tr><td>Effektsensor</td><td>Sigen Sensor TP-DH(SDM630MODBUS V2)</td><td>Sigen Power Sensor Three Phase DH</td></tr><tr><td>Effektsensor</td><td>Sigen Sensor TP-CT120-DH(SDM630MCT 40mA/120A)</td><td>Sigen Power Sensor Three Phase External CT 120 A DH</td></tr><tr><td>Effektsensor</td><td>Sigen Sensor TP-CT300-DH(SDM630MCT 40mA/300A)</td><td>Sigen Power Sensor Three Phase External CT 300 A DH</td></tr><tr><td>Effektsensor</td><td>Sigen Sensor TP-CT600-DH(SDM630MCT V2/600A)</td><td>Sigen Power Sensor Three Phase External CT 600 A DH</td></tr></tbody></table>

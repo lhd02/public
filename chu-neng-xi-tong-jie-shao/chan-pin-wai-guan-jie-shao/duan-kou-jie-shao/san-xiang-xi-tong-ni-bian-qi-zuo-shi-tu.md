@@ -1,0 +1,5 @@
+# Trefassystem, växelriktare vänster vy
+
+<figure><img src="../../../.gitbook/assets/SHA1OV00003 (2).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="83" align="center">Nr</th><th>Namn</th><th>Märkning</th></tr></thead><tbody><tr><td align="center">1</td><td>Uttag för dekorativ ljusslinga på kåpa</td><td>LED</td></tr><tr><td align="center">2</td><td>Uttag för nätverkskabel</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">3</td><td>Uttag för likströmsingång</td><td>PV1+/PV2+/PV3+/PV4+/PV1-/PV2-/PV3-/PV4-</td></tr><tr><td align="center">4</td><td>Uttag för växelströmsutgång</td><td>AC</td></tr><tr><td align="center">5</td><td>Kommunikationsuttag</td><td>COM</td></tr><tr><td align="center">6</td><td>Jordningsskruv</td><td>-</td></tr><tr><td align="center">7</td><td>Strömknapp</td><td>ON/OFF</td></tr><tr><td align="center">8</td><td>DC-brytare</td><td>DC SWITCH</td></tr><tr><td align="center">9</td><td>Sigen CommMod-uttag</td><td>4G</td></tr><tr><td align="center">10</td><td>Sigen CommMod-uttag</td><td>ANT</td></tr></tbody></table>
