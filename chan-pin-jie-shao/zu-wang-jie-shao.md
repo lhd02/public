@@ -12,7 +12,7 @@
 
 <figure><img src="../.gitbook/assets/SVA1OV00028-zh (3).png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">A．电池</td><td valign="top">B．光伏板</td><td valign="top">C．逆变器</td><td valign="top">D．交流开关（取决于负载功率）</td><td valign="top">E．功率传感器</td></tr><tr><td valign="top">F．箱式变电站</td><td valign="top">G．电网</td><td valign="top">H．思格云</td><td valign="top">I．路由器</td><td valign="top">J．思格通信棒</td></tr><tr><td valign="top">K．思格通信网桥</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">A．电池</td><td valign="top">B．光伏板</td><td valign="top">C．逆变器</td><td valign="top">D．交流开关（取决于逆变器功率）</td><td valign="top">E．功率传感器</td></tr><tr><td valign="top">F．箱式变电站</td><td valign="top">G．电网</td><td valign="top">H．思格云</td><td valign="top">I．路由器</td><td valign="top">J．思格通信棒</td></tr><tr><td valign="top">K．思格通信网桥</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
 
 {% include "https://app.gitbook.com/s/LphsQhUSDX9PgTtjDfX5/~/reusable/ufcMPIm1Yd46Pj7Ir1ce/" %}
 
