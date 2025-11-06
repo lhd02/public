@@ -21,7 +21,7 @@
 * [电站主设备参数设置](she-bei-can-shu-she-zhi/README.md)
   * [SigenStor/SigenStack Unit](she-bei-can-shu-she-zhi/sigenstor-sigen-pv-max.md)
   * [直流充电桩](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/README.md)
-    * [（可选）V2X功能开通与一键放电](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/ke-xuan-v2x-gong-neng-kai-tong-yu-yi-jian-fang-dian.md)
+    * [（可选）V2X功能开通与开启](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/ke-xuan-v2x-gong-neng-kai-tong-yu-yi-jian-fang-dian.md)
 * [第三方厂家设备添加](dian-zhan-she-bei-tian-jia/README.md)
   * [智能负载](dian-zhan-she-bei-tian-jia/zhi-neng-fu-zai.md)
   * [第三方厂家逆变器](dian-zhan-she-bei-tian-jia/di-san-fang-chang-jia-ni-bian-qi.md)
