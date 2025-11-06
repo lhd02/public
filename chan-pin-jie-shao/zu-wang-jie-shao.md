@@ -19,8 +19,8 @@
 * <mark style="color:blue;">每台逆变器需配备一个交流输出开关，多台逆变器不可同时接入一个交流开关。</mark>
 * <mark style="color:blue;">与每一台逆变器连接的交流开关额定电压均需 ≥500Va.c., 额定电流推荐规格：</mark>
   * <mark style="color:blue;">逆变器功率为50kW或60kW：额定电流为125A</mark>
-  * <mark style="color:blue;">逆变器功率为75kW或80kW：额定电流为160A</mark>
-  * <mark style="color:blue;">逆变器功率为99.9kW或100kW：额定电流为200A</mark>
+  * <mark style="color:blue;">逆变器功率为80kW：额定电流为160A</mark>
+  * <mark style="color:blue;">逆变器功率为100kW：额定电流为200A</mark>
   * <mark style="color:blue;">逆变器功率为110kW或125kW：额定电流为250A</mark>
 * <mark style="color:blue;">通信方式推荐采用FE和WLAN。CommMod赠送4G流量用完后，需用户自行充值或更换SIM卡。</mark>
 
