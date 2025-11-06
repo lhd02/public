@@ -26,7 +26,7 @@
   * [System Maintance](dian-zhan-can-shu-she-zhi/system-maintance.md)
 * [Device parameter setup](she-bei-can-shu-she-zhi/README.md)
   * [SigenStor/SigenStack Unit](she-bei-can-shu-she-zhi/sigenstor-sigen-pv-max.md)
-  * [Sigen EV DC Charging Module](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/README.md)
+  * [Sigen EV DC Charging Module Setting](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/README.md)
     * [(Optional) V2X Function Activation and Manual Control](she-bei-can-shu-she-zhi/sigen-ev-dc-charging-module/optional-v2x-function-activation-and-manual-control.md)
   * [Sigen EV AC Charger](she-bei-can-shu-she-zhi/sigen-ev-ac-charge1/README.md)
     * [Sigen EV AC Charger activates Sigen AI Mode](she-bei-can-shu-she-zhi/sigen-ev-ac-charge1/sigen-ev-ac-charger-activates-sigen-ai-mode.md)
