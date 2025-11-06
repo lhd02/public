@@ -39,7 +39,7 @@
   * [逆变器](device-parameter-setup/ni-bian-qi.md)
   * [思格能源备电柜](device-parameter-setup/gateway.md)
   * [直流充电桩](device-parameter-setup/sigen-ev-dc-charging-module/README.md)
-    * [（可选）V2X功能开通与一键放电](device-parameter-setup/sigen-ev-dc-charging-module/ke-xuan-v2x-gong-neng-kai-tong-yu-yi-jian-fang-dian.md)
+    * [（可选）V2X功能开通与开启](device-parameter-setup/sigen-ev-dc-charging-module/ke-xuan-v2x-gong-neng-kai-tong-yu-yi-jian-fang-dian.md)
   * [设备日志下载](device-parameter-setup/she-bei-ri-zhi-xia-zai.md)
 * [App设置](others.md)
 * [账号与团队设置](zhang-hao-yu-tuan-dui-she-zhi.md)
