@@ -1,11 +1,21 @@
 # Post-Sales service
 
-### Automatic New Addition Scenario
+### Automatic Addition Scenario
 
-In the automatic new addition scenario, the system will automatically identify the added devices and upgrade them, without the need for scanning operations or clicking the Post - Sales Service in the App for confirmation.
+The system automatically identifies and updates newly added devices, suitable for routine expansion.
 
-<table><thead><tr><th width="85">No.</th><th width="205">Component Type</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>New Battery</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device and can be upgraded automatically.</td></tr><tr><td>2</td><td>New Gateway on the Grid Side with Power</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device. Operations can be performed without automatically issuing a high voltage, and it can be upgraded automatically.</td></tr><tr><td>3</td><td>New Sigen EVDC Charger</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device and can be upgraded automatically.</td></tr><tr><td>4</td><td>New Sigen EVAC Charger</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device and can be upgraded automatically.</td></tr><tr><td>5</td><td>New SigenStor</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device and can be upgraded automatically.</td></tr><tr><td>6</td><td>New Data Acquisition</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device and can be upgraded automatically.</td></tr><tr><td>7</td><td>New Micro-inverter</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device and can be upgraded automatically.</td></tr><tr><td>8</td><td>New Industrial and Commercial BMU/BCU</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device and can be upgraded automatically.</td></tr><tr><td>9</td><td>New Industrial and Commercial Battery Transfer Box</td><td>After physically connecting and adding a new device, when powered on again, the App device interface will display the new device and can be upgraded</td></tr></tbody></table>
+* When a new device is added to the physical wiring, after re-powering, the App interface automatically displays the new device.
+* When the grid is powered, the system supports automatic identification of newly added Gateways.
 
 ### Manual Operation Scenario
 
-<table><thead><tr><th width="79">No.</th><th width="201">Component Type</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Add Gateway When Grid is Offline</td><td>When the grid is offline, Gateway needs to be added manually.</td></tr><tr><td>2</td><td>Battery Physical Position Calibration</td><td>When the display order of battery modules in the App is inconsistent with the physical stacking, use this function to issue physical position identification, which can repair it.</td></tr><tr><td>3</td><td>Wake Up Dormant Battery</td><td>Activate the dormant battery and issue a black start command.</td></tr><tr><td>4</td><td>Choose to Delete Device</td><td>There is no need to enter the scanning page. Compare whether the device node has been deleted. If so, directly enter the device deletion process; otherwise, a prompt that there are no operable spare parts will be given.</td></tr><tr><td>5</td><td>Choose to Replace All Devices</td><td>Scan the QR code at the old power station to replace it with a new SN number; click to enter the scanning process, and the subsequent process remains consistent with that online.</td></tr><tr><td>6</td><td>Choose the Original Scanning Entry</td><td>Click to enter the scanning process, and the subsequent process remains consistent with that online.</td></tr></tbody></table>
+Requires manual operation for handling exceptions, calibration, replacement, or device management under special conditions.
+
+Including but not limited to the following situations:
+
+* When the App display order is inconsistent with the physical stacking, tap "Location Identification".
+* Manually delete devices.
+* If all original power station devices need to be replaced, scan the new device's SN code to replace the old devices.
+* When the grid is off-grid, manually add a Gateway.
+* To activate a dormant battery, manually issue a black start command.
+* If the original scan entry is selected, tap to enter the original scan process.

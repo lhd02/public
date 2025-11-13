@@ -41,7 +41,7 @@
   * [Inverter Settings](device-parameter-setup/inverter.md)
   * [Gateway Settings](device-parameter-setup/gateway.md)
   * [Sigen EV DC Charging Module Settings](device-parameter-setup/sigen-ev-dc-charging-module/README.md)
-    * [(Optional) V2X Function Activation and Manual Control](device-parameter-setup/sigen-ev-dc-charging-module/optional-v2x-function-activation-and-manual-control.md)
+    * [(Optional) V2X Function Settings](device-parameter-setup/sigen-ev-dc-charging-module/optional-v2x-function-activation-and-manual-control.md)
   * [Sigen EV AC Charger Settings](device-parameter-setup/sigen-ev-ac-charger/README.md)
     * [Sigen EV AC Charger activates Sigen AI Mode](device-parameter-setup/sigen-ev-ac-charger/sigen-ev-ac-charger-activates-sigen-ai-mode.md)
   * [Downloading device logs](device-parameter-setup/downloading-device-logs.md)
