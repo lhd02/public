@@ -1,4 +1,4 @@
-# SigenStor/Sigen PV Max
+# SigenStor/SigenStack Unit Settings
 
 ## History maintenance
 
@@ -11,5 +11,8 @@
 
 ## Power on/off
 
-<figure><img src="../../.gitbook/assets/MSA1CM00082-单设备开关机.png" alt=""><figcaption></figcaption></figure>
+{% include "../../.gitbook/includes/tips.md" %}
 
+<mark style="color:blue;">This function is not supported in the Japan region.</mark>
+
+<figure><img src="../../.gitbook/assets/MSA1CM00082-单设备开关机.png" alt=""><figcaption></figcaption></figure>
