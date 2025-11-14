@@ -67,6 +67,7 @@ Click "Settings" → "System Settings" → "Connectivity" in General → "Cellul
 {% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
 
 * <mark style="color:blue;">If Sigen Sigen Hybrid SP, Sigen Hybrid SP AU, Sigen Hybrid TP, Sigen Hybrid TP AU, Sigen Hybrid TPLV Series inverters are expected to be applied in PV storage systems, users must purchase and activate the license.</mark>
+* <mark style="color:blue;">When upgrading the Sigen EV DC Charging Module (e.g., from 12.5kW to 25kW), it is necessary to purchase and activate a License.</mark>
 * <mark style="color:blue;">During purchase, the product information must match the device information.</mark>
 
 ## **How to Activate a License?**
