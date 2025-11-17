@@ -32,7 +32,7 @@
 
 ## Islanding
 
-<table><thead><tr><th width="76.25">No.</th><th width="235">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Active Anti-islanding</td><td>When it is set to<img src="../.gitbook/assets/10 (1).png" alt="" data-size="line"> , active anti-islanding is activated.</td></tr><tr><td>2</td><td>Passive Islanding Enable</td><td>When set to <img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, islanding detection is performed by monitoring changes in voltage, frequency, phase, or harmonics at the equipment output when the grid power is off.<br>Passive Islanding Phase Angle Protection Value:</td></tr></tbody></table>
+<table><thead><tr><th width="76.25">No.</th><th width="235">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Active Anti-islanding</td><td>When it is set to<img src="../.gitbook/assets/10 (1).png" alt="" data-size="line"> , active anti-islanding is activated.</td></tr><tr><td>2</td><td>Passive Islanding Enable</td><td>When set to <img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, islanding detection is performed by monitoring changes in voltage, frequency, phase, or harmonics at the equipment output when the grid power is off.<br>Passive Islanding Phase Angle Protection Value: When the phase jump of the grid voltage exceeds the set protection value, it will trigger the passive islanding protection action.</td></tr></tbody></table>
 
 ## AFCI
 
