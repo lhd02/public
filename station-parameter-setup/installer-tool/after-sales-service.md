@@ -1,5 +1,7 @@
 # Post-Sales service
 
+<figure><img src="../../.gitbook/assets/MSA1CM00078-Post-Sales Service.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### Automatic Addition Scenario
 
 The system automatically identifies and updates newly added devices, suitable for routine expansion.
@@ -13,7 +15,7 @@ Requires manual operation for handling exceptions, calibration, replacement, or 
 
 Including but not limited to the following situations:
 
-* When the App display order is inconsistent with the physical stacking, tap "Location Identification".
+* When the App display order is inconsistent with the physical pack, tap "Position Recognition".
 * Manually delete devices.
 * If all original power station devices need to be replaced, scan the new device's SN code to replace the old devices.
 * When the grid is off-grid, manually add a Gateway.
