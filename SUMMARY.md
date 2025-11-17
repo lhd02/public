@@ -32,7 +32,7 @@
     * [Post-Sales service](station-parameter-setup/installer-tool/after-sales-service.md)
     * [(Optional)Remote Output Control](station-parameter-setup/installer-tool/optional-remote-output-control.md)
     * [(Optional) Modbus TCP Server](station-parameter-setup/installer-tool/optional-modbus-tcp-server.md)
-* [Main Equipment Parameter Configuration for Power Stations](device-parameter-setup/README.md)
+* [Main Device parameter setup](device-parameter-setup/README.md)
   * [SigenStor/SigenStack Unit Settings](device-parameter-setup/sigenstor/README.md)
     * [Operational Parameters](device-parameter-setup/sigenstor/operational-parameters.md)
     * [ModBus Settings](device-parameter-setup/sigenstor/modbus-settings.md)
