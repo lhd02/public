@@ -18,7 +18,7 @@ The Home screen displays running information, You can click<img src="../.gitbook
 * You can set the house style displayed on the homepage according to your needs.
 * The 3D house style requires downloading before use.
 
-
+<figure><img src="../.gitbook/assets/MSA1CM00071-System Type (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Energy Analysis**
 
