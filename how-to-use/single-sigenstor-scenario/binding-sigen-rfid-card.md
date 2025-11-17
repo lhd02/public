@@ -1,6 +1,6 @@
 # Binding Sigen RFID Card
 
-<figure><img src="../../.gitbook/assets/MSA1CM00051-绑卡-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MSA1CM00051-bangka-en.png" alt=""><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/tips.md" %}
 

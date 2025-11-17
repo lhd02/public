@@ -1,8 +1,8 @@
 # Unauthenticated Charging Mode
 
-1. Turn "Authentication" off, that is, <img src="../../../.gitbook/assets/shouquanbutton.png" alt="" data-size="line">.
+1. Turn "Authorisation" off, that is, <img src="../../../.gitbook/assets/shouquanbutton.png" alt="" data-size="line">.
 
-<div align="center"><figure><img src="../../../.gitbook/assets/MSA1CM00051-鉴权-en.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/MSA1CM00051-jianquan-en.png" alt=""><figcaption></figcaption></figure></div>
 
 2. Install the charging connector in place.
 
