@@ -30,7 +30,7 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 ### Residential Energy Storage Station
 
-<table><thead><tr><th width="67" align="center">No.</th><th width="206">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Battery Preheating Scheduling</td><td>When set to <img src="../../../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line">, activates the scheduled heating function for the battery heating film.</td></tr><tr><td align="center">2</td><td>Heating</td><td>Click to add scheduled heating time periods for the battery heating film.</td></tr></tbody></table>
+<table><thead><tr><th width="67" align="center">No.</th><th width="206">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Battery Preheating Scheduling</td><td>When set to <img src="../../../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line">, Enable the scheduled heating function for the battery heating pad.</td></tr><tr><td align="center">2</td><td>Heating</td><td>Click to add scheduled heating time periods for the battery heating film.</td></tr></tbody></table>
 
 ### Commercial & Industrial Energy Storage Station
 
@@ -40,7 +40,7 @@ After Battery Preheating Scheduling set to<img src="../../../.gitbook/assets/未
 
 In manual mode, it is necessary to manually set the scheduled heating time periods for the battery heating film and the expected charging and discharging power.
 
-<table><thead><tr><th width="75">No.</th><th width="217">Parameter Name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Preheating</td><td>When set to<img src="../../../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line">, activates the scheduled heating function for the battery heating film.</td></tr><tr><td>2</td><td>Heating</td><td>Click to add scheduled heating time periods for the battery heating film.</td></tr><tr><td>3</td><td>Target Charging Power</td><td>Due to low temperatures limiting battery charging power, heating stops when the charging capability exceeds this value after heating starts.</td></tr><tr><td>4</td><td>Target Discharging Power</td><td>Due to low temperatures limiting battery discharging power, heating stops when the discharging capability exceeds this value after heating starts.</td></tr></tbody></table>
+<table><thead><tr><th width="75" align="center">No.</th><th width="217">Parameter Name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Preheating</td><td>When set to<img src="../../../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line">, Enable the scheduled heating function for the battery heating pad.</td></tr><tr><td align="center">2</td><td>Heating</td><td>Click to add scheduled heating time periods for the battery heating film.</td></tr><tr><td align="center">3</td><td>Target Charging Power</td><td>Due to low temperatures limiting battery charging power, heating stops when the charging capability exceeds this value after heating starts.</td></tr><tr><td align="center">4</td><td>Target Discharging Power</td><td>Due to low temperatures limiting battery discharging power, heating stops when the discharging capability exceeds this value after heating starts.</td></tr></tbody></table>
 
 #### **Depends on System (Automatic)**
 
