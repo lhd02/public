@@ -1,6 +1,6 @@
 # 使用设备
 
-SigenStor EVDC支持App鉴权充电、RFID刷卡片鉴权充电、无鉴权充电、<mark style="color:red;">预约充电</mark>。
+SigenStor EVDC支持App鉴权充电、RFID刷卡片鉴权充电、无鉴权充电、预约充电。
 
 {% include "../../.gitbook/includes/caution.md" %}
 
