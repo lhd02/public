@@ -104,7 +104,7 @@ Click "Service" → "Support" → "History" → Select the ticket → Click "Pro
 
 ## How to View Power Station Earnings and Income Calendar in Sigen AI Mode?
 
-If the power station has activated Sigen AI mode,  Click "Current Mode" on the home page → Select "Sigen AI mode" to view the earnings and income calendar for Sigen AI mode.
+If the power station has activated Sigen AI mode,  Click "Current Mode" on the Homepage → Select "Sigen AI mode" to view the earnings and income calendar for Sigen AI mode.
 
 ## How to View VPP Dispatch Records in VPP Scheduling Mode?
 

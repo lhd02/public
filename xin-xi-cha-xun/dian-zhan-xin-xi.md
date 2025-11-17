@@ -13,6 +13,13 @@ The Home screen displays running information, You can click<img src="../.gitbook
 * Click <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">→<img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> to create a customized homepage layout according to your needs.
 * Click 'Restore Defaults' to reset to default settings.
 
+## Power Station Page House Style Modification
+
+* You can set the house style displayed on the homepage according to your needs.
+* The 3D house style requires downloading before use.
+
+
+
 ## **Energy Analysis**
 
 Click the energy box to view the energy flow.
