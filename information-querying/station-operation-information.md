@@ -32,5 +32,5 @@ After Sigencloud has set up logical integration, the upper right corner will sho
 * You can set the house style displayed on the homepage according to your needs.
 * 3D house styles require downloading before use.
 
-<figure><img src="../.gitbook/assets/MSA1CM00078-System Type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1CM00078-System Type (1).png" alt=""><figcaption></figcaption></figure>
 
