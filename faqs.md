@@ -106,3 +106,20 @@ Click on "Service" → "Community" → "Profile icon" in the upper right corner 
 ## Does the Sigen EV AC Charger (pure charging station) support PV surplus charging with third-party inverters?
 
 Yes, it does. However, the Sigen EV AC Charger pure charging station must be configured with a Sigen power sensor.
+
+## How to Return a Completed ticket for Resubmission?
+
+{% include ".gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">Tickets completed within 7 days can be returned for resubmission.</mark>
+
+Click "Service" → "Support" → "History" → Select the ticket → Click "Problem unsolved? Restart ticket"
+
+## How to View Power Station Earnings and Income Calendar in Sigen AI Mode?
+
+If the power station has activated Sigen AI mode, click the <img src=".gitbook/assets/image (42).png" alt="" data-size="line"> next to the station name → Click "Operational Mode" → Click "Current Mode" → Select "Sigen AI mode" to view the earnings and income calendar for Sigen AI mode.
+
+## How to View VPP Dispatch Records in VPP Scheduling Mode?
+
+Click on the power station, scroll down to find the Power Metrics Chart, and click "Grid Service".
+
