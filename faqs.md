@@ -78,3 +78,23 @@
 ## **如何激活延长保修服务？**
 
 点击“服务”→“商城”→<img src=".gitbook/assets/image (32).png" alt="" data-size="line">→选择要激活的订单→点击“立即激活”→复制“延长保修密钥”→选择电站→输入“延长保修密钥”
+
+## **如何关闭思格查看账号电站信息授权？**
+
+点击点击“Service ”→“Community”→右上角“账号头像”→“Setting”→“Authorize station info”→“Revoke”→右上角“Unbind”。
+
+## 如何将完成的工单退回重新提交？
+
+{% include "https://app.gitbook.com/s/OGIICehJiMvqdVX7wksn/~/reusable/p4FUqXvLmYuzqficHZJF/" %}
+
+<mark style="color:blue;">7日内完成的工单可退回重新提交。</mark>
+
+点击“Service”→“Support”→“History”→选择工单→点击“Problem unsolved? Restart ticket”
+
+## Sigen AI Mode下，如何查看电站的收益和收入日历？
+
+点击若电站已开通Sigen AI mode，在主页点击“Current Mode”→选择“Sigen AI mode”即可查看Sigen AI mode的收益和收入日历。
+
+## Vpp Scheduling mode下， 如何查看Vpp调度记录？
+
+点击电站，下滑找到Power Metrics Chart，点击“Grid Service”。
