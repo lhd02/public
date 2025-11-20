@@ -10,7 +10,7 @@
 * <mark style="color:blue;">After adding the Smart Load to the App, you can switch the Smart Load on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.</mark>
 * <mark style="color:blue;">If you cannot locate the icon of the connected device, for example, an immersion heater, select "Other" and connect it. You can check the connected smart load on the "Device" screen.</mark>
 
-<figure><img src="../.gitbook/assets/SSA1CM00072-Gateway添加智能负载.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1CM00072-Gateway add smart load.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Method 2: Connecting using Shelly
 
