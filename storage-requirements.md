@@ -1,10 +1,10 @@
 # Storage Requirements
 
 * The storage location must comply with local laws and regulations.
-* Do not unpack the storage equipment. If the equipment has been unpacked and is not put into use immediately, please place it back into its original packaging with the desiccant retained and seal it with tape.
+* Do not store the equipment without packaging. If the equipment has been unpacked and is not put into use immediately, please place it back into its original packaging with the desiccant retained and seal it with tape.
 * Do not store battery packs with other items. Fire fighting facilities such as fire extinguishers that meet requirements must be placed at the battery pack storage site.
 * Do not expose the equipment to direct sunlight or to wet, dewy, dirty, rainy, flammable, explosive or corrosive environments.
-* During storage, check the packaging regularly (recommended: once every three months). The storage location should be well protected against insects and rodents. The packaging must be replaced promptly if any damage is found due to insect or rodent infestation.
+* Regularly check the equipment (recommended once every three months) during the storage period. Take measures to prevent pests and rodents in the storage area. Replace the packaging immediately if the packaging is damaged by pests or rodents.
 * When storing the equipment, place it according to the storage requirements on the package.
 * When temporarily storing equipment outdoors, stacking on pallets is prohibited, and protective measures (such as providing tarpaulins, etc.) must be implemented to prevent the equipment from being exposed to rain, snow, standing water, or other corrosive elements.
 * During storage, periodically record the temperature and humidity of the storage environment.
