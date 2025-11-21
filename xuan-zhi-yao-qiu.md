@@ -38,4 +38,16 @@
 
 #### Sigen Gateway TPLV C30-2, Sigen Gateway C60-2, Sigen Gateway C60 AU
 
-<figure><img src=".gitbook/assets/SSA1SF00008-zh.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSA1SF00008-logo+灯-zh.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Sigen Gateway C120-6, TPLV C70-6)
+
+<figure><img src=".gitbook/assets/SGA1OV00018-zh.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Sigen Gateway (C180-9, C300-12)
+
+<figure><img src=".gitbook/assets/SGA1OV00033-zh.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Sigen Gateway (C600, C1200, C600-B, C1200-B)
+
+<figure><img src=".gitbook/assets/SGA1SF00011-zh.png" alt="" width="563"><figcaption></figcaption></figure>
