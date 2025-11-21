@@ -36,4 +36,6 @@
 * 安装载体表面要平整，可安装区域要满足设备安装空间要求。
 * 安装载体内部无水电走线，以免安装设备时钻孔发生危险。
 
+#### Sigen Gateway TPLV C30-2, Sigen Gateway C60-2, Sigen Gateway C60 AU
+
 <figure><img src=".gitbook/assets/SSA1SF00008-zh.png" alt="" width="375"><figcaption></figcaption></figure>
