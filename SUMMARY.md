@@ -29,6 +29,7 @@
     * [Sigen PV 125M1-HYA Inverter](introduction-to-energy-storage-system/appearance-introduction/sigen-pv-125m1-hya-inverter.md)
     * [Sigen PV (50–110)M1-HYB Inverter](introduction-to-energy-storage-system/appearance-introduction/sigen-pv-50-110-m1-hyb-inverter.md)
     * [Sigen PV 100M1-HYB-JP](introduction-to-energy-storage-system/appearance-introduction/sigen-pv-100m1-hyb-jp.md)
+    * [Sigen PV (150–160)M2 Inverter](introduction-to-energy-storage-system/appearance-introduction/sigen-pv-150-160-m2-inverter.md)
     * [Sigen Battery](introduction-to-energy-storage-system/appearance-introduction/sigen-battery.md)
     * [Sigen Communication Bridge](introduction-to-energy-storage-system/appearance-introduction/sigen-communication-bridge.md)
   * [Label Description](introduction-to-energy-storage-system/label-description.md)
