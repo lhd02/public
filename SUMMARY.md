@@ -29,6 +29,7 @@
     * [Sigen PV 125M1-HYA逆变器](chan-pin-jie-shao/chan-pin-wai-guan/sigen-pv-125m1hya-ni-bian-qi.md)
     * [Sigen PV (50–110)M1-HYB逆变器](chan-pin-jie-shao/chan-pin-wai-guan/sigen-pv-50110m1hyb-ni-bian-qi.md)
     * [Sigen PV 100M1-HYB-JP逆变器](chan-pin-jie-shao/chan-pin-wai-guan/sigen-pv-100m1hybjp-ni-bian-qi.md)
+    * [Sigen PV (150–160)M2逆变器](chan-pin-jie-shao/chan-pin-wai-guan/sigen-pv-150160m2-ni-bian-qi.md)
     * [思格电池](chan-pin-jie-shao/chan-pin-wai-guan/si-ge-dian-chi.md)
     * [思格通信网桥](chan-pin-jie-shao/chan-pin-wai-guan/si-ge-tong-xin-wang-qiao.md)
   * [标签说明](chan-pin-jie-shao/biao-qian-shuo-ming.md)
