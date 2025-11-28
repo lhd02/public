@@ -45,9 +45,13 @@
 
 ## **电价设置**
 
+{% include "../../../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">部分电价运营商需输入密匙，以App界面显示为准。</mark>
+
 ### **费率电价计划**
 
-<table><thead><tr><th width="84" align="center" valign="top">序号</th><th width="157.66668701171875" valign="top">参数名称</th><th valign="top">说明</th></tr></thead><tbody><tr><td align="center" valign="top">1</td><td valign="top">电力公司</td><td valign="top">选择电力公司。</td></tr><tr><td align="center" valign="top">2</td><td valign="top">电价计划名称</td><td valign="top">选择电价方案。</td></tr><tr><td align="center" valign="top">3</td><td valign="top">货币单位</td><td valign="top">默认使用辅币单位进行设置。</td></tr><tr><td align="center" valign="top">4</td><td valign="top">费率电价</td><td valign="top">自动匹配附加费用。</td></tr><tr><td align="center" valign="top">5</td><td valign="top">定制电价</td><td valign="top">点击切换到定制电价计划。</td></tr></tbody></table>
+<table><thead><tr><th width="84" align="center" valign="top">序号</th><th width="157.66668701171875" valign="top">参数名称</th><th valign="top">说明</th></tr></thead><tbody><tr><td align="center" valign="top">1</td><td valign="top">电力公司</td><td valign="top">选择电力公司。</td></tr><tr><td align="center" valign="top">2</td><td valign="top">(可选) 密钥</td><td valign="top">设置电价厂商密钥，设置后App可获取电价并展示。</td></tr><tr><td align="center" valign="top">3</td><td valign="top">电价计划名称</td><td valign="top">选择电价方案。</td></tr><tr><td align="center" valign="top">4</td><td valign="top">货币单位</td><td valign="top">默认使用辅币单位进行设置。</td></tr><tr><td align="center" valign="top">5</td><td valign="top">费率电价</td><td valign="top">自动匹配附加费用。</td></tr><tr><td align="center" valign="top">6</td><td valign="top">定制电价</td><td valign="top">点击切换到定制电价计划。</td></tr></tbody></table>
 
 ### **定制电价计划**
 
@@ -65,4 +69,4 @@
 
 <mark style="color:blue;">若设置此参数，电网优先执行电网自动化设置的参数。</mark>
 
-<table><thead><tr><th width="60" align="center" valign="middle">序号</th><th width="149" valign="middle">参数名称</th><th valign="top">说明</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="middle">添加时间段</td><td valign="top">点击添加时间段。</td></tr><tr><td align="center" valign="middle">2</td><td valign="middle">添加你的操作</td><td valign="top"><p>点击添加电网运行状态。</p><p><strong>电网自消耗：电池的电能优先供给负载，剩余电能卖给电网。</strong></p><ul><li>从电网输入的最大功率：设置从电网购买电力的最大输入功率。</li><li>向电网输出的最大功率：设置向电网卖电的最大输出功率。</li></ul><p><strong>电网输入：系统从电网买电模式。</strong></p><ul><li>从电网输入的最大功率：设置系统从电网买电的最大功率。</li></ul><p><strong>电网输出：系统向电网卖电模式。</strong></p><ul><li>向电网输出的最大功率：设置系统向电网卖电的最大输出功率。</li><li>电网输出源优先级：根据设置优先级向电网卖电。</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="60" align="center" valign="middle">序号</th><th width="149" valign="middle">参数名称</th><th valign="top">说明</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="middle">添加时间段</td><td valign="top">点击添加时间段。</td></tr><tr><td align="center" valign="middle">2</td><td valign="middle">添加你的操作</td><td valign="top"><p>点击添加电网运行状态。</p><ol><li><strong>电网自消耗：电池的电能优先供给负载，剩余电能卖给电网。</strong></li><li><strong>电网输入：系统从电网买电模式。</strong></li><li><strong>电网输出：系统向电网卖电模式。</strong></li></ol><ul><li>从电网输入的最大功率：设置从电网购买电力的最大输入功率。</li><li>向电网输出的最大功率：设置系统向电网卖电的最大输出功率。</li><li>电网输出源优先级：根据设置优先级向电网卖电。</li></ul></td></tr></tbody></table>
