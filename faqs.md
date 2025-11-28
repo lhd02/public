@@ -81,7 +81,7 @@
 
 ## **如何关闭思格查看账号电站信息授权？**
 
-点击点击“Service ”→“Community”→右上角“账号头像”→“Setting”→“Authorize station info”→“Revoke”→右上角“Unbind”。
+点击点击“服务”→“社区”→右上角“账号头像”→“设置”→“授权电站信息”→“撤销”→右上角“解除绑定”。
 
 ## 如何将完成的工单退回重新提交？
 
@@ -89,12 +89,12 @@
 
 <mark style="color:blue;">7日内完成的工单可退回重新提交。</mark>
 
-点击“Service”→“Support”→“History”→选择工单→点击“Problem unsolved? Restart ticket”
+点击“服务”→“客服”→“历史故障”→选择工单→点击“问题未解决？重启工单”
 
-## Sigen AI Mode下，如何查看电站的收益和收入日历？
+## Sigen AI 模式下，如何查看电站的收益和收入日历？
 
-点击若电站已开通Sigen AI mode，在主页点击“Current Mode”→选择“Sigen AI mode”即可查看Sigen AI mode的收益和收入日历。
+点击若电站已开通Sigen AI模式，在主页点击“当前模式”→选择“Sigen AI模式”即可查看Sigen AI 模式的收益和收入日历。
 
-## Vpp Scheduling mode下， 如何查看Vpp调度记录？
+## **虚拟电厂调度**模式下， 如何查看Vpp调度记录？
 
-点击电站，下滑找到Power Metrics Chart，点击“Grid Service”。
+点击电站，下滑找到功率数据指标图标，点击“电网服务”。
