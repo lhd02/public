@@ -1,4 +1,4 @@
-# SigenStor/SigenStack Unit
+# SigenStor/SigenStack Unit设置
 
 ## **历史信息维护**
 
@@ -10,5 +10,9 @@
 <figure><img src="../../.gitbook/assets/MSA1CM00103-历史信息维护.png" alt=""><figcaption></figcaption></figure>
 
 ## **设备开关机**
+
+{% include "../../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">日本地区不支持此功能。</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00103-一体机开关机.png" alt=""><figcaption></figcaption></figure>

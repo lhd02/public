@@ -18,6 +18,8 @@
 
 * <mark style="color:blue;">第三方厂家逆变器已经正确连接计量电表（计量电表请从本公司购买）。</mark>
 * <mark style="color:blue;">计量电表已正确连接至本公司逆变器的COM端口，具体接线接口请参见对应产品的《安装指南》。</mark>
+* <mark style="color:blue;">可选择单台或多台第三方厂家逆变器，请根据实际情况选择。</mark>
+* <mark style="color:blue;">若采用RGM电表，需根据实际接线情况，选择对应设备SN号。</mark>
 
 <figure><img src="../.gitbook/assets/MSA1CM00107-计量电表添加三逆.png" alt=""><figcaption></figcaption></figure>
 

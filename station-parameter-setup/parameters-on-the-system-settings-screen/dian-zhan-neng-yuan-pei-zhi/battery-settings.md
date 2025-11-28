@@ -28,7 +28,7 @@
 
 <mark style="color:blue;">在低温环境下预先调节电池温度至最佳工作范围，防止低温导致电池性能衰减与安全隐患。</mark>
 
-<table><thead><tr><th width="71" align="center" valign="top">序号</th><th width="258" valign="top">参数名称</th><th valign="top">说明</th></tr></thead><tbody><tr><td align="center" valign="top">1</td><td valign="top">电池预热计划</td><td valign="top">设置为<img src="../../../.gitbook/assets/未标题-1_画板 1.png" alt="" data-size="line">时，可设置电池预热时段。</td></tr></tbody></table>
+<table><thead><tr><th width="71" align="center" valign="top">序号</th><th width="258" valign="top">参数名称</th><th valign="top">说明</th></tr></thead><tbody><tr><td align="center" valign="top">1</td><td valign="top">电池预热计划</td><td valign="top">设置为<img src="../../../.gitbook/assets/未标题-1_画板 1 (1).png" alt="" data-size="line">时，可设置电池预热时段。</td></tr></tbody></table>
 
 ## 电池功率限制
 
