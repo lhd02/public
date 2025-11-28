@@ -1,23 +1,20 @@
 # Post-Sales service
 
+Users who have purchased our company's products and already own a power station can add, remove, or replace Sigen products in their existing power station by following the methods described in this section.
+
 <figure><img src="../../.gitbook/assets/MSA1CM00078-Post-Sales Service.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Automatic Addition Scenario
 
-The system automatically identifies and updates newly added devices, suitable for routine expansion.
+This includes, but is not limited to, the following cases:
 
-* When a new device is added to the physical wiring, after re-powering, the App interface automatically displays the new device.
-* When the grid is powered, the system supports automatic identification of newly added Gateways.
+* Adding Sigen inverters, Sigen battery packs or energy storage systems, Sigen Micro, Sigen EV DC Charging Modules, or Sigen EV AC Chargers.
+* Adding a Sigen Gateway when connecting to the grid.
 
 ### Manual Operation Scenario
 
-Requires manual operation for handling exceptions, calibration, replacement, or device management under special conditions.
+This includes, but is not limited to, the following cases:
 
-Including but not limited to the following situations:
-
-* When the App display order is inconsistent with the physical pack, tap "Position Recognition".
-* Manually delete devices.
-* If all original power station devices need to be replaced, scan the new device's SN code to replace the old devices.
-* When the grid is off-grid, manually add a Gateway.
-* To activate a dormant battery, manually issue a black start command.
-* If the original scan entry is selected, tap to enter the original scan process.
+* When the order of battery packs displayed in the App does not match the physical stacking, click "Position Recognition" to calibrate the battery positions.
+* To delete Sigen products such as Sigen inverters, Sigen battery packs or energy storage systems, Sigen Micro, Sigen EV DC Charging Modules, or Sigen EV AC Chargers, click "Delete Device."
+* To replace all Sigen products in the original power station, scan the new device's SN code. To replace an old Sigen product, click "Replace."
