@@ -1,16 +1,16 @@
 # 思格逆变器
 
-## Sigen PV (50–125)M1
+## Sigen PV (50–166)M1
 
 纯光逆变器，可应用于纯光场景，需与光伏组件配合使用。
 
-<table><thead><tr><th width="214.97998046875">型号</th><th>名称</th></tr></thead><tbody><tr><td>Sigen PV 50M1-CN</td><td>Sigen PV Inverter 50 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 60M1-CN</td><td>Sigen PV Inverter 60 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 80M1-CN</td><td>Sigen PV Inverter 80 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 100M1-CN</td><td>Sigen PV Inverter 100 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 110M1-CN</td><td>Sigen PV Inverter 110 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 125M1-CN</td><td>Sigen PV Inverter 125 kW M1 Version 中国区</td></tr></tbody></table>
+<table><thead><tr><th width="214.97998046875">型号</th><th>名称</th></tr></thead><tbody><tr><td>Sigen PV 50M1-CN</td><td>Sigen PV Inverter 50 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 60M1-CN</td><td>Sigen PV Inverter 60 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 80M1-CN</td><td>Sigen PV Inverter 80 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 100M1-CN</td><td>Sigen PV Inverter 100 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 110M1-CN</td><td>Sigen PV Inverter 110 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 125M1-CN</td><td>Sigen PV Inverter 125 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 150M1-CN</td><td>Sigen PV Inverter 150 kW M1 Version 中国区</td></tr><tr><td>Sigen PV 166M1-CN</td><td>Sigen PV Inverter 166 kW M1 Version 中国区</td></tr></tbody></table>
 
-## Sigen PV (150–160)M2
+## Sigen PV (150–166)M2
 
 纯光逆变器，可应用于纯光场景，需与光伏组件配合使用。
 
-<table><thead><tr><th width="214.97998046875">型号</th><th>名称</th></tr></thead><tbody><tr><td>Sigen PV 150M2-CN</td><td>Sigen PV Inverter 150 kW M2 Version 中国区</td></tr><tr><td>Sigen PV 160M2-CN</td><td>Sigen PV Inverter 160 kW M2 Version 中国区</td></tr></tbody></table>
+<table><thead><tr><th width="214.97998046875">型号</th><th>名称</th></tr></thead><tbody><tr><td>Sigen PV 150M2-CN</td><td>Sigen PV Inverter 150 kW M2 Version 中国区</td></tr><tr><td>Sigen PV 1660M2-CN</td><td>Sigen PV Inverter 166 kW M2 Version 中国区</td></tr></tbody></table>
 
 ## Sigen PV (50–125)M1-HYA
 
