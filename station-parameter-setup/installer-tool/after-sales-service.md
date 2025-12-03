@@ -6,14 +6,14 @@ Users who have purchased our company's products and already own a power station 
 
 ### Automatic Addition Scenario
 
-This includes, but is not limited to, the following cases:
+Including but not limited to the following scenarios:
 
 * Adding Sigen inverters, Sigen battery packs or energy storage systems, Sigen Micro, Sigen EV DC Charging Modules, or Sigen EV AC Chargers.
 * Adding a Sigen Gateway when connecting to the grid.
 
 ### Manual Operation Scenario
 
-This includes, but is not limited to, the following cases:
+Including but not limited to the following scenarios:
 
 * When the order of battery packs displayed in the App does not match the physical stacking, click "Position Recognition" to calibrate the battery positions.
 * To delete Sigen products such as Sigen inverters, Sigen battery packs or energy storage systems, Sigen Micro, Sigen EV DC Charging Modules, or Sigen EV AC Chargers, click "Delete Device."
