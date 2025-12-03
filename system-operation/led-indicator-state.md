@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/SSA1OV00015-EN.png)
 
-<figure><img src="../.gitbook/assets/SHA1OV00012-en黄.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SHA1OV00013-en.png" alt=""><figcaption></figcaption></figure>
 
 ### Light Language 2
 
