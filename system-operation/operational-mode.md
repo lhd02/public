@@ -24,7 +24,9 @@ By obtaining local peak and valley electricity prices and weather data, combined
 * Up to 24 charging and discharging or self-consumption periods can be set.
 *   It is suitable for areas with peak and valley electricity prices and significant price differences.
 
-    \*When entering this period, the battery capacity will be recorded. When the photovoltaic power is greater than the load, the remaining photovoltaic power will charge the battery. When the photovoltaic power is less than the load, the battery can be discharged to the load. However, when the battery capacity decreases and approaches the battery capacity value when entering this period, the battery will stop discharging.
+
+
+\*When entering this period, the battery capacity will be recorded. When the photovoltaic power is greater than the load, the remaining photovoltaic power will charge the battery. When the photovoltaic power is less than the load, the battery can be discharged to the load. However, when the battery capacity decreases and approaches the battery capacity value when entering this period, the battery will stop discharging.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
