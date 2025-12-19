@@ -37,3 +37,52 @@
 ## AFCI
 
 <table><thead><tr><th width="169.1817626953125">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>AFCI Enables</td><td>When it is set to <img src="../.gitbook/assets/10 (1).png" alt="" data-size="line">, the device will conduct the DC arc testing.</td></tr></tbody></table>
+
+## Setting P(U) Curve
+
+Step 1 : Tap Device > Inverter > Inverter Settings > PU curve Points inculdes.
+
+Step 2 : Set the parameters based on the actual needs.
+
+![Screenshot\_20240621\_105642](../.gitbook/assets/Screenshot_20240621_105642)![Image\_20240621105423](../.gitbook/assets/Image_20240621105423)
+
+&#x20;
+
+<table><thead><tr><th width="60.5" valign="top">No.</th><th width="187" valign="top">Parameter name</th><th valign="top">Description</th></tr></thead><tbody><tr><td valign="top">1</td><td valign="top">Reactive power Q/S regulation</td><td valign="top">Regulates the reactive power output by percentage.</td></tr><tr><td valign="top">2</td><td valign="top">Fixed value adjustment of reactive power</td><td valign="top">Regulates the reactive power output by the fixed value.</td></tr><tr><td valign="top">3</td><td valign="top">Power factor adjustment</td><td valign="top">Specifies the power factor.</td></tr><tr><td valign="top">4</td><td valign="top">PF-P/Pn curve Points included</td><td valign="top">Specifies the power factor of the device regulating the output power based on P/Pn(%) in real time.</td></tr><tr><td valign="top">5</td><td valign="top">PF-P/Pn adjustment time</td><td valign="top">Specifies the time required to regulate 95% of the reactive power output from the device based on the PF-P/Pn curve correspondence.</td></tr><tr><td valign="top">6</td><td valign="top">PF-U curve Points included</td><td valign="top">Specifies the power factor that the device regulates in real time based on the ratio U/Un(%) between the actual voltage and the rated voltage.</td></tr><tr><td valign="top">7</td><td valign="top">Q-P curve Points included</td><td valign="top">Specifies the ratio Q/Pmax between reactive power and maximum active power that the device regulates in real time based on the ratio P/Pmax between active power and maximum active power.</td></tr><tr><td valign="top">8</td><td valign="top">Q-P curve adjustment time</td><td valign="top">Specifies the time required to regulate 95% of the reactive power output from the device based on the Q-P curve correspondence.</td></tr><tr><td valign="top">9</td><td valign="top">Q-U curve Points included</td><td valign="top">Specifies the ratio Q/S between reactive power output and apparent power that the device regulates in real time based on the ratio U/Un(%) between actual grid voltage and rated voltage.</td></tr><tr><td valign="top">10</td><td valign="top">Q-U curve trigger power</td><td valign="top">Specifies the P/Pmax at which the device triggers the Q-U curve function. The Q-U curve scheduling function is enabled when the actual power is greater than the set value.</td></tr><tr><td valign="top">11</td><td valign="top">Q-U curve exit power</td><td valign="top">Specifies the P/Pmax at the device that exists the Q-U curve function. The Q-U curve scheduling function is disabled when the actual power is lower than the set value.</td></tr><tr><td valign="top">12</td><td valign="top">Q-U curve power regulation time</td><td valign="top">Specifies the time required to regulate 95% of the reactive power output from the device based on the Q-U curve correspondence.</td></tr></tbody></table>
+
+### Setup V-Watt and Volt-Var Mode
+
+This inverter complies with AS/NZS 4777.2: 2020 for power quality response modes. The inverter satisfies different regions of DNSPs' grid connection rules requirements for volt-watt and volt-var Settings. e.g.: AS4777 series setting as below Figures.
+
+#### Volt–var response set-point values
+
+![](../.gitbook/assets/unknown.png)![](<../.gitbook/assets/unknown (1).png>)
+
+&#x20;
+
+{% include "../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">Australia C parameter set is intended for application in isolated or remote power systems.</mark>
+
+#### Volt–watt response default set-point values
+
+![](<../.gitbook/assets/unknown (2).png>)![](<../.gitbook/assets/unknown (3).png>)
+
+{% include "../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">Inverters may operate at a reactive power level with a range up to 100 % supplying or absorbing.</mark>
+* <mark style="color:blue;">Australia C parameter set is intended for application in isolated or remote power systems.</mark>
+
+#### Setting procedure：
+
+1\. AS4777 grid compliance has been set during production, please select corresponding grid compliance according to state regulation during installation. You can choose a state regulation compliance with your local grid via mySigen App.
+
+2\. Select reactive power settings and choose QU mode and enable P-U voltage derating settings to enter DNSPs settings.
+
+![](<../.gitbook/assets/unknown (4).png>)![](<../.gitbook/assets/unknown (5).png>)![](<../.gitbook/assets/unknown (6).png>)
+
+{% include "../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">With regard to the Power rate limit mode, Sigenergy sets the product WGra to 16.67%Pn by default in the following cases according to the requirements of 3.3.4.2 as 4777.2: 2020.</mark>
+* <mark style="color:blue;">Soft ramp up after connect.</mark>
+* <mark style="color:blue;">Reconnect or soft ramp up/down following a response to frequency disturbance.</mark>

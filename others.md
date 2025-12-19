@@ -10,9 +10,8 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:$primary;">This parameter is only visible to installer administrators/company accounts.</mark>
+This parameter is only visible to installer administrators/company accounts.
 
 <figure><img src=".gitbook/assets/MSA1CM00081-团队信息.png" alt="" width="298"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="70" align="center" valign="middle">No.</th><th width="200.0909423828125" valign="middle">Parameter name</th><th valign="top">Description</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="middle">My Points</td><td valign="top">Click to view the company's total points details and redeem rewards using points.</td></tr><tr><td align="center" valign="middle">2</td><td valign="middle">Company Management</td><td valign="top"><ul><li>If the installer company account number wants to grant permissions to other installers to view and set up your power station, or if you want to view and set up the power stations of other installers, click this parameter to set up.</li></ul><ul><li><strong>Authorize other installers</strong>: Join the team with invitation code. You can join only one team.</li><li><strong>View other installers</strong>: Copy "My Invitation Code" to the invitee and invite him to join your team.</li></ul></td></tr></tbody></table>
-
+<table><thead><tr><th width="70" align="center" valign="middle">No.</th><th width="200.0909423828125" valign="middle">Parameter name</th><th valign="top">Description</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="middle">My Points</td><td valign="top">Click to view the company's total points details and redeem rewards using points.</td></tr><tr><td align="center" valign="middle">2</td><td valign="middle">Company Management</td><td valign="top"><ul><li>If the installer company account number wants to grant permissions to other installers to view and set up your power station, or if you want to view and set up the power stations of other installers, click this parameter to set up.</li><li><strong>Authorize other installers</strong>: Join the team with invitation code. You can join only one team.</li><li><strong>View other installers</strong>: Copy "My Invitation Code" to the invitee and invite him to join your team.</li></ul></td></tr></tbody></table>
