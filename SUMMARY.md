@@ -21,7 +21,7 @@
     * [Sigen Gateway TPLV C30-2](chan-pin-jie-shao/chan-pin-wai-guan-jie-shao/sigen-gateway-tplv-c30-2.md)
     * [Sigen Gateway C60-2](chan-pin-jie-shao/chan-pin-wai-guan-jie-shao/sigen-gateway-c60-2.md)
     * [Sigen Gateway C60 AU](chan-pin-jie-shao/chan-pin-wai-guan-jie-shao/sigen-gateway-c60-au.md)
-    * [Sigen Gateway C120-6, TPLV C70-6)](chan-pin-jie-shao/chan-pin-wai-guan-jie-shao/sigen-gateway-c120-6.md)
+    * [Sigen Gateway (C120-6, TPLV C70-6)](chan-pin-jie-shao/chan-pin-wai-guan-jie-shao/sigen-gateway-c120-6.md)
     * [Sigen Gateway (C180-9, C300-12)](chan-pin-jie-shao/chan-pin-wai-guan-jie-shao/sigen-gateway-c180-9-c300-12.md)
     * [Sigen Gateway (C600, C1200, C600-B, C1200-B)](chan-pin-jie-shao/chan-pin-wai-guan-jie-shao/sigen-gateway-c300-12.md)
   * [标签说明](chan-pin-jie-shao/biao-qian-shuo-ming.md)

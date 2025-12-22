@@ -40,7 +40,7 @@
 
 <figure><img src=".gitbook/assets/SSA1SF00008-logo+灯-zh.png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### Sigen Gateway C120-6, TPLV C70-6)
+#### Sigen Gateway (C120-6, TPLV C70-6)
 
 <figure><img src=".gitbook/assets/SGA1OV00018-zh.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
