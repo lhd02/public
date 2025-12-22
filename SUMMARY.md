@@ -17,6 +17,8 @@
 * [设备安装与接线](she-bei-an-zhuang-yu-jie-xian.md)
 * [系统运行](xi-tong-yun-xing/README.md)
   * [工作模式](xi-tong-yun-xing/gong-zuo-mo-shi.md)
+  * [电站备电量设置](xi-tong-yun-xing/dian-zhan-bei-dian-liang-she-zhi.md)
+  * [Peak Shaving](xi-tong-yun-xing/peak-shaving.md)
   * [LED指示灯状态](xi-tong-yun-xing/led-zhi-shi-deng-zhuang-tai.md)
   * [mySigen App查询](xi-tong-yun-xing/mysigen-app-cha-xun.md)
 * [系统维护](xi-tong-wei-hu/README.md)

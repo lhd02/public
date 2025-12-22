@@ -1,40 +1,46 @@
 # 工作模式
 
-{% include "../.gitbook/includes/tips.md" %}
+{% include "https://app.gitbook.com/s/ZGNxOhPbnqkITg7JQHuh/~/reusable/AxOnSdThcis4NCgqEO8Z/" %}
 
-* <mark style="color:blue;">**储能系统共有五种工作模式，分别为：Sigen AI Mode、Fully Fed to Grid Mode、Self-Consumption Mode、Time-based Control Mode、Remote EMS Mode。**</mark>
-* <mark style="color:blue;">**部分国家可使用Sigen AI Mode，以App界面显式为准。**</mark>
+<mark style="color:blue;">储能系统支持多种工作模式，部分国家支持Load Shedding Mode和VPP Scheduling-evergen Mode，以App界面显示为准。</mark>
 
-### **Sigen AI Mode**
+## **Sigen AI** **Mode**
 
-通过一段时间，记录用户用电习惯和当地电价的波峰波谷等数据，Sigen AI Mode可定制智能用电解决方案，最大程度为客户节约用电价格。
+通过获取当地波峰波谷电价、天气数据，结合用户用电习惯，SigenAI模式可定制智能用电解决方案，最大程度为客户节约用电成本。
 
-![](../.gitbook/assets/1.jpeg)
+<figure><img src="../.gitbook/assets/SSA1OV00011-ZH.png" alt=""><figcaption></figcaption></figure>
 
-### **Fully Fed to Grid Mode**
+## **Self-Consumption Mode**
 
-可使光伏发电最大化卖给电网。白天光伏发电功率＞逆变器的最大输出能力时，逆变器保持最大输出，同时将多余电量存储在电池中；当光伏发电功率＜逆变器最大输出能力或夜间无光伏发电时，电池放电，确保逆变器能够最大化输出。
+* 当太阳能充足时，光伏系统产生的电能将优先供给负载，剩余电能存储在电池中，再余电能卖给电网。当太阳能不足时，电池会释放电能供给负载。提高光伏系统的自发自用率和家庭能源自给自足率，可节省电费支出。
+* 该模式适用于电价较高或有零功率并网限制的区域。
 
-### **Self-Consumption Mode**
+<figure><img src="../.gitbook/assets/SSA1OV00013-ZH.png" alt=""><figcaption></figcaption></figure>
 
-当太阳能充足时，光伏系统产生的电能将优先供给负载，剩余电能存储在电池中，再余电能卖给电网。当太阳能不足时，电池会释放电能供给负载。提高光伏系统的自发自用率和家庭能源自给自足率，可节省电费支出。
+## **Time-based Control Mode**
 
-![](../.gitbook/assets/2.jpeg)
+* 需要手动设置充电时段、放电时段和自发自用时段。在电价较高时光伏发电的剩余电力和电池电力可以卖给电网，在电网低电价时段给电池充电，可节省电费支出。
+* 未设置时间段储能待机不放电，光伏优先供给负载，余电供给储能充电\*。
+* 最多可以设置24个充放电或自发自用时间段。
+* 适用于峰谷电价且价差较大的区域。
 
-### **Time-based Control Mode**
+\*进入该时段时，会记录电池电量，当光伏功率大于负载时，剩余光伏功率给电池充电，当光伏功率小于负载时，电池可以放电给负载，但是电池电量下降并且接近进入该时段时的电池电量值时，电池会结束放电。
 
-Time-based Control模式需要在mySigen App中手动设置充电时段和放电时段，其余时段为非充非放时段。白天光伏发电的剩余电力可以卖给电网或者给电池充电，夜间在电网低电价时段给电池充电，可节省电费支出。
+<figure><img src="../.gitbook/assets/SSA1OV00012-ZH.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/3 (3).png>)
+## **Fully Fed-in to Grid Mode**
 
-### **Remote EMS Mode**
+* 可使光伏发电最大化卖给电网。
+* 白天光伏发电功率＞逆变器的最大输出能力时，逆变器保持最大输出，同时将多余电量存储在电池中；当光伏发电功率＜逆变器最大输出能力或夜间无光伏发电时，电池放电，确保逆变器能够最大化输出。
+
+## **Remote EMS Mode**
 
 设置为本模式后，将允许第三方EMS调度公司设置电站及产品的相关参数。未经安装商确认，请勿进入或退出此模式。
 
-Backup Reserve：
+## **Load Shedding Mode**
 
-组网中含有Gateway时，可在mySigen App中手动设置“Backup Reserve”值。在电网并网时，电池放电至设置的备电SOC时停止放电；在电网离网时，可以使用备电的电池电量。
+对于经常停电的地区，您可使用本模式添加地区与计划时间表，系统将根据时间表提前将电池电量充满，确保停电时，您可使用电池电量为负载供电。(目前只支持南非地区)
 
-示例： Self-Consumption Mode下设置了备电SOC。
+## VPP Scheduling-evergen Mode
 
-![](<../.gitbook/assets/4 (2).png>)
+业主和第三方虚拟电厂运营商（VPP）完成签约或注册流程后，您的储能系统将接入虚拟电厂(VPP)智能调度网络，App界面显示该模式并自动选中。

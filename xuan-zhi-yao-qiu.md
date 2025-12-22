@@ -13,6 +13,8 @@
 * 禁止将设备安装于强电磁干扰的环境中。
 * 安装环境的温度与湿度要符合设备要求。
 * 设备应安装于距高盐或高酸等腐蚀源≥500m 的地区（腐蚀源包括但不限于海边、火电厂、化工厂、冶炼厂、煤厂、橡胶厂、电镀厂等)。
+* 在海洋环境良好（挪威等近岸盐度 ≤ 28 psu）的地区，设备安装距海岸线区域可适当放宽至≥200m。
+* 若设备出现外表面破损情况，请及时对设备进行补漆。
 
 ### **安装位置要求**
 
@@ -33,10 +35,22 @@
 * 安装载体表面要平整，可安装区域要满足设备安装空间要求。
 * 安装载体内部无水电走线，以免安装设备时钻孔发生危险。
 
-<div align="center"><figure><img src=".gitbook/assets/zaiti.png" alt="" width="375"><figcaption></figcaption></figure></div>
+### **安装建议（功率≤ 12.0 kW）**
+
+<figure><img src=".gitbook/assets/SSA1SF00021-zh (2).png" alt=""><figcaption></figcaption></figure>
+
+### **安装建议（功率≤ 12.0 kW）**
+
+<div align="center"><figure><img src=".gitbook/assets/SSA1SF00022-zh.png" alt=""><figcaption></figcaption></figure></div>
+
+### 配置 SigenStor EVDC 系列
+
+<figure><img src=".gitbook/assets/SSA1SF00015-zh.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% include ".gitbook/includes/tips.md" %}
 
+* <mark style="color:$primary;">配置SigenStor EVDC系列请安装于停车位附近，安装距离请参考图示。</mark>
+* <mark style="color:$primary;">在不同安装环境下，实际距离会存在误差，图示仅供参考。</mark>
 * <mark style="color:blue;">设备支持的最大工作温度范围为-20℃～55℃，推荐的最优工作温度范围为10℃≤T≤35℃。</mark>
 * <mark style="color:blue;">当电池包温度＜0℃时，无法立即充电，电池包（内置的加热模块能自动开启）会开启加热功能，加热＜2h后，电池方可达到最好的充电性能。加热功能会消耗电量。</mark>
 * <mark style="color:blue;">当温度＞40℃时，设备运行可能会触发功率降额，使设备无法达到最佳运行状态。温度越高，设备使用寿命越短。</mark>

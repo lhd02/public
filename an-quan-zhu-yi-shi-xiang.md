@@ -30,7 +30,7 @@
 
 * <mark style="color:red;">电池包过热可能引起火灾、爆炸等，禁止将设备长时间暴露于高温环境或发热源长时间在设备周围（如日照、火源、取暖器等）。</mark>
 * <mark style="color:red;">禁止用水、酒精、油等清洗或浸泡设备，以免造成设备漏电、电池包漏液等。</mark>
-* <mark style="color:red;">禁止敲打、撞击设备。若意外发生撞击，请立即停止使用设备并及时您的销售代理商，设备经专业人员检查评估后方可继续使用。</mark>
+* <mark style="color:red;">禁止敲打、撞击设备。若意外发生撞击，请立即停止使用设备并及时您的安装商或销售代理商，设备经专业人员检查评估后方可继续使用。</mark>
 
 {% include ".gitbook/includes/waring.md" %}
 
@@ -39,9 +39,9 @@
 
 {% include ".gitbook/includes/caution.md" %}
 
-* <mark style="color:purple;">禁止带故障使用设备。若设备发生异常时（如电池包漏液、外观变形等），请及时联系您的销售代理商处理。禁止自行拆解设备。</mark>
+* <mark style="color:purple;">禁止带故障使用设备。若设备发生异常时（如电池包漏液、外观变形等），请及时联系您的</mark><mark style="color:$info;">安装商或</mark><mark style="color:purple;">销售代理商处理。禁止自行拆解设备。</mark>
 * <mark style="color:purple;">推荐家中备二氧化碳灭火器或ABC干粉灭火器。</mark>
-* <mark style="color:purple;">若设备无法进入充电状态时，请及时联系您的销售代理商处理。</mark>
+* <mark style="color:purple;">若设备无法进入充电状态时，请及时联系您的</mark><mark style="color:$info;">安装商或</mark><mark style="color:purple;">销售代理商处理。</mark>
 
 ### **禁止设备用于以下场景：**
 

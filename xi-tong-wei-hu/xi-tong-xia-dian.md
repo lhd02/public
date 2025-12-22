@@ -12,7 +12,7 @@
 
 在mySigen App中点击“Setting”，可进行开关机操作。
 
-![](<../.gitbook/assets/1 (1).jpeg>)
+<figure><img src="../.gitbook/assets/MSA1CM00071-批量开关机 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **手动操作：**
 
@@ -26,7 +26,7 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">如果设备长时间未使用（如设备连续多天处于离线状态或设备运行时间过少），系统将发送提醒。若未收到您的反馈，出于安全考虑，设备将自动关机。若您需要继续使用设备，请联系本公司进行处理。</mark>
+<mark style="color:blue;">如果设备连续长时间未联网，我们将无法为设备提供重要的固件版本升级。当您的设备出现未联网情况时，系统定期发送提醒，若＞90天持续未联网，出于安全考虑，系统将进入安全运行模式。请您尽快连接网络，若您还有疑问，可联系本公司进行处理。</mark>
 
 2. 断开备电配电单元内与设备连接的开关。
 3. 将设备上的“DC SWITCH”旋转至“OFF”状态。
