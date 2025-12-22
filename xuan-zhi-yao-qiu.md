@@ -39,7 +39,7 @@
 
 <figure><img src=".gitbook/assets/SSA1SF00021-zh (2).png" alt=""><figcaption></figcaption></figure>
 
-### **安装建议（功率≤ 12.0 kW）**
+### **安装建议（功率＞ 12.0 kW）**
 
 <div align="center"><figure><img src=".gitbook/assets/SSA1SF00022-zh.png" alt=""><figcaption></figcaption></figure></div>
 
