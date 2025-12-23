@@ -2,7 +2,7 @@
 
 ### 尺寸图
 
-<figure><img src="../../.gitbook/assets/SSA1OV00021-zh (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SSA1OV00021-zh (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 端口介绍
 

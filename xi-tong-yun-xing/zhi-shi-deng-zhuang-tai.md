@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/SSA1OV00015-zh.png)
 
-<figure><img src="../.gitbook/assets/SHA1OV00012-zh黄 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SHA1OV00012-zh黄 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 灯语 2
 
