@@ -2,9 +2,9 @@
 
 {% include "../.gitbook/includes/danger.md" %}
 
-<mark style="color:red;">High Voltage and Hazards:</mark>\ <mark style="color:red;">Wear personal protective equipment such as insulating gloves, insulating shoes, and safety hats while operating the equipment. Do not wear conductive accessories such as metal bracelets, rings, or necklaces.</mark>
+<mark style="color:red;">High Voltage and Hazards:</mark> <mark style="color:red;"></mark><mark style="color:red;">Wear personal protective equipment such as insulating gloves, insulating shoes, and safety hats while operating the equipment. Do not wear conductive accessories such as metal bracelets, rings, or necklaces.</mark>
 
-### **System power-off**
+## **System power-off**
 
 1. Power the equipment off in the App or manually.
 
@@ -22,7 +22,7 @@ Follow the steps shown to remove the side and top decorative cover, and press th
 
 <mark style="color:blue;">Press and hold for more than 3s to turn on or off the power; an interval of more than 10s is needed between power-on and power-off.</mark>
 
-<div align="left"><img src="../.gitbook/assets/3 (1) (1).jpeg" alt="" width="375"></div>
+<div align="center"><img src="../.gitbook/assets/3 (1) (1).jpeg" alt="" width="375"></div>
 
 {% include "../.gitbook/includes/tips.md" %}
 
@@ -36,7 +36,7 @@ Follow the steps shown to remove the side and top decorative cover, and press th
 
 <mark style="color:orange;">There is residual current and the equipment is hot immediately after the equipment is powered off. Operating the equipment immediately upon power off may lead to electric shock or burns.</mark>
 
-### **System power-on**
+## **System power-on**
 
 1. Turn DC SWITCH on the equipment to the ON position.
 2. Turn on the switch connected to the equipment in the backup power distribution panel.
