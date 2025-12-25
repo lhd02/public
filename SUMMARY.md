@@ -27,3 +27,4 @@
   * [Low SOC](system-maintenance/low-soc.md)
   * [Emergency Treatment](system-maintenance/emergency-treatment.md)
 * [Technical Parameter](technical-parameter.md)
+* [FAQs](faqs.md)

@@ -82,43 +82,8 @@ SigenStor contains single-phase inverters, SigenStor EVDC and battery packs and 
 
 SigenStor contains three-phase inverters and battery packs and can store and release electric energy in response to the management system.
 
-| Model            | Inverter model          | Number of SigenStor BATs 5.0 | Number of SigenStor BATs 8.0 |
-| ---------------- | ----------------------- | ---------------------------- | ---------------------------- |
-| SigenStor-5T-8   | SigenStor EC 5.0 TP AU  | 0                            | 1                            |
-| SigenStor-5T-10  | SigenStor EC 5.0 TP AU  | 2                            | 0                            |
-| SigenStor-5T-13  | SigenStor EC 5.0 TP AU  | 1                            | 1                            |
-| SigenStor-5T-16  | SigenStor EC 5.0 TP AU  | 0                            | 2                            |
-| SigenStor-5T-24  | SigenStor EC 5.0 TP AU  | 0                            | 3                            |
-| SigenStor-10T-8  | SigenStor EC 10.0 TP AU | 0                            | 1                            |
-| SigenStor-10T-10 | SigenStor EC 10.0 TP AU | 2                            | 0                            |
-| SigenStor-10T-13 | SigenStor EC 10.0 TP AU | 1                            | 1                            |
-| SigenStor-10T-16 | SigenStor EC 10.0 TP AU | 0                            | 2                            |
-| SigenStor-10T-24 | SigenStor EC 10.0 TP AU | 0                            | 3                            |
-| SigenStor-10T-32 | SigenStor EC 10.0 TP AU | 0                            | 4                            |
-| SigenStor-10T-40 | SigenStor EC 10.0 TP AU | 0                            | 5                            |
-| SigenStor-10T-48 | SigenStor EC 10.0 TP AU | 0                            | 6                            |
-| SigenStor-15T-8  | SigenStor EC 15.0 TP AU | 0                            | 1                            |
-| SigenStor-15T-10 | SigenStor EC 15.0 TP AU | 2                            | 0                            |
-| SigenStor-15T-13 | SigenStor EC 15.0 TP AU | 1                            | 1                            |
-| SigenStor-15T-16 | SigenStor EC 15.0 TP AU | 0                            | 2                            |
-| SigenStor-15T-24 | SigenStor EC 15.0 TP AU | 0                            | 3                            |
-| SigenStor-15T-32 | SigenStor EC 15.0 TP AU | 0                            | 4                            |
-| SigenStor-20T-10 | SigenStor EC 20.0 TP AU | 2                            | 0                            |
-| SigenStor-20T-13 | SigenStor EC 20.0 TP AU | 1                            | 1                            |
-| SigenStor-20T-16 | SigenStor EC 20.0 TP AU | 0                            | 2                            |
-| SigenStor-20T-24 | SigenStor EC 20.0 TP AU | 0                            | 3                            |
-| SigenStor-20T-32 | SigenStor EC 20.0 TP AU | 0                            | 4                            |
-| SigenStor-20T-40 | SigenStor EC 20.0 TP AU | 0                            | 5                            |
-| SigenStor-20T-48 | SigenStor EC 20.0 TP AU | 0                            | 6                            |
-| SigenStor-25T-10 | SigenStor EC 25.0 TP AU | 2                            | 0                            |
-| SigenStor-25T-13 | SigenStor EC 25.0 TP AU | 1                            | 1                            |
-| SigenStor-25T-16 | SigenStor EC 25.0 TP AU | 0                            | 2                            |
-| SigenStor-25T-24 | SigenStor EC 25.0 TP AU | 0                            | 3                            |
-| SigenStor-25T-32 | SigenStor EC 25.0 TP AU | 0                            | 4                            |
-| SigenStor-25T-40 | SigenStor EC 25.0 TP AU | 0                            | 5                            |
-| SigenStor-25T-48 | SigenStor EC 25.0 TP AU | 0                            | 6                            |
-| SigenStor-30T-16 | SigenStor EC 30.0 TP AU | 0                            | 2                            |
-| SigenStor-30T-24 | SigenStor EC 30.0 TP AU | 0                            | 3                            |
-| SigenStor-30T-32 | SigenStor EC 30.0 TP AU | 0                            | 4                            |
-| SigenStor-30T-40 | SigenStor EC 30.0 TP AU | 0                            | 5                            |
-| SigenStor-30T-48 | SigenStor EC 30.0 TP AU | 0                            | 6                            |
+<table><thead><tr><th>Model</th><th width="217">Inverter model</th><th>Number of SigenStor BATs 5.0</th><th>Number of SigenStor BATs 8.0</th></tr></thead><tbody><tr><td>SigenStor-5T-8</td><td>SigenStor EC 5.0 TP AU</td><td>0</td><td>1</td></tr><tr><td>SigenStor-5T-10</td><td>SigenStor EC 5.0 TP AU</td><td>2</td><td>0</td></tr><tr><td>SigenStor-5T-13</td><td>SigenStor EC 5.0 TP AU</td><td>1</td><td>1</td></tr><tr><td>SigenStor-5T-16</td><td>SigenStor EC 5.0 TP AU</td><td>0</td><td>2</td></tr><tr><td>SigenStor-5T-24</td><td>SigenStor EC 5.0 TP AU</td><td>0</td><td>3</td></tr><tr><td>SigenStor-10T-8</td><td>SigenStor EC 10.0 TP AU</td><td>0</td><td>1</td></tr><tr><td>SigenStor-10T-10</td><td>SigenStor EC 10.0 TP AU</td><td>2</td><td>0</td></tr><tr><td>SigenStor-10T-13</td><td>SigenStor EC 10.0 TP AU</td><td>1</td><td>1</td></tr><tr><td>SigenStor-10T-16</td><td>SigenStor EC 10.0 TP AU</td><td>0</td><td>2</td></tr><tr><td>SigenStor-10T-24</td><td>SigenStor EC 10.0 TP AU</td><td>0</td><td>3</td></tr><tr><td>SigenStor-10T-32</td><td>SigenStor EC 10.0 TP AU</td><td>0</td><td>4</td></tr><tr><td>SigenStor-10T-40</td><td>SigenStor EC 10.0 TP AU</td><td>0</td><td>5</td></tr><tr><td>SigenStor-10T-48</td><td>SigenStor EC 10.0 TP AU</td><td>0</td><td>6</td></tr><tr><td>SigenStor-15T-8</td><td>SigenStor EC 15.0 TP AU</td><td>0</td><td>1</td></tr><tr><td>SigenStor-15T-10</td><td>SigenStor EC 15.0 TP AU</td><td>2</td><td>0</td></tr><tr><td>SigenStor-15T-13</td><td>SigenStor EC 15.0 TP AU</td><td>1</td><td>1</td></tr><tr><td>SigenStor-15T-16</td><td>SigenStor EC 15.0 TP AU</td><td>0</td><td>2</td></tr><tr><td>SigenStor-15T-24</td><td>SigenStor EC 15.0 TP AU</td><td>0</td><td>3</td></tr><tr><td>SigenStor-15T-32</td><td>SigenStor EC 15.0 TP AU</td><td>0</td><td>4</td></tr><tr><td>SigenStor-20T-10</td><td>SigenStor EC 20.0 TP AU</td><td>2</td><td>0</td></tr><tr><td>SigenStor-20T-13</td><td>SigenStor EC 20.0 TP AU</td><td>1</td><td>1</td></tr><tr><td>SigenStor-20T-16</td><td>SigenStor EC 20.0 TP AU</td><td>0</td><td>2</td></tr><tr><td>SigenStor-20T-24</td><td>SigenStor EC 20.0 TP AU</td><td>0</td><td>3</td></tr><tr><td>SigenStor-20T-32</td><td>SigenStor EC 20.0 TP AU</td><td>0</td><td>4</td></tr><tr><td>SigenStor-20T-40</td><td>SigenStor EC 20.0 TP AU</td><td>0</td><td>5</td></tr><tr><td>SigenStor-20T-48</td><td>SigenStor EC 20.0 TP AU</td><td>0</td><td>6</td></tr><tr><td>SigenStor-25T-10</td><td>SigenStor EC 25.0 TP AU</td><td>2</td><td>0</td></tr><tr><td>SigenStor-25T-13</td><td>SigenStor EC 25.0 TP AU</td><td>1</td><td>1</td></tr><tr><td>SigenStor-25T-16</td><td>SigenStor EC 25.0 TP AU</td><td>0</td><td>2</td></tr><tr><td>SigenStor-25T-24</td><td>SigenStor EC 25.0 TP AU</td><td>0</td><td>3</td></tr><tr><td>SigenStor-25T-32</td><td>SigenStor EC 25.0 TP AU</td><td>0</td><td>4</td></tr><tr><td>SigenStor-25T-40</td><td>SigenStor EC 25.0 TP AU</td><td>0</td><td>5</td></tr><tr><td>SigenStor-25T-48</td><td>SigenStor EC 25.0 TP AU</td><td>0</td><td>6</td></tr><tr><td>SigenStor-30T-16</td><td>SigenStor EC 30.0 TP AU</td><td>0</td><td>2</td></tr><tr><td>SigenStor-30T-24</td><td>SigenStor EC 30.0 TP AU</td><td>0</td><td>3</td></tr><tr><td>SigenStor-30T-32</td><td>SigenStor EC 30.0 TP AU</td><td>0</td><td>4</td></tr><tr><td>SigenStor-30T-40</td><td>SigenStor EC 30.0 TP AU</td><td>0</td><td>5</td></tr><tr><td>SigenStor-30T-48</td><td>SigenStor EC 30.0 TP AU</td><td>0</td><td>6</td></tr></tbody></table>
+
+{% include "../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">The SigenStor EVDC 12 series supports upgrading the rated output power to 25kW. For specific operations, please refer to the</mark> [<mark style="color:blue;">FAQs</mark>](../faqs.md)<mark style="color:blue;">.</mark>
