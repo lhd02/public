@@ -56,7 +56,7 @@ This inverter complies with AS/NZS 4777.2: 2020 for power quality response modes
 
 #### Volt–var response set-point values
 
-![](../.gitbook/assets/unknown.png)![](<../.gitbook/assets/unknown (1).png>)
+![](<../.gitbook/assets/unknown (1).png>)![](<../.gitbook/assets/unknown (1) (1).png>)
 
 &#x20;
 

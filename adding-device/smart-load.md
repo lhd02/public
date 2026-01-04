@@ -1,16 +1,29 @@
 # Smart load
 
+{% include "../.gitbook/includes/tips.md" %}
+
+* <mark style="color:blue;">After adding the Smart Load to the App, you can switch the Smart Load on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.</mark>
+* <mark style="color:blue;">If you cannot locate the icon of the connected device, for example, an immersion heater, select "Other" and connect it. You can check the connected smart load on the "Device" screen.</mark>
+
 ## Method 1: Connecting using Gateway
 
 {% include "../.gitbook/includes/tips.md" %}
 
 * <mark style="color:blue;">Before connecting the smart load, ensure that a Gateway has been configured in the network and that the smart load port is not connected to a generator.</mark>
-* <mark style="color:blue;">Before connecting a Smart Load please ensure that a Gateway is configured in the networking.</mark>
 * <mark style="color:blue;">The number of Smart Loads that can be connected is determined by the supported capacity of the Gateway.</mark>
-* <mark style="color:blue;">After adding the Smart Load to the App, you can switch the Smart Load on and off through the App. Alternatively, the system can remotely control the equipment on and off based on the actual running conditions and the SOC threshold you set.</mark>
-* <mark style="color:blue;">If you cannot locate the icon of the connected device, for example, an immersion heater, select "Other" and connect it. You can check the connected smart load on the "Device" screen.</mark>
 
-<figure><img src="../.gitbook/assets/SSA1CM00072-Gateway add smart load.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1CM00072-Gateway add smart load (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Method 2: Connecting using Sigen Inverter
+
+/tip
+
+* Before connecting smart loads, ensure that a Sigenergy inverter has been configured in the network and that a DOLI generator is not connected.
+* The number of connectable smart loads is determined by the maximum number of smart loads supported by the Sigenergy inverter.
+
+<figure><img src="../.gitbook/assets/SSA1CM00072-Sigen EC add Smart load.png" alt=""><figcaption></figcaption></figure>
 
 ## Method 2: Connecting using Shelly
 
