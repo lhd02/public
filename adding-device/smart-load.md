@@ -18,8 +18,8 @@
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">Before connecting smart loads, please ensure that a Sigenergy inverter has been configured in the network and that the DO port is not connected to a generator.</mark>
-* <mark style="color:blue;">The number of connectable smart loads is determined by the maximum number of smart loads supported by the Sigenergy inverter.</mark>
+* <mark style="color:blue;">Before connecting smart loads, please ensure that a Sigen inverter has been configured in the network and that the DO port is not connected to a generator.</mark>
+* <mark style="color:blue;">The number of connectable smart loads is determined by the maximum number of smart loads supported by the Sigen inverter.</mark>
 
 <figure><img src="../.gitbook/assets/SSA1CM00072-逆变器添加智能负载.png" alt=""><figcaption></figcaption></figure>
 
