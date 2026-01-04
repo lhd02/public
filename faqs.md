@@ -54,6 +54,8 @@ You can re-configure the network settings using a device hotspot in "Setting" �
 
 <mark style="color:blue;">If you still cannot connect to the device hotspot, disconnect the AC circuit breaker and DC switch of the device, wait for the device indicator to go out, then turn on the AC circuit breaker and DC switch again, wait for 30 seconds, and then rescan the device QR code and configure the network according to the above steps.</mark>
 
+<figure><img src=".gitbook/assets/MSA1CM00081-重新连接网络.png" alt="" width="298"><figcaption></figcaption></figure>
+
 ## How do I check whether the device is connected in parallel with other ones?
 
 You can check this in "Setting" → "System Affiliation Lookup."
@@ -123,3 +125,6 @@ If the power station has activated Sigen AI mode, click the <img src=".gitbook/a
 
 Click on the power station, scroll down to find the Power Metrics Chart, and click "Grid Service".
 
+## How to check the string power of SigenStor in grid connection scenarios
+
+Click "Device" → select "PV Panel" → click "![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAYABoDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDiiQi5P4Cjy7pjhYZCcZwIz07GopzgD0xWpdQxNFdRmSYsoEhYBjuYYHoB0J6GtCTM3sHMcilXHUEYpabeMx1Agqy4VRh+uAoxmjNIBWwwwaiYSkBfOfaOgLHiiigAVNpJJLMepJ60+iigD//Z)" in the upper right corner → select the corresponding SigenStor SN.
