@@ -23,6 +23,7 @@
       * [Energy Saving Mode](dian-zhan-can-shu-she-zhi/energy-management-settings/power-station-energy-configuration/energy-saving-mode.md)
   * [General setting](dian-zhan-can-shu-she-zhi/general-setting/README.md)
     * [(Optional) DER Aggregator Service](dian-zhan-can-shu-she-zhi/general-setting/optional-der-aggregator-service.md)
+  * [Troubleshooting](dian-zhan-can-shu-she-zhi/troubleshooting.md)
   * [System Maintance](dian-zhan-can-shu-she-zhi/system-maintance.md)
 * [Main Device parameter setup](she-bei-can-shu-she-zhi/README.md)
   * [SigenStor/SigenStack Unit Settings](she-bei-can-shu-she-zhi/sigenstor-sigen-pv-max.md)

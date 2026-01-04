@@ -28,23 +28,21 @@ Setting battery-related parameters can optimize battery performance, extend batt
 
 <mark style="color:blue;">Pre-adjust the battery temperature to the optimal working range in low temperature environments to prevent performance degradation and safety hazards caused by low temperature.</mark>
 
-### Residential Energy Storage Station
+### Household Energy Storage Power Station
 
-<table><thead><tr><th width="67" align="center">No.</th><th width="206">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Battery Preheating Scheduling</td><td>When set to <img src="../../../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line">, Enable the scheduled heating function for the battery heating pad.</td></tr><tr><td align="center">2</td><td>Heating</td><td>Click to add scheduled heating time periods for the battery heating film.</td></tr></tbody></table>
+<table><thead><tr><th width="66.77777099609375">No.</th><th width="213.33331298828125">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Battery Preheating Scheduling</td><td>When it is set to<img src="../../../.gitbook/assets/image (2).png" alt="">, the battery heating film preheating function is enabled.</td></tr><tr><td>2</td><td>Heating</td><td>Click to set the heating cycle of the battery heating film.</td></tr></tbody></table>
 
-### Commercial & Industrial Energy Storage Station
+### &#x20;C\&I Energy Storage Power Station
 
-After Battery Preheating Scheduling set to<img src="../../../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line">, the preheating mode needs to be selected.
+When Battery Preheating Scheduling is set to![](<../../../.gitbook/assets/image (2).png>), you need to select the preheating mode.
 
-#### **Manual Setting**
+#### Manual Setting
 
-In manual mode, it is necessary to manually set the scheduled heating time periods for the battery heating film and the expected charging and discharging power.
+<table><thead><tr><th width="77.33331298828125">No.</th><th width="162.888916015625">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Smart Pre-heating</td><td><p>When it is set to<img src="../../../.gitbook/assets/image (3).png" alt=""> , the battery heating film preheating function is disabled.</p><ul><li>Heating Duration: Used to set the heating duration of the battery heating film.</li></ul><p>When it is set to <img src="../../../.gitbook/assets/image (2).png" alt="">, the battery heating film preheating function is enabled.</p><ul><li>Target Working Period: Used to set the desired charging/discharging period for the heating film.</li></ul></td></tr><tr><td>2</td><td>Heating</td><td><p>Click to set the heating cycle of the battery heating film.</p><p>Advanced Settings</p><ul><li>Target Charging Power: The battery's charging power is limited due to low temperature. After heating is started, the heating film stops operating when the charging power is greater than this value.</li><li>Target Discharging Power: The battery's discharging power is limited due to low temperature. After heating is started, the heating film stops operating when the discharging power is greater than this value.</li></ul></td></tr></tbody></table>
 
-<table><thead><tr><th width="75" align="center">No.</th><th width="217">Parameter Name</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Preheating</td><td>When set to<img src="../../../.gitbook/assets/未标题-1_画板 1 (3).png" alt="" data-size="line">, Enable the scheduled heating function for the battery heating pad.</td></tr><tr><td align="center">2</td><td>Heating</td><td>Click to add scheduled heating time periods for the battery heating film.</td></tr><tr><td align="center">3</td><td>Target Charging Power</td><td>Due to low temperatures limiting battery charging power, heating stops when the charging capability exceeds this value after heating starts.</td></tr><tr><td align="center">4</td><td>Target Discharging Power</td><td>Due to low temperatures limiting battery discharging power, heating stops when the discharging capability exceeds this value after heating starts.</td></tr></tbody></table>
+#### Depends on System (Automatic)
 
-#### **Depends on System (Automatic)**
-
-Automatic mode is only supported when the station is in TOU scheduling mode.
+Automatic mode is supported only when the power station is in TOU scheduling mode.
 
 ## Battery Power Limit
 
