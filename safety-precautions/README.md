@@ -1,0 +1,2 @@
+# Precauciones de seguridad
+

@@ -1,0 +1,11 @@
+# Sigen PV (50–125)M1-HYA Inverter
+
+### Dimensiones
+
+<figure><img src="../../.gitbook/assets/SSA1OV00021-es.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Descripciones de los puertos
+
+<figure><img src="../../.gitbook/assets/SSA1OV00017-纯光.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="60.11114501953125" align="center" valign="top">N.º S.</th><th width="294.111083984375" valign="top">Denominación</th><th valign="top">Marcado</th></tr></thead><tbody><tr><td align="center" valign="top">1</td><td valign="top">Interfaz de red SigenStack</td><td valign="top">RJ45 3</td></tr><tr><td align="center" valign="top">2</td><td valign="top">Interfaz de cable CC de SigenStack</td><td valign="top">BAT+/BAT-</td></tr><tr><td align="center" valign="top">3</td><td valign="top">Interruptor 1 de CC</td><td valign="top">DC SWITCH 1</td></tr><tr><td align="center" valign="top">4</td><td valign="top"><p>Grupo 1 de terminales de entrada de CC</p><p>(controlados por DC SWITCH 1)</p></td><td valign="top">PV1 a PV8</td></tr><tr><td align="center" valign="top">5</td><td valign="top"><p>Grupo 2 de terminales de entrada de CC</p><p>(controlados por DC SWITCH 2)</p></td><td valign="top">PV9 a PV16</td></tr><tr><td align="center" valign="top">6</td><td valign="top">Interruptor 2 de CC</td><td valign="top">DC SWITCH 2</td></tr><tr><td align="center" valign="top">7</td><td valign="top">Interfaz Sigen CommMod</td><td valign="top">4G</td></tr><tr><td align="center" valign="top">8</td><td valign="top">Interfaz de antena</td><td valign="top">ANT</td></tr><tr><td align="center" valign="top">9</td><td valign="top">Interfaz de red</td><td valign="top">RJ45 1</td></tr><tr><td align="center" valign="top">10</td><td valign="top">Agujero de entrada para el cable multinúcleo</td><td valign="top">-</td></tr><tr><td align="center" valign="top">11</td><td valign="top">Agujero de entrada para el cable de un solo núcleo</td><td valign="top">-</td></tr><tr><td align="center" valign="top">12</td><td valign="top">Interfaz de comunicación</td><td valign="top">COM</td></tr><tr><td align="center" valign="top">13</td><td valign="top">Interfaz de red</td><td valign="top">RJ45 2</td></tr><tr><td align="center" valign="top">14</td><td valign="top">Ventilador de refrigeración</td><td valign="top">-</td></tr></tbody></table>
