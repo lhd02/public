@@ -1,0 +1,11 @@
+# Sigen PV (50–125)M1-HYA Inverter
+
+### Mått
+
+<figure><img src="../../.gitbook/assets/SSA1OV00021-sv.png" alt=""><figcaption></figcaption></figure>
+
+### Portbeskrivningar
+
+<figure><img src="../../.gitbook/assets/SSA1OV00017-纯光.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="60.11114501953125" align="center" valign="top">Siffra</th><th width="294.111083984375" valign="top">Namn</th><th valign="top">Märkning</th></tr></thead><tbody><tr><td align="center" valign="top">1</td><td valign="top">SigenStack nätverksgränssnitt</td><td valign="top">RJ45 3</td></tr><tr><td align="center" valign="top">2</td><td valign="top">SigenStack DC-kabelgränssnitt</td><td valign="top">BAT+/BAT-</td></tr><tr><td align="center" valign="top">3</td><td valign="top">DC-brytare 1</td><td valign="top">DC SWITCH 1</td></tr><tr><td align="center" valign="top">4</td><td valign="top"><p>Likströmsingångsterminal grupp 1</p><p>(Kontrollerad av DC SWITCH 1)</p></td><td valign="top">PV1 till PV8</td></tr><tr><td align="center" valign="top">5</td><td valign="top"><p>Likströmsingångsterminal grupp 2</p><p>(Kontrollerad av DC SWITCH 2)</p></td><td valign="top">PV9 till PV16</td></tr><tr><td align="center" valign="top">6</td><td valign="top">DC-brytare 2</td><td valign="top">DC SWITCH 2</td></tr><tr><td align="center" valign="top">7</td><td valign="top">Sigen CommMod-uttag</td><td valign="top">4G</td></tr><tr><td align="center" valign="top">8</td><td valign="top">Antennuttag</td><td valign="top">ANT</td></tr><tr><td align="center" valign="top">9</td><td valign="top">Nätverksgränssnitt</td><td valign="top">RJ45 1</td></tr><tr><td align="center" valign="top">10</td><td valign="top">Dragningshål för flerledarkabel</td><td valign="top">-</td></tr><tr><td align="center" valign="top">11</td><td valign="top">Dragningshål för enledarkabel</td><td valign="top">-</td></tr><tr><td align="center" valign="top">12</td><td valign="top">Kommunikationsuttag</td><td valign="top">COM</td></tr><tr><td align="center" valign="top">13</td><td valign="top">Nätverksgränssnitt</td><td valign="top">RJ45 2</td></tr><tr><td align="center" valign="top">14</td><td valign="top">Fläkt för kylning</td><td valign="top">-</td></tr></tbody></table>
