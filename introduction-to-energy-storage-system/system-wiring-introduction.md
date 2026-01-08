@@ -37,9 +37,9 @@
 
 ### Diagrama de cableado de reserva (**el modelo HYB tiene un puerto de cargas de reserva**, ≤ 3 unidades)
 
-<figure><img src="../.gitbook/assets/SVA1OV00039-ES1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SVA1OV00039-ES1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="159" valign="middle"></th><th width="147" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A. Batería</td><td valign="middle">A. Panel fotovoltaico</td><td valign="middle">C. Inversor</td><td valign="top">D. Interruptor de CA</td><td valign="top">E. ACB</td></tr><tr><td valign="middle">F. Carga de reserva</td><td valign="middle">G. Sensor de energía</td><td valign="middle">H. Subestación de tipo caja</td><td valign="top">I. Red eléctrica</td><td valign="top">J. Interruptor de control manual</td></tr><tr><td valign="middle">K. mySigen</td><td valign="middle">L. Enrutador</td><td valign="middle">M. CommMod</td><td valign="top">N. CommBridge</td><td valign="top"></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="159" valign="middle"></th><th width="147" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A. Batería</td><td valign="middle">B. Panel fotovoltaico</td><td valign="middle">C. Inversor</td><td valign="top">D. Interruptor de CA</td><td valign="top">E. Panel combinador</td></tr><tr><td valign="middle"><p>F. Subestación de tipo caja</p><p></p><p></p></td><td valign="middle"><p>G. Red eléctrica</p><p></p><p>Sensor de energía</p></td><td valign="middle">H. Interruptor de control manual</td><td valign="top">I. Carga de reserva</td><td valign="top">J. mySigen</td></tr><tr><td valign="middle">K. Enrutador</td><td valign="middle">L. CommMod</td><td valign="middle">M. CommBridge</td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
 
 {% include "../.gitbook/includes/tips.md" %}
 
