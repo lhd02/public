@@ -53,9 +53,9 @@
 
 ### Schemat połączeń zasilania zapasowego (Gdy model HYB jest skonfigurowany z wewnętrzną bramą sieciową, ≤ 3 modułów)
 
-<figure><img src="../.gitbook/assets/SVA1OV00039-PL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SVA1OV00039-pl.png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="135" valign="middle"></th><th width="147" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A. Akumulator</td><td valign="middle">B. Panel fotowoltaiczny</td><td valign="middle">C. Falownik</td><td valign="top">D. Przełącznik AC(Zależy od mocy obciążenia)</td><td valign="top">E. Panel Kombinerowy</td></tr><tr><td valign="middle">F. Obciążenie zapasowe</td><td valign="middle">G. Miernik prądu</td><td valign="middle">H. Podstacja kontenerowa</td><td valign="top">I. Sieć energetyczna</td><td valign="top">J. Przełącznik sterowany ręcznie</td></tr><tr><td valign="middle">K. mySigen</td><td valign="middle">L. Router</td><td valign="middle">M. CommMod</td><td valign="top">N. CommBridge</td><td valign="top"></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="135" valign="middle"></th><th width="147" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A. Akumulator</td><td valign="middle">B. Panel fotowoltaiczny</td><td valign="middle">C. Falownik</td><td valign="top">D. Przełącznik AC(Zależy od mocy obciążenia)</td><td valign="top">E. Panel Kombinerowy</td></tr><tr><td valign="middle">F. Podstacja kontenerowa</td><td valign="middle">G. Sieć energetyczna</td><td valign="middle">H. Przełącznik sterowany ręcznie</td><td valign="top">I. Obciążenie zapasowe</td><td valign="top">J. mySigen</td></tr><tr><td valign="middle">K. Router</td><td valign="middle">L. CommMod</td><td valign="middle">M. CommBridge</td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
 
 {% include "../.gitbook/includes/tips.md" %}
 
