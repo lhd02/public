@@ -37,7 +37,7 @@
 
 ### Kopplingsschema för reserv (**HYB-modellen har en laddningsport för reserv**, ≤ 3 enheter)
 
-<figure><img src="../.gitbook/assets/SVA1OV00039-SV (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SVA1OV00039-SV1.png" alt=""><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th><th width="159" valign="middle"></th><th width="147" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="middle">A. Batteri</td><td valign="middle">A. Solpanel</td><td valign="middle">C. Växelriktare</td><td valign="top">D. AC Switch</td><td valign="top">E. ACB</td></tr><tr><td valign="middle">F. Reservlast</td><td valign="middle">G. Effektsensor</td><td valign="middle">H. Box-type substation</td><td valign="top">I. Elnät</td><td valign="top">J. Manuell brytare</td></tr><tr><td valign="middle">K.mySigen</td><td valign="middle">L. Router</td><td valign="middle">M. CommMod</td><td valign="top">N. CommBridge</td><td valign="top"></td></tr></tbody></table>
 
