@@ -26,7 +26,7 @@
 
 \*进入该时段时，会记录电池电量，当光伏功率大于负载时，剩余光伏功率给电池充电，当光伏功率小于负载时，电池可以放电给负载，但是电池电量下降并且接近进入该时段时的电池电量值时，电池会结束放电。
 
-<figure><img src="../.gitbook/assets/SSA1OV00012-zh (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SSA1OV00012-zh (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## **全部发送给电网模式**
 
