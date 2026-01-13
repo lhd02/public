@@ -49,4 +49,6 @@
   * [Equipment Power-on/Power-off](xi-tong-wei-hu/she-bei-kai-guan-ji.md)
   * [Low SOC](xi-tong-wei-hu/di-dian-liang-shi-yong.md)
   * [Emergency Treatment](xi-tong-wei-hu/ying-ji-chu-li.md)
-* [Technical Parameter](ji-shu-can-shu.md)
+* [Appendix](appendix/README.md)
+  * [Technical Parameter](appendix/ji-shu-can-shu.md)
+  * [Compliance Statement](appendix/compliance-statement.md)
