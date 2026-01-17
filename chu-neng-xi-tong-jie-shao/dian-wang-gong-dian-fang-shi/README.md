@@ -1,0 +1,2 @@
+# Understøttede strømforsyningsmetoder til elnettet
+

@@ -1,0 +1,5 @@
+# Rutinemæssig vedligeholdelse
+
+For at sikre udstyrets langvarige drift anbefales det, at du udfører rutinemæssig vedligeholdelse i henhold til dette afsnit.
+
+<table><thead><tr><th width="104">Inspektionsindhold</th><th width="396.77783203125">Inspektionsmetode</th><th width="94" align="center">Slukket eller ej</th><th>Vedligeholdelsescyklus</th></tr></thead><tbody><tr><td>Systemrengøring</td><td>Kontroller regelmæssigt, om det dekorative dæksel eller ventilatoren er tilstoppet og snavset. Rengør det, når det er nødvendigt. Brug ikke værktøj, der kan forårsage elektrisk stød, eller værktøj med beskadiget isolering, når du rengør, f.eks. stålbørster.</td><td align="center">Ja</td><td>En gang hver tredje måned.</td></tr><tr><td>Systemets driftsstatus</td><td><ul><li>Kontroller, om udstyret er beskadiget eller deformeret.</li><li>Lyt efter unormale lyde under driften af udstyret.</li><li>Når udstyret er i drift, skal du kontrollere, om udstyrets parametre er indstillet korrekt.</li></ul></td><td align="center">Nej</td><td>En gang hvert halve år.</td></tr></tbody></table>

@@ -1,0 +1,3 @@
+# SigenStor Home
+
+<table><thead><tr><th width="179">Produktnavn</th><th width="198">Model</th><th>Navn</th></tr></thead><tbody><tr><td>SigenStor EC</td><td>SigenStor EC 4.8 SP</td><td>Sigen Energy Controller 4,8 kW splitfase</td></tr><tr><td>SigenStor EC</td><td>SigenStor EC 7.6 SP</td><td>Sigen Energy Controller 7,6 kW splitfase</td></tr><tr><td>SigenStor EC</td><td>SigenStor EC 11.4 SP</td><td>Sigen Energy Controller 11,4 kW splitfase</td></tr><tr><td>SigenStor EC</td><td>SigenStor EC 11.5 SP</td><td>Sigen Energy Controller 11,5 kW splitfase</td></tr></tbody></table>

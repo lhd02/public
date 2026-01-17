@@ -1,0 +1,5 @@
+# SigenStor Home Inverter, set fra venstre
+
+<figure><img src="../../../.gitbook/assets/SSA1OV00046.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="95">Serienummer</th><th>Navn</th><th>Markering</th></tr></thead><tbody><tr><td>1</td><td>RSD-udløserkontakt</td><td>-</td></tr><tr><td>2</td><td>Lysstrimmelkonnektor til pyntedæksel</td><td>LED</td></tr><tr><td>3</td><td>Netværksinterface</td><td>RJ45 1/RJ45 2</td></tr><tr><td>4</td><td>Hurtig nedlukningsanordning</td><td>RSD</td></tr><tr><td>5</td><td>AC-terminalblok</td><td>L1/N/L2</td></tr><tr><td>6</td><td>Jordskrue</td><td>-</td></tr><tr><td>7</td><td>Jordforbindelse af aluminiumsbusbar</td><td>-</td></tr><tr><td>8</td><td>DC-terminalblok</td><td><p>PV1+/PV1-/PV2+/PV2-</p><p>PV3+/PV3-PV4+/PV4-</p></td></tr><tr><td>9</td><td>Signalterminalblok</td><td>485-/485+/IB-/IB+/DO+/DO-/GND/EPO+/PE/IA-/IC-/IC+/DI2/DI1/EPO-</td></tr><tr><td>10</td><td>Antenneport</td><td>ANT</td></tr><tr><td>11</td><td>CommMod-port</td><td>4G</td></tr><tr><td>12</td><td>Tænd/sluk-knap</td><td>ON/OFF</td></tr></tbody></table>
