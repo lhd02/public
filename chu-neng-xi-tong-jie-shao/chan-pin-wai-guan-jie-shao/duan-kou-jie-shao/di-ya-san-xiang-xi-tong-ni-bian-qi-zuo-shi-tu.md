@@ -1,0 +1,5 @@
+# Matalajännitteisen kolmivaihejärjestelmän invertteri näkymä vasemmalta
+
+<figure><img src="../../../.gitbook/assets/SHA1OV00003-低压三相.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="70.5555419921875" align="center">Nro</th><th>Nimi</th><th>Merkintä</th></tr></thead><tbody><tr><td align="center">1</td><td>Koristekannen valonauhaliitäntä</td><td>LED</td></tr><tr><td align="center">2</td><td>Verkkokaapelin liitäntä</td><td>RJ45 1/ RJ45 2</td></tr><tr><td align="center">3</td><td>DC-tuloliitäntä</td><td>PV1+/PV2+/ PV3+/PV4+/ PV1-/PV2-/ PV3-/PV4-</td></tr><tr><td align="center">4</td><td>AC-lähtöliitäntä</td><td>AC</td></tr><tr><td align="center">5</td><td>Tiedonsiirtoliitäntä</td><td>COM</td></tr><tr><td align="center">6</td><td>Maadoitusruuvi</td><td>-</td></tr><tr><td align="center">7</td><td>Virtapainike</td><td>ON/OFF</td></tr><tr><td align="center">8</td><td>DC-kytkin</td><td>DC SWITCH</td></tr><tr><td align="center">9</td><td>Sigen CommMod -liitäntä</td><td>4G</td></tr><tr><td align="center">10</td><td>Sigen CommMod -liitäntä</td><td>ANT</td></tr></tbody></table>

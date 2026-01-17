@@ -1,0 +1,5 @@
+# Määräaikaishuolto
+
+Laitteen pitkäaikaisen toiminnan varmistamiseksi on suositeltavaa suorittaa määräaikaishuollot tämän osan mukaisesti.
+
+<table><thead><tr><th width="104">Tarkastuksen sisältö</th><th width="396.77783203125">Tarkastusmenetelmä</th><th width="94" align="center">Virta pois päältä vai ei</th><th>Huoltoväli</th></tr></thead><tbody><tr><td>Järjestelmän puhdistus</td><td>Tarkista säännöllisesti, onko koristekansi tai tuuletin peittynyt tai likainen. Puhdista se tarvittaessa. Älä käytä puhdistuksessa työkaluja, jotka voivat aiheuttaa sähköiskun tai joiden eristys on vaurioitunut, kuten teräsharjoja.</td><td align="center">Kyllä</td><td>Kolmen kuukauden välein.</td></tr><tr><td>Järjestelmän toimintatila</td><td><ul><li>Tarkista, onko laitteessa vaurioita tai muodonmuutoksia.</li><li>Kuuntele, kuuluuko laitteen käytön aikana epänormaaleja ääniä.</li><li>Kun laite on käynnissä, tarkista, että laitteen parametrit on asetettu oikein.</li></ul></td><td align="center">Ei</td><td>Kuuden kuukauden välein.</td></tr></tbody></table>

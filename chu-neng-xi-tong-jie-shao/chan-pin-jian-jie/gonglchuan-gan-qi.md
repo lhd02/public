@@ -1,0 +1,5 @@
+# Tehoanturi
+
+On varustettu verkkoon liittymispisteen tietojenkeruustoiminnolla, jotta saavutetaan nollavirtaverkkoon liittymistoiminnallisuus.
+
+<table><thead><tr><th width="184">Tuotteen nimi</th><th width="272">Malli</th><th>Nimi</th></tr></thead><tbody><tr><td>Power Sensor</td><td>Sigen Sensor SP-DH（SDM230Modbus）</td><td>Sigen Power Sensor Yksiphasinen DH</td></tr><tr><td>Power Sensor</td><td>Sigen Sensor SP-CT120-DH（SDM120CT 40mA)</td><td>Sigen Power Sensor Yksiphasinen Ulkoinen CT 120 A DH</td></tr><tr><td>Power Sensor</td><td>Sigen Sensor TP-DH(SDM630MODBUS V2)</td><td>Sigen Power Sensor Kolmiphasinen DH</td></tr><tr><td>Power Sensor</td><td>Sigen Sensor TP-CT120-DH(SDM630MCT 40mA/120A)</td><td>Sigen Power Sensor Kolmiphasinen Ulkoinen CT 120 A DH</td></tr><tr><td>Power Sensor</td><td>Sigen Sensor TP-CT300-DH(SDM630MCT 40mA/300A)</td><td>Sigen Power Sensor Kolmiphasinen Ulkoinen CT 300 A DH</td></tr><tr><td>Power Sensor</td><td>Sigen Sensor TP-CT600-DH(SDM630MCT V2/600A)</td><td>Sigen Power Sensor Kolmiphasinen Ulkoinen CT 600 A DH</td></tr></tbody></table>
