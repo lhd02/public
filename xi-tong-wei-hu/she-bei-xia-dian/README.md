@@ -1,6 +1,6 @@
-# Power Off
+# Ausschalten
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-* <mark style="color:orange;">When the equipment is faulty, disconnect all circuit breakers in the equipment immediately, and check and remove the fault before turning it on again.</mark>
-* <mark style="color:orange;">Do not operate circuit breakers that are not connected to corresponding equipment when the equipment is powered off. Keep these circuit breakers disconnected.</mark>
+* <mark style="color:orange;">Schalten Sie bei fehlerhaftem Gerät sofort alle Schutzschalter des Gerätes aus. Überprüfen und beheben Sie den Fehler, bevor Sie es wieder einschalten.</mark>
+* <mark style="color:orange;">Schalten Sie keine Schutzschalter ein, die nicht mit den entsprechenden Geräten verbunden sind, wenn die Geräte ausgeschaltet sind. Halten Sie diese Schutzschalter ausgeschaltet.</mark>

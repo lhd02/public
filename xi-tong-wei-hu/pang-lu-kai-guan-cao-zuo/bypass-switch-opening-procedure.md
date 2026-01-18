@@ -1,10 +1,10 @@
-# Bypass switch opening procedure
+# Bypass-Schalter Öffnungsprozedur
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**If accidental bypass switch closure occurs, open the bypass switch and then power up both the inverter and backup power cabinet.**</mark>
+<mark style="color:blue;">**Wenn es zu einem unbeabsichtigten Schließen des Bypass-Schalters kommt, öffnen Sie den Bypass-Schalter und schalten Sie anschließend sowohl den Wechselrichter als auch den Backup-Stromschrank ein.**</mark>
 
-1. Troubleshoot and repair the fault.
-2. Open the bypass switch.
-3. Refer to the maintenance guide for the specific inverter model to complete the inverter power-up procedure.
-4. Refer to the installation guide for the specific Gateway model to complete the power-up procedure.
+1. Störung diagnostizieren und beheben.
+2. Öffnen Sie den Bypass‑Schalter.
+3. Beziehen Sie sich auf die Wartungsanleitung des jeweiligen Wechselrichtermodells, um das Einschaltverfahren des Wechselrichters abzuschließen.
+4. Beziehen Sie sich auf die Installationsanleitung des jeweiligen Gateway-Modells, um das Einschaltverfahren abzuschließen.

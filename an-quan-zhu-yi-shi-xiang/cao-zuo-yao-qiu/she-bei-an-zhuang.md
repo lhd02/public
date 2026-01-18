@@ -1,27 +1,27 @@
-# Equipment Installation
+# Geräteinstallation
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-* <mark style="color:orange;">l Before installing the equipment, check whether the screws installed before delivery are secured. Before delivery, the tightened screws are marked with lines. If the marks are misaligned, the screws are loose. Tighten the screws again.</mark>
+* <mark style="color:orange;">Überprüfen Sie vor der Geräteinstallation, ob die bereits vor der Lieferung angebrachten Schrauben fest angezogen sind. Vor der Auslieferung wurden die angezogenen Schrauben mit Strichen markiert. Wenn die Striche nicht ausgerichtet sind, sind die Schrauben lose. Ziehen Sie die Schrauben erneut an.</mark>
 
-![](<../../.gitbook/assets/1 (6).png>)
+![](../../.gitbook/assets/1 (6).png)
 
-* <mark style="color:orange;">Get well prepared for the bearing load when handling the equipment to prevent it from falling and causing injury.</mark>
+* <mark style="color:orange;">Bereiten Sie sich auf die Handhabung der Gerätetraglast vor, um zu vermeiden, dass es nicht herunterfällt und Verletzungen verursacht.</mark>
 
-### **Ladder Safety**
+### **Leitersicherheit**
 
-* Do not use ladders if you are not well-trained or instructed.
-* Do not use unqualified ladders, including but not limited to damaged, broken, deformed, or temporary ladders.
-* Do not use a ladder that does not meet the load-bearing requirements.
-* Use wooden or fiberglass ladders when you climb up for electrical operations.
-* A straight ladder must be set at a gradient of 60° to 70°.
-* Do not throw objects from heights when operating on a ladder.
-* We recommend that you designate a person to monitor when operating on a ladder.
-* Lock the door when using a ladder at the entrance of the passageway.
+* Verwenden Sie bei mangelnder Ausbildung oder Einweisung keine Leitern.
+* Verwenden Sie keine unzulässigen Leitern, einschließlich, jedoch nicht begrenzt auf beschädigte, zerbrochene, verformte oder provisorische Leitern.
+* Verwenden Sie keine Leitern, die den Traglastanforderungen nicht genügen.
+* Verwenden Sie beim Steigen zum elektrischen Betrieb Holz- oder Glasfaserleitern.
+* Eine gerade Leiter muss mit einer Neigung von 60° bis 70° angelehnt werden.
+* Werfen Sie während der Verwendung einer Leiter keine Gegenstände aus der Höhe herab.
+* Wir empfehlen, dass Sie eine Person bestimmen, die die Verwendung der Leiter beaufsichtigt.
+* Verschließen Sie während der Verwendung einer Leiter an Durchgängen die Tür.
 
-### **Drilling Safety**
+### **Bohrsicherheit**
 
-* Do not drill holes on the equipment.
-* Wear safety goggles and protective gloves when drilling holes.
-* Do not place the equipment near drilling positions to prevent debris from falling into the equipment.
-* Clean up any debris promptly after drilling.
+* Bohren Sie keine Löcher in das Gerät.
+* Tragen Sie beim Bohren der Löcher stets Sicherheitsbrille und Schutzhandschuhe.
+* Stellen Sie das Gerät nicht in der Nähe von Bohrstellen ab, um zu verhindern, dass Schutt in das Gerät fällt.
+* Entfernen Sie nach dem Bohren sofort jegliche Rückstände.

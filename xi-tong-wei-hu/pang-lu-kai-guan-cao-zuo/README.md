@@ -1,5 +1,5 @@
-# Operations on Bypass Switch
+# Betrieb des Umgehungsschalters
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**In normal cases, the bypass switch is turned off. Do not operate the bypass switch. In this case, the Gateway can automatically switch between on-grid and off-grid.**</mark>
+<mark style="color:blue;">**Im Normalfall ist der Umgehungsschalter ausgeschaltet. Bedienen Sie den Umgehungsschalter nicht. In diesem Fall kann das Gateway automatisch zwischen Netzbetrieb und Inselbetrieb wechseln.**</mark>

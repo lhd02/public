@@ -1,3 +1,3 @@
-# Technical Parameters
+# Technische Parameter
 
-For more information on the parameters of the equipment, please refer to their respective data sheets.
+Für weitere Informationen zu den Geräteparametern beziehen Sie sich bitte auf die dementsprechenden Datenblätter.

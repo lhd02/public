@@ -1,27 +1,27 @@
-# Bypass switch closing procedure
+# Schließvorgang des Bypass-Schalters
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**When abnormal operation of the Gateway's grid contactor prevents power supply to the load, close the bypass switch to directly power the load from the grid.**</mark>
+<mark style="color:blue;">**Wenn eine abnormale Funktion des Netzschützes des Gateways die Stromversorgung der Last verhindert, schließen Sie den Bypass-Schalter, um die Last direkt vom Netz mit Strom zu versorgen.**</mark>
 
-### **Steps**
+### **Schritte**
 
-1. Check that the grid normally supplies power.
-2. Power off by referring to [Power Off](../she-bei-xia-dian/).
-3. Refer to the delay time as instructed on the label on the equipment and wait for the specified time. Once the time has elapsed, remove the retaining ring from the bypass switch and turn on the bypass switch.
+1. Überprüfen Sie, ob das Stromnetz normal Strom liefert.
+2. Schalten Sie das Gerät unter Bezugnahme auf [Ausschalten](../she-bei-xia-dian/) aus.
+3. Beziehen Sie sich auf die Verzögerungszeit der Beschriftung und warten Sie den angegebenen Zeitraum ab. Sobald der Zeitraum abgelaufen ist, entfernen Sie den Sicherungsring vom Umgehungsschalter und schalten Sie ihn ein.
 
 <figure><img src="../../.gitbook/assets/SGA1IN00153-en-01.jpg" alt="" width="326"><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-* <mark style="color:orange;">There is residual current and the equipment is hot immediately after the equipment is powered off. Operating the equipment immediately upon power off may lead to electric shock or burns.</mark>
-* <mark style="color:orange;">High voltage exists in the equipment. Wear insulating gloves when turning on the switch.</mark>
+* <mark style="color:orange;">Es besteht Reststrom und das Gerät ist sofort nach dem Ausschalten heiß. Der Gerätebetrieb sofort nach dem Ausschalten kann zum Stromschlag und Verbrennungen führen.</mark>
+* <mark style="color:orange;">Das Gerät steht unter Hochspannung. Beim Bedienen des Schalters Isolierhandschuhe tragen.</mark>
 
 {% include "../../.gitbook/includes/caution.md" %}
 
-<mark style="color:purple;">After turning on the bypass switch, do not turn on the miniature circuit breaker connected to the inverter and Generator on Gateway. Otherwise, the power grid port will be charged, resulting in the risk of electric shock.</mark>
+<mark style="color:purple;">Nach dem Einschalten des Umgehungsschalters darf der an den Wechselrichter und den Generator angeschlossene Kompaktleistungsschalter am Gateway nicht eingeschaltet werden. Andernfalls wird der Stromnetzanschluss aufgeladen, was zu einem Stromschlag führen kann.</mark>
 
-4. Turn on the miniature circuit breaker connected to the SPD.
-5. Turn on the miniature circuit breaker connected to the power grid.
-6. Turn on the miniature circuit breaker connected to backup household loads.
-7. Close the equipment door.
+4. Schalten Sie den an den Überspannungsschutz angeschlossenen Kompaktleitungsschutzschalter ein.
+5. Schalten Sie den an das Stromnetz angeschlossenen Kompaktleistungsschalter ein.
+6. Schalten Sie den an die Notstrom-Haushaltslasten angeschlossenen Kompaktleistungsschalter ein.
+7. Schließen Sie die Gerätetür.

@@ -1,18 +1,18 @@
-# Emergency Measures
+# Notmaßnahmen
 
-### **Fire Emergency Measures**
-
-{% include "../.gitbook/includes/danger.md" %}
-
-* <mark style="color:red;">Shut down the equipment or cut off the mains switch if it is safe to do so.</mark>
-* <mark style="color:red;">If the fire is small, use a carbon dioxide or ABC dry powder fire extinguisher to extinguish the fire.</mark>
-* <mark style="color:red;">If the fire is spreading, evacuate from the building or equipment area immediately and call the fire department. Do not go back inside the building.</mark>
-* <mark style="color:red;">Do not expose firefighters to high-voltage components during firefighting. Otherwise, the risk of electric shock may exist.</mark>
-* <mark style="color:red;">Do not use the equipment after extinguishing the fire. Please contact your installer.</mark>
-
-### **Flood Emergency Measures**
+### **Notmaßnahmen im Brandfall**
 
 {% include "../.gitbook/includes/danger.md" %}
 
-* <mark style="color:red;">Shut down the equipment or cut off the mains switch if it is safe to do so.</mark>
-* <mark style="color:red;">Do not use the equipment after the floodwaters recede. Please contact your installer.</mark>
+* <mark style="color:red;">Schalten Sie das Gerät aus oder trennen Sie den Netzschalter, wenn dies gefahrlos möglich ist.</mark>
+* <mark style="color:red;">Verwenden Sie zum Löschen eines kleinen Feuers einen Kohlendioxid- oder ABC-Trockenpulver-Feuerlöscher.</mark>
+* <mark style="color:red;">Wenn sich das Feuer ausbreitet, evakuieren Sie das Gebäude oder den Gerätebereich sofort und rufen Sie die Feuerwehr. Gehen Sie nicht in das Gebäude zurück.</mark>
+* <mark style="color:red;">Setzen Sie Feuerwehrleute während der Brandbekämpfung nicht den unter Hochspannung stehenden Bauteilen aus. Andernfalls besteht die Gefahr eines elektrischen Schlags.</mark>
+* <mark style="color:red;">Verwenden Sie das Gerät nach dem Löschen des Feuers nicht. Bitte kontaktieren Sie Ihren Installateur.</mark>
+
+### **Notmaßnahmen im Überschwemmungsfall**
+
+{% include "../.gitbook/includes/danger.md" %}
+
+* <mark style="color:red;">Schalten Sie das Gerät aus oder trennen Sie den Netzschalter, wenn dies gefahrlos möglich ist.</mark>
+* <mark style="color:red;">Verwenden Sie das Gerät nicht, nachdem das Hochwasser zurückgegangen ist. Bitte kontaktieren Sie Ihren Installateur.</mark>

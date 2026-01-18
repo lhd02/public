@@ -1,26 +1,26 @@
-# General Requirements
+# Allgemeine Anforderungen
 
-Before installing, operating, and maintaining the equipment, familiarize yourself with this user manual. Strictly follow the instructions in the manual and adhere to all safety precautions indicated on the equipment and within the manual.
+Machen Sie sich vor der Installation, dem Betrieb und der Wartung des Geräts mit dieser Bedienungsanleitung vertraut. Befolgen Sie strikt die Anweisungen der Bedienungsanleitung und halten Sie sich an alle auf dem Gerät und in der Bedienungsanleitung angegebenen Sicherheitsmaßnahmen.
 
-The "<mark style="color:red;">Danger</mark>," "<mark style="color:orange;">Warning</mark>," and "<mark style="color:purple;">Caution</mark>" statements described in this manual are only supplementary precautions to all safety notices.
+Die in diesem Handbuch beschriebenen Hinweise „<mark style="color:red;">Gefahr</mark>“, „<mark style="color:orange;">Warnung</mark>“ und „<mark style="color:purple;">Vorsicht</mark>“ sind nur ergänzende Vorsichtsmaßnahmen zu allen Sicherheitshinweisen.
 
-The Company shall not be held liable for equipment damage or property loss resulting from violation of safety operation requirements or safety standards of design, production, and use of equipment, including but not limited to the following:
+Das Unternehmen haftet nicht für durch die Verletzung von Sicherheitsanforderungen oder Sicherheitsstandards entstandene Geräte- oder Sachschäden während der Konstruktion, Herstellung und Verwendung von Geräten, einschließlich jedoch nicht beschränkt auf das Nachfolgende:
 
-* The installation environment does not comply with relevant international, national, or regional standards.
-* Failure to comply with local laws and regulations during the transportation, installation, operation, and maintenance of the equipment.
-* The installation area does not meet the requirements of the equipment.
-* Cables, tools, and other materials used do not comply with relevant international, national, or regional standards.
-* Damage caused by storage conditions that do not meet the requirements of the equipment.
-* Failure to operate according to the instructions and precautions in the manual.
-* Failure to follow the prescribed sequence of steps for installation, operation, and maintenance in the manual, unauthorized changes to the installation sequence, unauthorized modification, additions, or changes to equipment, etc.
-* Failure to handle the equipment with care or violent installation may result in equipment damage and liquid leakage and pose a risk of fire or explosion hazards.
-* Failure to follow the operational requirements indicated on warning labels on the equipment or tools.
-* Negligence, improper operation, or deliberate damage.
-* Damage caused during transportation by you or a third party you commission.
-* Damage caused by the change of the scenarios for which the equipment is intended on the customer or a third party company side.
-* Equipment damage caused by failure to use the accessories supplied with the packing box or purchase and use accessories of the same specification on the customer or a third-party company side.
-* Equipment damage caused by unauthorized disassembly or replacement of the equipment or modification of software code, or other improper operations.
-* Equipment damage caused by force majeure (such as war, earthquake, fire, storms, lightning, floods, and debris flow).
-* Damage caused by the failure of the natural environment or external power parameters to meet the standard requirements for the normal operation of the equipment. For example, the actual operating temperature of the equipment is too high or too low.
-* The equipment is stolen.
-* The equipment is damaged after the warranty period expires.
+* Die Installationsumgebung entspricht nicht den internationalen, nationalen oder regionalen Normen.
+* Nichteinhaltung der örtlichen Gesetze und Vorschriften während Transport, Installation, Betrieb und Wartung des Geräts.
+* Der Installationsbereich erfüllt nicht die Geräteanforderungen.
+* Kabel, Werkzeuge und andere verwendete Materialien entsprechen nicht den internationalen, nationalen oder regionalen Normen.
+* Schäden aufgrund von Lagerzuständen, die die Geräteanforderungen nicht erfüllen.
+* Nichtbeachtung der Anweisungen und Vorsichtsmaßnahmen der Bedienungsanleitung.
+* Nichteinhaltung der in der Bedienungsanleitung vorgeschriebenen Reihenfolge der Installations-, Betriebs- und Wartungsschritte, unbefugte Änderungen der Installationsreihenfolge, unbefugte Veränderungen, Ergänzungen oder Änderungen an der Ausrüstung usw.
+* Unsachgemäße Handhabung des Geräts oder unsachgemäße Installation können zu Geräteschäden und zum Austreten von Flüssigkeiten führen und stellen eine Brand- und Explosionsgefahr dar.
+* Nichtbeachtung der auf den Warnschildern und an den Geräten oder Werkzeugen angegebenen Betriebsvorschriften.
+* Vernachlässigung, unsachgemäßer Betrieb oder beabsichtigte Beschädigung.
+* Durch Sie oder einen von Ihnen beauftragten Dritten verursachte Schäden, die während des Transports auftreten.
+* Durch die Änderung der für das Gerät bestimmten Szenarien, die aufseiten des Kunden oder eines Drittunternehmens verursacht werden.
+* Durch die Nichtverwendung des mitgelieferten Zubehörs oder durch den Kauf und die Verwendung von Zubehör mit gleicher Spezifikation seitens des Kunden oder eines Drittunternehmens verursachte Geräteschäden.
+* Durch unbefugte Demontage oder Austausch des Geräts oder durch Veränderung des Software-Codes oder durch andere unsachgemäße Eingriffe verursachte Geräteschäden.
+* Geräteschäden aufgrund höherer Gewalt (z. B. Krieg, Erdbeben, Brand, Stürme, Blitz, Flut, Geröllfluss usw.).
+* Durch natürliche Umgebungsbedingungen oder durch die Standardanforderungen für den normalen Betrieb des Geräts nicht entsprechende externe Leistungsparameter verursachte Schäden. Zum Beispiel, wenn die tatsächliche Betriebstemperatur des Geräts zu hoch oder zu niedrig ist.
+* Das Gerät wurde geklaut.
+* Das Gerät wurde nach dem Garantiezeitraum beschädigt.

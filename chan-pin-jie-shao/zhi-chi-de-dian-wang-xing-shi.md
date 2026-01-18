@@ -1,12 +1,12 @@
-# Supported Power Supply Methods for the Power Grid
+# Unterstützte Stromversorgungsmethoden für das Stromnetz
 
-* The grid supply methods supported include TN-S, TN-C-S, and TT.
-* When TT is used as the power supply technique for the power grid, the voltage between N and PE is required to be < 30 V.
+* Die unterstützten Netzversorgungsmethoden beinhalten N-S, TN-C-S und TT.
+* Wenn TT als Stromversorgungsmethode des Stromnetzes verwendet wird, muss die Spannung zwischen N und PE <30 V betragen.
 
-### Gateway Single-phase Series Products:
+### Produkte der einphasigen Gateway-Serie:
 
 <figure><img src="../.gitbook/assets/SVA1OV00011-en.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-### Gateway three-phase series products:
+### Produkte der dreiphasigen Gateway-Serie:
 
 <figure><img src="../.gitbook/assets/SVA1OV00010-en.jpg" alt="" width="563"><figcaption></figcaption></figure>

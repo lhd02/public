@@ -1,16 +1,16 @@
-# Safety Tips for Working at Heights
+# Sicherheitstipps für Arbeiten in großer Höhe
 
-* Comply with the local regulations on working at heights.
-* Operators engaged in working at heights shall behave in strict accordance with the safety regulations on working at heights, and the Company shall not be liable for accidents caused by the violation of the safety regulations on working at heights.
-* Carrying out work at more than 2 meters above the ground is considered as work at heights.
-* Do not work at heights in one of the following conditions: steel pipe not drying up and other conditions that may cause danger.
-* Before working at heights, carefully check the climbing tools and safety appliances, such as safety hats, safety belts, ladders, platforms, scaffolds, and lifting equipment, and take immediate improvement measures or refuse to work at heights if any requirements are not met.
-* Mark out a hazardous area on the work-at-height scene and set an eye-catching sign indicating that unauthorized personnel are prohibited from entering.
-* Set guardrails and signs at the edges and holes in the work-at-height area to prevent accidental falls.
-* It is strictly forbidden to stack scaffolds, platforms, or other things on the ground below the work-at-height area. Personnel on the ground should be strictly prohibited from staying or passing through directly below the work-at-height area.
-* Try to avoid working on the upper and lower platforms at the same time. If this cannot be avoided, a special catch platform should be set, or other protective measures should be taken between the upper and lower platforms. It is strictly forbidden to stack tools, materials, and other things on the upper platform.
-* Take protection measures, wear a safety hat and a safety belt or a waist rope, tie it to a solid and rigid structural member. It is strictly forbidden to hang it on an unstable moving object or metal with sharp corners to prevent accidental falls due to hook slip.
-* Carry the operating apparatuses and tools well and prevent them from falling and injuring others.
-* Workers at heights are strictly forbidden from throwing objects from heights to the ground nor from the ground to heights. Rigid ropes, hoists, aerial lifts, or cranes should be used to transport objects.
-* Horseplay is strictly forbidden while working at heights, and resting in the work-at-height area is prohibited.
-* After work at heights, climbing tools, safety appliances, personal protective equipment, and other things shall be cleaned up or taken away from the scene, and the scene shall be restored to its original state.
+* Beachten Sie die örtlichen Richtlinien für Arbeiten in der Höhe.
+* Das Personal sollte bei Arbeiten in der Höhe sich streng an die Sicherheitsrichtlinien für Arbeiten in der Höhe halten. Das Unternehmen ist für Unfälle aufgrund der Nichtbeachtung der Sicherheitsrichtlinien für Arbeiten in der Höhe nicht haftbar.
+* Das Ausführen von Arbeiten in einer Höher von mehr als 2 Metern über dem Boden wird als Arbeit in der Höhe angesehen.
+* Arbeiten Sie bei einer der nachfolgenden Zustände nicht in der Höhe: nicht ausgetrocknete Stahlrohre sowie weitere Zustände, die eine Gefahr darstellen können.
+* Überprüfen Sie vor der Ausführung von Arbeiten in der Höhe die Werkzeuge und Sicherheitseinrichtungen wie etwa Schutzhelme, Schutzgurte, Leitern, Plattformen, Gerüste und Hebezeuge. Sollten jegliche dieser Voraussetzungen nicht gegeben sein, veranlassen Sie sofortige Verbesserungsmaßnahmen oder verweigern Sie die Arbeit in der Höhe.
+* Markieren Sie im Arbeitsbereich den Gefahrenbereich und stellen Sie ein auffälliges Schild auf, um darauf hinzuweisen, dass das Betreten durch Unbefugte verboten ist.
+* Bringen Sie zur Vermeidung von Stürzen an den Rändern und an den Zugängen zum Arbeitsbereichs dementsprechende Geländer und Schilder an.
+* Es ist strengstens untersagt, auf dem Boden unterhalb des Arbeitsbereichs Gerüstteile, Plattformen sowie weitere Gegenstände zu stapeln. Dem Personal ist es strengstens zu untersagen, sich direkt unterhalb des Arbeitsbereichs aufzuhalten oder dort durchzugehen.
+* Versuchen Sie gleichzeitige Arbeiten auf den oberen und unteren Plattformen zu vermeiden. Wenn dies unvermeidbar ist, sollte zwischen der oberen und unteren Plattform eine spezielle Auffangplattform oder eine andere Schutzmaßnahme eingerichtet werden. Es ist strengstens untersagt, Werkzeuge, Materialien sowie weitere Gegenstände auf der oberen Plattform zu stapeln.
+* Um Schutzmaßnahmen zu ergreifen, tragen Sie einen Schutzhelm und einen Sicherheitsgurt oder ein Hüftseil und befestigen Sie diese Sicherungsmaßnahme an einem soliden und stabilen Bauteil. Es ist strengstens untersagt, die Sicherungsmaßnahme an einem instabilen beweglichen Gegenstand oder einem Metallteil mit scharfen Kanten zu befestigen, um Abstürze durch Verrutschen des Hakens zu vermeiden.
+* Tragen Sie die Arbeitsgeräte und Werkzeuge sicher und verhindern Sie, dass sie herunterfallen und andere verletzen.
+* Es ist dem Personal in der Höhe strengstens untersagt, Gegenstände aus der Höhe auf den Boden oder vom Boden in die Höhe zu werfen. Für den Transport von Gegenständen sollten starre Seile, Hebebühnen, Hubsteiger oder Kräne verwendet werden.
+* Während der Arbeit in der Höhe ist das Herumalbern strengstens verboten und das Ausruhen im Arbeitsbereich ist untersagt.
+* Nach Arbeiten in der Höhe müssen Kletterwerkzeuge, Sicherheitsvorrichtungen, persönliche Schutzausrüstungen sowie die weiteren Gegenstände aufgeräumt oder von der Arbeitsstelle entfernt werden. Der ursprüngliche Zustand der Arbeitsstelle ist wiederherzustellen.

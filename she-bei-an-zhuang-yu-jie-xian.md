@@ -1,4 +1,4 @@
-# Equipment Installation and Connection
+# Geräteinstallation und -anschluss
 
-* Equipment installation and connection must only be completed by the installer certified by the Company. For more information on the installation procedure, please refer to the Installation Guide of the respective Gateway mode.
-* Parts and accessories supplied with the packing box are the property of the purchaser and must be kept safe.
+* Geräteinstallation und -anschluss dürfen nur durch einen vom Unternehmen zertifizierten Installateur durchgeführt werden. Für weitere Informationen zum Installationsvorgang beziehen Sie sich bitte auf die Installationsanleitungen des dementsprechenden Gateway-Modus.
+* Die in der Verpackung enthaltenen Teile und das Zubehör sind das persönliche Eigentum des Käufers und müssen sicher aufbewahrt werden.

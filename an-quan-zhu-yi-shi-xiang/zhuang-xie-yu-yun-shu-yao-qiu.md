@@ -1,11 +1,11 @@
-# Handling and Transportation Requirements
+# Handhabungs- und Transportanforderungen
 
-* Wear personal protective equipment such as protective gloves and safety shoes while handling the equipment.
-* Select an appropriate handling method according to the equipment weight.
-* When handling the equipment, always follow the package orientation marking. Do not turn the equipment upside down or tip it over.
-* The tilt angle of the equipment with packaging must be less than or equal to 15°. After the equipment is unpacked, its tilt angle must be less than or equal to 10°. Take into account the heights of persons assigned to handle the equipment to ensure that the equipment is handled stably.
-* Lift or move the equipment slowly to avoid personal injury.
-* When using a forklift, position the forks so that the center of gravity of the equipment is aligned and secure the equipment as needed. Designate a person to keep an eye on the handling. Do not stand under the forks.
-* Place the equipment according to the stack requirement indicated on the packaging.
-* Ensure the equipment is placed on a flat and stable surface and do not tilt or place the equipment upside down.
-* Transport the equipment with proper protective measures to avoid exposure to rain or water.
+* Beim Bewegen des Geräts stets die Schutzausrüstung wie z. B. Schutzbrille und Sicherheitsschuhe tragen.
+* Wählen Sie je nach Gewicht des Geräts eine geeignete Handhabungsmethode aus.
+* Beim Handhaben des Geräts befolgen Sie stets die Orientierungsmarkierungen auf der Verpackung. Stellen Sie das Gerät nicht auf den Kopf und kippen Sie es nicht um.
+* Der Neigungswinkel des Geräts mit Verpackung darf nicht größer sein als 15°. Nach dem Auspacken des Geräts darf der Neigungswinkel nicht größer sein als 10°. Zum Sicherstellen der stabilen Handhabung des Geräts berücksichtigen Sie die Körpergröße des mit der Handhabung des Geräts betrauten Personals.
+* Zur Vermeidung von Verletzungen heben und bewegen Sie das Gerät langsam.
+* Bei der Verwendung eines Gabelstaplers positionieren Sie die Gabeln so, dass der Schwerpunkt des Geräts ausgerichtet ist und sichern Sie das Gerät je nach Erfordernissen. Bestimmen Sie eine Person, die die Handhabung im Auge behält. Nicht unter den Staplergabeln stehen.
+* Lagern Sie das Gerät entsprechend den auf der Verpackung angegebenen Stapelbedingungen.
+* Achten Sie darauf, dass das Gerät auf einer ebenen und stabilen Fläche steht und nicht gekippt oder auf den Kopf gestellt wird.
+* Transportieren Sie das Gerät mit geeigneten Schutzmaßnahmen, um es vor Regen oder Wasser zu schützen.

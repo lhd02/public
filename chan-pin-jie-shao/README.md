@@ -1,2 +1,2 @@
-# Product Introduction
+# Vorstellung des Produktes
 

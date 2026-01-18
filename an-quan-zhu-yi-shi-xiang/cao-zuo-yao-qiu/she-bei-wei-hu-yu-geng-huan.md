@@ -1,7 +1,7 @@
-# Equipment Maintenance and Replacement
+# Gerätewartung und -austausch
 
-* Before maintaining or replacing the equipment, power off and wait for the delay time as instructed on the label on the equipment before operation.
-* When maintaining the power equipment or power distribution equipment at the downstream direction of the power supply equipment, turn off the output switch of the power supply equipment.
-* When maintaining the power distribution equipment or power equipment at the downstream direction of the power supply equipment, turn off the output switch of the power supply equipment. To maintain a load, disconnect the load from the power switch.
-* During equipment maintenance, attach labels, for example, "Do Not Turn On", on the upstream and downstream switches or circuit breakers and set warning signs to prevent accidental reconnection. Power up and put the equipment back into operation only after trouble is eliminated, or replacement is complete.
-* Damaged cables, if any, should be replaced by professionals.
+* Vor der Wartung oder dem Austausch des Geräts schalten Sie es aus und warten Sie hinterher die auf der Beschriftung angegebene Verzögerungszeit ab, bevor Sie es in Betrieb nehmen.
+* Schalten Sie den Ausgangsschalter der Stromversorgungsanlage aus, wenn Sie die Stromverteilungsanlage oder die Stromversorgungsanlage stromabwärts der Stromversorgungsanlage warten.
+* Schalten Sie den Ausgangsschalter der Stromversorgungsanlage aus, wenn Sie die Stromverteilungs-oder Stromversorgungsanlage auf der Rückseite der Stromversorgungsanlage warten. Um eine Last aufrechtzuerhalten, trennen Sie die Last vom Netzschalter.
+* Bringen Sie bei der Gerätewartung Beschriftungen an den vor- und nachgeschalteten Schaltern oder Leistungsschaltern an, z. B. „Nicht einschalten“ und stellen Sie Warnschilder auf, um das versehentliche Wiedereinschalten zu verhindern. Schalten Sie das Gerät erst ein und nehmen Sie es nur in Betrieb, nachdem das Problem beseitigt oder der Austausch beendet wurde.
+* Beschädigte Kabel, falls vorhanden, sollten durch Fachpersonal ersetzt werden.

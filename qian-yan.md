@@ -1,18 +1,18 @@
-# Preface
+# Vorwort
 
-### **Overview**
+### **Übersicht**
 
-This document mainly describes the product introduction, networking, and system maintenance of the Sigen Energy Gateway for the C\&I series (hereinafter referred to as the Gateway).
+Dieses Dokument beschreibt hauptsächlich die Produkteinführung, die Vernetzung und die Systemwartung des Sigen Energy Gateway der C\&I-Serie (im Nachfolgenden als Gateway bezeichnet).
 
-### **Intended Audience**
+### **Zielgruppen**
 
-This document is intended for:
+Dieses Dokument ist gedacht für:
 
-* Professionally trained and qualified installers.
-* Technical support engineers.
+* Professionell ausgebildete und qualifizierte Installateure.
+* Kundendienstingenieure.
 
-### **Definitions of Signs**
+### **Bedeutung und Zeichen**
 
-The following signs may be used in the document to indicate safety precautions or key information. Before installation and operation of the equipment, familiarize yourself with signs and their definitions.
+Die nachfolgenden Zeichen können in diesem Dokument erscheinen, um Sicherheitsmaßnahmen oder Schlüsselinformationen anzuzeigen. Machen Sie sich vor Installation und Betrieb des Geräts mit den Zeichen und ihren Bedeutungen vertraut.
 
-<table><thead><tr><th width="190">Sign</th><th>Definition</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/danger.png" alt=""></td><td>Danger. Indicates an imminently hazardous situation which, if not avoided, will result in death or serious personal injury.</td></tr><tr><td><img src=".gitbook/assets/warning (1).png" alt=""></td><td>Warning. Indicates a potentially hazardous situation which, if not avoided, will result in serious personal injury or property damage.</td></tr><tr><td><img src=".gitbook/assets/caution (1).png" alt=""></td><td>Caution. Indicates a potentially hazardous situation which, if not avoided, will result in property damage.</td></tr><tr><td><img src=".gitbook/assets/tips.png" alt=""></td><td>Indicates important or key information and provides operation tips.</td></tr></tbody></table>
+<table><thead><tr><th width="190">Zeichen</th><th>Bedeutung</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/danger.png" alt=""></td><td>Gefahr. Zeigt eine unmittelbare Gefahrensituation an, die bei Nichtvermeidung zum Tod oder schweren Verletzungen f&uuml;hren wird.</td></tr><tr><td><img src=".gitbook/assets/warning (1).png" alt=""></td><td>Warnung. Zeigt eine potenzielle Gefahrensituation an, die bei Nichtvermeidung zu schweren Verletzungen oder Eigentumssch&auml;den f&uuml;hren wird.</td></tr><tr><td><img src=".gitbook/assets/caution (1).png" alt=""></td><td>Vorsicht. Zeigt eine potenzielle Gefahrensituation an, die bei Nichtvermeidung zu Eigentumssch&auml;den f&uuml;hren wird.</td></tr><tr><td><img src=".gitbook/assets/tips.png" alt=""></td><td>Zeigt wichtige Schl&uuml;sselinformationen und zus&auml;tzliche Betriebstipps an.</td></tr></tbody></table>

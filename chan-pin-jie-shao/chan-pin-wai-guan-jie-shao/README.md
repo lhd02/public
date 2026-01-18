@@ -1,2 +1,2 @@
-# Product Appearance
+# Aussehen des Produktes
 

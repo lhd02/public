@@ -4,11 +4,11 @@
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-<mark style="color:orange;">The Gateway should be disconnected in the following order:</mark>
+<mark style="color:orange;">Das Gateway sollte in der folgenden Reihenfolge getrennt werden:</mark>
 
-1. <mark style="color:orange;">Turn off the miniature circuit breaker QF6 (connecting to Backup loads).</mark>
-2. <mark style="color:orange;">Turn off the miniature circuit breaker QF2 (connecting to Smart loads/Generator).</mark>
-3. <mark style="color:orange;">After shutting down all the inverters on the phone, turn off the miniature circuit breaker QF3 (connecting to the inverter 1).</mark>
-4. <mark style="color:orange;">Turn off the miniature circuit breaker QF4 or QF5 (connecting to the inverter 2).</mark>
-5. <mark style="color:orange;">Turn off the miniature circuit breaker QF1 (connecting to the Power grid).</mark>
-6. <mark style="color:orange;">Turn off the miniature circuit breaker (connecting to the Surge Protection Device) QF7.</mark>
+1. <mark style="color:orange;">Schalten Sie den Miniatur-Leistungsschalter QF6 aus (für Notstromlasten).</mark>
+2. <mark style="color:orange;">Schalten Sie den Miniatur-Leistungsschutzschalter QF2 aus (Anschluss an intelligente Verbraucher/Generator).</mark>
+3. <mark style="color:orange;">Nach dem Herunterfahren aller Wechselrichter über das Mobiltelefon den Leitungsschutzschalter QF3 (anschließend an Wechselrichter 1) ausschalten.</mark>
+4. <mark style="color:orange;">Schalten Sie den Miniatur-Leistungsschutzschalter QF4 oder QF5 (angeschlossen an Wechselrichter 2) aus.</mark>
+5. <mark style="color:orange;">Schalten Sie den Miniatur-Leistungsschutzschalter QF1 aus (Anschluss an das Stromnetz).</mark>
+6. <mark style="color:orange;">Schalten Sie den Miniatur-Leistungsschutzschalter (angeschlossen am Überspannungsschutzgerät) QF7 aus.</mark>
