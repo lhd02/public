@@ -1,10 +1,10 @@
-# Bypass switch opening procedure
+# Postup otevření přemosťovacího spínače
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**If accidental bypass switch closure occurs, open the bypass switch and then power up both the inverter and backup power cabinet.**</mark>
+<mark style="color:blue;">**Pokud dojde k&nbsp;náhodnému uzavření přemosťovacího spínače, otevřete přemosťovací spínač a&nbsp;poté zapněte jak měnič, tak skříň záložního napájení.**</mark>
 
-1. Troubleshoot and repair the fault.
-2. Open the bypass switch.
-3. Refer to the maintenance guide for the specific inverter model to complete the inverter power-up procedure.
-4. Refer to the installation guide for the specific Gateway model to complete the power-up procedure.
+1. Diagnostikujte a&nbsp;opravte závadu.
+2. Otevřete přemosťovací spínač.
+3. Řiďte se průvodcem údržbou pro konkrétní model měniče, abyste dokončili postup zapnutí měniče.
+4. Pro dokončení postupu zapnutí se řiďte průvodcem instalací konkrétního modelu zařízení Gateway.

@@ -1,7 +1,7 @@
-# Personnel Requirements
+# Požadavky na personál
 
-* Professionals or well-trained personnel must be assigned to install, operate, and maintain the equipment. During operations, irrelevant personnel are prohibited from approaching the work area.
-  * Professionals: Personnel who are familiar with the composition and working principle of the system or equipment, have participated in training or operated the equipment, and are familiar with the factors that may lead to risks during the installation, operation, and maintenance of the equipment and risk levels.
-  * Well-trained personnel: Personnel who have participated in relevant technical and safety training, have relevant experience, can identify operational risks, and can take relevant corrective measures to reduce the impact of risks.
-* For special operations, such as climbing and electrical operations on high-voltage equipment, the operator must be certified for special operations as required by the local country/region.
-* Only authorized professionals can replace the equipment or components (including software), remove safety devices, or repair the equipment.
+* Instalací, obsluhou a&nbsp;údržbou zařízení musí být pověřeni odborní pracovníci nebo dobře vyškolený personál. Během provozu je nepovolaným osobám zakázáno přibližovat se k&nbsp;pracovní oblasti.
+  * Odborní pracovníci: Personál, který je obeznámen se složením a&nbsp;principem činnosti systému nebo zařízení, absolvoval školení nebo zařízení obsluhoval a&nbsp;je obeznámen s&nbsp;faktory, které mohou při instalaci, provozu a&nbsp;údržbě zařízení vést k&nbsp;rizikům, a&nbsp;s&nbsp;úrovněmi případných rizik.
+  * Dobře vyškolený personál: Personál, který absolvoval příslušné technické a&nbsp;bezpečnostní školení, má relevantní zkušenosti, dokáže identifikovat provozní rizika a&nbsp;přijmout příslušná nápravná opatření ke snížení dopadu těchto rizik.
+* Pro speciální operace, jako jsou lezecké a&nbsp;elektrické práce na vysokonapěťovém zařízení, musí být obsluha certifikována pro speciální operace podle požadavků místní země/regionu.
+* Pouze oprávnění odborní pracovníci smí vyměňovat zařízení nebo jeho součásti (včetně softwaru), odstraňovat bezpečnostní zařízení nebo opravovat zařízení.

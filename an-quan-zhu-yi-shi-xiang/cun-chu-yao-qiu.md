@@ -1,12 +1,12 @@
-# Storage Requirements
+# Požadavky na skladování
 
-* The storage location must comply with local laws and regulations.
-* Do not store the equipment without packaging.
-* Do not expose the equipment to direct sunlight, humidity, condensation, dirt, rain, or a flammable, explosive, or corrosive environment.
-* Regularly check the equipment (recommended once every three months) during the storage period. Take measures to prevent pests and rodents in the storage area. Replace the packaging immediately if the packaging is damaged by pests or rodents.
-* Store the equipment according to the storage requirements indicated on the packaging.
-* Regularly record the temperature, humidity, and other conditions of the storage environment during the storage period.
-  * Storage temperature: -40°C to 70°C, with a recommended range of 20°C to 30°C.
-  * Relative humidity: 0% RH to 95% RH.
-* Follow the First-in First-out (FIFO) principle for shipment.
-* If your equipment has been stored for more than 2 years, please go through professional inspection and testing before putting it into operation.
+* Místo skladování musí být v&nbsp;souladu s&nbsp;místními zákony a&nbsp;předpisy.
+* Neskladujte zařízení bez obalu.
+* Nevystavujte zařízení přímému slunečnímu záření, vlhkosti, kondenzaci, nečistotám, dešti ani hořlavému, výbušnému či korozivnímu prostředí.
+* Během skladování pravidelně kontrolujte zařízení (doporučeno jednou za tři měsíce). Přijměte opatření k&nbsp;zabránění výskytu škůdců a&nbsp;hlodavců ve skladovacím prostoru. Okamžitě vyměňte obal, pokud byl poškozen škůdci nebo hlodavci.
+* Uchovávejte zařízení podle požadavků na skladování uvedených na obalu.
+* Během skladování pravidelně zaznamenávejte teplotu, vlhkost a&nbsp;další podmínky prostředí skladování.
+  * Skladovací teplota: −40&nbsp;°C až 70&nbsp;°C, s&nbsp;doporučeným rozsahem 20&nbsp;°C až 30&nbsp;°C.
+  * Relativní vlhkost: 0% RV až 95% RV.
+* Dodržujte zásadu FIFO (první dovnitř, první ven) při odesílání.
+* Pokud bylo vaše zařízení skladováno déle než 2&nbsp;roky, před uvedením do provozu jej nechte odborně zkontrolovat a&nbsp;otestovat.

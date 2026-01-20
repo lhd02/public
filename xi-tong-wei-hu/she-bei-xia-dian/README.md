@@ -1,6 +1,6 @@
-# Power Off
+# Vypnutí napájení
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-* <mark style="color:orange;">When the equipment is faulty, disconnect all circuit breakers in the equipment immediately, and check and remove the fault before turning it on again.</mark>
-* <mark style="color:orange;">Do not operate circuit breakers that are not connected to corresponding equipment when the equipment is powered off. Keep these circuit breakers disconnected.</mark>
+* <mark style="color:orange;">Když má zařízení závadu, okamžitě odpojte všechny jističe v&nbsp;zařízení a&nbsp;před jeho opětovným zapnutím závadu zkontrolujte a&nbsp;odstraňte.</mark>
+* <mark style="color:orange;">Nepoužívejte jističe, které nejsou připojeny k&nbsp;odpovídajícímu zařízení, když je zařízení vypnuto. Nechte tyto jističe odpojené.</mark>

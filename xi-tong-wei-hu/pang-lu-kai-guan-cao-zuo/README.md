@@ -1,5 +1,5 @@
-# Operations on Bypass Switch
+# Provoz na přemosťovací spínač
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">**In normal cases, the bypass switch is turned off. Do not operate the bypass switch. In this case, the Gateway can automatically switch between on-grid and off-grid.**</mark>
+<mark style="color:blue;">**Za normálních okolností je přemosťovací spínač vypnutý. Neovládejte přemosťovací spínač. V&nbsp;tomto případě může zařízení Gateway automaticky přepínat mezi režimem připojení k&nbsp;síti a&nbsp;ostrovním režimem.**</mark>

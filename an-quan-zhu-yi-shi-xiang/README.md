@@ -1,2 +1,2 @@
-# Safety Precautions
+# Bezpečnostní opatření
 

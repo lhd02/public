@@ -1,7 +1,7 @@
-# Equipment Maintenance and Replacement
+# Údržba a&nbsp;výměna zařízení
 
-* Before maintaining or replacing the equipment, power off and wait for the delay time as instructed on the label on the equipment before operation.
-* When maintaining the power equipment or power distribution equipment at the downstream direction of the power supply equipment, turn off the output switch of the power supply equipment.
-* When maintaining the power distribution equipment or power equipment at the downstream direction of the power supply equipment, turn off the output switch of the power supply equipment. To maintain a load, disconnect the load from the power switch.
-* During equipment maintenance, attach labels, for example, "Do Not Turn On", on the upstream and downstream switches or circuit breakers and set warning signs to prevent accidental reconnection. Power up and put the equipment back into operation only after trouble is eliminated, or replacement is complete.
-* Damaged cables, if any, should be replaced by professionals.
+* Před údržbou nebo výměnou zařízení vypněte napájení a&nbsp;před zahájením práce počkejte pod dobu uvedenou na štítku zařízení.
+* Při údržbě napájeného zařízení nebo rozvodného zařízení ve směru po proudu od napájecího zařízení vypněte výstupní spínač napájecího zařízení.
+* Při údržbě rozvodného zařízení nebo napájeného zařízení ve směru po proudu od napájecího zařízení vypněte výstupní spínač napájecího zařízení. Pro udržení zátěže odpojte zátěž od vypínače napájení.
+* Během údržby zařízení připevněte štítky, například „Nezapínat“, na předřazené a&nbsp;zařazené spínače nebo jističe umístěte výstražné značky, aby se zabránilo náhodnému opětovnému zapojení. Zapněte napájení a&nbsp;vraťte zařízení zpět do provozu pouze poté, co bude závada odstraněna nebo bude výměna dokončena.
+* Poškozené kabely, pokud existují, by měly být vyměněny odbornými pracovníky.

@@ -1,2 +1,2 @@
-# Product Appearance
+# Vzhled produktu
 
