@@ -1,5 +1,5 @@
-# mySigen App Query
+# mySigen-sovelluksen haku
 
-The App can be downloaded in the following two ways. For details, see _**mySigen App User Manual**_.
+Sovellus voidaan ladata kahdella tavalla. Lisätietoja on _**mySigen-sovelluksen käyttöoppaassa**_.
 
 ![](.gitbook/assets/0.jpeg)

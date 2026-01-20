@@ -1,37 +1,37 @@
-# Site Selection Requirements
+# Asennuspaikan valintavaatimukset
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**Before installing the equipment, please be sure to carefully read the following installation requirements. The company will not be liable for any functional abnormalities or damages arising from the operation of the equipment if the installation requirements are not followed, even in cases leading to personal safety incidents.**</mark>
-* <mark style="color:blue;">**During actual installation, the selection of the installation location should comply with local regulations, firefighting regulations, and other relevant laws. The specific installation location planning should be subject to the installer or engineering, procurement, and construction (EPC) contracts.**</mark>
+* <mark style="color:blue;">**Ennen laitteen asentamista lue huolellisesti seuraavat asennusvaatimukset. Yritys ei ole vastuussa laitteen toiminnasta johtuvista toimintahäiriöistä tai vahingoista, jos asennusvaatimuksia ei ole noudatettu, edes niissä tapauksissa, jotka johtavat henkilövahinkoihin.**</mark>
+* <mark style="color:blue;">**Todellisen asennuksen aikana asennuspaikan valinta on tehtävä paikallisten määräysten, palontorjuntamääräysten ja muiden asiaankuuluvien lakien mukaisesti. Asennuspaikan tarkka suunnittelu on tehtävä asennus- tai suunnittelu-, hankinta- ja rakentamissopimusten (EPC) mukaisesti.**</mark>
 
-### **Installation Environment Requirements**
+### **Asennusympäristövaatimukset**
 
-* Do not install the equipment in a smoky, flammable, or explosive environment.
-* Avoid exposing the equipment to direct sunlight, rain, standing water, snow, or dust. It is suggested to install the equipment in a sheltered place. Take preventive measures in operating areas prone to natural disasters such as floods, mudslides, earthquakes, and typhoons.
-* Do not install the equipment in an environment with strong electromagnetic interference.
-* The temperature and humidity of the installation environment should meet equipment requirements.
-* The equipment should be installed in an area that is at least 500 m away from corrosion sources that may result in salt damage or acid damage. Corrosion sources include but are not limited to seaside, thermal power plants, chemical plants, smelters, coal plants, rubber plants, and electroplating plants.
-* In areas with good marine environments (such as Norway, where the nearshore salinity is ≤ 28 psu), the mounting distance of the device from the coastline can be appropriately relaxed to ≥ 200 m.
-* If the outer surface of the device is damaged, please repaint the device in time.
+* Älä asenna laitetta savuiseen, syttyvään tai räjähdysherkkään ympäristöön.
+* Vältä altistamasta laitetta suoralle auringonpaisteelle, sateelle, seisovalle vedelle, lumelle tai pölylle. Laite on suositeltavaa asentaa suojaiseen paikkaan. Ryhdy ennaltaehkäiseviin toimenpiteisiin alueilla, jotka ovat alttiita luonnonkatastrofeille, kuten tulville, mutavyöryille, maanjäristyksille ja taifuuneille.
+* Älä asenna laitetta ympäristöön, jossa on voimakkaita sähkömagneettisia häiriöitä.
+* Asennusympäristön lämpötilan ja kosteuden on vastattava laitteen vaatimuksia.
+* Laite tulee asentaa alueelle, joka on vähintään 500 metrin etäisyydellä korroosiolähteistä, jotka voivat aiheuttaa suola- tai happovaurioita. Korroosiolähteitä ovat muun muassa merenranta, lämpövoimalaitokset, kemianlaitokset, sulatot, hiililaitokset, kumitehtaat ja galvanoimislaitokset.
+* Alueilla, joilla on hyvät meriolosuhteet (kuten Norjassa, jossa rannikon lähellä oleva suolapitoisuus on ≤ 28 psu), laitteen asennusetäisyys rannikosta voi olla ≥ 200 m.
+* Jos laitteen ulkopinta on vaurioitunut, maalaa laite uudelleen ajoissa.
 
-### **Installation Position Requirements**
+### **Asennuspaikkavaatimukset**
 
-* Do not tilt the equipment or place it upside down. Ensure that the equipment is horizontally installed.
-* Do not install the equipment in areas easily accessible to children.
-* Do not install the equipment in a place with fire hazards or is prone to moisturizing.
-* The equipment produces sound when it is operating. Please install the equipment in a place with appropriate distance at which there is no impact to daily work and life.
-* Do not install the equipment in a sealed, poorly ventilated location without fire protection measures and inaccessible for firefighters.
-* The equipment is hot when it is operating. If the equipment is installed indoors, please ensure good indoor ventilation and avoid significant indoor temperature rise by more than 3°C while the equipment is operating. Otherwise, the equipment will be derated.
-* Do not install the equipment in mobile scenarios such as recreational vehicles, cruise ships, and trains.
-* It is recommended to install the equipment in a location where you can easily access, install, operate, and maintain it, and view the indicator status.
-* Do not place the equipment in the vehicle passage when installed in a garage to avoid collisions.
+* Älä kallista laitetta tai aseta sitä ylösalaisin. Varmista, että laite on asennettu vaakasuoraan.
+* Älä asenna laitetta paikkoihin, joissa se on lasten ulottuvilla.
+* Älä asenna laitetta palovaaralliseen tai kosteaan paikkaan.
+* Laite tuottaa ääntä käytön aikana. Asenna laite sopivan etäisyyden päähän, josta se ei häiritse päivittäistä työtä ja elämää.
+* Älä asenna laitetta suljettuun, huonosti tuuletettuun paikkaan, jossa ei ole palontorjuntamenettelyjä ja johon palomiehet eivät pääse.
+* Laite on kuuma käytön aikana. Jos laite asennetaan sisätiloihin, varmista hyvä ilmanvaihto ja vältä merkittävää, yli 3 °C:n lämpötilan nousua laitteen käytön aikana. Muuten laitteen teho heikkenee.
+* Älä asenna laitetta liikkuviin kohteisiin, kuten matkailuautoihin, risteilyaluksiin tai juniin.
+* Laite on suositeltavaa asentaa paikkaan, jossa se on helposti saavutettavissa, asennettavissa, käytettävissä ja huollettavissa ja jossa merkkivalojen tila on helposti nähtävissä.
+* Älä sijoita laitetta ajoneuvon kulkuväylälle, kun se on asennettu autotalliin, törmäysten välttämiseksi.
 
-### **Mounting Surface Requirements**
+### **Asennuspintavaatimukset**
 
-* Do not install the equipment on a flammable base. If this cannot be avoided, add a fire barrier between the equipment and the flammable base.
-* The installation base should meet the load-bearing requirement. Solid brick-concrete structures, concrete walls are recommended.
-* The installation base should be flat, and the installation area should meet the installation space requirements.
-* No plumbing or electrical alignments are allowed inside the installation base to avoid potential drilling hazards during equipment installation.
+* Älä asenna laitetta syttyvälle alustalle. Jos tätä ei voida välttää, lisää palonsuoja laitteiston ja helposti syttyvän alustan väliin.
+* Asennusalustan tulee täyttää kantavuusvaatimukset. Suositellaan kiinteitä tiili–betonirakenteita ja betoniseiniä.
+* Asennusalustan tulee olla tasainen, ja asennusalueen tulee täyttää asennustilavaatimukset.
+* Asennusalustan sisällä ei saa olla putki- tai sähköasennuksia, jotta vältetään porausvaarat laitteen asennuksen aikana.
 
 <figure><img src=".gitbook/assets/SSA1SF00008-en (4).png" alt="" width="563"><figcaption></figcaption></figure>

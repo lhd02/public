@@ -1,4 +1,4 @@
-# Equipment Installation and Wiring
+# Laitteiden asennus ja johdotus
 
-* Only company authorized personnel should install and connect the equipment. For more information about Gateway installation and wiring, refer to the respective documentation.
-* Parts and accessories supplied with the packing box are personal assets of the owner and must be kept safe.
+* Laitteiden asennuksen ja kytkennän saa suorittaa vain yhtiömme valtuuttamat asentajat. Katso lisätietoja Gatewayn asennuksesta ja johdotuksesta vastaavasta dokumentaatiosta.
+* Pakkauslaatikon mukana toimitetut osat ja lisävarusteet ovat omistajan henkilökohtaista omaisuutta ja ne on säilytettävä turvallisesti.

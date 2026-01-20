@@ -1,2 +1,2 @@
-# Product Appearance
+# Tuotteen ulkonäkö
 

@@ -4,9 +4,9 @@
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-<mark style="color:orange;">The Gateway should be disconnected in the following order:</mark>
+<mark style="color:orange;">Gateway irrotetaan seuraavassa järjestyksessä:</mark>
 
-1. <mark style="color:orange;">Turn off the miniature circuit breaker QF5 (connecting to Backup Household loads).</mark>
-2. <mark style="color:orange;">Turn off the miniature circuit breaker QF2 (connecting to Generator/Smart load).</mark>
-3. <mark style="color:orange;">After shutting down the inverter on the phone, turn off the miniature circuit breaker QF3 or QF4 (connecting to an Inverter).</mark>
-4. <mark style="color:orange;">Turn off the miniature circuit breaker QF1 (connecting to Power grid).</mark>
+1. <mark style="color:orange;">Kytke pois päältä pienkatkaisija QF5 (liitetty kotitalouskuormien varavoimaan).</mark>
+2. <mark style="color:orange;">Kytke pois päältä pienkatkaisija QF2 (liitetty generaattoriin / älykkääseen kuormaan).</mark>
+3. <mark style="color:orange;">Kun olet sammuttanut invertterin puhelimitse, kytke pois päältä pienkatkaisija QF3 tai QF4 (liitetty invertteriin).</mark>
+4. <mark style="color:orange;">Kytke pois päältä pienkatkaisija QF1 (liitetty sähköverkkoon).</mark>

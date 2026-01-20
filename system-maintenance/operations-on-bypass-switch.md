@@ -1,28 +1,28 @@
-# Operations on Bypass Switch
+# Ohituskytkimen toiminnot
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">In normal cases, the bypass switch is turned off. Do not operate the bypass switch. In this case, the Gateway can automatically switch between on-grid and off-grid.</mark>
-* <mark style="color:blue;">When the Gateway fails to supply power to loads, you can turn on the bypass switch to supply power to loads from the power grid.</mark>
+* <mark style="color:blue;">Normaaleissa tapauksissa ohituskytkin on pois päältä. Älä käytä ohituskytkintä. Tässä tapauksessa Gateway voi automaattisesti vaihtaa on-grid- ja off-grid-tilan välillä.</mark>
+* <mark style="color:blue;">Kun Gateway ei pysty toimittamaan virtaa kuormille, voit kytkeä ohituskytkimen päälle syöttääksesi virtaa kuormille sähköverkosta.</mark>
 
-### Steps
+### Vaiheet
 
-1. Check that the grid normally supplies power.
-2. Power off by referring to [_Power Off._](power-off/)
-3. Refer to the delay time as instructed on the label on the equipment and wait for the specified time. Once the time has elapsed, remove the retaining ring from the bypass switch and turn on the by the bypass switch.
+1. Tarkista, että sähköverkko syöttää virtaa normaalisti.
+2. Katkaise virta, kuten kohdassa [_Virran katkaisu._](power-off/)
+3. Katso laitteen tarrassa ilmoitettu viiveaika ja odota ilmoitettu aika. Kun aika on kulunut, poista ohituskytkimestä lukitusrengas ja kytke ohituskytkin päälle.
 
 <figure><img src="../.gitbook/assets/retaining-ring.png" alt="" width="325"><figcaption></figcaption></figure>
 
 {% include "../.gitbook/includes/warning.md" %}
 
-* <mark style="color:orange;">There is residual current and the equipment is hot immediately after the equipment is powered off.Operating the equipment immediately upon power off may lead to electric shock or burns.</mark>
-* <mark style="color:orange;">High voltage exists in the equipment. Wear insulating gloves when turning on the switch.</mark>
+* <mark style="color:orange;">Laitteessa on jäännösvirtaa ja se on kuuma heti virran katkaisun jälkeen. Laitteen käyttö heti virran katkaisun jälkeen voi johtaa sähköiskuun tai palovammoihin.</mark>
+* <mark style="color:orange;">Laitteessa on korkea jännite. Käytä eristäviä käsineitä, kun kytket kytkimen päälle.</mark>
 
 {% include "../.gitbook/includes/caution.md" %}
 
-<mark style="color:purple;">After turning on the bypass switch, do not turn on the miniature circuit breaker connected to the inverter and Generator on Gateway. Otherwise, the power grid port will be charged, resulting in the risk of electric shock.</mark>
+<mark style="color:purple;">Ohituskytkimen kytkemisen jälkeen älä kytke päälle invertteriin ja Gatewayn generaattoriin liitettyä pienkatkaisijaa. Muussa tapauksessa sähköverkon liitäntä latautuu, mikä aiheuttaa sähköiskun vaaran.</mark>
 
-4. Turn on the miniature circuit breaker connected to the SPD.
-5. Turn on the miniature circuit breaker connected to the power grid.
-6. Turn on the miniature circuit breaker connected to backup household loads.
-7. Close the equipment door.
+4. Kytke päälle SPD:hen liitetty pienkatkaisija.
+5. Kytke päälle sähköverkkoon liitetty pienkatkaisija.
+6. Kytke päälle kotitalouskuormien varavoimaan liitetty pienkatkaisija.
+7. Sulje laitteiston ovi.

@@ -1,20 +1,20 @@
 # Sigen Gateway HomePro TP
 
-### Dimensions
+### Mitat
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### Interior View
+### Sisänäkymä
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="74.25" align="center" valign="middle">S/N</th><th width="120.75" valign="top">Label</th><th valign="top">Description</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="top">–</td><td valign="top"><p>Communication terminal</p><p>(connecting to FE or DI communication cable)</p></td></tr><tr><td align="center" valign="middle">2</td><td valign="top">QS1</td><td valign="top">Bypass switch</td></tr><tr><td align="center" valign="middle">3</td><td valign="top">GND</td><td valign="top">GND terminal</td></tr><tr><td align="center" valign="middle">4</td><td valign="top">QF2</td><td valign="top"><p>Miniature circuit breaker</p><p>(connecting to Smart loads<sup>[1]</sup> /Generator)</p></td></tr><tr><td align="center" valign="middle">5</td><td valign="top">QF1</td><td valign="top"><p>Miniature circuit breaker</p><p>(connecting to Power grid)</p></td></tr><tr><td align="center" valign="middle">6</td><td valign="top">–</td><td valign="top">Grounding copper busbar</td></tr><tr><td align="center" valign="middle">7</td><td valign="top">QF3</td><td valign="top"><p>Miniature circuit breaker</p><p>(connecting to Inverters 1)</p></td></tr><tr><td align="center" valign="middle">8</td><td valign="top">–</td><td valign="top"><p>(Optional) Mounting location of circuit breaker</p><p>(connecting to Inverters 2) <sup>[2]</sup></p></td></tr><tr><td align="center" valign="middle">9</td><td valign="top">QF4</td><td valign="top"><p>Miniature circuit breaker</p><p>(connecting to Backup household loads)</p></td></tr><tr><td align="center" valign="middle">10</td><td valign="top">QF5</td><td valign="top">Surge protection device</td></tr></tbody></table>
+<table><thead><tr><th width="74.25" align="center" valign="middle">S/N</th><th width="120.75" valign="top">Tarra</th><th valign="top">Kuvaus</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td valign="top">&ndash;</td><td valign="top"><p>Viestint&auml;liitin</p><p>(liitetty FE- tai DI-viestint&auml;kaapeliin)</p></td></tr><tr><td align="center" valign="middle">2</td><td valign="top">QS1</td><td valign="top">Ohituskytkin</td></tr><tr><td align="center" valign="middle">3</td><td valign="top">GND</td><td valign="top">Maadoitusliitin</td></tr><tr><td align="center" valign="middle">4</td><td valign="top">QF2</td><td valign="top"><p>Pienkatkaisija</p><p>(liitetty &auml;lykk&auml;isiin kuormiin<sup>[1]</sup> / generaattoriin)</p></td></tr><tr><td align="center" valign="middle">5</td><td valign="top">QF1</td><td valign="top"><p>Pienkatkaisija</p><p>(liitetty s&auml;hk&ouml;verkkoon)</p></td></tr><tr><td align="center" valign="middle">6</td><td valign="top">&ndash;</td><td valign="top">Kuparinen maadoituskisko</td></tr><tr><td align="center" valign="middle">7</td><td valign="top">QF3</td><td valign="top"><p>Pienkatkaisija</p><p>(liitetty inverttereihin 1)</p></td></tr><tr><td align="center" valign="middle">8</td><td valign="top">&ndash;</td><td valign="top"><p>(Valinnainen) Katkaisijan asennuspaikka</p><p>(liitetty inverttereihin 2) <sup>[2]</sup></p></td></tr><tr><td align="center" valign="middle">9</td><td valign="top">QF4</td><td valign="top"><p>Pienkatkaisija</p><p>(liitetty kotitalouskuormien varavoimaan)</p></td></tr><tr><td align="center" valign="middle">10</td><td valign="top">QF5</td><td valign="top">Ylij&auml;nnitesuojalaite</td></tr></tbody></table>
 
-Note \[1]:
+Huomaa [1]:
 
-* All the power equipment in the owner's home can be connected as smart loads.
-* To ensure that this product maximizes the benefits to users, it is recommended that the high-power equipment be connected as smart loads (Third-party inverter, heat pumps, pool heaters, clothes dryers, immersion heaters, etc.), which can be cut off when the energy storage system has low power. Other low-power equipment are connected as household loads (lights, routers, etc.)
+* Kaikki kodin sähkölaitteet voidaan kytkeä älykkäinä kuormina.
+* Jotta tämä tuote tarjoaisi käyttäjille mahdollisimman suuren hyödyn, on suositeltavaa kytkeä suuritehoiset laitteet älykkäiksi kuormiksi (kolmannen osapuolen invertteri, lämpöpumput, uima-altaan lämmittimet, kuivausrummut, uppolämmityslaitteet jne.), jotka voidaan katkaista, kun energian varastointijärjestelmän teho on alhainen. Muut pienitehoiset laitteet kytketään kotitalouskuormana (valaisimet, reitittimet jne.)
 
-Note \[2]:
+Huomautus [2]:
 
-* The circuit breaker must be prepared by the owner. For specific specifications, please refer to the installation guide for the specific model.
+* Katkaisija on omistajan valmisteltava. Katso tarkemmat tiedot kyseisen mallin asennusoppaasta.
