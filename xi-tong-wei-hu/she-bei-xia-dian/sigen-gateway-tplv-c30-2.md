@@ -4,10 +4,10 @@
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-<mark style="color:orange;">Zařízení Gateway by mělo být odpojeno v&nbsp;následujícím pořadí:</mark>
+<mark style="color:orange;">The Gateway should be disconnected in the following order:</mark>
 
-1. <mark style="color:orange;">Vypněte jistič v&nbsp;lisované skříňce QF5 (připojený k&nbsp;zálohovanému spotřebiči).</mark>
-2. <mark style="color:orange;">Vypněte jistič v&nbsp;lisované skříňce QF2 (připojený k&nbsp;naftovému generátoru&nbsp;/ inteligentnímu spotřebiči).</mark>
-3. <mark style="color:orange;">Po vypnutí měniče přes telefon vypněte jistič v&nbsp;lisované skříňce QF3 nebo QF4 (připojený k&nbsp;měniči).</mark>
-4. <mark style="color:orange;">Vypněte jistič v&nbsp;lisované skříňce QF1 (připojený k&nbsp;energetické síti).</mark>
-5. <mark style="color:orange;">Vypněte přepínač přepěťového ochranného zařízení QF6.</mark>
+1. <mark style="color:orange;">Turn off the molded case circuit breaker QF5 (connecting to a backup load).</mark>
+2. <mark style="color:orange;">Turn off the molded case circuit breaker QF2 (connecting to a diesel generator/Smart Load).</mark>
+3. <mark style="color:orange;">After shutting down the inverter on the phone, turn off the molded case circuit breaker QF3 or QF4 (connecting to an inverter).</mark>
+4. <mark style="color:orange;">Turn off the molded case circuit breaker QF1 (connecting to the power grid).</mark>
+5. <mark style="color:orange;">Turn off the surge protective device switch QF6.</mark>

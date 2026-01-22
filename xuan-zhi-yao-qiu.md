@@ -1,38 +1,53 @@
-# Požadavky na umístění
+# Location Requirements
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**Záruka platí, pokud bylo zařízení správně nainstalováno pro svůj určený účel a&nbsp;v&nbsp;souladu s&nbsp;provozními pokyny.**</mark>
-* <mark style="color:blue;">**Při samotné instalaci by výběr místa instalace měl být v&nbsp;souladu s&nbsp;místními protipožárními předpisy, předpisy na ochranu životního prostředí a&nbsp;dalšími příslušnými právními předpisy. Plánování konkrétního místa instalace by mělo podléhat smlouvám s&nbsp;dodavatelem instalačních prací nebo smlouvám o&nbsp;technickém zajištění, nákupu a&nbsp;výstavbě (EPC).**</mark>
+* <mark style="color:blue;">**The warranty applies when the equipment has been installed properly for its intended use and in accordance with the operating instructions.**</mark>
+* <mark style="color:blue;">**During actual installation, the selection of installation location should comply with local firefighting, environmental protection regulations, and other relevant laws. The specific installation location planning should be subject to the installer or engineering, procurement, and construction (EPC) contracts.**</mark>
 
-### **Požadavky na prostředí instalace**
+### **Installation Environment Requirements**
 
-* Neinstalujte zařízení do zakouřeného, hořlavého nebo výbušného prostředí.
-* Neinstalujte zařízení v&nbsp;prostředí s&nbsp;vodivým kovovým prachem nebo magnetickým prachem.
-* Neinstalujte zařízení do prostředí náchylného na plísně a&nbsp;houby.
-* Neinstalujte zařízení do prostředí se silným elektromagnetickým rušením.
-* Teplota a&nbsp;vlhkost prostředí instalace by měly vyhovovat požadavkům zařízení.
-* Zařízení by mělo být instalováno v&nbsp;oblasti, která je minimálně 500&nbsp;m vzdálená od zdrojů koroze, jež mohou způsobit poškození solí nebo kyselinami (zdroje koroze zahrnují, ale nejsou omezeny na pobřeží, tepelné elektrárny, chemické závody, hutě, uhelné elektrárny, gumárenské závody a&nbsp;galvanovny).
-* V&nbsp;oblastech s&nbsp;dobrým mořským prostředím (například v&nbsp;Norsku, kde je slanost v&nbsp;pobřežní oblasti ≤&nbsp;28&nbsp;psu), lze vzdálenost montáže zařízení od pobřeží vhodně zkrátit na ≥&nbsp;200&nbsp;m.
-* Pokud dojde k&nbsp;poškození vnějšího povrchu zařízení, je nutné jej včas přetřít.
+* Do not install the equipment in a smoky, flammable, or explosive environment.
+* Do not install the equipment in an environment with conductive metal dust or magnetic dust.
+* Do not install the equipment in an environment that is prone to mold and fungi.
+* Avoid exposing the equipment to direct sunlight, rain, standing water, snow, or dust. Install the equipment in a sheltered place. Take preventive measures in operating areas prone to natural disasters such as floods, mudslides, earthquakes, and typhoons.
+* Do not install the equipment in an environment with strong electromagnetic interference.
+* The temperature and humidity of the installation environment should meet equipment requirements.
+* The equipment should be installed in an area that is at least 500 m away from corrosion sources that may result in salt or acid damage (corrosion sources include but are not limited to seaside, thermal power plants, chemical plants, smelters, coal plants, rubber plants, and electroplating plants).
+* In areas with good marine environments (such as Norway, where the nearshore salinity is ≤ 28 psu), the mounting distance of the device from the coastline can be appropriately relaxed to ≥ 200 m.
+* If the outer surface of the device is damaged, please repaint the device in time.
 
-### **Požadavky na místo instalace**
+### **Installation Location Requirements**
 
-* Nenaklápějte zařízení a&nbsp;neumisťujte jej vzhůru nohama. Zajistěte, aby bylo zařízení instalováno vodorovně.
-* Neinstalujte zařízení na místech s&nbsp;nebezpečím požáru nebo místech, která jsou náchylná k&nbsp;vlhkosti.
-* Neinstalujte zařízení na neprodyšném, nedostatečně odvětrávaném místě, kde nebyla učiněna protipožární opatření a kde je obtížný přístup k hasicím přístrojům.
-* Neinstalujte zařízení pod zdroje vody, například pod vodovodní potrubí a&nbsp;vývody klimatizace, kde může docházet ke kondenzaci nebo úniku vody. Do zařízení může jinak proniknout kapalina a&nbsp;způsobit zkrat.
-* Neinstalujte zařízení v&nbsp;mobilních prostředích, jako jsou obytná vozidla, výletní lodě a&nbsp;vlaky.
-* Zařízení je během provozu horké. Pokud je zařízení instalováno v&nbsp;interiéru, zajistěte dostatečné větrání a&nbsp;nedovolte, aby se při jeho provozu vnitřní teplota zvýšila o&nbsp;více než 3&nbsp;°C. Jinak by mohl být výkon zařízení omezen.
-* Zařízení během provozu vytváří teplo. Neinstalujte zařízení na místech, kde jsou snadno přístupné povrchy odvádějící teplo.
-* Je doporučeno instalovat zařízení na místo, kde bude snadné k zařízení přistupovat, instalovat jej, provozovat, udržovat a kde půjde sledovat stav indikátoru.
-* Přepínání mezi režimem připojení k&nbsp;síti&nbsp;/ ostrovním režimem způsobuje hluk. Doporučuje se instalovat zařízení v&nbsp;blízkosti rozvaděče střídavého proudu, mimo zónu odpočinku.
+* Do not tilt the equipment or place it upside down. Ensure that the equipment is horizontally installed.
+* Do not install the equipment in a place with fire hazards or is prone to moisturizing.
+* Do not install the equipment in a sealed, poorly ventilated location without fire protection measures and difficult access for firefighters.
+* Do not install the equipment under water sources, including but not limited to water pipes and air conditioner outlet windows, where condensate or water leakage may occur. Otherwise, liquid may enter the equipment and cause short circuit.
+* Do not install the equipment in mobile scenarios such as recreational vehicles, cruise ships, and trains.
+* The equipment is hot when it is operating. If the equipment is installed indoors, please ensure good indoor ventilation and avoid significant indoor temperature rise by more than 3°C while the equipment is operating. Otherwise, the equipment will be derated.
+* The equipment generates heat when it is operating. Do not install the equipment in areas easily accessible to heat dissipation surfaces.
+* You are advised to install the equipment in a location where you can easily access, install, operate, maintain it, and view the indicator status.
+* The on-grid/off-grid switchover makes noise. It is recommended that the equipment be installed near the AC distribution box, away from the rest area.
 
-### **Požadavky na instalační základnu**
+### **Installation Base Requirements**
 
-* Neinstalujte zařízení na hořlavou základnu.
-* Instalační základna by měla splňovat požadavky na nosnost a&nbsp;neměla by být vystavena nepříznivým geologickým podmínkám, např. pruživé půdy a&nbsp;měkké zeminy. Doporučují se pevné cihlobetonové konstrukce a&nbsp;betonové stěny.
-* Instalační základna by měla být rovná a&nbsp;instalační prostor by měl splňovat požadavky na místo instalace.
-* V&nbsp;instalační základně nesmí být žádné instalace vodovodních nebo elektrických rozvodů, aby se předešlo možným rizikům při vrtání během instalace zařízení.
+* Do not install the equipment on a flammable base.
+* The installation base should meet the load-bearing requirement and should be free of adverse geological conditions including but not limited to rubber soil and soft soil. Solid brick-concrete structures and concrete walls are recommended.
+* The installation base should be flat, and the installation area should meet the installation space requirements.
+* No plumbing or electrical alignments should be inside the installation base to avoid potential drilling hazards during equipment installation.
 
-<figure><img src=".gitbook/assets/SSA1SF00008-en.png" alt="" width="563"><figcaption></figcaption></figure>
+#### Sigen Gateway TPLV C30-2, Sigen Gateway C60-2, Sigen Gateway C60 AU
+
+<figure><img src=".gitbook/assets/SSA1SF00008-logo+灯-en.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Sigen Gateway C120-6, TPLV C70-6)
+
+<figure><img src=".gitbook/assets/SGA1OV00018-en (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Sigen Gateway (C180-9, C300-12)
+
+<figure><img src=".gitbook/assets/SGA1OV00033-en.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Sigen Gateway (C600, C1200, C600-B, C1200-B)
+
+<figure><img src=".gitbook/assets/SGA1SF00011-en.png" alt="" width="563"><figcaption></figcaption></figure>

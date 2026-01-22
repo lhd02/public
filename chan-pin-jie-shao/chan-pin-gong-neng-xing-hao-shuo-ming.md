@@ -1,18 +1,18 @@
-# Funkce a&nbsp;označení
+# Functions and Designation
 
-### **Funkce**
+### **Functions**
 
-Tento produkt lze použít v&nbsp;průmyslových a&nbsp;komerčních fotovoltaických (FV) úložištích a&nbsp;v&nbsp;aplikacích čistého ukládání pro sběr a&nbsp;monitorování dat, přepínání mezi ostrovním provozem a&nbsp;záložním napájením, ovládání naftových generátorů a&nbsp;správu energie. Produkt musí být používán v&nbsp;kombinaci s&nbsp;našimi bateriovými boxy a&nbsp;měniči.
+The product can be used in industrial and commercial PV storage and pure storage applications for data collection and monitoring, switchover between off-grid and backup power, diesel generator control, and energy management. The product must be used in conjunction with our battery packs and inverters.
 
-* Zařízení Gateway poskytuje záložní napájení pro celý dům nebo část spotřebičů. V&nbsp;případě výpadku napájení ze sítě se měnič plynule přepne do ostrovního režimu a&nbsp;toto přepnutí je pro zálohované spotřebiče nepostřehnutelné.
-* Zařízení Gateway lze v&nbsp;ostrovním režimu připojit k&nbsp;naftovému generátoru pro dlouhodobé napájení a&nbsp;mezi režimy FV úložiště a&nbsp;naftového generátoru lze plynule přepínat.
+* The Gateway provides backup power for the whole house or part of the loads. In the event of a grid power outage, the inverter seamlessly switches to the off-grid mode, and this switchover is insensible to backup loads.
+* The Gateway can be connected to a diesel generator for an extended period of power supply in off-grid mode, and PV storage and diesel generator mode can be switched seamlessly.
 
-### **Popis modelu**
+### **Model description**
 
-Tento dokument zahrnuje následující modely produktů:
+This document covers the following product models：
 
-<table><thead><tr><th width="90" align="center">S/N</th><th>modely</th></tr></thead><tbody><tr><td align="center">1</td><td>Sigen Gateway TPLV C30-2</td></tr><tr><td align="center">2</td><td>Sigen Gateway C60-2</td></tr><tr><td align="center">3</td><td>Sigen Gateway C60 AU</td></tr><tr><td align="center">4</td><td>Sigen Gateway TPLV C70-6</td></tr><tr><td align="center">5</td><td>Sigen Gateway C120-6</td></tr><tr><td align="center">6</td><td>Sigen Gateway C180-9</td></tr><tr><td align="center">7</td><td>Sigen Gateway C300-12</td></tr><tr><td align="center">8</td><td>Sigen Gateway C600</td></tr><tr><td align="center">9</td><td>Sigen Gateway C1200</td></tr><tr><td align="center">10</td><td>Sigen Gateway C600-B</td></tr><tr><td align="center">11</td><td>Sigen Gateway C1200-B</td></tr></tbody></table>
+<table><thead><tr><th width="90" align="center">S/N</th><th>models</th></tr></thead><tbody><tr><td align="center">1</td><td>Sigen Gateway TPLV C30-2</td></tr><tr><td align="center">2</td><td>Sigen Gateway C60-2</td></tr><tr><td align="center">3</td><td>Sigen Gateway C60 AU</td></tr><tr><td align="center">4</td><td>Sigen Gateway TPLV C70-6</td></tr><tr><td align="center">5</td><td>Sigen Gateway C120-6</td></tr><tr><td align="center">6</td><td>Sigen Gateway C180-9</td></tr><tr><td align="center">7</td><td>Sigen Gateway C300-12</td></tr><tr><td align="center">8</td><td>Sigen Gateway C600</td></tr><tr><td align="center">9</td><td>Sigen Gateway C1200</td></tr><tr><td align="center">10</td><td>Sigen Gateway C600-B</td></tr><tr><td align="center">11</td><td>Sigen Gateway C1200-B</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/gci-p&#x26;x.png" alt="" width="359"><figcaption><p><strong>Obr&aacute;zek 2-1 Popis modelu (př&iacute;klad)</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gci-p&#x26;x.png" alt="" width="359"><figcaption><p><strong>Figure2-1 Model description(example)</strong></p></figcaption></figure>
 
-<table><thead><tr><th width="70" align="center">Č.</th><th width="179">Definice</th><th>Popis</th></tr></thead><tbody><tr><td align="center">1</td><td>Značka</td><td>Sigen</td></tr><tr><td align="center">2</td><td>Produktov&aacute; řada</td><td>Gateway</td></tr><tr><td align="center">3</td><td>Typ s&iacute;tě</td><td>TPLV: tř&iacute;f&aacute;zov&eacute; n&iacute;zk&eacute; napět&iacute;</td></tr><tr><td align="center">4</td><td>Sc&eacute;n&aacute;ř použit&iacute;</td><td>C: průmyslov&yacute; a&nbsp;komerčn&iacute; sc&eacute;n&aacute;ř</td></tr><tr><td align="center">5</td><td>Maxim&aacute;ln&iacute; v&yacute;kon na straně s&iacute;tě</td><td><ul><li>30: 30&nbsp;kW</li><li>120: 120&nbsp;kW</li><li>300: 300&nbsp;kW</li><li>600: 600&nbsp;kW</li><li>1&nbsp;200: 1&nbsp;200&nbsp;kW</li></ul></td></tr><tr><td align="center">6</td><td>Počet podporovan&yacute;ch měničů</td><td><ul><li>2:&nbsp;2 jednotky</li><li>6:&nbsp;6 jednotek</li><li>9:&nbsp;9 jednotek</li><li>12:&nbsp;12 jednotek</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="70" align="center">No.</th><th width="179">Definition</th><th>Description</th></tr></thead><tbody><tr><td align="center">1</td><td>Brand</td><td>Sigen</td></tr><tr><td align="center">2</td><td>Product series</td><td>Gateway</td></tr><tr><td align="center">3</td><td>Grid type</td><td>TPLV：Three-phase Low Voltage</td></tr><tr><td align="center">4</td><td>Application scenario</td><td>C：industrial and commercial scenario</td></tr><tr><td align="center">5</td><td>Maximum power on grid side</td><td><ul><li>30: 30 kW</li><li>120: 120 kW</li><li>300: 300 kW</li><li>600: 600 kW</li><li>1200: 1200 kW</li></ul></td></tr><tr><td align="center">6</td><td>Number of supported inverters</td><td><ul><li>2：2 units</li><li>6：6 units</li><li>9：9 units</li><li>12：12 units</li></ul></td></tr></tbody></table>

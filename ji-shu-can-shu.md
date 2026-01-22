@@ -1,3 +1,3 @@
-# Technické parametry
+# Technical Parameters
 
-Pro více informací o&nbsp;parametrech zařízení si prosím prostudujte příslušné datové listy.
+For more information on the parameters of the equipment, please refer to their respective data sheets.

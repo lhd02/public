@@ -1,16 +1,16 @@
-# Bezpečnostní tipy pro práci ve výškách
+# Safety Tips for Working at Heights
 
-* Dodržujte místní předpisy týkající se práce ve výškách.
-* Provozovatelé pracující ve výškách se musí chovat v&nbsp;přísném souladu s&nbsp;bezpečnostními předpisy pro práci ve výškách, a&nbsp;společnost Sigenergy Technology nenese odpovědnost za nehody způsobené porušením těchto bezpečnostních předpisů pro práci ve výškách.
-* Práce ve výškách se považuje za práci prováděnou ve výšce více než 2&nbsp;metry nad zemí.
-* Nepracujte ve výškách při některé z&nbsp;následujících podmínek: ocelové potrubí není suché, nebo jiné podmínky, které mohou způsobit nebezpečí.
-* Před prací ve výškách pečlivě zkontrolujte horolezecké nástroje a&nbsp;bezpečnostní pomůcky, jako jsou bezpečnostní přilby, bezpečnostní pásy, žebříky, plošiny, lešení a&nbsp;zdvihací zařízení, a&nbsp;pokud nejsou splněny požadavky, okamžitě proveďte nápravná opatření nebo odmítněte práci ve výškách.
-* Vyznačte nebezpečnou oblast na místě provádění prací ve výškách a umístěte nápadnou značku označující, že vstup nepovolaným osobám je zakázán.
-* U&nbsp;okrajů a&nbsp;otvorů na pracovišti ve výšce instalujte zábradlí a&nbsp;značky, aby se zabránilo náhodným pádům.
-* Je přísně zakázáno stohovat lešení, plošiny nebo jiné předměty na zemi pod pracovištěm ve výšce. Personálu na zemi by mělo mít přísně zakázáno zůstávat nebo procházet přímo pod pracovištěm ve výšce.
-* Snažte se vyhnout práci současně na horních a&nbsp;dolních plošinách. Pokud tomu nelze zabránit, měla by být mezi horní a&nbsp;dolní plošinou instalována speciální záchytná plošina nebo by měla být přijata jiná ochranná opatření. Je přísně zakázáno skládat nářadí, materiál a&nbsp;další věci na horní plošinu.
-* Přijměte ochranná opatření, noste bezpečnostní přilbu a&nbsp;bezpečnostní pás nebo bederní lano, připevněte jej k&nbsp;pevnému a&nbsp;tuhému konstrukčnímu prvku. Je přísně zakázáno zavěšovat jej na nestabilní pohyblivý předmět nebo kov s&nbsp;ostrými hranami, aby se zabránilo náhodnému pádu v&nbsp;důsledku sklouznutí háku.
-* Přenášejte provozní přístroje a&nbsp;nářadí bezpečně a&nbsp;zabraňte tak jejich pádu a&nbsp;zranění ostatních.
-* Pracovníkům pracujícím ve výškách je přísně zakázáno házet předměty z&nbsp;výšky na zem nebo ze země do výšky. K&nbsp;přepravě předmětů by měly být použity pevná lana, kladkostroje, pracovní plošiny nebo jeřáby.
-* Hraní si a&nbsp;žerty jsou při práci ve výškách přísně zakázány a&nbsp;je zakázáno odpočívat na pracovišti ve výšce.
-* Po práci ve výškách musí být horolezecké nářadí, bezpečnostní pomůcky, osobní ochranné prostředky a&nbsp;další věci uklizeny nebo odvezeny z&nbsp;místa, které pak musí být uvedeno do původního stavu.
+* Comply with the local regulations on working at heights.
+* Operators engaged in working at heights shall behave in strict accordance with the safety regulations on working at heights, and the Company shall not be liable for accidents caused by the violation of the safety regulations on working at heights.
+* Carrying out work at more than 2 meters above the ground is considered as work at heights.
+* Do not work at heights in one of the following conditions: steel pipe not drying up and other conditions that may cause danger.
+* Before working at heights, carefully check the climbing tools and safety appliances, such as safety hats, safety belts, ladders, platforms, scaffolds, and lifting equipment, and take immediate improvement measures or refuse to work at heights if any requirements are not met.
+* Mark out a hazardous area on the work-at-height scene and set an eye-catching sign indicating that unauthorized personnel are prohibited from entering.
+* Set guardrails and signs at the edges and holes in the work-at-height area to prevent accidental falls.
+* It is strictly forbidden to stack scaffolds, platforms, or other things on the ground below the work-at-height area. Personnel on the ground should be strictly prohibited from staying or passing through directly below the work-at-height area.
+* Try to avoid working on the upper and lower platforms at the same time. If this cannot be avoided, a special catch platform should be set, or other protective measures should be taken between the upper and lower platforms. It is strictly forbidden to stack tools, materials, and other things on the upper platform.
+* Take protection measures, wear a safety hat and a safety belt or a waist rope, tie it to a solid and rigid structural member. It is strictly forbidden to hang it on an unstable moving object or metal with sharp corners to prevent accidental falls due to hook slip.
+* Carry the operating apparatuses and tools well and prevent them from falling and injuring others.
+* Workers at heights are strictly forbidden from throwing objects from heights to the ground nor from the ground to heights. Rigid ropes, hoists, aerial lifts, or cranes should be used to transport objects.
+* Horseplay is strictly forbidden while working at heights, and resting in the work-at-height area is prohibited.
+* After work at heights, climbing tools, safety appliances, personal protective equipment, and other things shall be cleaned up or taken away from the scene, and the scene shall be restored to its original state.

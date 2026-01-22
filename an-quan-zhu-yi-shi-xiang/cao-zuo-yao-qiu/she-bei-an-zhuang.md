@@ -1,27 +1,27 @@
-# Instalace zařízení
+# Equipment Installation
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-* <mark style="color:orange;">Před instalací zařízení zkontrolujte, zda jsou šrouby namontované před dodáním pevně utažené. Před doručením jsou utažené šrouby vyznačeny čárami. Pokud značky nejsou zarovnány, jsou šrouby volné. Znovu je utáhněte.</mark>
+* <mark style="color:orange;">l Before installing the equipment, check whether the screws installed before delivery are secured. Before delivery, the tightened screws are marked with lines. If the marks are misaligned, the screws are loose. Tighten the screws again.</mark>
 
-![](../../.gitbook/assets/1 (6).png)
+![](<../../.gitbook/assets/1 (6).png>)
 
-* <mark style="color:orange;">Při manipulaci se zařízením se dobře připravte na jeho hmotnost, aby nedošlo k&nbsp;jeho pádu a&nbsp;způsobení zranění.</mark>
+* <mark style="color:orange;">Get well prepared for the bearing load when handling the equipment to prevent it from falling and causing injury.</mark>
 
-### **Bezpečnost při používání žebříků**
+### **Ladder Safety**
 
-* Nepoužívejte žebříky, pokud nejste řádně vyškoleni nebo poučeni.
-* Nepoužívejte nevhodné žebříky, například poškozené, rozbité, zdeformované, nebo dočasné žebříky.
-* Nepoužívejte žebřík, který nesplňuje požadavky na nosnost.
-* Při výstupu k&nbsp;provádění elektrických prací používejte dřevěné nebo sklolaminátové žebříky.
-* Rovný žebřík musí být postaven v&nbsp;úhlu 60° až 70°.
-* Neházejte předměty z&nbsp;výšky při práci na žebříku.
-* Doporučujeme určit osobu, která bude dohlížet na práci na žebříku.
-* Při používání žebříku u&nbsp;vchodu do průchodu zamkněte dveře.
+* Do not use ladders if you are not well-trained or instructed.
+* Do not use unqualified ladders, including but not limited to damaged, broken, deformed, or temporary ladders.
+* Do not use a ladder that does not meet the load-bearing requirements.
+* Use wooden or fiberglass ladders when you climb up for electrical operations.
+* A straight ladder must be set at a gradient of 60° to 70°.
+* Do not throw objects from heights when operating on a ladder.
+* We recommend that you designate a person to monitor when operating on a ladder.
+* Lock the door when using a ladder at the entrance of the passageway.
 
-### **Bezpečnost při vrtání**
+### **Drilling Safety**
 
-* Nevrtejte otvory do zařízení.
-* Při vrtání děr noste ochranné brýle a&nbsp;ochranné rukavice.
-* Neumisťujte zařízení v&nbsp;blízkosti míst vrtání, aby nedošlo k&nbsp;vniknutí třísek do zařízení.
-* Po vrtání neprodleně odstraňte veškeré nečistoty.
+* Do not drill holes on the equipment.
+* Wear safety goggles and protective gloves when drilling holes.
+* Do not place the equipment near drilling positions to prevent debris from falling into the equipment.
+* Clean up any debris promptly after drilling.

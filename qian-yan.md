@@ -1,18 +1,18 @@
-# Předmluva
+# Preface
 
-### **Přehled**
+### **Overview**
 
-Tento dokument popisuje především představení produktu, síťové připojení a&nbsp;údržbu systému Sigen Energy Gateway pro řadu C\&I (dále jen Gateway).
+This document mainly describes the product introduction, networking, and system maintenance of the Sigen Energy Gateway for the C\&I series (hereinafter referred to as the Gateway).
 
-### **Určeno pro**
+### **Intended Audience**
 
-Tento dokument je určen pro:
+This document is intended for:
 
-* Odborně školené a&nbsp;kvalifikované instalační pracovníky.
-* Pracovníky technické podpory.
+* Professionally trained and qualified installers.
+* Technical support engineers.
 
-### **Definice symbolů**
+### **Definitions of Signs**
 
-V&nbsp;dokumentu mohou být použity následující symboly k&nbsp;označení bezpečnostních opatření nebo klíčových informací. Před instalací a&nbsp;provozem zařízení se seznamte se symboly a&nbsp;jejich významy.
+The following signs may be used in the document to indicate safety precautions or key information. Before installation and operation of the equipment, familiarize yourself with signs and their definitions.
 
-<table><thead><tr><th width="190">Symbol</th><th>Definice</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/danger.png" alt=""></td><td>Nebezpeč&iacute;. Upozorňuje na bezprostředně nebezpečnou situaci, kter&aacute;, pokud se j&iacute; nevyhnete, povede ke smrti nebo v&aacute;žn&eacute;mu zraněn&iacute;.</td></tr><tr><td><img src=".gitbook/assets/warning (1).png" alt=""></td><td>Varov&aacute;n&iacute;. Upozorňuje na potenci&aacute;lně nebezpečnou situaci, kter&aacute;, pokud se j&iacute; nevyhnete, povede k&nbsp;v&aacute;žn&eacute;mu zraněn&iacute; osoby nebo po&scaron;kozen&iacute; majetku.</td></tr><tr><td><img src=".gitbook/assets/caution (1).png" alt=""></td><td>Upozorněn&iacute;. Znač&iacute; potenci&aacute;lně nebezpečnou situaci, kter&aacute;, pokud se j&iacute; nevyhnete, povede k&nbsp;po&scaron;kozen&iacute; majetku.</td></tr><tr><td><img src=".gitbook/assets/tips.png" alt=""></td><td>Znač&iacute; důležit&eacute; nebo kl&iacute;čov&eacute; informace a&nbsp;poskytuje tipy pro obsluhu.</td></tr></tbody></table>
+<table><thead><tr><th width="190">Sign</th><th>Definition</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/danger.png" alt=""></td><td>Danger. Indicates an imminently hazardous situation which, if not avoided, will result in death or serious personal injury.</td></tr><tr><td><img src=".gitbook/assets/warning (1).png" alt=""></td><td>Warning. Indicates a potentially hazardous situation which, if not avoided, will result in serious personal injury or property damage.</td></tr><tr><td><img src=".gitbook/assets/caution (1).png" alt=""></td><td>Caution. Indicates a potentially hazardous situation which, if not avoided, will result in property damage.</td></tr><tr><td><img src=".gitbook/assets/tips.png" alt=""></td><td>Indicates important or key information and provides operation tips.</td></tr></tbody></table>

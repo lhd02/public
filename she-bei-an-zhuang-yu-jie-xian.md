@@ -1,4 +1,4 @@
-# Instalace a&nbsp;připojení zařízení
+# Equipment Installation and Connection
 
-* Instalaci a&nbsp;připojení zařízení smí provádět pouze instalační pracovník certifikovaný společností Sigenergy Technology. Pro více informací o&nbsp;postupu instalace si přečtěte průvodce instalací příslušného modelu zařízení Gateway.
-* Součásti a&nbsp;příslušenství dodávané v&nbsp;balení jsou majetkem kupujícího a&nbsp;musí být uchovávány v&nbsp;bezpečí.
+* Equipment installation and connection must only be completed by the installer certified by the Company. For more information on the installation procedure, please refer to the Installation Guide of the respective Gateway mode.
+* Parts and accessories supplied with the packing box are the property of the purchaser and must be kept safe.

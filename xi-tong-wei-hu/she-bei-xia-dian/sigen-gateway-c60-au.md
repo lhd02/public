@@ -4,11 +4,11 @@
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-<mark style="color:orange;">Zařízení Gateway by mělo být odpojeno v&nbsp;následujícím pořadí:</mark>
+<mark style="color:orange;">The Gateway should be disconnected in the following order:</mark>
 
-1. <mark style="color:orange;">Vypněte miniaturní jistič QF6 (připojený k&nbsp;zálohovaným spotřebičům).</mark>
-2. <mark style="color:orange;">Vypněte miniaturní jistič QF2 (připojený k&nbsp;inteligentním spotřebičům&nbsp;/ generátoru).</mark>
-3. <mark style="color:orange;">Po vypnutí všech měničů přes telefon vypněte miniaturní jistič QF3 (připojený k&nbsp;měniči 1).</mark>
-4. <mark style="color:orange;">Vypněte miniaturní jistič QF4 nebo QF5 (připojený k&nbsp;měniči 2).</mark>
-5. <mark style="color:orange;">Vypněte miniaturní jistič QF1 (připojený k&nbsp;energetické síti).</mark>
-6. <mark style="color:orange;">Vypněte miniaturní jistič (připojený k&nbsp;zařízení přepěťové ochrany) QF7.</mark>
+1. <mark style="color:orange;">Turn off the miniature circuit breaker QF6 (connecting to Backup loads).</mark>
+2. <mark style="color:orange;">Turn off the miniature circuit breaker QF2 (connecting to Smart loads/Generator).</mark>
+3. <mark style="color:orange;">After shutting down all the inverters on the phone, turn off the miniature circuit breaker QF3 (connecting to the inverter 1).</mark>
+4. <mark style="color:orange;">Turn off the miniature circuit breaker QF4 or QF5 (connecting to the inverter 2).</mark>
+5. <mark style="color:orange;">Turn off the miniature circuit breaker QF1 (connecting to the Power grid).</mark>
+6. <mark style="color:orange;">Turn off the miniature circuit breaker (connecting to the Surge Protection Device) QF7.</mark>

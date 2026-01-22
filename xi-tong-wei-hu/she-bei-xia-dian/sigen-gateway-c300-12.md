@@ -4,15 +4,15 @@
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-<mark style="color:orange;">Zařízení Gateway by mělo být odpojeno v&nbsp;následujícím pořadí:</mark>
+<mark style="color:orange;">The Gateway should be disconnected in the following order:</mark>
 
-1. <mark style="color:orange;">Vypněte rámový jistič QA3 (připojený k&nbsp;zálohovanému spotřebiči).</mark>
-2. <mark style="color:orange;">Vypněte rámový jistič QA2 (připojený k&nbsp;naftovému generátoru&nbsp;/ inteligentnímu spotřebiči).</mark>
-3. <mark style="color:orange;">Po vypnutí měničů přes telefon vypněte jističe (připojené k&nbsp;měničům).</mark>
-* <mark style="color:orange;">C600: vypněte 2QF1~2QF30 (miniaturní jistič)</mark>
-* <mark style="color:orange;">C1200: vypněte 2QF1~2QF50 (miniaturní jistič)</mark>
-* <mark style="color:orange;">C600-B: vypněte 2QF1~2QF10 (jistič v&nbsp;lisované skříňce)</mark>
-* <mark style="color:orange;">C1200-B: vypněte 2QF1~2QF20 (jistič v&nbsp;lisované skříňce)</mark>
-4. <mark style="color:orange;">Vypněte rámový jistič (připojený k&nbsp;energetické síti) QA1.</mark>
-5. <mark style="color:orange;">Vypněte přepínač přepěťového ochranného zařízení 1QF2, 1QF4 a&nbsp;1QF6.</mark>
-6. <mark style="color:orange;">Vypněte sekundární řídicí spínač desky plošných spojů 1QF1, 1QF3, 1QF5, vypněte sekundární řídicí spínač rámových jističů 1QF7, 1QF8, 1QF9, 1QF10.</mark>
+1. <mark style="color:orange;">Turn off the frame circuit breaker QA3 (connecting to a backup load).</mark>
+2. <mark style="color:orange;">Turn off the frame circuit breaker QA2 (connecting to a diesel generator/Smart Load).</mark>
+3. <mark style="color:orange;">After shutting down the inverters on the phone, turn off breakers (connecting to inverters).</mark>
+   * <mark style="color:orange;">C600 : turn off 2QF1\~2QF30 (miniature circuit breaker)</mark>
+   * <mark style="color:orange;">C1200: turn off 2QF1\~2QF50 (miniature circuit breaker)</mark>
+   * <mark style="color:orange;">C600-B: turn off 2QF1\~2QF10 (molded case circuit breaker)</mark>
+   * <mark style="color:orange;">C1200-B: turn off 2QF1\~2QF20 (molded case circuit breaker)</mark>
+4. <mark style="color:orange;">Turn off the frame circuit breaker (connecting to the power grid) QA1.</mark>
+5. <mark style="color:orange;">Turn off the surge protective device switch 1QF2, 1QF4 and 1QF6.</mark>
+6. <mark style="color:orange;">Turn off the PCB board secondary control switch 1QF1, 1QF3, 1QF5, turn off the secondary control switch of frame circuit breaker 1QF7, 1QF8, 1QF9, 1QF10.</mark>
