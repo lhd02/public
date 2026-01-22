@@ -1,11 +1,17 @@
 # Sigen Gateway Home SP 12K
 
-### Mitat
+### Dimensions
 
-<figure><img src="../../.gitbook/assets/SGA1OV00014-en.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1IN00263-EN (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### Sisänäkymä
+### Bottom View
 
-<figure><img src="../../.gitbook/assets/SGA1OV00016.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SGA1OV00072 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="82" align="center">S/N</th><th>Tarra</th><th width="531">Kuvaus</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>-</td><td>Kuparinen maadoituskisko</td></tr><tr><td align="center"><strong>2</strong></td><td>QS1</td><td>Ohituskytkin</td></tr><tr><td align="center"><strong>3</strong></td><td>KM1</td><td>Verkkokontaktori</td></tr><tr><td align="center"><strong>4</strong></td><td>X1</td><td>Liitin (liitetty ei-varavoimakuormaan)</td></tr><tr><td align="center"><strong>5</strong></td><td>-</td><td>FE-liitin</td></tr><tr><td align="center"><strong>6</strong></td><td>QF1</td><td>Pienkatkaisija (liitetty s&auml;hk&ouml;verkkoon)</td></tr><tr><td align="center"><strong>7</strong></td><td>QF2</td><td>Pienkatkaisija (liitetty yksivaiheiseen invertteriin, jonka tehoalue on 8,0&ndash;12,0 kW)</td></tr><tr><td align="center"><strong>8</strong></td><td>QF3</td><td>Pienkatkaisija (liitetty kotitalouskuormaan)</td></tr><tr><td align="center"><strong>9</strong></td><td>QF4</td><td>Pienkatkaisija (liitetty yksivaiheiseen invertteriin, jonka tehoalue on 3,0&ndash;6,0 kW)</td></tr><tr><td align="center"><strong>10</strong></td><td>-</td><td>Liitin (liitetty toiminnalliseen maadoituskaapeliin)</td></tr></tbody></table>
+<table><thead><tr><th width="146">S/N</th><th>Name</th></tr></thead><tbody><tr><td>1</td><td>Wire-in port of communication</td></tr><tr><td>2</td><td>Wire-in port of power grid</td></tr><tr><td>3</td><td>Wire-in port of non-backup load</td></tr><tr><td>4</td><td>Wire-in port of inverter 1</td></tr><tr><td>5</td><td>Wire-in port of inverter 2</td></tr><tr><td>6</td><td>Wire-in port of backup household load</td></tr></tbody></table>
+
+### Interior View
+
+<figure><img src="../../.gitbook/assets/SGA1OV00065-home sp 12k.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="73.7999267578125">No.</th><th width="89.800048828125">Label</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>QS1</td><td>Bypass switch</td></tr><tr><td>2</td><td>QF2</td><td>Miniature circuit breaker (connecting to a single-phase inverter 1, 8.0-12.0 kW)</td></tr><tr><td>3</td><td>QF3</td><td>Miniature circuit breaker (connecting to a single-phase inverter 2, 6.0 kW)</td></tr><tr><td>4</td><td>QF4</td><td>Miniature circuit breaker (connecting to a backup household load)</td></tr><tr><td>5</td><td><div><figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure></div></td><td>Grounding copper busbar</td></tr><tr><td>6</td><td>X1</td><td>Terminal (connecting to a non-backup load)</td></tr><tr><td>7</td><td>QF1</td><td>Miniature circuit breaker (connecting to the power grid)</td></tr><tr><td>8</td><td>GND</td><td>Terminal (connecting to functional ground cable)</td></tr><tr><td>9</td><td>–</td><td>Communication terminal (connecting to FE, DI, DO communication cable)</td></tr></tbody></table>

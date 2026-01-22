@@ -1,3 +1,3 @@
-# Tekniset parametrit
+# Technical Parameter
 
-Katso lisätietoja laiteparametreista tuotteen tietolehdistä.
+For details about equipment parameters, see the Data sheets of the product.

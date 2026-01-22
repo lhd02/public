@@ -1,15 +1,15 @@
-# Yleiskatsaus
+# Overview
 
-### **Esittely**
+### **Introduction**
 
-Tämän asiakirjan tarkoituksena on antaa yleiskatsaus Sigen Gateway Home -sarjasta, mukaan lukien tuotekuvaus, verkkoon yhdistäminen, järjestelmän käyttö, huolto jne.
+The focus of this document is to provide an overview of the Sigen Gateway Home Series, including product description, networking, system operation, maintenance, etc.
 
-### **Kohderyhmä**
+### **Readers**
 
-Tämä asiakirja on tarkoitettu tuotteen käyttäjille ja ammattilaisille.
+This document is suitable for product users and professionals.
 
-### **Merkkien kuvaukset**
+### **Sign Definition**
 
-Asiakirjassa voidaan käyttää seuraavia merkkejä osoittamaan turvatoimia tai tärkeitä tietoja. Tutustu merkkeihin ja niiden määritelmiin ennen laitteen asennusta, käyttöä ja huoltoa.
+The following signs may be used in the document to indicate security precautions or key information. Before installation, operation, and maintenance of the equipment, familiarize yourself with signs and their definitions.
 
-<table><thead><tr><th width="170">Merkit</th><th width="580">M&auml;&auml;ritelm&auml;</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/danger (1).png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&amp;字体&amp;图标\图标\图标-危险-en.png" data-size="original"></td><td>Vaara. Noudattamatta j&auml;tt&auml;minen aiheuttaa kuoleman tai vakavan henkil&ouml;vahingon.</td></tr><tr><td><img src=".gitbook/assets/warning (1).png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&amp;字体&amp;图标\图标\图标-警告-en.png" data-size="original"></td><td>Varoitus. Noudattamatta j&auml;tt&auml;minen johtaa vakaviin henkil&ouml;vahinkoihin tai omaisuusvahinkoihin.</td></tr><tr><td><img src=".gitbook/assets/caution (1).png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&amp;字体&amp;图标\图标\图标-注意-en.png" data-size="original"></td><td>Huomio. Noudattamatta j&auml;tt&auml;minen aiheuttaa omaisuusvahinkoja.</td></tr><tr><td><img src=".gitbook/assets/tips (1).png" alt="" data-size="original"></td><td>T&auml;rke&auml;t tai keskeiset tiedot ja lis&auml;ohjeet k&auml;yt&ouml;st&auml;.</td></tr></tbody></table>
+<table><thead><tr><th width="170">Signs</th><th width="580">Definition</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/danger (1).png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-危险-en.png" data-size="original"></td><td>Danger. Failure to comply will result in death or serious personal injury.</td></tr><tr><td><img src=".gitbook/assets/warning (1).png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-警告-en.png" data-size="original"></td><td>Warning. Failure to comply will result in serious personal injury or property damage.</td></tr><tr><td><img src=".gitbook/assets/caution (1).png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-注意-en.png" data-size="original"></td><td>Caution. Failure to comply will result in property damage.</td></tr><tr><td><img src=".gitbook/assets/tips (1).png" alt="" data-size="original"></td><td>Important or key information, and supplementary operation tips.</td></tr></tbody></table>

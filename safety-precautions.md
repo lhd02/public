@@ -1,44 +1,44 @@
-# Turvallisuusvarotoimet
+# Safety Precautions
 
-### **Perustiedot**
+### **Basic Information**
 
-Ennen laitteen asennusta, käyttöä ja huoltoa tutustu tähän asiakirjaan.
+Before installation, operation, and maintenance of the equipment, familiarize yourself with this document.
 
-Tässä käyttöoppaassa "<mark style="color:red;">Vaara</mark>", "<mark style="color:orange;">Varoitus</mark>", "<mark style="color:purple;">Huomio</mark>" ovat vain täydentäviä ohjeita kaikkiin varotoimiin.
+The "<mark style="color:red;">Danger</mark> ", "<mark style="color:orange;">Warning</mark>", "<mark style="color:purple;">Caution</mark>" items described in this manual are only supplementary to all precautions.
 
-Yhtiö ei ole vastuussa laitevaurioista tai omaisuuden menetyksistä, jotka johtuvat seuraavista syistä:
+The Company shall not be liable for equipment damage or property loss caused by the following reasons:
 
-* Kansallisen tai alueellisen energiaviranomaisen hyväksynnän saamatta jääminen.
-* Asennusympäristö ei täytä kansainvälisiä, kansallisia tai alueellisia standardeja.
-* Paikallisten lakien, määräysten ja normien noudattamatta jättäminen laitetta käytettäessä ja huollettaessa.
-* Asennusalue ei täytä laitteen vaatimuksia.
-* Tämän asiakirjan ohjeiden ja varotoimenpiteiden noudattamatta jättäminen.
-* Laitteiden tai työkalujen varoitusmerkintöjen noudattamatta jättäminen.
-* Huolimaton, virheellinen käyttö tai tahallinen vahingoittaminen.
-* Vaurio, joka johtuu sinun tai kolmannen osapuolen suorittamasta laitteiden vaihtamisesta.
-* Laitteet ovat vaurioituneet, koska sinä tai kolmas osapuoli ei ole käyttänyt paketin mukana toimitettuja lisävarusteita ja on hankkinut ja käyttää asennukseen samaa teknistä määritystä olevia lisävarusteita.
-* Laitteiden vauriot, jotka johtuvat virheellisestä käytöstä, kuten laitteiden purkamisesta, osien vaihtamisesta tai ohjelmistokoodin muuttamisesta ilman lupaa.
-* Laitevauriot, jotka johtuvat ylivoimaisesta esteestä (kuten sota, maanjäristys, tulipalo, myrsky, salama, tulva, roskavirta jne.).
-* Vahingot, jotka johtuvat siitä, että luonnollinen ympäristö tai ulkoiset tehoparametrit eivät täytä laitteen standardivaatimuksia todellisessa käytössä (esimerkiksi laitteen todellinen käyttölämpötila on liian korkea tai liian matala).
-* Laite on varastettu.
-* Laite on vaurioitunut takuuajan jälkeen.
+* Failure to obtain approval from the national, regional power authority.
+* The installation environment does not meet international, national, or regional standards.
+* Failure to observe local laws, regulations and norms when operating and maintaining equipment.
+* The installation area does not meet the requirements of the equipment.
+* Failure to follow the instructions and precautions in this document.
+* Failure to follow the warning labels on equipment or tools.
+* Negligent, improper operation or intentional damage.
+* Damage caused by your or a third party's replacement of our equipment.
+* The equipment is damaged by your or the third-party company to use the accessories supplied with the package and purchase and use the accessories of the same specifications for installation.
+* Equipment damage caused by improper operations such as disassembling, replacing, or modifying the software code without authorization.
+* Equipment damage caused by force majeure (such as war, earthquake, fire, storm, lightning, flood, debris flow, etc.).
+* Damage caused by the failure of the natural environment or external power parameters to meet the standard requirements of the equipment during actual operation (for example, the actual operating temperature of the equipment is too high or too low).
+* The equipment was stolen.
+* The equipment is damaged after the warranty period.
 
-### **Turvallisuusvaatimukset**
+### **Safety Requirements**
 
 {% include ".gitbook/includes/danger.md" %}
 
-* <mark style="color:red;">Älä altista laitetta korkeille lämpötiloille tai lämmönlähteille (kuten suoralle auringonpaisteelle, tulelle tai lämmittimille) pitkään.</mark>
-* <mark style="color:red;">Älä puhdista laitetta vedellä, alkoholilla tai öljyllä äläkä liota sitä niissä, jotta vältät virtavuodon.</mark>
-* <mark style="color:red;">Älä kolhi tai iske laitetta. Onnettomuuden sattuessa lopeta laitteen käyttö välittömästi ja ota yhteyttä asentajaasi tai myyntiedustajaasi. Laitteisto on tarkastettava ja arvioitava ammattilaisten toimesta ennen käytön jatkamista.</mark>
+* <mark style="color:red;">Do not expose the device to high temperature or heat sources (such as sunlight, fire, or heaters) around the equipment for a long time.</mark>
+* <mark style="color:red;">Do not clean or soak the equipment with water, alcohol, or oil to avoid power leakage.</mark>
+* <mark style="color:red;">Do not knock or impact the equipment. In case of an accident, please stop using the equipment immediately and contact your installer or sales representative. The equipment shall be inspected and evaluated by professional personnel before continuing to use.</mark>
 
 {% include ".gitbook/includes/caution.md" %}
 
-* <mark style="color:purple;">Älä käytä laitetta, jos siinä on vikoja. Jos laitteessa ilmenee poikkeavuuksia (esimerkiksi ulkonäön vääristymä), ota yhteyttä asentajaan tai myyntiedustajaan. Et saa purkaa sitä itse.</mark>
-* <mark style="color:purple;">Kotikäyttöön suositellaan hiilidioksidisammuttimia ja ABC-kuivajauhesammuttimia. Laitetta ei saa purkaa itse.</mark>
+* <mark style="color:purple;">Do not use the equipment with faults. If the equipment appears abnormal (for example, appearance distortion), contact your installer or sales representative. You are prohibited from disassembling it on their own.</mark>
+* <mark style="color:purple;">Carbon dioxide fire extinguishers and ABC dry powder fire extinguishers are recommended at home. It is prohibited to disassemble the equipment by yourself.</mark>
 
-### **Älä käytä laitetta seuraavissa tilanteissa:**
+### **Do not use the equipment in the following situations:**
 
-* Kun laite on kytketty julkisiin infrastruktuurijärjestelmiin.
-* Kun se on kytketty ensihoitolaitteisiin.
-* Kun se on kytketty hisseihin ja muihin ohjauslaitteisiin.
-* Muissa kriittisissä järjestelmissä.
+* When connected to public infrastructure systems.
+* When connected to emergency medical equipment.
+* When connected to elevators and other control devices.
+* Any other critical systems.

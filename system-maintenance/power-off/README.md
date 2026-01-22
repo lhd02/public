@@ -1,6 +1,6 @@
-# Virran katkaisu
+# Power Off
 
 {% include "../../.gitbook/includes/warning.md" %}
 
-* <mark style="color:orange;">Kun laitteessa on vika, kytke välittömästi kaikki laitteessa olevat katkaisijat pois päältä ja tarkista sekä poista vika ennen kuin kytket laitteen uudelleen päälle.</mark>
-* <mark style="color:orange;">Älä käytä katkaisijoita, jotka eivät ole yhteydessä vastaavaan laitteeseen, kun laite on sammutettuna. Pidä nämä katkaisijat irtikytkettyinä.</mark>
+* <mark style="color:orange;">When the equipment is faulty, disconnect all circuit breakers in the equipment immediately, and check and remove the fault before turning it on again.</mark>
+* <mark style="color:orange;">Do not operate circuit breakers that are not connected to corresponding equipment when the equipment is powered off. Keep these circuit breakers disconnected.</mark>

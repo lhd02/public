@@ -1,18 +1,18 @@
-# Hätätilanteet
+# Emergency Treatment
 
-### Hätätoimenpiteet tulipalotilanteessa
-
-{% include "../.gitbook/includes/danger.md" %}
-
-* <mark style="color:red;">Sammuta laite tai katkaise virta päävirtakytkimestä, kun se on turvallista.</mark>
-* <mark style="color:red;">Jos palo on pieni, sammuta se hiilidioksidilla tai ABC-jauhesammuttimella.</mark>
-* <mark style="color:red;">Jos palo leviää, evakuoi rakennus tai laitealue välittömästi ja soita palokunnalle. Palavaan rakennukseen ei saa palata.</mark>
-* <mark style="color:red;">Älä koske korkeajännitteisiä komponentteja palon sammuttamisen aikana, muuten se voi johtaa sähköiskuvaaraan.</mark>
-* <mark style="color:red;">Älä käytä laitetta palon sammuttamisen jälkeen, vaan ota yhteyttä asentajaan tai myyntiedustajaan.</mark>
-
-### Hätätoimenpiteet tulvatilanteessa
+### Emergency Measures for Fire
 
 {% include "../.gitbook/includes/danger.md" %}
 
-* <mark style="color:red;">Sammuta laite tai katkaise virta päävirtakytkimestä, kun se on turvallista.</mark>
-* <mark style="color:red;">Älä käytä laitetta tulvaveden laskun jälkeen. Ota yhteyttä asentajaan tai myyntiedustajaan.</mark>
+* <mark style="color:red;">Please shut down the equipment or disconnect the main power switch when it is safe.</mark>
+* <mark style="color:red;">If the fire is small, use carbon dioxide or ABC dry powder extinguisher to extinguish the fire.</mark>
+* <mark style="color:red;">If the fire is spreading, evacuate the building or equipment area immediately and call the fire department. Re-entry to burning buildings is prohibited.</mark>
+* <mark style="color:red;">Do not contact with high voltage components during fire fighting, otherwise it may lead to the risk of electric shock.</mark>
+* <mark style="color:red;">After extinguishing the fire, do not use the equipment, please contact your installer or sales representative.</mark>
+
+### Emergency Measures for Flood
+
+{% include "../.gitbook/includes/danger.md" %}
+
+* <mark style="color:red;">Please shut down the equipment or disconnect the main power switch when it is safe.</mark>
+* <mark style="color:red;">After the flood waters recede, do not use the equipment. Please contact your installer or sales representative.</mark>
