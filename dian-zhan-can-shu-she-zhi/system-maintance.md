@@ -2,6 +2,10 @@
 
 ## Sytem Power-on/Power-off
 
+{% include "../.gitbook/includes/tips.md" %}
+
+<mark style="color:blue;">This function is not supported in the Japan region.</mark>
+
 <figure><img src="../.gitbook/assets/MSA1CM00071-批量开关机.png" alt=""><figcaption></figcaption></figure>
 
 ## On-grid/Off-grid switchover
