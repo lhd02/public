@@ -2,11 +2,10 @@
 
 ## Support
 
-Please feel free to reach out to us in the App if you have any questions about the use of the product.
-
 {% include ".gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">To check the question history, click "History" in the upper right corner of the "Support" page.</mark>
+* <mark style="color:blue;">To check the question history, click "History" in the upper right corner of the "Support" page.</mark>
+* <mark style="color:blue;">Please feel free to reach out to us in the App if you have any questions about the use of the product.</mark>
 
 <figure><img src=".gitbook/assets/MSA1CM00070-support.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -42,11 +41,11 @@ You can light up the LED of SigenStor in the App and locate the SigenStor.
 
 You can re-configure the network settings using a device hotspot in "Setting" → "Network Configure" or "Device Configure."
 
-<figure><img src=".gitbook/assets/MSA1CM00071-重新连接网络.png" alt="" width="297"><figcaption></figcaption></figure>
-
 {% include "https://app.gitbook.com/s/UbDQx7leHsTF4wXWth5S/~/reusable/v0ROOBJtnqMcvClWk0gj/" %}
 
 <mark style="color:blue;">If you still cannot connect to the device hotspot, disconnect the AC circuit breaker and DC switch of the device, wait for the device indicator to go out, then turn on the AC circuit breaker and DC switch again, wait for 30 seconds, and then rescan the device QR code and configure the network according to the above steps.</mark>
+
+<figure><img src=".gitbook/assets/MSA1CM00071-重新连接网络.png" alt="" width="297"><figcaption></figcaption></figure>
 
 ## How do I check whether the device is connected in parallel with other ones?
 
