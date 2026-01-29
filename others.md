@@ -10,7 +10,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-This parameter is only visible to installer administrators/company accounts.
+<mark style="color:blue;">This parameter is only visible to installer administrators/company accounts.</mark>
 
 <figure><img src=".gitbook/assets/MSA1CM00081-团队信息.png" alt="" width="298"><figcaption></figcaption></figure>
 
