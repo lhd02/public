@@ -24,7 +24,7 @@ After Sigencloud has set up logical integration, the upper right corner will sho
 
 ### Station Page Custom Settings
 
-* Click <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">，and you can create a customized power station page layout as needed.
+* Click <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">，and you can create a customized power station page layout as needed.
 * Click "Restore Defaults" to restore the default settings.
 
 ### Station Page House Style Modification
