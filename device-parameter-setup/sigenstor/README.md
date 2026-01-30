@@ -1,18 +1,18 @@
-# SigenStor/SigenStack Unit Settings
+# SigenStor/SigenStack Unit设置
 
-## History maintenance
+## **历史信息维护**
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">When you click "Reset,” the device restarts.</mark>
-* <mark style="color:blue;">When you click "Erase All Content,” performance data within 5 minutes, alarms, and hourly/daily/monthly/yearly generating capacity, operation logs, device information will be cleared. Please exercise caution with this action.</mark>
+* <mark style="color:blue;">执行“Reset”，设备将重启。</mark>
+* <mark style="color:blue;">执行“Erase All Content”，可清除5min性能数据、告警、小时&日&月&年发电量、运行日志、设备信息等，请谨慎操作。</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00082-单设备重置.png" alt=""><figcaption></figcaption></figure>
 
-## Power on/off
+## **设备开关机**
 
 {% include "../../.gitbook/includes/tips.md" %}
 
-<mark style="color:blue;">This function is not supported in the Japan region.</mark>
+<mark style="color:blue;">日本地区不支持此功能。</mark>
 
 <figure><img src="../../.gitbook/assets/MSA1CM00082-单设备开关机.png" alt=""><figcaption></figcaption></figure>

@@ -1,13 +1,17 @@
-# Gateway Settings
+# Gateway设置
 
-## External Gateway
+## 外置Gateway
 
 <figure><img src="../.gitbook/assets/MSA1CM00078-Gateway.png" alt=""><figcaption></figcaption></figure>
 
-## Internal Gateway
+## 内置Gateway
 
-<figure><img src="../.gitbook/assets/MSA1CM00111-Gateway设置.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MSA1CM00111-Gateway设置 (1).png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="76" align="center">No.</th><th width="151">Parameter name</th><th>Description</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>Grid recovery delay time</td><td>Specifies the delay time after which the device starts after the grid resumes normal operation.</td></tr><tr><td align="center"><strong>2</strong></td><td>Neutral Grounding</td><td>When it is set to <img src="../.gitbook/assets/1 (2).png" alt="" data-size="line">, neutral grounding is enabled when the device operates in off-grid mode.</td></tr><tr><td align="center"><strong>3</strong></td><td>Off-Grid Enablement</td><td>When it is set to <img src="../.gitbook/assets/2 (4).png" alt="" data-size="line">, the device can operate in off-grid mode<sup>[1]</sup>.</td></tr><tr><td align="center"><strong>4</strong></td><td>Generator off-grid mode</td><td>When it is set to <img src="../.gitbook/assets/3 (3).png" alt="" data-size="line">, a diesel generator is supported to be connected from the grid port.</td></tr></tbody></table>
+### Operating Settings
 
-Note \[1]: You can also go to "Gateway" → "Go-Off-Grid" to switch between on-grid and off-grid.
+<table><thead><tr><th width="76" align="center">序号</th><th width="236">参数名称</th><th>说明</th></tr></thead><tbody><tr><td align="center">1</td><td>Grid recovery delay time</td><td>设置电网故障恢复后，设备启动时间。</td></tr><tr><td align="center">2</td><td>Neutral Grounding</td><td>当设置为 <img src="../.gitbook/assets/1 (3).png" alt="" data-size="line">时，设备离网运行时，中性点使能。</td></tr></tbody></table>
+
+注【1】：并离网切换，还可通过点击“Gateway”→“Go-Off-Grid” 实现。
+
+<table><thead><tr><th width="76" align="center">序号</th><th width="236">参数名称</th><th>说明</th></tr></thead><tbody><tr><td align="center">1</td><td>Off-Grid Enable</td><td>当设置为 <img src="../.gitbook/assets/2 (5).png" alt="" data-size="line">时，设备可离网运行<sup>【1】</sup>。</td></tr><tr><td align="center">2</td><td>Generator via grid port</td><td>当设置为 <img src="../.gitbook/assets/3 (4).png" alt="" data-size="line">时，支持柴油发电机从电网口接入。</td></tr></tbody></table>

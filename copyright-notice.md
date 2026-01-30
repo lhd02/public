@@ -1,13 +1,13 @@
-# Copyright Notice
+# 版权声明
 
-Copyright© 2025 Sigenergy Technology Co., Ltd. All Rights Reserved.
+版权所有©思格新能源(上海)股份有限公司2025。保留一切权利
 
-Description in this document may contain predictive statements regarding financial and operating results, product portfolio, new technology, configurations and features of product. Several factors could cause difference between actual results and those expressed or implied in the predictive statements. Therefore, description in this document is provided for reference purpose only and constitutes neither an offer nor an acceptance. Sigenergy Technology Co., Ltd. may change the information at any time without notice.
+本文档中所提供的信息仅供参考。文档以合法渠道获得这些信息，尽可能保证可靠、准确和完整，但并不保证文档所述信息的准确性和完整性。本文档不能作为道义的、责任的和法律的依据或者凭证，思格新能源(上海)股份有限公司将随时补充、更正和修订有关信息，但不保证及时发布。对于本文档所提供信息、所导致的任何直接的或者间接的影响或后果不承担任何责任。本文档版权仅为思格新能源(上海)股份有限公司所有，未经书面许可，任何机构和个人不得以任何形式翻版、复制和发布。思格新能源(上海)股份有限公司对于本免责申明条款具有修改权和最终解释权。
 
-<img src=".gitbook/assets/1 (6).png" alt="" data-size="line"> and other Sigenergy trademarks are owned by Sigenergy Technology Co., Ltd.
+<img src=".gitbook/assets/1 (7).png" alt="" data-size="line"> 和其他思格能源商标均归思格新能源(上海)股份有限公司所有。
 
-All trademarks and registered trademarks in this document belong to their owners.
+本文档中涉及的其他品牌商标或注册商标均归其所有者拥有。
 
-<div align="left"><img src=".gitbook/assets/2 (6).png" alt="" width="340"></div>
+<div align="left"><img src=".gitbook/assets/2 (7).png" alt="" width="340"></div>
 
-## [**www.sigenergy.com**](https://www.sigenergy.com)
+## **网址：**[**www.sigenergy.com**](https://www.sigenergy.com)

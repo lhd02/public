@@ -1,18 +1,18 @@
-# Overview
+# 前言
 
-### **Introduction**
+### **概述**
 
-This document describes how to use the mySigen App.
+本文档主要介绍mySigen App使用方法。
 
-### **Readers**
+### **读者对象**
 
-This document is intended for:
+本文档适用于：
 
-* Professionally trained and qualified installers
-* Technical support engineer
+* 受过专业培训、拥有资质的安装人员
+* 技术支持工程师
 
-### **Sign Definition**
+### **图标定义**
 
-The following signs may be used in the document to indicate security precautions or key information. Before installation and operation, familiarize yourself with signs and their definitions.
+文档中可能用到以下图标以提示安全注意事项或关键信息。在安装与操作之前，请熟悉并掌握图标及对应定义。
 
-<table><thead><tr><th width="180">Signs</th><th width="575">Definition</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/danger.png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-危险-en.png" data-size="original"></td><td>Danger. Failure to comply will result in death or serious personal injury.</td></tr><tr><td><img src=".gitbook/assets/warning.png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-警告-en.png"></td><td>Warning. Failure to comply will result in serious personal injury or property damage.</td></tr><tr><td><img src=".gitbook/assets/caution.png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-注意-en.png"></td><td>Caution. Failure to comply will result in property damage.</td></tr><tr><td><img src=".gitbook/assets/tips.png" alt=""></td><td>Important or key information, and supplementary operation tips.</td></tr></tbody></table>
+<table><thead><tr><th width="180">图标</th><th width="575">定义</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/danger.png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-危险-en.png" data-size="original"></td><td>表示危险。若未遵守，将导致死亡或严重的人身伤害。</td></tr><tr><td><img src=".gitbook/assets/warning.png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-警告-en.png"></td><td>表示警告。若未遵守，将严重的人身伤害或财产损失。</td></tr><tr><td><img src=".gitbook/assets/caution.png" alt="E:\项目管理\王芳\23-WF3114\23-WF3114-3\翻译规范&#x26;字体&#x26;图标\图标\图标-注意-en.png"></td><td>表示注意。若未遵守，将导致财产损失。</td></tr><tr><td><img src=".gitbook/assets/tips.png" alt=""></td><td>提示重点或关键信息，补充操作小窍门等。</td></tr></tbody></table>

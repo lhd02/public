@@ -1,6 +1,6 @@
-# Add Sigen/Third-Party Device
+# 思格/第三方厂家设备添加
 
 {% include "../.gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">If you use our products (excluding Sigen Micro), the system will automatically recognize and connect them. You can view device information on the "Device" screen.</mark>
-* <mark style="color:blue;">This section describes how to connect</mark> <mark style="color:blue;">Sigen Micro and</mark> <mark style="color:blue;">third-party device.</mark>
+* <mark style="color:blue;">除Sigen Micro外，若您使用本公司产品，系统将自动识别并接入，您可在“Device”界面查看。</mark>
+* <mark style="color:blue;">本章节主要介绍如何接入Sigen Micro和第三方厂家设备。</mark>
