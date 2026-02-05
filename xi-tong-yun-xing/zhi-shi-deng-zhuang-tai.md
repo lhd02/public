@@ -10,19 +10,13 @@
 
 ![](../.gitbook/assets/SSA1OV00015-zh.png)
 
-<figure><img src="../.gitbook/assets/逆变器黄色灯语-zh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SHA1OV00012-zh黄 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 灯语 2
 
 ![](../.gitbook/assets/SSA1OV00015-zh.png)
 
-<figure><img src="../.gitbook/assets/逆变器蓝色灯语-zh.png" alt=""><figcaption></figcaption></figure>
-
-## 电池指示灯
-
-<figure><img src="../.gitbook/assets/STA1OV00007-zh.png" alt="" width="355"><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/电池灯语-zh (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SHA1OV00012-zh蓝.png" alt=""><figcaption></figcaption></figure>
 
 ## **思格通信棒指示灯**
 
