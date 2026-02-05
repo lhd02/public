@@ -2,6 +2,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
+* <mark style="color:blue;">**设备支持室内和室外安装。安装应符合本节的说明和当地法律法规的要求。**</mark>
 * <mark style="color:blue;">**在安装设备之前，请务必仔细阅读以下安装要求。如果因未按照要求操作而导致设备在运行过程中出现功能异常、损坏，甚至引发人身安全事故，本公司将不承担任何责任。**</mark>
 * <mark style="color:blue;">**实际安装时，安装位置的选定应同时满足当地消防、环保等法规，具体安装位置规划以安装商或EPC（Engineering，Procurement，Construction）为准。**</mark>
 
