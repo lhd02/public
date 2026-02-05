@@ -7,6 +7,3 @@
 ### **CommMod**
 
 <figure><img src="../../.gitbook/assets/SCA1OV00001-en.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-### Sigen Backup Switch
-
