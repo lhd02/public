@@ -2,6 +2,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
+* <mark style="color:blue;">**Sigen Gateway TPLV C30-2, Sigen Gateway C60-2, Sigen Gateway C60 AU，Sigen Gateway (C120-6, TPLV C70-6) 支持室内和室外安装，Sigen Gateway (C180-9, C300-12)，Sigen Gateway (C600, C1200, C600-B, C1200-B)支持室内安装。安装应符合本节的说明和当地法律法规的要求。**</mark>
 * <mark style="color:blue;">**在安装设备之前，请务必仔细阅读以下安装要求。如果因未按照要求操作而导致设备在运行过程中出现功能异常、损坏，甚至引发人身安全事故，本公司将不承担任何责任。**</mark>
 * <mark style="color:blue;">**实际安装时，安装位置的选定应同时满足当地消防、环保等法规和当地低压配电房技术规范，具体安装位置规划以安装商或EPC（Engineering，Procurement，Construction）为准。**</mark>
 
@@ -37,6 +38,8 @@
 * 安装载体内部无水电走线，以免安装设备时钻孔发生危险。
 
 #### Sigen Gateway TPLV C30-2, Sigen Gateway C60-2, Sigen Gateway C60 AU
+
+设备支持室内和室外安装。安装应符合本节的说明和当地法律法规的要求。
 
 <figure><img src=".gitbook/assets/SSA1SF00008-logo+灯-zh.png" alt="" width="563"><figcaption></figcaption></figure>
 
