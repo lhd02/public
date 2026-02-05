@@ -2,7 +2,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
-* <mark style="color:blue;">**The equipment can be installed indoors and outdoors. Install the equipment in strict accordance with installation instructions given in this section and local laws and regulations.**</mark>
+* <mark style="color:blue;">**Sigen Gateway TPLV C30-2, Sigen Gateway C60-2, Sigen Gateway C60 AU, Sigen Gateway (C120-6, TPLV C70-6) can be installed indoors and outdoors, Sigen Gateway (C180-9, C300-12), Sigen Gateway (C600, C1200, C600-B, C1200-B) can be installed indoors only. Install the equipment in strict accordance with installation instructions given in this section and local laws and regulations.**</mark>
 * <mark style="color:blue;">**The warranty applies when the equipment has been installed properly for its intended use and in accordance with the operating instructions.**</mark>
 * <mark style="color:blue;">**During actual installation, the selection of installation location should comply with local firefighting, environmental protection regulations, and other relevant laws. The specific installation location planning should be subject to the installer or engineering, procurement, and construction (EPC) contracts.**</mark>
 
