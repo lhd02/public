@@ -2,6 +2,7 @@
 
 {% include ".gitbook/includes/tips.md" %}
 
+* <mark style="color:blue;">**The equipment can be installed indoors and outdoors. Install the equipment in strict accordance with installation instructions given in this section and local laws and regulations.**</mark>
 * <mark style="color:blue;">**The warranty applies when the equipment has been installed properly for its intended use and in accordance with the operating instructions.**</mark>
 * <mark style="color:blue;">**During actual installation, the selection of installation location should comply with local firefighting, environmental protection regulations, and other relevant laws. The specific installation location planning should be subject to the installer or engineering, procurement, and construction (EPC) contracts.**</mark>
 
